@@ -1,0 +1,5 @@
+speaker_number,vo_overlap,vo_total,total_token_number,overlap,begin,end,file
+2,22,202,539,0.10891089108910891,0,50,SWUT.tsv
+2,48,315,1212,0.1523809523809524,0,100,SWUT.tsv
+2,74,391,1846,0.18925831202046037,0,150,SWUT.tsv
+2,92,425,2226,0.2164705882352941,0,196,SWUT.tsv

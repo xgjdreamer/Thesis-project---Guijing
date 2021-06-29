@@ -1,0 +1,4 @@
+speaker_number,vo_overlap,vo_total,total_token_number,overlap,begin,end,file
+2,18,161,353,0.11180124223602485,0,50,SL9D.tsv
+2,39,269,721,0.1449814126394052,0,100,SL9D.tsv
+2,40,285,787,0.14035087719298245,0,106,SL9D.tsv

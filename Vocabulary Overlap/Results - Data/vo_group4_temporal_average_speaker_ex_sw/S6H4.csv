@@ -1,0 +1,5 @@
+speaker_number,vo_overlap,vo_total,total_token_number,overlap,s1_and_other,s2_and_other,s3_and_other,s4_and_other,begin,end,file
+4,15,147,328,0.025510204081632654,3,6,5,1,0,50,S6H4.tsv
+4,44,197,532,0.05583756345177665,8,17,17,2,0,100,S6H4.tsv
+4,66,244,757,0.06762295081967214,13,25,22,6,0,150,S6H4.tsv
+4,122,308,1134,0.09902597402597403,23,45,43,11,0,197,S6H4.tsv

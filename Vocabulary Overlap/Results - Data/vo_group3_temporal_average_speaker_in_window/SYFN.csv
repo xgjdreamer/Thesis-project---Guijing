@@ -1,0 +1,5 @@
+speaker_number,vo_overlap,vo_total,total_token_number,overlap,s1_and_other,s2_and_other,s3_and_other,begin,end,file
+3,109,147,330,0.2471655328798186,27,42,40,0,50,SYFN.tsv
+3,137,192,455,0.2378472222222222,51,48,38,50,100,SYFN.tsv
+3,121,175,451,0.23047619047619047,39,56,26,100,150,SYFN.tsv
+3,0,15,16,0.0,0,0,0,150,154,SYFN.tsv

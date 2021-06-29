@@ -1,0 +1,5 @@
+speaker_number,vo_overlap,vo_total,total_token_number,overlap,s1_and_other,s2_and_other,s3_and_other,s4_and_other,begin,end,file
+4,87,133,314,0.16353383458646617,26,9,27,25,0,50,SPC7.tsv
+4,76,107,249,0.17757009345794392,27,1,27,21,50,100,SPC7.tsv
+4,73,99,196,0.18434343434343434,20,2,24,27,100,150,SPC7.tsv
+4,10,51,68,0.049019607843137254,5,0,5,0,150,165,SPC7.tsv

@@ -1,0 +1,603 @@
+S0037	do you see this thing have i show you this before
+S0115	no what be it
+S0037	it's a word cloud
+S0115	oh yeah take from your own that's your own corpus that you make be it
+S0037	no it's my thesis
+S0115	oh thesis itself
+S0037	i think i might frame it or something as a little reminder
+S0115	's the biggest then data then dialect then english then uh construction um
+S0037	eg's quite big
+S0115	but they haven't get n grams and if they do there'd probably be in term of like about uh
+S0037	you can you can you can add them i think about do that this be me first go cos you can add in term of and you like you you separate them with what's that symbol call it look like this
+S0115	it'd be better if they do that and then make it like um like a classifier classify it in term of where they be
+S0037	oh yeah
+S0115	merge in the n grams so like you could you could deselect uh like you could say in term of be okay but it's it's not a content be it
+S0037	i should definitely put that in it'll probably come out like massive won't it
+S0115	doesn't like so you've get like that that's uh like obviously it's a name entity d'you what i mean like if you if you semantic tag it
+S0037	and be in there cos yeah yeah but it's interest i mean cos cos be in there but it's obviously from like like the all the reference be in there which i should've probably put in
+S0115	mm so this be the sort of language app that i think people would pay for isn't it
+S0037	well it's free it's online
+S0115	perhaps i mean
+S0037	i put the bible in as well just to see
+S0115	oh that'd be really you know i'd really like to do more work with other corpora like obviously i'm do my own stuff now like
+S0037	so not not just because i'm
+S0115	you could use like you could use like k f n gram to get uh
+S0037	yeah
+S0115	to get your the n gram list oh yeah i be wonder if you could um do another one on the german uh half of the uh half of the corpus uh
+S0037	yeah just send me the file i'll i don't mind do it of course but um
+S0115	cos uh yeah for that thing i be tell you yesterday i i decide that it would be easiest to do a find and replace string thing after berkeley yeah
+S0037	yeah
+S0115	be to change it after directly after berkeley
+S0037	yeah
+S0115	then um uh as soon as as soon as
+S0037	ah your problem with the thing
+S0115	yeah that that mean that i would wanna change it as soon as berkeley split it out like so that so that it doesn't get cause any further problems and like can nip it in the bud as soon as it's out of berkeley so i wonder if string find and replace but
+S0037	yeah well that's alright i mean
+S0115	i need unfortunately i need a list of every single word so that i can swap them
+S0037	well that's okay i can do that uh anyway yeah so
+S0115	it will probably come in handy later actually i imagine that list so this be like basic language model but
+S0037	so but you can add in like um n grams by you know that you know that you know that you know that thing
+S0115	yeah and semantic tag
+S0037	what's that symbol that look like that like that
+S0115	a tilde
+S0037	a tilde but it's not a hat tilde it's just a normal character
+S0115	yeah in mathematics do it mean approximately or something
+S0037	i'm not sure anyway so you can put those in then you can it generate n grams but yeah so i put the bible in just to see what it would be and like it be lord be the biggest one and then unto be the next one
+S0115	i think you've use the king jam one there and not the um you've not use the modern
+S0037	i do use the king jam one well do well no i be just i be just on
+S0115	could use the tyndale one
+S0037	and i put like um sense and uh pride and prejudice in
+S0115	hey i tell you i can tell you two people who'd be quite interest in see that i mean
+S0037	well i'll do one for when they come round and then
+S0115	i know they they cos like these sort of things um really be the the sort of way isn't it
+S0037	well it's just all it's just free it's call wordle online and you just you just well you can either link to a webpage and it'll um tell you all of the things or you can just paste in load of text and i paste my whole thesis in so that's obviously like
+S0115	yeah yeah
+S0037	i'll not say how many thousand word cos that's contentious
+S0115	well how can a number how can a count of anything be contentious
+S0037	well because it be a little bite under what it should've be wasn't it
+S0115	i dunno i mean i i never officially count it myself but i can only
+S0037	oh do you not i count it with
+S0115	um i can only speculate them
+S0037	well it be it be just about on the lower limit but i count like every scrap of text like all of the bibliography and everything
+S0115	yeah
+S0037	that be a bite naughty so it be a little bite underweight but you know it's what you write not how much you write isn't it
+S0115	it's what you yeah of course because because you could waffle on and on in a really big you know flabby sort of text
+S0037	yeah
+S0115	which uh you know sometimes i suppose some of the constructions you use be maybe a bite more verbose than they could've be but uh
+S0037	well you you try to root those out
+S0115	but i the key thing with your one be get the svo order and get the verb early
+S0037	yeah i know i'm like a non native speaker
+S0115	get the finite gotta get that finite verb early so that the person know what the tense be early and they know what the
+S0037	i know
+S0115	i dunno i suppose in german they they always put the finite verb it can can end up right at the very end
+S0037	yeah maybe i'm more german than you think no i mean maybe maybe it's like
+S0115	yeah
+S0037	maybe i just i dunno where i get that write style from
+S0115	no because you don't speak like that that's the thing
+S0037	i know
+S0115	i think you're just try to overwork try to over academicize your work maybe should be more perhaps more informal
+S0037	well that's maybe i know maybe i shoulda be i never master it like i never get the hang of that
+S0115	on the subject of phds someone have to resign didn't they
+S0037	who
+S0115	uh the president of uh hungary
+S0037	president of hungary
+S0115	he's have to resign
+S0037	why
+S0115	because his phd thesis be fake
+S0037	be it like gillian o'keith's gillian mckeith's
+S0115	i don't think hers be fake i think it just wasn't a thesis i think she just pay money and get a phd
+S0037	well she buy it didn't she she look at turds anyway you don't need a thesis to do that
+S0115	uh on the contrary i'm sure there's lot of interest things you can do with that but um
+S0115	no someone else be accuse of it uh alan greenspan be accuse of it
+S0037	aha
+S0115	but no no he no he be accuse of get other people to write it for him that's a different like
+S0037	and actually not magrahi um
+S0115	in fact you've get this be be what we be on about like with the text like it's it's a bite controversial like i i do it do it mean plagiarize as in simply cut and paste or do it mean that you pay and buy someone else's after they'd do it or something
+S0037	excuse me yeah well it have to be your own work doesn't it in fact you sign a declaration
+S0115	uh his name be pal schmidt
+S0037	ohh you sign a declaration a declaration you sign the declaration say like this be all my own work what what be they for
+S0115	yeah i be wonder
+S0037	for the dinner for the sauce
+S0115	like d'you want that or do you want uh um something more spicy
+S0037	uh i dunno what we gonna have pasta pasta
+S0115	yeah
+S0037	um like italian we could have like italian sort of we've get we've get like chives and parsley haven't we that i've plant so
+S0115	that's what that's what my idea be yeah mm yeah so well i'll just uh just do that then
+S0037	i can go and get some but we're not have that for a while though if we're gonna have those pasties i'll not be able to eat like
+S0115	ah well you know i be just sort of get things start and i'll just um
+S0037	ah right no we'll yeah yeah no we'll get it on yeah no that's fine do the kettle do the kettle boil
+S0115	it it do actually um
+S0037	so
+S0115	so so yeah i mean so there's a lot of things you can do phds i mean so they they do tend to uh like check but actually al greenspan's phd like um there's only two copy in the world or something
+S0037	how can that even be the case
+S0115	there's only his copy which he he doesn't want anyone to see and like the the the reviewer's copy
+S0037	the one in the no the university will hold one
+S0115	yeah yeah the university's copy yeah that be those be the only two copy that there be
+S0037	yeah but you can request to see it can't you
+S0115	but um and someone someone from paper or some blog have manage to you know do some research work and get and obtain the other copy
+S0037	yeah
+S0115	uh it be an economics paper like uh maybe bloomberg or something i dunno um they read you know they read it but it's a it's a proper economics phd so
+S0037	yeah
+S0115	it be difficult have a lot of formulas and that's always suspicious it's um you know
+S0037	yeah overly difficult
+S0115	like if you're use extra formulas to try and sort of confuse people but uh
+S0037	yeah
+S0115	i think he greenspan's be uh be be okay it's just that i think he he'd release them all as paper like he he get like but he be do load of other stuff at the like he be work whilst do it
+S0037	yeah
+S0115	he be just he be a bite of a celebrity i think already before it have even come out um but he end up be uh head of the chairman of the
+S0037	mm
+S0115	eral reserve bank thing
+S0037	have you still not eat that chocolate from the other day
+S0115	yeah this be from this be from uh it's from saturday this be innit
+S0037	god i dunno how you can i would've just be i would've eat it straight away i'm can't help meself
+S0115	and friday i've still get friday's in there there's not load but some of it go in saturday's meal
+S0037	d'you know what man if you don't eat that it'll the the chocolate fairies'll get it
+S0115	ah i think i'd like to to do a bite of like uh what do they call it when uh countries be hoard mass of gold and what be it yeah what be must be stockpile of commodities
+S0037	yeah stockpile you you're like panic buy
+S0115	yeah well just just save just refuse to to actually spend eat consume any of the uh commodity
+S0037	oh that's alright it's i shouldn't have buy any more should i if you've still get that
+S0115	it's funny with gold cos you can't really eat it well you can like uh you can have gold leaf yeah but it would take you quite a long time to eat your way through like a whole
+S0037	there be edible gold leaf i saw like a bar
+S0115	the problem with that be that you're sort of destroy the gold aren't you cos like once you've eat it it's not really possible to to to retrieve the
+S0037	but do it come out though it can't just like it can't just hang out in your body
+S0115	your uh your word cloud on this be gonna be good isn't it
+S0037	me what
+S0115	you know the uh
+S0037	on this conversation
+S0115	the yeah if you stick it through there it's gonna come out with like alan greenspan and like uh
+S0037	yeah
+S0115	uh eat gold and retrieve the gold after it's be eat
+S0037	well these be all valid question
+S0115	i i dunno how much gold gold leaf you could get out of uh
+S0037	where's your cup
+S0115	like i wonder how many miles or sort of square metres of gold leaf you can get out of like a one um
+S0037	a bullion one bullion thing
+S0115	yeah
+S0037	no it'll be on the i saw a thing that michel roux junior make where he put like he put like gold leaf on something and it kind of make me feel that i wouldn't wanna eat it that it might jangle on me fill
+S0115	i don't i don't think i'd ever want to eat it i think um i don't wanna know what it taste like but i imagine it taste of metal like hard
+S0037	i don't really like gold anyway like i don't like the like i don't like it aesthetically
+S0115	you mean the like the look of it
+S0037	sorry what be i do i'm try to put this over there um no i mean i don't mind it it's a bite like i dunno i associate it with older people like gold like nanas
+S0115	uh dart dart presenters
+S0037	dart presenters definitely and chavs
+S0037	chavs like gold
+S0115	not use a a class base slur against britain's um britain's uh
+S0037	no i'm just i'm just say what it remind me of i'm not say that all all this do that or uh everyone like that like this load of people like gold obviously i mean
+S0115	yeah
+S0037	i'm just say i don't because i think it remind me of nanas and chavs which be a
+S0115	be be it you who point out the uh that that those those golden um necklaces they have with a clown
+S0037	ah i think we be talk about it the other day
+S0115	yeah that's pretty uh
+S0037	clown
+S0115	and like the idea of get that i guess it come from america i mean
+S0037	they be really big when i be at school i sort of want one in some ways i tell you one that i saw in new york that have like jesus's face on it
+S0115	one what
+S0037	it be i've get the picture still like one of them clown necklaces but it wasn't a clown it be jesus's face
+S0115	that's tremendous
+S0037	with diamantes
+S0115	those be fake diamonds right
+S0037	yeah dimonesque dimonique et cetera
+S0115	dimunique
+S0037	yeah but um i dunno like i really do like jewellery but um it just doesn't agree with me very much
+S0115	yeah no it doesn't with me
+S0037	no don't be silly no i mean like i really like earrings and uh wear really nice earrings like always and in fact do they always have like really nice match outfit with earrings and dangly sparkly ones
+S0115	yeah
+S0037	unusual ones and stuff but they just itch my ear so much they never use to then i stop wear them and now i can't wear them again
+S0115	oh that be
+S0037	bite of a shame
+S0115	kind of even but gold shouldn't you know because it's cos it's um
+S0037	no it's it's not the it's not the material it's the um it's have something in me ear in my ear hole if you know what i mean
+S0115	yeah
+S0037	so yeah there's that and then um i've never like like floppy like you know bracelets and stuff
+S0115	uh oh yeah yeah like um loose loose ones sort of thing
+S0037	i like a bangle but i don't like a i don't like a like a floppy one that much
+S0115	yeah
+S0037	um i do like ring but they're like i do like sort of ones that you buy for a pound and in fact i've get a lot of them sort of ones but they do turn me finger green so i can't wear them for any length of time
+S0115	yeah be that like what what do you reckon that's make of
+S0037	i think it's nickel
+S0115	produce produce some copper sulphate or something
+S0037	or copper probably the quality jeweller that i buy i dunno what it's do but it's uh
+S0115	like cupronickel uh whatever it's call get copper in it yeah produce like copper oxide which be green yeah
+S0037	it do turn them green yeah and like that one that i have on at 's wed d'you know which one i mean it's get like a blue sort of turquoise stone in it it's really big and like cover the whole bite of your finger there d'you know which one i mean
+S0115	i think so
+S0037	it's a bite sort of um bollywood inspire
+S0115	right
+S0037	it um that turn me whole finger green which be lovely
+S0115	yeah that's quite a quite a good buy that actually
+S0037	well
+S0115	it's uh interest how it go from be you know such a you know from one colour to such a different colour
+S0037	yeah but some people do it deliberately like they wear those copper bangles don't they for like rheumatism and stuff
+S0115	to dye to dye the oh oh alright do that actually work then
+S0037	well i don't know it's just one of these like
+S0115	yeah
+S0037	you know things that people do i don't know if it work i haven't get rheumatism or whatever thing they're do it for but apparently like um you can get these ones that you wear for sea sickness
+S0115	yeah
+S0037	but it's not make of copper but it have like pressure point
+S0115	yeah
+S0037	i don't know if they work either though
+S0115	i don't i don't know if you can cure take these out and then put them over there
+S0037	be i in the way be this what you're say
+S0115	no no no no um
+S0037	be it a speech act
+S0115	not at all that wasn't i be like explain that be the the thing where you hear it that's where you hear something that wasn't you overanalyse you know what i mean
+S0037	no no no no i'm not i be only ask
+S0115	your uh pragmatic module be uh
+S0037	ooh the you didn't tell me this have arrive ah you do
+S0115	that's cos it's totally
+S0037	you do
+S0115	utterly
+S0037	it's the the dead one
+S0115	that be saturday we we we talk about that on saturday
+S0037	i think it be the um whatever it's call so i buy some i buy some schneidy um boot's um shampoo and conditioner look can you tell what it's suppose to be
+S0115	ah so you mean it's uh
+S0037	look
+S0115	make um a copy a copy brand sort of thing pro vitamin ah it do look a bite like pantene
+S0037	yeah it's like schmantene
+S0115	but it say uh pro vitamin on it
+S0037	they have all of them they have like ones that look like herbal essences and they've go down the aldi route
+S0115	yeah well you get to cos in this you know in this in this economic climate
+S0037	pardon
+S0115	in this economic climate you know
+S0037	yeah
+S0115	you've get to appeal to the to the the cheapskate and the you know
+S0037	well it's just the same juice inside i don't care what it say in the bottle really
+S0115	the the british poor the poor the the un flash the tight fisted
+S0037	yeah
+S0115	um uh yeah so i read about like a lot of um like german solar solar power computer just in germany
+S0037	solar power why
+S0115	um
+S0037	be them things in the oven do
+S0115	like yeah probably be actually uh quite urgently
+S0037	na they take age to heat through a lot of the time
+S0115	yeah i reckon they're do now
+S0037	well you could just turn that off for now and we can eat these in there
+S0115	uh yeah
+S0037	if you want
+S0115	yeah no problem
+S0037	just close the window for a while
+S0115	oh yeah yeah no that's fine yeah i don't i don't um don't really need it there's your cornish pasty
+S0037	should i bring ah can i have can i have some tomato sauce
+S0115	could eat it on the yeah yeah it's in the fridge
+S0037	um
+S0115	so you don't like eat pasties stand like at a gregg's
+S0037	um if i'm at gregg's but if i'm in me own house with the benefit of sit on the sofa with me cup of tea then i'd rather
+S0115	yeah of yeah
+S0037	but yeah it'll have to be cold pasties from now on anyway
+S0115	could maybe um yeah more people be buy pasties
+S0037	sorry
+S0115	like um maybe more people be actually gonna buy pasties because
+S0037	it would raise the
+S0115	partly panic buy and also like just to raise the awareness of pasties
+S0037	to raise the profile that's what they say isn't it like that um any publicity's good publicity
+S0115	yeah except like bin lade or something
+S0037	d'you wanna come through or shall i just
+S0115	yeah
+S0037	they'll be alright
+S0115	well um i'll leave them on i'll
+S0037	i dunno if i can carry that and that
+S0115	i'll take i'll take that yeah ah no extra
+S0037	come back for it
+S0037	have i leave the remote here y'are i'll do it
+S0115	hold that i'm just get the salt actually
+S0037	i'm sorry
+S0037	i wonder if come dine with me's on
+S0037	oh sorry
+S0115	sorry not scum dine with me
+S0037	no come dine with me
+S0115	i think that's really really loud on the uh record when it it tip over
+S0037	well never mind accident
+S0115	well scum dine with me be like a maximum security prison cook programme
+S0037	that's funny what channel be it normally on or should i put the radio on
+S0115	um think with the number four innit
+S0037	oh it's not on it's not on four yet one fourteen
+S0037	matt
+S0115	yeah yeah
+S0037	what you do
+S0115	just sort out
+S0037	pardon
+S0115	just uh sort out these onions
+S0037	shall i press pause
+S0115	uh no i
+S0037	matt you're not sort out onions
+S0037	you want me to press stop
+S0115	uh no no i'm alright i'll just get oh yeah right uh yeah cos they be they be on quite high anyway so
+S0037	i pick up that bite of pasty to have a bite of and like every single bite of fill fell out the middle
+S0115	oh right you know i mean that that always happen when you eat pasties
+S0037	it's quite peppery it's nice so what d'you think we should do at easter
+S0115	well um yeah we need to go to a trip somewhere um so i think
+S0037	yeah
+S0115	ely but also um uh mm could try and get to the um go to london or um on the coast
+S0037	oh that might be nice although i watch the weather forecast this morning it say it's gonna snow on wednesday
+S0115	what here
+S0037	here
+S0115	it's gonna snow in in april
+S0037	apparently
+S0115	mm
+S0037	apparently it's snow in scotland at the moment
+S0115	oh it's not exactly what i
+S0037	no have envisage maybe it won't
+S0115	but the the yeah i mean it can it can really fast i guess it just depend like if the wind sort of change and you get like arctic wind come through
+S0037	yeah mm well the wind's suppose to be blow from the northeast like tomorrow like norway
+S0115	yeah well well beyond that uh yeah yeah like the top of norway yeah lapland
+S0037	no i know yeah
+S0115	yeah cos we're it seem very precarious like i think a few a few of the wrong you know butterfly flap their wing or whatever
+S0037	yeah
+S0115	and yeah the total like you know polar like cyclone'll just
+S0037	yeah
+S0115	appear on top of the country and we'll be like plunge to minus fifteen
+S0037	well it be suppose to be like storm and hailstones and stuff well it's not brilliant
+S0115	so um need to do more technology to improve uh the ability to control the weather
+S0037	well in japan though have they not do a in china actually when they have the olympics on do they not do a thing where they they manage to stop it from rain like avoid the rain i'll have to look it up
+S0115	um yeah i think there there be things that can sort of
+S0037	they put like hot air like they blast hot air up in the air or cold air or
+S0115	basically just a big fan that just blow blow the cloud away
+S0037	yeah they do something
+S0115	i guess you could dehumidify
+S0037	or do they make it rain so that it wouldn't be as pollution y
+S0115	yeah that that may well have be um
+S0037	can't remember something about that
+S0115	basically just blow the bad um air away
+S0037	yeah
+S0115	replace it with good air
+S0037	be you look forward to the olympics this time
+S0115	um it's not something that i think about a lot like
+S0037	be it not
+S0115	in in you know my dream or anything but uh
+S0037	it's not in my dream either but
+S0115	i think it could be entertain and
+S0037	yeah i sort of like anything that go on like that for a while you know like six nations or the world cup or euro twenty twelve
+S0115	oh yeah i've gotta get involve in it and like um
+S0037	yeah
+S0115	sort of extensively like like watch spend time watch the and just leave it on in the background and stuff
+S0037	yeah
+S0115	sort of not watch anything else just that that that could happen
+S0037	well the good thing about it be here be that like it'll be at the right time like in china they be always like in the middle of the like really early in the morning and stuff
+S0115	oh yeah yeah i mean obviously with take place in that part of the world over there i mean it's pretty much out of synch obviously here we're we're gonna get everything right exactly when when we want it
+S0037	yeah yeah
+S0115	i mean if you're ask which meridian uh be the best for the most people um
+S0037	well
+S0115	which which um you know
+S0037	line of latitude whatever it be
+S0115	which line of um
+S0037	latitude or longitude
+S0115	uh
+S0037	i never remember the difference
+S0115	um the which which latitude be the best um
+S0037	time zone
+S0115	cos that's it which latitude have the most people on it which time zone have the most people
+S0037	well let's think so gmt go through
+S0115	um probably the one that go all the way down africa
+S0037	that's gmt isn't it go through like
+S0115	oh um
+S0037	go through lisbon doesn't it and dublin
+S0115	no i think it come out over the the round part of africa i mean you know western
+S0037	doesn't it oh do it maybe european central time then
+S0115	or hold on cos like where cos where's spain it's sort of above morocco isn't it and the gibraltar part strait of gibraltar
+S0037	yeah
+S0115	then if you're go down through through spain then kinda cut through the round you know maghreb west african bite
+S0037	yeah yeah
+S0115	if you wanna get it right down like you know from from yeah from like from like like egypt down through sudan through everything
+S0037	but then america i mean so be there more people there or be there more people in the line that go right down the middle of america to like through south america
+S0115	into south africa
+S0037	obviously it can't go through the middle of america but south america but you know what i mean
+S0115	uh you could you could try and get which one like with a one with a lot of cities on them
+S0037	yeah
+S0115	um
+S0037	it list don't it like on my phone when you wanna change the time zone it list like the options
+S0115	you could try and get mexico city and like perhaps mexico and california
+S0037	yeah
+S0115	and but then then you've get you've not get much like below mexico sort of
+S0037	in fact i think ours do
+S0115	isn't that i dunno if that go down to to like if you get buenos air and like in term of time zone i mean
+S0037	i don't know not sure
+S0115	um
+S0037	be that pasty nice
+S0115	there be a lot of people in like you get west coast and east coast of america probably get a lot of people in there but also
+S0037	yeah
+S0115	but perhaps china and india could could um produce bangladesh or indonesia or something like that those sort of perhaps they would in term of time zone perhaps
+S0037	have more
+S0115	um perhaps you could get like a
+S0037	dunno i bet that someone's already work that out
+S0115	oh yeah they will have yeah they they will uh
+S0037	definitely
+S0115	um well so it's like a pub quiz question innit
+S0037	yeah it be like a pub quiz question
+S0115	which uh like you gotta take um you gotta use guestimates haven't you
+S0037	no the pub quiz question would be like which line of latitude contain no it'd be like which be the second largest capital city in term of gdp locate along the line of latitude with the most people in that would be the sort of one where you need to know like twelve facts to get to the one where you get a point
+S0115	yeah some of it's a bite crazy i mean but a lot a lot of it's interest like um you know greg be say about like how much do france make on cheese a year
+S0037	yeah
+S0115	that's great what a what a question uh
+S0037	it's silly have you hear much from
+S0115	um uh uh not not recently he's very busy so um with his uh with his baby so
+S0037	yeah bambinos
+S0115	um you know um
+S0037	hm not fond of that name
+S0115	you've get haven't you
+S0037	yeah
+S0115	and i think there may be more s than you than you realize like sorry
+S0037	mm don't like it
+S0115	um
+S0037	but i'm glad that 's change his name ideas
+S0115	oh yeah so he's move from to to hasn't he
+S0037	yeah
+S0115	so
+S0037	but he's gonna call her i think
+S0115	fair enough girl you know that song
+S0037	what
+S0115	be that that song
+S0037	what song
+S0115	be it the one that go uh that song that that film or um with uh
+S0037	i need a bite more
+S0115	ah uh walk down the street so fancy free you know it just go
+S0037	what
+S0115	hey there girl or something walk down the street so fancy free it's it's one of the uh redgraves isn't it
+S0037	i don't know
+S0115	ah it's a sixties it's a sixties film
+S0037	oh
+S0115	i don't know if it's or like something else um
+S0037	have to look it up
+S0115	be those onions alright
+S0037	i think they'll be fine yeah the heat's not on them be it
+S0115	yeah that's why i be check it um
+S0037	be it like number one though
+S0115	it's it's okay yeah um uh they're that so yeah that's uh um
+S0037	hey that aloes come look really good doesn't it look better than it be before i knock him spectacularly
+S0115	yeah um uh i i think he be dead i nearly throw him away actually um
+S0037	i need to change the soil though you say it be a bite stinky
+S0115	it's mouldy it's like um
+S0037	smell have it have you be overwatering them though
+S0115	well they it just the soil just have that in it and would be it once it's once it's get into the soil then it would be there
+S0037	yeah
+S0115	so it'd still have that smell uh even if it's even if it's really dry or even if it's not it'd still have that smell um
+S0037	yeah
+S0115	same thing yeah so if we go to the coast where would we where would we go
+S0037	i dunno cos i've never i've never be round here before like we would have to would we have to stay over though how far
+S0115	might have to stay a night
+S0037	dunno if i've get dunno if we can really afford it this month really spend you know as usual money at the start of the month
+S0115	well um but we've get you know a bite more come in uh
+S0037	yeah we have actually that's true
+S0115	um hopefully hopefully in the near future
+S0037	well maybe we should although they'll they'll jack the price up won't they with it be easter that's the annoy thing
+S0115	well i dunno i mean depend where you
+S0037	where be you think of
+S0115	oh uh this be just pure sort of you know
+S0037	conjecture yeah
+S0115	um i mean and we we would
+S0037	shall i put this light on actually
+S0115	i mean you want somewhere like uh in the uh in or you know
+S0037	yeah yeah but i've never ever be
+S0115	that's all the more reason to go then isn't it
+S0037	well it be i think you're right
+S0115	um cos you've get i mean i think there probably would be some quite cheap place around there i mean they'd be just be glad to have anyone uh you know some of them have be put put the price down because of the put the price down to just try and desperately get more um
+S0037	could go to norwich could go to
+S0115	or norwich
+S0037	yeah
+S0115	well i think norwich sound like the the less rougher of those two
+S0037	well i've never be
+S0115	um
+S0037	liz go to uni there i'll ask her
+S0115	cos it's south be it
+S0037	uae norwich
+S0115	norwich yeah and that that's interest uh brighton brighton's expensive
+S0037	it's get like a a cathedral hasn't it brighton be expensive
+S0115	um you actually have be there haven't you
+S0037	i have be there
+S0115	and i only very very briefly have be there and um but london as well i mean
+S0037	yeah
+S0115	that's probably the one of the most obvious ones uh could go to like a part of london that we haven't see
+S0037	yeah
+S0115	as much like um uh chelsea like chelsea uh
+S0037	yeah but it's it's it's as expensive as here i mean
+S0115	like um
+S0037	maybe
+S0115	uh some of the part of london
+S0037	i dunno we go there not long ago though i'd rather go like somewhere different i think
+S0115	well yeah i be just think that there's a lot of different bits of london to see aren't there
+S0037	no no i know yeah but we might go i say like to chris we might go and see him at some point so
+S0115	yeah well uh good to um maximize the london experience
+S0037	yeah i still forget that like it's just down the road
+S0115	i mean part of the yeah part of the problem with go to um some of the place be the expensive fare but i think london place you can get to on the bus like london be likely to be reasonably price
+S0037	yeah well maybe i'll have a look at the bus and see if there's any others
+S0115	so it's only um what be it fifteen pound to london
+S0037	mm depend when you go less i think there be only twelve last time
+S0115	um the bus that's really that's really pleasantly cheap but uh
+S0037	return
+S0115	um
+S0037	yeah six pound
+S0115	the train the train would be uh one would be uh so if there be the bus be go to other towns then we might've be able to consider that as well and sort of possibly the day trip
+S0037	i'm sure they do we could go to oxford maybe i know the go there from just along there
+S0115	yeah we can that'd be that wouldn't take too long would it or
+S0037	don't think so an hour and a half or something
+S0115	no it's okay i mean london's shorter isn't it but
+S0037	well only cos we get off early
+S0115	be be you a bite sick of you a bite bore of london
+S0037	oh i don't i think you can't be bore of london can you really
+S0115	yeah cos i be just think you know like he who tire of london tire of life or whatever
+S0037	exactly
+S0115	i mean so i be think
+S0037	no but i just mean it's good to go i've see a bite of london it'd be good to see a bite of oxford or
+S0115	yeah
+S0037	or i dunno yeah do sound rough doesn't it maybe we should go there
+S0115	no it just sound it sound rough but i don't know if it be
+S0037	what be them place by the sea call like
+S0115	it's near that's in isn't it uh and and
+S0037	should see where the train the train go oh sound like my sort of place
+S0115	it's get a sea life centre
+S0037	excellent i have a dream about i be in a
+S0115	be the one just next to that
+S0037	be it a port
+S0115	yeah it's a it's a ferry thing i i get it wrong in a pub quiz question
+S0037	oh do you
+S0115	painfully uh i mix it up with uh
+S0037	yeah
+S0115	i think that be no that be it be that so i've mix them up again
+S0037	yeah
+S0115	i've forget
+S0037	don't know
+S0115	where's be that in as well
+S0037	well it's along that way because that the sign's like when we come if we come off the m6 to come here the sign say like a hundred million miles or however far it be probably not a hundred million
+S0037	that sound like a little bite of a long estimate
+S0115	hm then the other be uh there's another one that i i be mix up as well uh you know folkestone that's in that's in i mean that's in kent isn't it
+S0037	ah yeah no folkestone's that's be that not where you get on the channel tunnel
+S0115	it's it's it's kent yeah it's um near by near near dover i think
+S0037	yeah
+S0115	um and it's and it might be near hastings i'm not sure
+S0037	yeah
+S0115	you know probably uh so so be in then be it
+S0037	i'm not sure as i say i really this be the furthest like i've be if you know what i mean
+S0115	um
+S0037	but i do like the east
+S0115	so uh d'you wanna do you want me to turn off them onions and
+S0037	no we'll go through there if you want yeah ah could do with a nice biscuit to dip in me tea maybe
+S0115	yeah i've actually get a nice biscuit here
+S0037	i've get a nice nice biscuit
+S0115	i guess you're suppose to say neece
+S0037	that's what me nana always say but then you say nice so i think it be nice cos it's usually me who say things wrong
+S0115	nice yeah so nice good place to go bite expensive
+S0037	that would be nice nice waay that'd be neece
+S0115	oh that's actually your accent isn't it
+S0037	no i'd never say that
+S0115	it's actually uh how people speak in the uh the you know do you know about these before
+S0037	nice be gonna come out as a collocate of nice isn't it
+S0115	what
+S0037	we say them in a row too many time
+S0115	oh right yeah um when you have it's for transcribe uh
+S0037	capital n for nice though isn't it
+S0115	yeah
+S0037	ooh they're not gonna last very long maybe they be
+S0115	they're sorta shortbread aren't they
+S0037	very sweet nice though yeah i like that card
+S0115	um oh you yeah your one from uh that's which have um you know an incredible amount of stuff pile into one card
+S0037	good isn't it
+S0115	i don't think you could seriously have drive with a dog like with its lead like that
+S0037	he's get a little his lead's attach yeah
+S0115	but when it fall off with the momentum like the dog's gonna get drag behind it like
+S0037	mm poor little thing what kind of a dog's that then
+S0115	well i think it they i think they're just i think they're just um well look like a type of terrier doesn't it
+S0037	no it's get curly it's get curly hair
+S0115	yes um don't some terriers have that
+S0037	do they be it not like a poodle y thing
+S0115	um i don't think
+S0037	i like its i like its hairdo whatever kind of dog it be
+S0115	i'm not i'm not sure actually you'd have to we'd have to get the smartphone can i check that one
+S0037	ooh i'm sorry actually it might
+S0115	no i reckon they set that photo up just for the
+S0037	well of course they do
+S0115	excuse me
+S0037	it's not some picture of someone like drive down the street be it
+S0115	well it might've be they might've find it in an archive
+S0037	duh
+S0115	it might've be in an archive somewhere
+S0037	i very much doubt it
+S0115	they uh spend age uh
+S0037	so what's go in
+S0115	we could look look look for clue in uh in the photo to see it's a modern thing
+S0037	i don't know
+S0115	this be like carrot go in there
+S0037	oh right
+S0115	although
+S0037	yeah no carrot's okay i normally
+S0115	it seem to just go with like a sort of holy trinity thing
+S0037	yeah that's fine no put it in yeah that's good
+S0115	um we don't have any celery uh do anything excite happen today
+S0037	mm na not really usual

@@ -1,0 +1,5 @@
+speaker_number,vo_overlap,vo_total,total_token_number,overlap,begin,end,file
+2,67,297,1182,0.2255892255892256,0,50,SNCL.tsv
+2,114,385,1689,0.2961038961038961,0,100,SNCL.tsv
+2,153,466,2404,0.3283261802575107,0,150,SNCL.tsv
+2,165,495,2612,0.3333333333333333,0,174,SNCL.tsv

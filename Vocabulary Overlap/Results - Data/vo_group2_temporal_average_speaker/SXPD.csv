@@ -1,0 +1,4 @@
+speaker_number,vo_overlap,vo_total,total_token_number,overlap,begin,end,file
+2,73,247,871,0.29554655870445345,0,50,SXPD.tsv
+2,119,376,1626,0.31648936170212766,0,100,SXPD.tsv
+2,119,377,1628,0.3156498673740053,0,101,SXPD.tsv

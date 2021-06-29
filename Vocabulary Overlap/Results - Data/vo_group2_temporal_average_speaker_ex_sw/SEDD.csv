@@ -1,0 +1,5 @@
+speaker_number,vo_overlap,vo_total,total_token_number,overlap,begin,end,file
+2,23,181,705,0.1270718232044199,0,50,SEDD.tsv
+2,43,276,1279,0.15579710144927536,0,100,SEDD.tsv
+2,67,353,2033,0.18980169971671387,0,150,SEDD.tsv
+2,82,403,2508,0.20347394540942929,0,184,SEDD.tsv

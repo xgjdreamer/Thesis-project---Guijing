@@ -1,0 +1,5 @@
+speaker_number,vo_overlap,vo_total,total_token_number,overlap,begin,end,file
+2,12,187,510,0.06417112299465241,0,50,SXCU.tsv
+2,42,303,1212,0.13861386138613863,0,100,SXCU.tsv
+2,62,378,1779,0.164021164021164,0,150,SXCU.tsv
+2,82,422,2101,0.1943127962085308,0,193,SXCU.tsv
