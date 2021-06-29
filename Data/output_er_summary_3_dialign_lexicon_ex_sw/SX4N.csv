@@ -1,0 +1,320 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+go,1,37,"[0, 37, 38, 40, 50, 96, 104, 114, 143, 145, 151, 181, 204, 206, 212, 230, 235, 236, 238, 240, 251, 274, 312, 313, 334]",SX4N.tsv
+last night,2,108,"[2, 108]",SX4N.tsv
+last,1,328,"[2, 328]",SX4N.tsv
+some very,2,6,"[5, 6]",SX4N.tsv
+posh grow up,3,8,"[5, 7, 8]",SX4N.tsv
+grow up,2,11,"[5, 7, 8, 11, 121, 279, 286]",SX4N.tsv
+posh,1,16,"[8, 16, 61]",SX4N.tsv
+school,1,21,"[18, 21, 40, 143, 145, 147, 155]",SX4N.tsv
+bite,1,20,"[5, 20, 206, 214, 230]",SX4N.tsv
+to me,2,104,"[20, 104, 214]",SX4N.tsv
+a bite,2,230,"[20, 214, 230]",SX4N.tsv
+get,1,22,"[21, 22, 42, 50, 52, 53, 61, 64, 68, 69, 84, 126, 139, 143, 145, 147, 149, 156, 184, 185, 190, 191, 192, 200, 206, 216, 263, 265, 274, 275, 278, 285, 289, 290, 294, 321, 322, 323, 325, 337]",SX4N.tsv
+do you,2,338,"[22, 56, 224, 338]",SX4N.tsv
+princess,1,29,"[23, 29, 31, 32]",SX4N.tsv
+peach,1,29,"[25, 29, 31]",SX4N.tsv
+a dream,2,34,"[3, 34]",SX4N.tsv
+dream,1,34,"[3, 14, 34, 54, 110, 113, 143, 195, 196, 197, 228, 230, 256, 257, 299]",SX4N.tsv
+she have,2,34,"[19, 34]",SX4N.tsv
+pool,1,43,"[42, 43, 45]",SX4N.tsv
+at the,2,96,"[43, 96, 259, 261]",SX4N.tsv
+rescue,1,52,"[51, 52]",SX4N.tsv
+so she,2,188,"[51, 188]",SX4N.tsv
+that dream,2,54,"[14, 54]",SX4N.tsv
+well,1,54,"[15, 19, 32, 54, 135, 164, 196, 204, 274, 289, 309, 325, 332, 335]",SX4N.tsv
+like,1,56,"[17, 21, 52, 56, 63, 65, 67, 73, 121, 129, 131, 139, 141, 145, 157, 159, 170, 202, 208, 212, 219, 228, 240, 242, 278, 321]",SX4N.tsv
+lemonade,1,56,"[55, 56, 60]",SX4N.tsv
+mean,1,86,"[60, 86, 202]",SX4N.tsv
+be the,2,74,"[23, 52, 74, 328]",SX4N.tsv
+the rid,2,80,"[74, 80]",SX4N.tsv
+have numchucks in,3,79,"[78, 79]",SX4N.tsv
+numchucks,1,80,"[79, 80, 82, 84]",SX4N.tsv
+appear,1,89,"[86, 88, 89, 90, 92, 93]",SX4N.tsv
+cloud,1,91,"[86, 88, 90, 91, 92, 160]",SX4N.tsv
+on the,2,107,"[40, 52, 84, 106, 107, 108, 221]",SX4N.tsv
+bed,1,107,"[96, 102, 106, 107]",SX4N.tsv
+on the bed,3,107,"[106, 107, 108]",SX4N.tsv
+really,1,111,"[40, 111, 121, 202, 206, 235, 247]",SX4N.tsv
+love,1,278,"[116, 118, 278, 319]",SX4N.tsv
+yeah,1,124,"[9, 30, 40, 44, 80, 112, 123, 124, 137, 151, 161, 174, 178, 192, 197, 203, 216, 229, 267, 279, 280, 284, 293, 310, 311, 324, 338, 340]",SX4N.tsv
+i'm,1,126,"[33, 40, 126, 202, 274, 301, 332, 337]",SX4N.tsv
+fine,1,136,"[40, 136]",SX4N.tsv
+people,1,156,"[11, 16, 17, 21, 61, 88, 90, 94, 131, 143, 155, 156, 208, 212, 240, 308]",SX4N.tsv
+be it,2,175,"[159, 175, 202, 204, 261]",SX4N.tsv
+all the,2,177,"[71, 177, 206, 278]",SX4N.tsv
+time,1,177,"[141, 177, 213, 282, 283]",SX4N.tsv
+night,1,184,"[2, 108, 184, 185, 192]",SX4N.tsv
+she get a moustache,4,190,"[184, 185, 190, 192]",SX4N.tsv
+get a,2,275,"[185, 190, 192, 275, 289, 290, 294, 321]",SX4N.tsv
+that be,2,192,"[27, 94, 155, 191, 192]",SX4N.tsv
+why she get a moustache,5,192,"[190, 192]",SX4N.tsv
+think,1,194,"[40, 75, 194, 197, 213, 256, 275, 308, 309, 311, 316]",SX4N.tsv
+mind,1,293,"[196, 293]",SX4N.tsv
+egg,1,209,"[208, 209, 210, 213, 216, 217, 220, 222, 225]",SX4N.tsv
+scooby,1,214,"[213, 214, 218, 219, 220, 226]",SX4N.tsv
+it do,2,214,"[202, 214, 317]",SX4N.tsv
+keep,1,224,"[19, 224]",SX4N.tsv
+say,1,224,"[40, 61, 104, 213, 216, 224, 225, 279, 295, 330, 332, 337]",SX4N.tsv
+loop,1,241,"[238, 241]",SX4N.tsv
+kind of,2,248,"[59, 106, 117, 139, 143, 248]",SX4N.tsv
+in a,2,248,"[157, 230, 248, 321]",SX4N.tsv
+dive,1,248,"[230, 248]",SX4N.tsv
+two,1,256,"[11, 131, 256, 304]",SX4N.tsv
+i think,2,75,"[40, 75, 213, 256, 275]",SX4N.tsv
+think you,2,311,"[213, 256, 311]",SX4N.tsv
+with you,2,261,"[104, 261]",SX4N.tsv
+oh what,2,261,"[201, 261]",SX4N.tsv
+kitten,1,261,"[260, 261, 275, 278, 279, 288, 289]",SX4N.tsv
+new,1,266,"[73, 266, 285]",SX4N.tsv
+house,1,266,"[204, 266, 285, 332]",SX4N.tsv
+excite,1,330,"[269, 298, 330]",SX4N.tsv
+cos,1,274,"[5, 85, 104, 157, 172, 226, 235, 238, 274, 285, 301, 304, 312, 319, 327, 330]",SX4N.tsv
+one,1,121,"[11, 21, 40, 48, 78, 84, 121, 131, 145, 149, 151, 204, 212, 263, 265, 274]",SX4N.tsv
+go to,2,274,"[38, 96, 143, 145, 204, 274]",SX4N.tsv
+get one,2,274,"[84, 263, 265, 274]",SX4N.tsv
+never,1,274,"[135, 274, 312]",SX4N.tsv
+cos i,2,274,"[226, 235, 274]",SX4N.tsv
+in ten days' time,4,283,"[282, 283]",SX4N.tsv
+get to,2,285,"[21, 42, 139, 285, 337]",SX4N.tsv
+want,1,288,"[32, 40, 212, 235, 288, 327]",SX4N.tsv
+a kitten,2,288,"[275, 279, 288, 289]",SX4N.tsv
+remember,1,299,"[40, 257, 299]",SX4N.tsv
+my dream,2,299,"[195, 197, 230, 299]",SX4N.tsv
+old,1,302,"[301, 302, 304]",SX4N.tsv
+i be,2,309,"[17, 32, 52, 102, 119, 228, 309, 322, 328]",SX4N.tsv
+in the,2,312,"[5, 78, 100, 216, 230, 312, 313, 319, 330, 332]",SX4N.tsv
+and i,2,312,"[17, 40, 52, 69, 102, 127, 143, 228, 312, 328, 334]",SX4N.tsv
+go in,2,312,"[50, 312]",SX4N.tsv
+drink,1,312,"[59, 135, 312]",SX4N.tsv
+smoke,1,312,"[67, 312]",SX4N.tsv
+i've,1,312,"[84, 312]",SX4N.tsv
+don't go in the sun,5,313,"[312, 313]",SX4N.tsv
+cos er,2,319,"[304, 319]",SX4N.tsv
+i have,2,321,"[3, 108, 113, 143, 321, 328]",SX4N.tsv
+be like,2,321,"[17, 52, 145, 157, 212, 219, 228, 240, 321]",SX4N.tsv
+like you,2,321,"[240, 321]",SX4N.tsv
+be just,2,323,"[59, 323]",SX4N.tsv
+you be,2,323,"[149, 304, 315, 323]",SX4N.tsv
+be just get,3,323,"[322, 323]",SX4N.tsv
+bag,1,323,"[322, 323, 325]",SX4N.tsv
+ten,1,325,"[282, 325]",SX4N.tsv
+be you,2,332,"[325, 332]",SX4N.tsv
+need to,2,337,"[40, 139, 141, 143, 337]",SX4N.tsv
+to be,2,337,"[225, 337]",SX4N.tsv
+need,1,278,"[139, 141, 143, 278, 337]",SX4N.tsv
+say to be,3,337,"[330, 337]",SX4N.tsv
+be you have,3,337,"[332, 337]",SX4N.tsv
+i'm have and,3,337,"[332, 337]",SX4N.tsv
+say to,2,337,"[332, 337]",SX4N.tsv
+i'm have,2,337,"[332, 337]",SX4N.tsv
+sound,1,65,"[20, 65]",SX4N.tsv
+princess peach,2,31,"[29, 31]",SX4N.tsv
+this be,2,157,"[34, 157, 160, 216]",SX4N.tsv
+exhaust,1,113,"[54, 113]",SX4N.tsv
+game,1,121,"[74, 121, 131, 139]",SX4N.tsv
+the game,2,141,"[74, 141]",SX4N.tsv
+go on,2,212,"[114, 212]",SX4N.tsv
+that sound,2,122,"[65, 122]",SX4N.tsv
+ninja warrior,2,122,"[117, 122, 125]",SX4N.tsv
+that's,1,126,"[26, 126, 160, 226, 228, 274, 285, 301, 312]",SX4N.tsv
+get the,2,145,"[126, 145, 149]",SX4N.tsv
+pound,1,150,"[145, 150, 151]",SX4N.tsv
+a million pound,3,150,"[149, 150]",SX4N.tsv
+shush,1,167,"[166, 167]",SX4N.tsv
+there wasn't a moon,4,173,"[172, 173]",SX4N.tsv
+bright,1,175,"[170, 175]",SX4N.tsv
+at night she get a moustache,6,185,"[184, 185]",SX4N.tsv
+weird,1,192,"[143, 155, 157, 191, 192, 212]",SX4N.tsv
+at night,2,192,"[184, 192]",SX4N.tsv
+what you,2,194,"[141, 194]",SX4N.tsv
+at nighttime,2,194,"[170, 194]",SX4N.tsv
+happen,1,195,"[194, 195]",SX4N.tsv
+be that,2,279,"[194, 279, 286]",SX4N.tsv
+dream be create by,4,197,"[196, 197]",SX4N.tsv
+your dream,2,257,"[196, 257]",SX4N.tsv
+quite,1,203,"[191, 203]",SX4N.tsv
+vague,1,203,"[202, 203]",SX4N.tsv
+seem,1,214,"[164, 214]",SX4N.tsv
+can you,2,257,"[254, 257]",SX4N.tsv
+i think you,3,256,"[213, 256]",SX4N.tsv
+not at,2,259,"[155, 259]",SX4N.tsv
+how toasty,2,271,"[270, 271, 272]",SX4N.tsv
+to get,2,274,"[143, 145, 274, 325, 337]",SX4N.tsv
+that's not,2,285,"[26, 285]",SX4N.tsv
+a leopard gecko,3,291,"[290, 291]",SX4N.tsv
+i don't,2,299,"[197, 299, 312, 316]",SX4N.tsv
+person,1,301,"[36, 164, 170, 181, 301]",SX4N.tsv
+well i,2,309,"[15, 309]",SX4N.tsv
+think i,2,309,"[75, 309]",SX4N.tsv
+be quite,2,309,"[191, 309]",SX4N.tsv
+i don't think,3,309,"[197, 309]",SX4N.tsv
+would think,2,309,"[308, 309]",SX4N.tsv
+nineteen,1,309,"[308, 309]",SX4N.tsv
+younger,1,310,"[309, 310, 316]",SX4N.tsv
+the sun,2,312,"[172, 312, 313]",SX4N.tsv
+sun,1,312,"[176, 312, 313]",SX4N.tsv
+make,1,316,"[143, 157, 316]",SX4N.tsv
+i don't think that,4,316,"[197, 316]",SX4N.tsv
+look,1,316,"[204, 208, 213, 316, 321]",SX4N.tsv
+would,1,316,"[308, 316]",SX4N.tsv
+hair,1,316,"[315, 316, 321]",SX4N.tsv
+look like,2,321,"[208, 321]",SX4N.tsv
+take,1,325,"[213, 325]",SX4N.tsv
+you have,2,332,"[131, 332, 337]",SX4N.tsv
+to say,2,337,"[279, 337]",SX4N.tsv
+it be,2,115,"[3, 5, 16, 40, 46, 59, 106, 115, 137, 143, 145, 155, 157, 170, 204, 213, 226, 228, 232, 240, 247, 328, 336]",SX4N.tsv
+i have a,3,143,"[3, 143]",SX4N.tsv
+have a,2,279,"[3, 238, 260, 279]",SX4N.tsv
+the first,2,33,"[5, 33]",SX4N.tsv
+be where,2,143,"[5, 143]",SX4N.tsv
+first,1,143,"[5, 143, 151, 275]",SX4N.tsv
+see them,2,13,"[11, 13]",SX4N.tsv
+could,1,13,"[11, 13, 21, 32, 36, 149, 235]",SX4N.tsv
+and then,2,70,"[11, 17, 21, 35, 37, 40, 42, 48, 50, 52, 55, 70, 71, 96, 102, 104, 106, 139, 141, 143, 147, 164, 170, 181, 182, 184, 191, 202, 204, 212, 213, 215, 216, 228, 238, 240, 249, 279, 328, 332]",SX4N.tsv
+there be some people who,5,143,"[11, 143]",SX4N.tsv
+all and,2,151,"[11, 96, 151]",SX4N.tsv
+there be some,3,155,"[11, 155]",SX4N.tsv
+there be,2,164,"[11, 21, 40, 67, 78, 102, 106, 164, 170, 176, 204, 206, 212, 213]",SX4N.tsv
+some people,2,208,"[11, 208]",SX4N.tsv
+and then there be,4,212,"[11, 212, 213]",SX4N.tsv
+people who be,3,212,"[11, 212]",SX4N.tsv
+and then and,3,212,"[11, 212, 215]",SX4N.tsv
+come,1,213,"[11, 213, 232, 330]",SX4N.tsv
+see,1,213,"[11, 213, 226]",SX4N.tsv
+and they,2,216,"[11, 50, 102, 216]",SX4N.tsv
+be and,2,315,"[11, 84, 102, 315, 328]",SX4N.tsv
+run,1,70,"[17, 19, 67, 69, 70, 71, 141]",SX4N.tsv
+and then we,3,139,"[17, 21, 37, 40, 55, 71, 96, 139, 141, 143, 238, 240]",SX4N.tsv
+and i be like,4,228,"[17, 52, 228]",SX4N.tsv
+and we,2,121,"[19, 21, 121, 139, 206, 235]",SX4N.tsv
+be there,2,212,"[19, 212]",SX4N.tsv
+us,1,213,"[19, 104, 213, 233]",SX4N.tsv
+disney,1,26,"[21, 26]",SX4N.tsv
+and er,2,129,"[21, 37, 129]",SX4N.tsv
+and then we get to the,6,139,"[21, 139]",SX4N.tsv
+we get to,3,139,"[21, 139]",SX4N.tsv
+and stuff,2,139,"[21, 139]",SX4N.tsv
+to the,2,141,"[21, 40, 42, 71, 141, 145, 200]",SX4N.tsv
+there and,2,141,"[21, 106, 141, 170, 206]",SX4N.tsv
+the school,2,143,"[21, 143, 147]",SX4N.tsv
+then they,2,143,"[21, 143]",SX4N.tsv
+to this,2,143,"[21, 143]",SX4N.tsv
+to the school,3,145,"[21, 145]",SX4N.tsv
+be one,2,151,"[21, 78, 151]",SX4N.tsv
+and there be,3,164,"[21, 102, 106, 164, 170, 213]",SX4N.tsv
+there and we,3,206,"[21, 206]",SX4N.tsv
+one of,2,212,"[21, 212]",SX4N.tsv
+she be,2,23,"[15, 23, 40, 52, 188, 330, 332]",SX4N.tsv
+and me,2,127,"[23, 127]",SX4N.tsv
+on a,2,121,"[32, 121, 213, 219]",SX4N.tsv
+then i,2,141,"[32, 52, 106, 141, 191, 204, 213, 228, 328]",SX4N.tsv
+which be,2,143,"[32, 52, 133, 143]",SX4N.tsv
+want to,2,212,"[32, 40, 212, 235, 327]",SX4N.tsv
+turn,1,37,"[24, 37, 240]",SX4N.tsv
+back,1,70,"[37, 52, 61, 64, 70, 200]",SX4N.tsv
+back to,2,200,"[37, 69, 200]",SX4N.tsv
+we go to,3,143,"[38, 143]",SX4N.tsv
+we go,2,206,"[38, 206, 230, 235, 251]",SX4N.tsv
+be she,2,40,"[15, 40]",SX4N.tsv
+then when,2,87,"[40, 42, 87]",SX4N.tsv
+me and,2,127,"[40, 104, 106, 127]",SX4N.tsv
+you can,2,131,"[40, 131]",SX4N.tsv
+you don't need to,4,141,"[40, 141]",SX4N.tsv
+don't need to,3,141,"[40, 141]",SX4N.tsv
+up the,2,143,"[40, 143]",SX4N.tsv
+to go,2,145,"[40, 145]",SX4N.tsv
+there be a,3,176,"[40, 106, 176]",SX4N.tsv
+actually,1,182,"[40, 182, 206, 212, 334]",SX4N.tsv
+but i,2,197,"[40, 197, 275, 322]",SX4N.tsv
+be actually,2,206,"[40, 206]",SX4N.tsv
+then there be,3,212,"[40, 67, 212, 213]",SX4N.tsv
+start,1,212,"[40, 212]",SX4N.tsv
+be a,2,228,"[40, 106, 188, 228]",SX4N.tsv
+we get to the,4,139,"[42, 139]",SX4N.tsv
+when we,2,169,"[42, 169]",SX4N.tsv
+fell into,2,72,"[48, 72]",SX4N.tsv
+one of the,3,212,"[48, 84, 212]",SX4N.tsv
+i go,2,204,"[50, 204, 334]",SX4N.tsv
+be on,2,121,"[52, 121, 219, 221]",SX4N.tsv
+the other,2,131,"[52, 131]",SX4N.tsv
+and then i,3,191,"[52, 106, 191, 204, 228, 328]",SX4N.tsv
+and get,2,68,"[53, 68]",SX4N.tsv
+but then,2,141,"[61, 67, 106, 141, 143, 213]",SX4N.tsv
+let's get back to,4,200,"[61, 64, 200]",SX4N.tsv
+then you,2,70,"[67, 70]",SX4N.tsv
+evil,1,182,"[67, 182]",SX4N.tsv
+run back,2,70,"[69, 70]",SX4N.tsv
+i get,2,191,"[69, 191]",SX4N.tsv
+something,1,117,"[73, 106, 117, 133, 135, 143]",SX4N.tsv
+like a,2,131,"[73, 131]",SX4N.tsv
+forget,1,202,"[73, 202]",SX4N.tsv
+and it,2,204,"[73, 204]",SX4N.tsv
+though,1,125,"[78, 125]",SX4N.tsv
+but there be,3,155,"[78, 155]",SX4N.tsv
+yeah but,2,197,"[80, 197]",SX4N.tsv
+they're,1,85,"[84, 85, 86, 155, 262]",SX4N.tsv
+bomb,1,85,"[84, 85, 184, 186]",SX4N.tsv
+they only,2,87,"[84, 87]",SX4N.tsv
+and they're,2,155,"[84, 155]",SX4N.tsv
+and if,2,155,"[84, 155]",SX4N.tsv
+chuck them,2,184,"[84, 184]",SX4N.tsv
+chuck,1,186,"[84, 186]",SX4N.tsv
+they only do,3,87,"[86, 87, 88]",SX4N.tsv
+do that,2,88,"[36, 87, 88, 141]",SX4N.tsv
+the people,2,212,"[88, 212]",SX4N.tsv
+you know,2,90,"[33, 90, 240, 338]",SX4N.tsv
+know,1,90,"[75, 90, 161, 193, 240, 322, 338]",SX4N.tsv
+people that,2,155,"[90, 94, 155, 208]",SX4N.tsv
+but you,2,94,"[72, 94]",SX4N.tsv
+you don't,2,141,"[94, 141, 313]",SX4N.tsv
+people that be,3,155,"[94, 155]",SX4N.tsv
+place,1,143,"[96, 143, 157]",SX4N.tsv
+be in,2,157,"[100, 157]",SX4N.tsv
+fell,1,102,"[72, 102, 104]",SX4N.tsv
+and i be,3,228,"[102, 228, 328]",SX4N.tsv
+she turn,2,104,"[24, 104]",SX4N.tsv
+so we go,3,206,"[104, 206, 236]",SX4N.tsv
+sleep,1,206,"[104, 206]",SX4N.tsv
+cos she,2,327,"[104, 327]",SX4N.tsv
+i and,2,127,"[106, 127]",SX4N.tsv
+but then i,3,141,"[106, 141, 213]",SX4N.tsv
+and there,2,164,"[106, 164, 213]",SX4N.tsv
+there and there be,4,170,"[106, 170]",SX4N.tsv
+in my,2,195,"[106, 195]",SX4N.tsv
+be all,2,216,"[106, 216]",SX4N.tsv
+and then i wake up and,6,228,"[106, 228]",SX4N.tsv
+i wake,2,228,"[106, 228]",SX4N.tsv
+be this,2,164,"[133, 164, 170, 212, 213]",SX4N.tsv
+yeah i,2,216,"[161, 216]",SX4N.tsv
+happy,1,163,"[143, 155, 163, 165, 199, 201]",SX4N.tsv
+what about,2,201,"[13, 201]",SX4N.tsv
+fred,1,215,"[213, 215]",SX4N.tsv
+daphne and velma,3,216,"[215, 216]",SX4N.tsv
+fred and,2,216,"[215, 216]",SX4N.tsv
+shaggy,1,218,"[213, 218]",SX4N.tsv
+scooby be,2,220,"[219, 220]",SX4N.tsv
+he say,2,225,"[216, 225, 295]",SX4N.tsv
+we be,2,230,"[121, 169, 230, 235, 240]",SX4N.tsv
+also,1,230,"[139, 230]",SX4N.tsv
+and he,2,233,"[216, 233]",SX4N.tsv
+down the,2,235,"[141, 235, 236]",SX4N.tsv
+i didn't,2,235,"[213, 235]",SX4N.tsv
+cos i didn't,3,235,"[226, 235]",SX4N.tsv
+then it,2,238,"[155, 238]",SX4N.tsv
+then we,2,240,"[139, 141, 143, 240]",SX4N.tsv
+so it be,3,240,"[143, 240]",SX4N.tsv
+it be like,3,240,"[145, 157, 240]",SX4N.tsv
+so we,2,240,"[206, 240]",SX4N.tsv
+land,1,242,"[160, 242]",SX4N.tsv
+and it be,3,247,"[204, 247, 336]",SX4N.tsv
+a cat,2,278,"[277, 278, 279]",SX4N.tsv
+cat,1,278,"[277, 278, 279]",SX4N.tsv
+gonna,1,289,"[149, 289]",SX4N.tsv
+we're gonna get,3,289,"[263, 265, 289]",SX4N.tsv
+gonna get a,3,290,"[289, 290]",SX4N.tsv
+yeah so,2,293,"[174, 293]",SX4N.tsv
+you're not,2,302,"[33, 302]",SX4N.tsv
+you're very,2,306,"[302, 306]",SX4N.tsv
+be say,2,332,"[213, 332]",SX4N.tsv
+and i and,3,334,"[127, 334]",SX4N.tsv

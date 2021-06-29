@@ -1,0 +1,155 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker1,Expression_uttered_position_speaker2,file,speaker1,speaker2
+yeah,1,13,"[0, 12, 30, 54, 58, 60, 68, 70, 72, 98]","[13, 27, 29, 39, 41, 43, 45, 47, 49, 55, 57, 61, 67, 71, 82, 88, 90, 97]",SXPD.tsv,S0037,S0115
+it be,2,3,"[2, 8, 40, 70, 81, 83]","[3, 15, 39]",SXPD.tsv,S0037,S0115
+uh,1,3,[2],"[3, 7, 15, 21, 23, 27, 29, 31, 37, 39, 49, 57, 59, 67, 69, 71, 73, 77, 78, 80, 84, 97]",SXPD.tsv,S0037,S0115
+cardiff,1,5,[2],[5],SXPD.tsv,S0037,S0115
+um,1,5,"[2, 40, 44, 54, 87, 98]","[5, 13, 27, 29, 35, 59, 67, 71, 75, 82, 86, 99]",SXPD.tsv,S0037,S0115
+i think,2,7,"[2, 36]","[7, 15, 27, 29, 33, 35, 47, 73]",SXPD.tsv,S0037,S0115
+think,1,7,"[2, 44, 74]","[7, 15, 27, 29, 33, 35, 47, 73]",SXPD.tsv,S0037,S0115
+be like,2,11,"[2, 20, 30, 42, 54, 56, 81, 91, 92]","[11, 15]",SXPD.tsv,S0037,S0115
+like,1,11,"[2, 4, 6, 8, 12, 20, 30, 32, 36, 38, 40, 42, 44, 46, 48, 54, 56, 60, 66, 74, 76, 81, 85, 89, 91, 92, 98]","[11, 15, 35, 39, 51, 53, 61, 63, 65, 78]",SXPD.tsv,S0037,S0115
+it be i think,4,15,[2],[15],SXPD.tsv,S0037,S0115
+they have,2,21,"[2, 40]",[21],SXPD.tsv,S0037,S0115
+win,1,29,[2],"[29, 35]",SXPD.tsv,S0037,S0115
+but i,2,33,"[2, 40, 54, 74]","[33, 35]",SXPD.tsv,S0037,S0115
+really,1,41,"[2, 56, 81, 98]","[41, 61, 73, 82]",SXPD.tsv,S0037,S0115
+have a,2,49,[2],[49],SXPD.tsv,S0037,S0115
+go,1,49,"[2, 91]",[49],SXPD.tsv,S0037,S0115
+i dunno,2,69,"[2, 10]",[69],SXPD.tsv,S0037,S0115
+i be,2,71,"[2, 36, 40, 91, 92, 94]","[71, 93, 97]",SXPD.tsv,S0037,S0115
+be just,2,82,[2],[82],SXPD.tsv,S0037,S0115
+a really,2,82,[2],[82],SXPD.tsv,S0037,S0115
+be it,2,4,"[4, 8, 70]","[3, 53, 67]",SXPD.tsv,S0037,S0115
+league cup,2,5,[4],[5],SXPD.tsv,S0037,S0115
+the league cup,3,7,[4],"[7, 29, 31]",SXPD.tsv,S0037,S0115
+the league,2,7,[4],[7],SXPD.tsv,S0037,S0115
+or something,2,11,"[4, 6, 20]","[11, 59, 78, 17]",SXPD.tsv,S0037,S0115
+the i,2,13,[4],[13],SXPD.tsv,S0037,S0115
+cup or something,3,17,"[4, 6]",[17],SXPD.tsv,S0037,S0115
+cup,1,17,"[4, 6, 8, 16, 18, 20]","[17, 33, 29, 31]",SXPD.tsv,S0037,S0115
+i don't,2,19,"[4, 89, 98]","[19, 69]",SXPD.tsv,S0037,S0115
+know,1,19,"[4, 36, 40, 44, 62, 76, 89, 98]","[19, 21, 39, 57, 69, 77]",SXPD.tsv,S0037,S0115
+even,1,33,"[4, 6, 26, 81, 89, 98]",[33],SXPD.tsv,S0037,S0115
+the coca cola,3,7,[6],[7],SXPD.tsv,S0037,S0115
+fa,1,7,"[6, 8, 20]",[7],SXPD.tsv,S0037,S0115
+be the,2,7,"[6, 20]","[7, 11, 31, 35]",SXPD.tsv,S0037,S0115
+be that the,3,25,[6],[25],SXPD.tsv,S0037,S0115
+the fa cup,3,33,[6],[33],SXPD.tsv,S0037,S0115
+be that,2,33,"[6, 16, 22, 81]","[33, 93]",SXPD.tsv,S0037,S0115
+what be,2,51,"[6, 16]",[51],SXPD.tsv,S0037,S0115
+change,1,69,[6],[69],SXPD.tsv,S0037,S0115
+time,1,80,"[6, 81]",[80],SXPD.tsv,S0037,S0115
+be it be,3,8,[8],[3],SXPD.tsv,S0037,S0115
+it be it,3,8,"[8, 70]",[3],SXPD.tsv,S0037,S0115
+sort of,2,9,[8],"[9, 47, 65, 93]",SXPD.tsv,S0037,S0115
+like the,2,11,"[8, 38, 42]","[11, 35, 53]",SXPD.tsv,S0037,S0115
+something,1,11,[8],"[11, 17, 59, 78]",SXPD.tsv,S0037,S0115
+fa cup,2,33,"[8, 20]",[33],SXPD.tsv,S0037,S0115
+pies,1,47,"[12, 44]",[47],SXPD.tsv,S0037,S0115
+well,1,16,"[16, 40, 52, 56]","[9, 21, 39, 49, 57, 78, 93]",SXPD.tsv,S0037,S0115
+there's,1,33,"[16, 18]","[33, 59, 77]",SXPD.tsv,S0037,S0115
+leyland daf cup,3,18,[18],[17],SXPD.tsv,S0037,S0115
+be there,2,47,[18],[47],SXPD.tsv,S0037,S0115
+there be,2,20,[20],"[11, 33, 71]",SXPD.tsv,S0037,S0115
+it if,2,35,[20],[35],SXPD.tsv,S0037,S0115
+to be,2,57,"[20, 40, 70]","[57, 73]",SXPD.tsv,S0037,S0115
+oh be,2,69,[22],[69],SXPD.tsv,S0037,S0115
+hundred and twenty eight years ago,6,26,[26],[25],SXPD.tsv,S0037,S0115
+ago,1,35,"[26, 54]",[35],SXPD.tsv,S0037,S0115
+yeah i,2,30,"[30, 70, 98]","[27, 47, 49, 97]",SXPD.tsv,S0037,S0115
+watch that,2,30,[30],[29],SXPD.tsv,S0037,S0115
+you be,2,35,"[30, 40]","[35, 39]",SXPD.tsv,S0037,S0115
+and you,2,39,[30],[39],SXPD.tsv,S0037,S0115
+remember,1,86,"[30, 54, 60, 81, 89]",[86],SXPD.tsv,S0037,S0115
+watch,1,97,[30],[97],SXPD.tsv,S0037,S0115
+i don't know,3,36,"[36, 40, 62]","[19, 69]",SXPD.tsv,S0037,S0115
+i think i,3,36,[36],[29],SXPD.tsv,S0037,S0115
+work at,2,39,"[36, 70]",[39],SXPD.tsv,S0037,S0115
+football,1,49,"[36, 44]",[49],SXPD.tsv,S0037,S0115
+obviously,1,59,"[36, 54]",[59],SXPD.tsv,S0037,S0115
+work at the,3,67,[36],[67],SXPD.tsv,S0037,S0115
+the pies,2,47,"[38, 42]",[47],SXPD.tsv,S0037,S0115
+pie,1,49,"[38, 44, 54, 60]","[49, 59]",SXPD.tsv,S0037,S0115
+say,1,40,"[40, 46]","[9, 71]",SXPD.tsv,S0037,S0115
+number,1,40,[40],[31],SXPD.tsv,S0037,S0115
+be a bite,3,40,[40],[33],SXPD.tsv,S0037,S0115
+a bite,2,40,[40],[33],SXPD.tsv,S0037,S0115
+be enterprising,2,40,[40],[39],SXPD.tsv,S0037,S0115
+probably,1,47,[40],[47],SXPD.tsv,S0037,S0115
+know it,2,57,[40],[57],SXPD.tsv,S0037,S0115
+be a,2,71,"[40, 44]",[71],SXPD.tsv,S0037,S0115
+although,1,80,[40],[80],SXPD.tsv,S0037,S0115
+in the,2,42,[42],"[31, 47, 53, 57, 71]",SXPD.tsv,S0037,S0115
+like if,2,42,[42],[35],SXPD.tsv,S0037,S0115
+then the,2,42,"[42, 81]",[35],SXPD.tsv,S0037,S0115
+just like,2,53,[42],[53],SXPD.tsv,S0037,S0115
+use to,2,57,"[42, 54]","[57, 73, 93]",SXPD.tsv,S0037,S0115
+in a,2,59,[42],[59],SXPD.tsv,S0037,S0115
+and then,2,59,"[42, 56, 81, 91]",[59],SXPD.tsv,S0037,S0115
+sell,1,78,"[42, 56, 87]",[78],SXPD.tsv,S0037,S0115
+that be,2,44,[44],"[7, 15, 31, 35, 39, 82]",SXPD.tsv,S0037,S0115
+twenty,1,44,"[44, 94]",[25],SXPD.tsv,S0037,S0115
+of the,2,44,[44],"[31, 35, 78]",SXPD.tsv,S0037,S0115
+that be a,3,44,[44],[33],SXPD.tsv,S0037,S0115
+go to,2,49,"[44, 91, 92]",[49],SXPD.tsv,S0037,S0115
+never,1,49,[44],"[49, 93]",SXPD.tsv,S0037,S0115
+get,1,53,"[44, 81]","[53, 59, 93]",SXPD.tsv,S0037,S0115
+like a,2,78,"[44, 54, 89]",[78],SXPD.tsv,S0037,S0115
+and that,2,78,"[44, 50]",[78],SXPD.tsv,S0037,S0115
+bad,1,82,[44],[82],SXPD.tsv,S0037,S0115
+say that,2,46,[46],[9],SXPD.tsv,S0037,S0115
+need to,2,50,[50],[9],SXPD.tsv,S0037,S0115
+well they they,3,52,[52],[21],SXPD.tsv,S0037,S0115
+they they,2,52,[52],"[21, 78]",SXPD.tsv,S0037,S0115
+well they,2,78,[52],[78],SXPD.tsv,S0037,S0115
+one,1,54,"[54, 72, 81, 94]","[7, 11, 15, 23, 29, 31, 35, 71]",SXPD.tsv,S0037,S0115
+years ago,2,54,[54],[25],SXPD.tsv,S0037,S0115
+this be,2,54,"[54, 94]","[29, 31]",SXPD.tsv,S0037,S0115
+one of,2,54,"[54, 81]",[35],SXPD.tsv,S0037,S0115
+chicken,1,59,[54],[59],SXPD.tsv,S0037,S0115
+um yeah,2,67,"[54, 98]",[67],SXPD.tsv,S0037,S0115
+do you,2,56,[56],"[9, 39]",SXPD.tsv,S0037,S0115
+they be,2,56,"[56, 64]","[27, 63]",SXPD.tsv,S0037,S0115
+be always,2,60,[60],[7],SXPD.tsv,S0037,S0115
+oh yeah,2,60,"[60, 72]","[29, 55, 71, 82]",SXPD.tsv,S0037,S0115
+cheese and onion pie,4,60,[60],[59],SXPD.tsv,S0037,S0115
+cornish,1,60,[60],[59],SXPD.tsv,S0037,S0115
+cheese,1,60,[60],[59],SXPD.tsv,S0037,S0115
+aren't they,2,63,[60],[63],SXPD.tsv,S0037,S0115
+quite,1,63,[60],[63],SXPD.tsv,S0037,S0115
+when i,2,93,[60],[93],SXPD.tsv,S0037,S0115
+yeah no,2,68,[68],[29],SXPD.tsv,S0037,S0115
+old,1,71,[68],[71],SXPD.tsv,S0037,S0115
+work at the stadium,4,70,[70],[67],SXPD.tsv,S0037,S0115
+but it,2,70,[70],[67],SXPD.tsv,S0037,S0115
+it wasn't,2,70,[70],[67],SXPD.tsv,S0037,S0115
+long,1,80,[70],[80],SXPD.tsv,S0037,S0115
+formula one,2,72,[72],"[23, 71]",SXPD.tsv,S0037,S0115
+load,1,72,[72],[61],SXPD.tsv,S0037,S0115
+yeah oh,2,82,[72],[82],SXPD.tsv,S0037,S0115
+sorry yeah,2,97,[72],[97],SXPD.tsv,S0037,S0115
+sorry,1,97,[72],[97],SXPD.tsv,S0037,S0115
+ban,1,74,"[74, 76]",[73],SXPD.tsv,S0037,S0115
+sponsor,1,74,[74],[73],SXPD.tsv,S0037,S0115
+macdonald's,1,77,"[74, 81, 85, 91, 92]","[77, 80, 93]",SXPD.tsv,S0037,S0115
+things,1,78,"[74, 81]",[78],SXPD.tsv,S0037,S0115
+you know,2,76,[76],"[21, 39, 57, 77]",SXPD.tsv,S0037,S0115
+like you,2,76,[76],[39],SXPD.tsv,S0037,S0115
+actually,1,81,[81],"[27, 29, 78, 86]",SXPD.tsv,S0037,S0115
+be really,2,81,[81],[73],SXPD.tsv,S0037,S0115
+i haven't,2,81,[81],[80],SXPD.tsv,S0037,S0115
+age,1,85,[85],"[39, 93]",SXPD.tsv,S0037,S0115
+i haven't be to macdonald's for,6,85,[85],[80],SXPD.tsv,S0037,S0115
+to macdonald's,2,93,"[85, 91, 92]",[93],SXPD.tsv,S0037,S0115
+do they,2,87,[87],[78],SXPD.tsv,S0037,S0115
+they sell,2,87,[87],[78],SXPD.tsv,S0037,S0115
+or whatever,2,89,[89],[15],SXPD.tsv,S0037,S0115
+hundred,1,89,[89],[25],SXPD.tsv,S0037,S0115
+much,1,89,[89],[47],SXPD.tsv,S0037,S0115
+be to,2,89,[89],[80],SXPD.tsv,S0037,S0115
+for a,2,91,"[91, 92]",[80],SXPD.tsv,S0037,S0115
+one and,2,94,[94],[7],SXPD.tsv,S0037,S0115
+when i be,3,94,[94],[93],SXPD.tsv,S0037,S0115
+i mean,2,98,[98],"[13, 39, 59]",SXPD.tsv,S0037,S0115
+yeah i mean,3,98,[98],[49],SXPD.tsv,S0037,S0115
+i i,2,98,[98],"[49, 73]",SXPD.tsv,S0037,S0115

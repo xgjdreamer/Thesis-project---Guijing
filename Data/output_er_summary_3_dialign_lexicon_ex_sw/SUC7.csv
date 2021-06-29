@@ -1,0 +1,228 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+save them,2,4,"[0, 4]",SUC7.tsv
+i don't know,3,49,"[0, 16, 49, 51, 271]",SUC7.tsv
+know,1,10,"[0, 10, 16, 49, 51, 52, 53, 120, 121, 231, 271]",SUC7.tsv
+i don't,2,87,"[0, 16, 49, 51, 55, 87, 140, 172, 218, 242, 271]",SUC7.tsv
+christmas,1,205,"[0, 2, 5, 205, 214, 272]",SUC7.tsv
+like,1,95,"[0, 2, 5, 21, 47, 52, 84, 86, 88, 95, 100, 103, 104, 106, 108, 109, 125, 127, 132, 173, 179, 231, 263, 277, 287, 333, 337]",SUC7.tsv
+one,1,2,"[1, 2, 21, 23, 60, 62, 65, 177, 237, 259, 261, 335, 338]",SUC7.tsv
+be save them,3,4,"[2, 4]",SUC7.tsv
+cos,1,107,"[2, 9, 35, 107, 122, 140, 150, 217, 242, 252, 280]",SUC7.tsv
+day,1,195,"[2, 195, 200, 211, 213, 219]",SUC7.tsv
+would,1,5,"[4, 5, 21, 303]",SUC7.tsv
+yogurt,1,6,"[5, 6, 19, 22, 39, 107, 116, 118, 140, 154, 160, 166, 167, 168, 169, 170, 171, 172, 184]",SUC7.tsv
+something,1,51,"[5, 51]",SUC7.tsv
+that's,1,60,"[5, 60, 62, 125, 152, 162, 202, 229, 247, 262, 274, 277, 282, 306]",SUC7.tsv
+you have,2,320,"[5, 47, 157, 320, 322]",SUC7.tsv
+yeah,1,36,"[7, 36, 37, 43, 53, 60, 66, 83, 95, 102, 132, 145, 147, 167, 199, 208, 224, 267, 280, 285, 297, 303, 306, 340]",SUC7.tsv
+oh yeah,2,306,"[7, 306]",SUC7.tsv
+go,1,10,"[9, 10, 28, 38, 65, 69, 152, 220, 229, 285, 307]",SUC7.tsv
+get,1,41,"[9, 27, 41, 44, 56, 57, 58, 106, 135, 206, 208, 250, 263, 280, 281, 282, 283, 306, 336, 337]",SUC7.tsv
+oh do,2,135,"[9, 135, 204]",SUC7.tsv
+we've get,2,208,"[9, 208]",SUC7.tsv
+daddy,1,34,"[16, 34, 35]",SUC7.tsv
+know i,2,53,"[16, 53]",SUC7.tsv
+ow,1,40,"[25, 40, 308, 311, 313]",SUC7.tsv
+eat,1,107,"[29, 107, 116, 126, 160, 179, 191, 219, 231]",SUC7.tsv
+finish,1,167,"[29, 126, 154, 157, 166, 167, 173, 174, 184]",SUC7.tsv
+we've,1,205,"[9, 29, 205, 208]",SUC7.tsv
+be you,2,32,"[28, 32, 113, 181, 209, 260, 278]",SUC7.tsv
+okay,1,80,"[32, 80, 219, 224, 273, 277, 279, 288, 310, 316, 331, 333, 334]",SUC7.tsv
+he's,1,41,"[35, 41, 337]",SUC7.tsv
+good,1,244,"[35, 244, 253, 274, 306, 307]",SUC7.tsv
+can you,2,107,"[37, 107, 223, 226, 271, 318]",SUC7.tsv
+try,1,93,"[45, 93, 128, 299]",SUC7.tsv
+bite,1,239,"[45, 175, 239, 275, 276, 280, 282]",SUC7.tsv
+can i,2,45,"[23, 45, 284, 339]",SUC7.tsv
+have it,2,203,"[47, 203, 204]",SUC7.tsv
+what's,1,124,"[48, 124, 186]",SUC7.tsv
+mean,1,277,"[50, 125, 277, 288]",SUC7.tsv
+no but,2,52,"[34, 52]",SUC7.tsv
+do you,2,52,"[42, 52, 65, 75, 82, 84, 86, 135, 200, 249, 303, 314]",SUC7.tsv
+sorry,1,54,"[26, 53, 54, 212, 309, 312]",SUC7.tsv
+make,1,62,"[55, 62, 84, 91, 93, 94, 107, 125, 246, 276]",SUC7.tsv
+really,1,55,"[3, 55, 120, 207, 215, 244, 257, 278, 287]",SUC7.tsv
+get his hat on,4,57,"[41, 44, 56, 57, 58]",SUC7.tsv
+no the,2,58,"[57, 58]",SUC7.tsv
+the sun,2,60,"[57, 60]",SUC7.tsv
+be the,2,59,"[56, 59, 62, 125, 165, 211, 213]",SUC7.tsv
+version,1,60,"[59, 60]",SUC7.tsv
+could,1,65,"[6, 65, 302]",SUC7.tsv
+hi my,2,316,"[73, 74, 316]",SUC7.tsv
+scottish,1,77,"[75, 77, 84]",SUC7.tsv
+say,1,75,"[70, 75, 76, 84, 94, 105, 118, 204, 302, 320]",SUC7.tsv
+what about,2,236,"[75, 236, 272]",SUC7.tsv
+you say,2,302,"[75, 302]",SUC7.tsv
+to do,2,82,"[28, 82, 280]",SUC7.tsv
+show,1,88,"[68, 88, 153, 287]",SUC7.tsv
+i'm,1,94,"[77, 92, 93, 94, 95, 107, 138, 150, 151, 152, 153, 161, 178, 220, 238, 240, 245, 299, 307, 333]",SUC7.tsv
+make fun of,3,94,"[91, 93, 94]",SUC7.tsv
+name,1,94,"[91, 93, 94, 316, 317]",SUC7.tsv
+say it,2,302,"[94, 302]",SUC7.tsv
+i be,2,109,"[93, 109, 125, 180]",SUC7.tsv
+gonna,1,113,"[106, 107, 113, 126, 150, 178, 220, 238, 240, 246, 289, 296, 307, 333, 338]",SUC7.tsv
+i know,2,121,"[53, 121]",SUC7.tsv
+laugh,1,125,"[93, 107, 125]",SUC7.tsv
+funny,1,125,"[122, 124, 125]",SUC7.tsv
+that's not,2,277,"[125, 277, 306]",SUC7.tsv
+come,1,127,"[41, 44, 127, 160]",SUC7.tsv
+do this,2,178,"[127, 178]",SUC7.tsv
+i have,2,127,"[23, 85, 89, 127, 284, 323]",SUC7.tsv
+be it,2,133,"[118, 133, 265, 277]",SUC7.tsv
+no it's,2,210,"[136, 210]",SUC7.tsv
+please,1,244,"[137, 139, 164, 166, 184, 191, 226, 244, 306, 313, 315, 321, 331]",SUC7.tsv
+chocolate yogurt,2,140,"[6, 140]",SUC7.tsv
+chocolate,1,140,"[11, 140]",SUC7.tsv
+want,1,140,"[42, 140, 172, 218, 242, 280, 303, 314, 340]",SUC7.tsv
+cos i,2,140,"[107, 140, 242]",SUC7.tsv
+i don't want,3,172,"[140, 172, 218, 242]",SUC7.tsv
+spoon,1,146,"[33, 42, 146, 186]",SUC7.tsv
+drop,1,146,"[144, 146]",SUC7.tsv
+do the,2,277,"[146, 186, 191, 277, 294]",SUC7.tsv
+i'm gonna,2,178,"[150, 178, 220]",SUC7.tsv
+you finish,2,174,"[154, 157, 174]",SUC7.tsv
+chair,1,320,"[164, 320]",SUC7.tsv
+let,1,166,"[51, 128, 153, 166, 167, 191, 220, 244, 310]",SUC7.tsv
+leave,1,335,"[175, 177, 191, 226, 335]",SUC7.tsv
+wah,1,177,"[176, 177]",SUC7.tsv
+look,1,177,"[95, 151, 177, 246, 263, 281, 283, 287, 290, 301, 302, 337]",SUC7.tsv
+a human,2,180,"[179, 180]",SUC7.tsv
+song,1,186,"[56, 186, 194, 229]",SUC7.tsv
+where's,1,188,"[11, 188]",SUC7.tsv
+year,1,196,"[195, 196, 199]",SUC7.tsv
+roman day,2,200,"[195, 200]",SUC7.tsv
+get a music concert,4,208,"[206, 208]",SUC7.tsv
+you've get,2,306,"[206, 282, 306]",SUC7.tsv
+music concert,2,209,"[208, 209]",SUC7.tsv
+you do,2,223,"[209, 223, 249, 277]",SUC7.tsv
+take,1,241,"[215, 241, 242, 303]",SUC7.tsv
+can't really,2,287,"[215, 287]",SUC7.tsv
+big,1,277,"[217, 277]",SUC7.tsv
+yeah i,2,224,"[53, 83, 224]",SUC7.tsv
+you want,2,235,"[42, 235, 340]",SUC7.tsv
+white,1,262,"[235, 262, 300]",SUC7.tsv
+that one,2,237,"[23, 237, 335, 338]",SUC7.tsv
+gonna do,2,238,"[178, 238]",SUC7.tsv
+gonna do this,3,240,"[178, 240]",SUC7.tsv
+fill in that,3,240,"[239, 240]",SUC7.tsv
+first,1,277,"[240, 277]",SUC7.tsv
+you have to,3,320,"[242, 320, 322]",SUC7.tsv
+to be,2,245,"[93, 245]",SUC7.tsv
+she be,2,256,"[254, 255, 256]",SUC7.tsv
+nail,1,269,"[28, 38, 223, 269, 287, 296, 305, 306, 314, 333]",SUC7.tsv
+the next chair,3,320,"[271, 320, 321]",SUC7.tsv
+blob,1,277,"[275, 277, 280]",SUC7.tsv
+actual,1,280,"[56, 280]",SUC7.tsv
+get a,2,280,"[206, 208, 280, 281, 282, 283, 336]",SUC7.tsv
+paint,1,280,"[250, 280, 296, 298, 303, 333]",SUC7.tsv
+no you've,2,282,"[277, 282]",SUC7.tsv
+onto,1,320,"[282, 320]",SUC7.tsv
+hair,1,282,"[151, 282, 337]",SUC7.tsv
+see,1,288,"[244, 288, 335]",SUC7.tsv
+i'm try,2,299,"[93, 299]",SUC7.tsv
+try to,2,299,"[93, 299]",SUC7.tsv
+do you want,3,303,"[42, 303, 314]",SUC7.tsv
+black,1,303,"[239, 277, 284, 303, 314, 337]",SUC7.tsv
+will you,2,321,"[239, 321]",SUC7.tsv
+gina lina tina,3,321,"[316, 320, 321]",SUC7.tsv
+will you move,3,321,"[320, 321]",SUC7.tsv
+have to,2,323,"[242, 320, 323, 338]",SUC7.tsv
+not a,2,329,"[277, 329]",SUC7.tsv
+er i,2,85,"[0, 85]",SUC7.tsv
+yogurt or,2,118,"[5, 118]",SUC7.tsv
+like a,2,231,"[5, 88, 179, 231]",SUC7.tsv
+put,1,17,"[9, 16, 17, 20, 220]",SUC7.tsv
+on the,2,248,"[9, 67, 248, 271, 314]",SUC7.tsv
+in the,2,211,"[14, 209, 211, 213, 220, 253]",SUC7.tsv
+no no,2,143,"[19, 143]",SUC7.tsv
+i've get,2,281,"[27, 281, 283]",SUC7.tsv
+another,1,328,"[27, 219, 328]",SUC7.tsv
+in a,2,99,"[29, 99]",SUC7.tsv
+i'll,1,165,"[29, 165, 242, 271, 285]",SUC7.tsv
+a little,2,99,"[45, 99, 175, 276, 336]",SUC7.tsv
+little,1,99,"[45, 99, 108, 175, 276]",SUC7.tsv
+it be,2,132,"[47, 125, 132, 211, 213, 266]",SUC7.tsv
+you know,2,120,"[52, 120]",SUC7.tsv
+well,1,78,"[55, 78, 89, 160, 173, 215, 219, 263, 314]",SUC7.tsv
+well i,2,89,"[55, 89, 215]",SUC7.tsv
+think,1,123,"[55, 86, 109, 123, 126]",SUC7.tsv
+you really,2,278,"[55, 278]",SUC7.tsv
+american accent,2,69,"[68, 69, 89]",SUC7.tsv
+hi my name's,3,74,"[73, 74]",SUC7.tsv
+accent,1,75,"[68, 75, 82, 89]",SUC7.tsv
+sort of,2,104,"[84, 104, 282]",SUC7.tsv
+people,1,211,"[84, 211, 213]",SUC7.tsv
+american,1,86,"[68, 86, 88, 89]",SUC7.tsv
+a lot,2,231,"[86, 88, 231]",SUC7.tsv
+that you,2,88,"[10, 88]",SUC7.tsv
+your name,2,317,"[94, 317]",SUC7.tsv
+barbie's,1,96,"[95, 96, 97, 99]",SUC7.tsv
+baby,1,99,"[98, 99]",SUC7.tsv
+goofy,1,103,"[101, 103]",SUC7.tsv
+sound like,2,109,"[100, 103, 108, 109]",SUC7.tsv
+that you be,3,125,"[10, 125]",SUC7.tsv
+be like,2,132,"[125, 132]",SUC7.tsv
+you be,2,165,"[125, 126, 165, 181, 186, 191]",SUC7.tsv
+it be the,3,211,"[125, 211, 213]",SUC7.tsv
+to make,2,246,"[125, 246]",SUC7.tsv
+thing,1,336,"[129, 303, 336]",SUC7.tsv
+hercules,1,138,"[130, 138, 163]",SUC7.tsv
+be that,2,268,"[130, 162, 163, 194, 266, 268, 279]",SUC7.tsv
+still,1,265,"[139, 142, 265]",SUC7.tsv
+that's how,2,229,"[152, 229]",SUC7.tsv
+or be,2,163,"[118, 163]",SUC7.tsv
+finish her yogurt,3,167,"[166, 167]",SUC7.tsv
+her yogurt,2,171,"[166, 170, 171]",SUC7.tsv
+and you,2,175,"[165, 175, 322]",SUC7.tsv
+the roman's,2,231,"[186, 191, 231]",SUC7.tsv
+let her,2,191,"[167, 191]",SUC7.tsv
+roman,1,231,"[195, 200, 231]",SUC7.tsv
+oh that's,2,229,"[202, 229, 247]",SUC7.tsv
+shall,1,220,"[76, 220]",SUC7.tsv
+sort,1,224,"[104, 224]",SUC7.tsv
+'s,1,317,"[238, 253, 317]",SUC7.tsv
+and then,2,250,"[240, 250, 274, 280]",SUC7.tsv
+time,1,245,"[116, 245]",SUC7.tsv
+it i,2,245,"[118, 245]",SUC7.tsv
+idea,1,274,"[85, 274]",SUC7.tsv
+i just,2,280,"[76, 280]",SUC7.tsv
+coat,1,280,"[270, 280]",SUC7.tsv
+go i,2,285,"[10, 285]",SUC7.tsv
+nasty wasty,2,296,"[294, 296]",SUC7.tsv
+as well,2,314,"[78, 314]",SUC7.tsv
+gina,1,317,"[316, 317, 320, 321]",SUC7.tsv
+have to call,3,323,"[322, 323]",SUC7.tsv
+billy gonzales,2,325,"[322, 324, 325]",SUC7.tsv
+oh yummy,2,23,"[22, 23]",SUC7.tsv
+go to,2,28,"[10, 28]",SUC7.tsv
+wow,1,301,"[30, 301]",SUC7.tsv
+come out to play the snowman's get his hat on so hip hip,13,44,"[41, 44]",SUC7.tsv
+the snowman's get his hat on,6,44,"[41, 44, 56, 58]",SUC7.tsv
+hip hip hurray,3,44,"[41, 44]",SUC7.tsv
+play,1,92,"[41, 92]",SUC7.tsv
+yummy,1,46,"[23, 46]",SUC7.tsv
+let me,2,128,"[51, 128, 153, 244]",SUC7.tsv
+what be,2,268,"[56, 268]",SUC7.tsv
+one be,2,338,"[60, 62, 338]",SUC7.tsv
+the snowman,2,243,"[62, 243, 244]",SUC7.tsv
+yes,1,255,"[79, 90, 192, 254, 255, 326]",SUC7.tsv
+yes she,2,255,"[90, 255]",SUC7.tsv
+eat my yogurt,3,116,"[107, 116]",SUC7.tsv
+about that,2,145,"[124, 145]",SUC7.tsv
+hey,1,234,"[148, 234, 246]",SUC7.tsv
+three,1,199,"[183, 199, 227]",SUC7.tsv
+yet,1,203,"[68, 203]",SUC7.tsv
+should i,2,241,"[70, 241]",SUC7.tsv
+yes she be,3,255,"[254, 255]",SUC7.tsv
+no i,2,277,"[68, 87, 277]",SUC7.tsv
+like the,2,277,"[263, 277]",SUC7.tsv
+can i have,3,284,"[23, 284]",SUC7.tsv
+i i,2,287,"[89, 287]",SUC7.tsv
+look like,2,287,"[263, 287, 337]",SUC7.tsv
+because i,2,328,"[287, 328]",SUC7.tsv
+bad,1,302,"[301, 302]",SUC7.tsv
+nail polish remover,3,306,"[305, 306]",SUC7.tsv
+name be gina,3,317,"[316, 317]",SUC7.tsv
+name be,2,317,"[316, 317]",SUC7.tsv
+that one be,3,338,"[335, 338]",SUC7.tsv
+wreck,1,338,"[335, 338]",SUC7.tsv

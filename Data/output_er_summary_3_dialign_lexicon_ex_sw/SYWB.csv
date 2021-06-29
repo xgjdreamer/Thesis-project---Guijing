@@ -1,0 +1,344 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+okay,1,90,"[1, 3, 90, 96, 100, 122, 124, 143, 151, 160, 193, 237, 275, 330, 347, 350, 367, 370, 382]",SYWB.tsv
+he's,1,32,"[3, 32, 61, 84, 133, 175, 247, 291, 342, 350]",SYWB.tsv
+get,1,69,"[3, 27, 39, 69, 84, 107, 165, 167, 172, 191, 195, 278, 281, 291, 304, 332, 338, 342, 343, 344, 350, 355, 356, 359, 360]",SYWB.tsv
+'s,1,85,"[3, 85, 91, 94, 99, 334]",SYWB.tsv
+like,1,8,"[5, 8, 21, 32, 56, 57, 59, 61, 63, 69, 80, 96, 107, 113, 143, 156, 255, 258, 264, 265, 276, 277, 286, 294, 300, 303, 315, 316, 318, 324, 332, 337, 338, 350, 360, 366, 372, 381]",SYWB.tsv
+a bite more,3,61,"[8, 61, 289]",SYWB.tsv
+bite,1,65,"[8, 15, 58, 65, 131, 191, 283, 289]",SYWB.tsv
+a bite,2,81,"[8, 15, 58, 81, 130, 131, 191, 283, 289]",SYWB.tsv
+could,1,85,"[8, 15, 85, 96, 289, 296, 300, 301, 304, 341, 364]",SYWB.tsv
+maybe,1,102,"[8, 15, 80, 100, 102, 149, 152]",SYWB.tsv
+have do,2,361,"[8, 361]",SYWB.tsv
+really,1,28,"[10, 28, 38, 58, 69, 81, 95, 122, 124, 139, 163, 254, 283, 296, 299, 305, 319, 343]",SYWB.tsv
+go,1,32,"[13, 32, 69, 78, 87, 91, 94, 107, 135, 141, 147, 151, 165, 192, 223, 226, 236, 265, 279, 286, 292, 333, 343, 344, 350, 351, 355, 360, 380, 382]",SYWB.tsv
+do you,2,61,"[13, 27, 56, 61, 195, 249, 264, 273, 287, 291, 300, 307, 319, 321, 327]",SYWB.tsv
+talk,1,69,"[13, 27, 69]",SYWB.tsv
+try,1,73,"[13, 21, 73, 118, 119, 248, 343, 350, 370]",SYWB.tsv
+you want to,3,258,"[13, 195, 258, 327]",SYWB.tsv
+you want,2,258,"[13, 258]",SYWB.tsv
+i could,2,85,"[15, 85, 289, 301]",SYWB.tsv
+would,1,357,"[21, 53, 68, 291, 357, 377]",SYWB.tsv
+like to,2,381,"[21, 381]",SYWB.tsv
+i'll,1,265,"[23, 265, 366, 382]",SYWB.tsv
+friends,1,32,"[27, 32, 40, 78, 107, 113]",SYWB.tsv
+to any of,3,87,"[27, 87]",SYWB.tsv
+today,1,272,"[27, 169, 272, 313, 321, 327, 328, 346]",SYWB.tsv
+you get,2,304,"[27, 304, 332]",SYWB.tsv
+you get to,3,355,"[27, 355]",SYWB.tsv
+your friends,2,355,"[27, 107, 355]",SYWB.tsv
+in the day,3,29,"[28, 29]",SYWB.tsv
+they do,2,81,"[29, 68, 81]",SYWB.tsv
+in the,2,81,"[29, 80, 81, 123, 151, 292, 307, 350, 372]",SYWB.tsv
+day,1,269,"[29, 33, 68, 269, 270, 271, 307, 328, 330, 340, 354, 360]",SYWB.tsv
+the day,2,330,"[29, 33, 330]",SYWB.tsv
+he do,2,225,"[33, 225]",SYWB.tsv
+xbox,1,39,"[36, 39]",SYWB.tsv
+live,1,264,"[39, 264]",SYWB.tsv
+where be you,3,50,"[49, 50, 221, 222, 223]",SYWB.tsv
+be you,2,141,"[49, 50, 141, 209, 229, 279, 292, 380]",SYWB.tsv
+no idea,2,53,"[30, 53, 81]",SYWB.tsv
+hang around with,3,53,"[32, 53]",SYWB.tsv
+say,1,73,"[53, 73, 135, 175, 215, 224, 235, 255, 258, 262, 265, 346, 349, 369, 370, 381]",SYWB.tsv
+well,1,81,"[53, 66, 81, 121, 207, 248, 282, 283, 290, 321, 342, 351, 358, 381]",SYWB.tsv
+nice,1,58,"[2, 58, 100, 169, 255, 305, 350]",SYWB.tsv
+annoy,1,58,"[57, 58, 105]",SYWB.tsv
+a bite annoy,3,81,"[58, 81]",SYWB.tsv
+yeah,1,60,"[40, 55, 60, 62, 66, 73, 79, 86, 88, 102, 118, 121, 157, 159, 194, 253, 257, 265, 277, 284, 295, 304, 318, 321, 334, 335, 340, 346, 365, 366, 372, 377, 378, 380, 382]",SYWB.tsv
+right,1,120,"[66, 120, 372]",SYWB.tsv
+in town,2,68,"[32, 68, 94]",SYWB.tsv
+hang around,2,68,"[32, 68]",SYWB.tsv
+town,1,68,"[40, 68, 94, 350]",SYWB.tsv
+do all,2,351,"[68, 351, 369]",SYWB.tsv
+i just,2,292,"[70, 72, 292, 366, 369]",SYWB.tsv
+house,1,80,"[32, 78, 80, 81, 87, 91, 94, 165]",SYWB.tsv
+they just,2,80,"[69, 80]",SYWB.tsv
+stay in the house,4,81,"[80, 81]",SYWB.tsv
+just stay in,3,81,"[80, 81]",SYWB.tsv
+stay,1,81,"[80, 81, 82, 191]",SYWB.tsv
+like and,2,265,"[80, 265]",SYWB.tsv
+just stay,2,82,"[81, 82, 191]",SYWB.tsv
+get a,2,304,"[84, 281, 304, 342, 359]",SYWB.tsv
+round,1,94,"[32, 94, 96, 295, 356, 358]",SYWB.tsv
+know,1,94,"[34, 38, 54, 61, 65, 81, 93, 94, 96, 133, 151, 175, 235, 249, 250, 284, 292, 300, 301, 305, 307, 328, 350, 351, 353, 363, 366]",SYWB.tsv
+people,1,94,"[59, 94, 96]",SYWB.tsv
+time,1,94,"[63, 94, 121, 291, 350, 372]",SYWB.tsv
+go to,2,94,"[69, 78, 87, 94, 107, 135, 147, 151, 192, 236, 279, 350, 351, 380]",SYWB.tsv
+to 's house,3,94,"[91, 94]",SYWB.tsv
+you go,2,223,"[94, 141, 147, 223, 279, 333, 380, 382]",SYWB.tsv
+that's,1,318,"[94, 159, 226, 283, 318, 337, 350, 366]",SYWB.tsv
+you just,2,369,"[94, 210, 366, 369]",SYWB.tsv
+stuff,1,96,"[32, 69, 78, 96, 158, 332, 338, 344, 350, 351, 360, 369]",SYWB.tsv
+kind of,2,96,"[57, 59, 69, 96, 105, 343, 344, 350, 360]",SYWB.tsv
+i know,2,96,"[93, 96, 133, 250, 284, 301, 328, 350, 363, 366]",SYWB.tsv
+want to,2,258,"[96, 161, 258, 305, 360]",SYWB.tsv
+see,1,260,"[96, 260, 266, 295, 350]",SYWB.tsv
+you could,2,296,"[96, 296, 304, 341, 364]",SYWB.tsv
+to do,2,306,"[96, 277, 306, 307, 315, 321, 338, 346, 351, 372, 380]",SYWB.tsv
+and all that,3,332,"[96, 332]",SYWB.tsv
+with and,2,332,"[96, 332]",SYWB.tsv
+up and,2,355,"[96, 343, 355]",SYWB.tsv
+all that,2,369,"[96, 344, 366, 369]",SYWB.tsv
+be nice,2,100,"[2, 100, 350]",SYWB.tsv
+might,1,118,"[100, 118]",SYWB.tsv
+come,1,292,"[100, 161, 266, 279, 292, 366]",SYWB.tsv
+if you,2,258,"[107, 258, 283, 304, 321, 350, 351, 363]",SYWB.tsv
+to get,2,359,"[107, 165, 167, 195, 344, 350, 359]",SYWB.tsv
+try and,2,119,"[118, 119, 343]",SYWB.tsv
+dinner,1,121,"[2, 121]",SYWB.tsv
+eat,1,121,"[69, 121]",SYWB.tsv
+it's a,2,121,"[81, 121, 143]",SYWB.tsv
+the weekend,2,154,"[121, 154, 158]",SYWB.tsv
+cos,1,154,"[121, 133, 135, 141, 143, 151, 154, 156, 279, 292]",SYWB.tsv
+good,1,258,"[121, 207, 258, 291, 362]",SYWB.tsv
+football,1,123,"[32, 123]",SYWB.tsv
+do it,2,269,"[133, 268, 269, 270, 272, 277, 279, 306, 321, 372]",SYWB.tsv
+to be,2,135,"[54, 135, 381]",SYWB.tsv
+i'd,1,135,"[63, 135, 359, 381]",SYWB.tsv
+hello,1,173,"[135, 172, 173, 174, 204, 221, 240, 241, 242, 255]",SYWB.tsv
+fifteen,1,276,"[139, 276]",SYWB.tsv
+minutes,1,276,"[139, 276, 277, 278, 279, 280, 291]",SYWB.tsv
+twenty minutes,2,278,"[139, 278, 280, 291]",SYWB.tsv
+cos it's,2,154,"[141, 154]",SYWB.tsv
+want,1,231,"[13, 96, 141, 161, 195, 209, 231, 232, 234, 258, 305, 327, 360]",SYWB.tsv
+like it,2,143,"[5, 143]",SYWB.tsv
+watch,1,332,"[147, 151, 332]",SYWB.tsv
+sorry,1,151,"[95, 151, 317, 323]",SYWB.tsv
+i'm,1,151,"[118, 151, 192, 223, 236, 248, 286, 326, 346, 348, 350, 351, 364, 366]",SYWB.tsv
+i'm go,2,223,"[151, 223, 236, 350]",SYWB.tsv
+have to,2,314,"[151, 167, 313, 314, 315, 316, 321, 334, 338, 350, 351, 381]",SYWB.tsv
+mm mm,2,153,"[11, 16, 59, 153, 155, 166, 194, 373]",SYWB.tsv
+fine,1,159,"[9, 159]",SYWB.tsv
+any of,2,161,"[87, 161]",SYWB.tsv
+not really,2,163,"[28, 81, 163, 254, 299]",SYWB.tsv
+the house,2,165,"[81, 165]",SYWB.tsv
+go for,2,223,"[165, 223]",SYWB.tsv
+there's,1,264,"[165, 264, 283, 318]",SYWB.tsv
+of the,2,294,"[165, 294, 315, 330]",SYWB.tsv
+long,1,308,"[165, 275, 308]",SYWB.tsv
+i have,2,167,"[30, 167, 307, 314, 316, 322, 334, 338, 350, 351, 356, 361, 381]",SYWB.tsv
+i have to,3,314,"[167, 307, 314, 316, 334, 338, 350, 351, 381]",SYWB.tsv
+yesterday,1,272,"[169, 272, 343, 350]",SYWB.tsv
+it be,2,175,"[2, 93, 156, 175, 251, 319, 350]",SYWB.tsv
+i don't know,3,175,"[34, 65, 81, 175, 235, 351]",SYWB.tsv
+i don't,2,175,"[40, 65, 69, 81, 122, 124, 175, 235, 295, 305, 341, 351]",SYWB.tsv
+don't know,2,175,"[54, 175, 235, 353]",SYWB.tsv
+know what,2,175,"[61, 93, 175, 235, 328]",SYWB.tsv
+something,1,175,"[69, 175, 344]",SYWB.tsv
+know what it be,4,175,"[93, 175]",SYWB.tsv
+but i,2,175,"[152, 175, 272]",SYWB.tsv
+and he,2,176,"[32, 176]",SYWB.tsv
+do that,2,345,"[176, 345, 350, 368]",SYWB.tsv
+wow,1,225,"[177, 225]",SYWB.tsv
+n g o,3,188,"[183, 188, 189, 190]",SYWB.tsv
+for a,2,223,"[191, 223, 382]",SYWB.tsv
+yet,1,248,"[191, 248, 325]",SYWB.tsv
+be it,2,193,"[158, 193, 209, 230, 251, 319]",SYWB.tsv
+you have,2,351,"[195, 351]",SYWB.tsv
+that be,2,207,"[158, 207, 226, 279, 319, 344, 348, 350, 379]",SYWB.tsv
+sit,1,210,"[69, 210]",SYWB.tsv
+on the,2,210,"[154, 210, 294, 350]",SYWB.tsv
+be i,2,213,"[87, 91, 156, 213, 264, 369]",SYWB.tsv
+who be i,3,213,"[211, 213]",SYWB.tsv
+just say,2,349,"[215, 346, 349, 369]",SYWB.tsv
+go for a picnic,4,226,"[223, 226]",SYWB.tsv
+what i,2,235,"[61, 235]",SYWB.tsv
+in a,2,236,"[73, 236]",SYWB.tsv
+and he's,2,247,"[32, 247]",SYWB.tsv
+definitely,1,247,"[81, 164, 247]",SYWB.tsv
+one,1,247,"[225, 247]",SYWB.tsv
+still,1,248,"[247, 248, 266]",SYWB.tsv
+japanese,1,278,"[247, 278]",SYWB.tsv
+you give,2,332,"[247, 332]",SYWB.tsv
+do you know,3,249,"[61, 249, 300, 307]",SYWB.tsv
+you know,2,292,"[249, 292, 300, 307, 350]",SYWB.tsv
+yeah yeah,2,304,"[257, 304]",SYWB.tsv
+and have,2,266,"[69, 266]",SYWB.tsv
+guitar,1,278,"[266, 278, 281, 282]",SYWB.tsv
+didn't do,2,268,"[267, 268, 272, 319]",SYWB.tsv
+didn't do it,3,272,"[268, 272]",SYWB.tsv
+thirty minutes,2,278,"[277, 278]",SYWB.tsv
+suppose,1,296,"[277, 296]",SYWB.tsv
+to do it,3,306,"[277, 306, 372]",SYWB.tsv
+to the,2,279,"[61, 69, 279, 350]",SYWB.tsv
+ten,1,279,"[156, 276, 279]",SYWB.tsv
+it for,2,279,"[158, 279]",SYWB.tsv
+be you go,3,279,"[223, 279, 380]",SYWB.tsv
+then be,2,279,"[262, 279]",SYWB.tsv
+minutes be,2,279,"[278, 279]",SYWB.tsv
+play,1,281,"[38, 40, 78, 281, 282, 283, 381]",SYWB.tsv
+be a,2,281,"[61, 65, 281, 334]",SYWB.tsv
+a great,2,281,"[63, 281]",SYWB.tsv
+play the guitar,3,282,"[281, 282]",SYWB.tsv
+lot,1,288,"[281, 288, 319, 334, 366]",SYWB.tsv
+older,1,351,"[281, 351]",SYWB.tsv
+love,1,357,"[281, 357, 359, 361]",SYWB.tsv
+you can,2,283,"[255, 262, 283, 350, 363]",SYWB.tsv
+can play,2,283,"[282, 283]",SYWB.tsv
+so much,2,361,"[283, 361, 363, 372]",SYWB.tsv
+think,1,287,"[9, 32, 152, 255, 260, 287, 291, 296, 305]",SYWB.tsv
+else,1,287,"[38, 64, 287]",SYWB.tsv
+it i,2,289,"[272, 289]",SYWB.tsv
+swim,1,289,"[288, 289, 333, 334, 350, 360]",SYWB.tsv
+i think,2,291,"[9, 32, 255, 260, 291]",SYWB.tsv
+use to,2,291,"[45, 291, 372]",SYWB.tsv
+probably,1,291,"[61, 64, 81, 113, 291, 351]",SYWB.tsv
+hear,1,292,"[291, 292]",SYWB.tsv
+pool,1,292,"[291, 292, 294]",SYWB.tsv
+be just,2,294,"[291, 294, 348, 379]",SYWB.tsv
+whole,1,294,"[291, 294]",SYWB.tsv
+the whole,2,328,"[291, 328]",SYWB.tsv
+yeah i don't,3,295,"[40, 295]",SYWB.tsv
+yeah i,2,295,"[73, 118, 284, 295, 340]",SYWB.tsv
+the pool,2,295,"[292, 294, 295, 350]",SYWB.tsv
+could drown,2,300,"[296, 300]",SYWB.tsv
+know a child,3,301,"[300, 301]",SYWB.tsv
+drown in,2,301,"[300, 301]",SYWB.tsv
+six,1,332,"[300, 332]",SYWB.tsv
+don't really,2,305,"[38, 69, 122, 124, 296, 305]",SYWB.tsv
+out the,2,307,"[190, 307, 350]",SYWB.tsv
+thing,1,307,"[292, 307, 344, 350, 360, 361, 363, 366]",SYWB.tsv
+i have to do,4,351,"[307, 338, 351]",SYWB.tsv
+have to do,3,351,"[307, 315, 321, 338, 351]",SYWB.tsv
+much,1,361,"[307, 350, 361, 363, 366]",SYWB.tsv
+poor,1,312,"[311, 312]",SYWB.tsv
+have to clean the toilet,5,314,"[313, 314]",SYWB.tsv
+you have to,3,351,"[313, 351]",SYWB.tsv
+what you,2,369,"[313, 369]",SYWB.tsv
+the bin,2,315,"[314, 315]",SYWB.tsv
+recycle,1,315,"[314, 315]",SYWB.tsv
+you have to do,4,351,"[315, 321, 351]",SYWB.tsv
+whatever,1,317,"[262, 317, 366]",SYWB.tsv
+to eat,2,319,"[69, 319]",SYWB.tsv
+be really,2,319,"[95, 319]",SYWB.tsv
+days,1,319,"[154, 272, 319]",SYWB.tsv
+one of,2,319,"[225, 319]",SYWB.tsv
+hard,1,319,"[292, 319, 343]",SYWB.tsv
+work,1,332,"[319, 332, 354]",SYWB.tsv
+job,1,357,"[319, 321, 357, 359]",SYWB.tsv
+do today,2,328,"[321, 327, 328, 346]",SYWB.tsv
+you do,2,332,"[321, 332, 344]",SYWB.tsv
+well if,2,351,"[321, 351]",SYWB.tsv
+so yeah,2,365,"[321, 365, 366]",SYWB.tsv
+it so,2,369,"[321, 369]",SYWB.tsv
+i've,1,327,"[278, 292, 327, 343, 346, 372]",SYWB.tsv
+there be,2,334,"[64, 334]",SYWB.tsv
+do i,2,334,"[301, 334]",SYWB.tsv
+then i have to,4,334,"[314, 334, 350]",SYWB.tsv
+other people,2,338,"[59, 338]",SYWB.tsv
+stuff i,2,338,"[69, 338]",SYWB.tsv
+it's not,2,338,"[253, 254, 286, 297, 299, 338, 366]",SYWB.tsv
+it's like,2,338,"[255, 264, 265, 338]",SYWB.tsv
+obviously,1,338,"[306, 337, 338, 375]",SYWB.tsv
+his teeth,2,339,"[338, 339]",SYWB.tsv
+brush,1,339,"[338, 339, 341, 343]",SYWB.tsv
+make,1,351,"[338, 351]",SYWB.tsv
+things that,2,361,"[338, 361]",SYWB.tsv
+brush his teeth,3,340,"[339, 340]",SYWB.tsv
+brush his,2,341,"[340, 341]",SYWB.tsv
+a little,2,342,"[65, 342]",SYWB.tsv
+well i,2,342,"[81, 282, 342]",SYWB.tsv
+get a little,3,342,"[304, 342]",SYWB.tsv
+give,1,342,"[332, 342, 350]",SYWB.tsv
+usually,1,343,"[28, 343]",SYWB.tsv
+and he just,3,343,"[32, 343]",SYWB.tsv
+he just,2,343,"[32, 343]",SYWB.tsv
+quite,1,343,"[57, 343, 366]",SYWB.tsv
+a little bite,3,343,"[65, 343]",SYWB.tsv
+just kind of,3,343,"[69, 343]",SYWB.tsv
+and then,2,343,"[69, 76, 156, 255, 258, 260, 262, 264, 265, 332, 333, 343, 344, 350, 360]",SYWB.tsv
+i i,2,343,"[81, 260, 328, 343, 344, 350]",SYWB.tsv
+to go,2,343,"[87, 91, 192, 265, 343, 350, 355]",SYWB.tsv
+them he,2,343,"[225, 343]",SYWB.tsv
+i've get,2,343,"[278, 343]",SYWB.tsv
+and i,2,343,"[286, 314, 316, 343, 350, 358, 360, 369]",SYWB.tsv
+the bed,2,343,"[294, 343]",SYWB.tsv
+then i,2,343,"[314, 343, 344, 350, 360]",SYWB.tsv
+bottle,1,343,"[332, 343]",SYWB.tsv
+get to go,3,355,"[343, 355]",SYWB.tsv
+i go,2,344,"[292, 344, 350, 360]",SYWB.tsv
+the stuff that,3,351,"[344, 351]",SYWB.tsv
+things,1,361,"[346, 350, 360, 361, 372]",SYWB.tsv
+yeah but,2,377,"[346, 377]",SYWB.tsv
+that be just,3,379,"[348, 379]",SYWB.tsv
+the dinner,2,350,"[2, 350]",SYWB.tsv
+go round,2,350,"[32, 350]",SYWB.tsv
+stuff and,2,350,"[32, 78, 350]",SYWB.tsv
+be on,2,350,"[63, 350]",SYWB.tsv
+the shop,2,350,"[69, 350]",SYWB.tsv
+sit down,2,350,"[69, 350]",SYWB.tsv
+food,1,350,"[69, 350]",SYWB.tsv
+that in,2,350,"[73, 350]",SYWB.tsv
+try to,2,350,"[73, 350]",SYWB.tsv
+i do,2,350,"[108, 269, 270, 272, 274, 301, 320, 345, 350, 358, 360]",SYWB.tsv
+feel,1,350,"[130, 350]",SYWB.tsv
+no i'm,2,350,"[192, 350]",SYWB.tsv
+even,1,350,"[258, 350, 363]",SYWB.tsv
+erm be,2,350,"[262, 350]",SYWB.tsv
+be and then,3,350,"[264, 350]",SYWB.tsv
+be and,2,350,"[286, 350]",SYWB.tsv
+in the pool,3,350,"[292, 350]",SYWB.tsv
+do the,2,350,"[292, 350, 351]",SYWB.tsv
+chores,1,350,"[308, 350, 366]",SYWB.tsv
+and i have to,4,350,"[314, 316, 350]",SYWB.tsv
+bin,1,350,"[314, 350]",SYWB.tsv
+i i know,3,350,"[328, 350]",SYWB.tsv
+go swim,2,350,"[333, 350]",SYWB.tsv
+you feel,2,351,"[350, 351]",SYWB.tsv
+so i,2,351,"[350, 351, 360, 369]",SYWB.tsv
+all of,2,351,"[350, 351]",SYWB.tsv
+age,1,351,"[350, 351, 354, 356]",SYWB.tsv
+tell,1,355,"[350, 355, 366]",SYWB.tsv
+i know so,3,363,"[350, 363]",SYWB.tsv
+never,1,363,"[350, 363]",SYWB.tsv
+i be,2,354,"[63, 95, 152, 216, 223, 286, 292, 328, 330, 354, 356, 371]",SYWB.tsv
+be your,2,354,"[262, 354, 356]",SYWB.tsv
+when i be,3,354,"[292, 354, 356]",SYWB.tsv
+have a,2,356,"[63, 356, 357]",SYWB.tsv
+get up at,3,356,"[332, 356]",SYWB.tsv
+as well,2,358,"[351, 358]",SYWB.tsv
+read,1,360,"[158, 360]",SYWB.tsv
+i do i,3,360,"[301, 360]",SYWB.tsv
+go out,2,360,"[355, 360]",SYWB.tsv
+horse,1,361,"[360, 361]",SYWB.tsv
+to hear,2,362,"[292, 362]",SYWB.tsv
+anything,1,366,"[38, 366]",SYWB.tsv
+if i,2,366,"[63, 366]",SYWB.tsv
+know it's,2,366,"[81, 366]",SYWB.tsv
+when i'm,2,366,"[118, 351, 366]",SYWB.tsv
+two,1,366,"[154, 366]",SYWB.tsv
+i didn't,2,366,"[267, 272, 366]",SYWB.tsv
+mum,1,366,"[278, 366]",SYWB.tsv
+i can,2,366,"[282, 366]",SYWB.tsv
+it's not like i'm,4,366,"[286, 366]",SYWB.tsv
+you know when,3,366,"[292, 366]",SYWB.tsv
+just like,2,366,"[294, 366]",SYWB.tsv
+body,1,366,"[294, 366]",SYWB.tsv
+you the,2,366,"[328, 366]",SYWB.tsv
+in any,2,366,"[363, 366]",SYWB.tsv
+mean,1,106,"[61, 65, 105, 106, 368, 369]",SYWB.tsv
+that mean,2,369,"[368, 369]",SYWB.tsv
+try to say,3,370,"[73, 370]",SYWB.tsv
+to say,2,370,"[258, 370]",SYWB.tsv
+okay so,2,370,"[330, 370]",SYWB.tsv
+control v,2,372,"[367, 372, 375]",SYWB.tsv
+control,1,372,"[367, 369, 372, 375]",SYWB.tsv
+control x,2,375,"[372, 375]",SYWB.tsv
+cut,1,377,"[376, 377]",SYWB.tsv
+what be you,3,380,"[229, 380]",SYWB.tsv
+what be,2,380,"[262, 264, 380]",SYWB.tsv
+call,1,382,"[381, 382]",SYWB.tsv
+yummy,1,14,"[1, 14, 15, 21, 22, 24, 25, 97, 98, 168, 195]",SYWB.tsv
+yummy yummy,2,15,"[14, 15]",SYWB.tsv
+yummy yummy yummy,3,25,"[14, 25]",SYWB.tsv
+me me,2,111,"[48, 111]",SYWB.tsv
+and on,2,52,"[51, 52, 220]",SYWB.tsv
+ow,1,126,"[17, 44, 101, 104, 125, 126, 128, 129]",SYWB.tsv
+don't want,2,231,"[141, 209, 231, 232, 234]",SYWB.tsv
+how how,2,145,"[115, 145]",SYWB.tsv
+bee,1,179,"[178, 179]",SYWB.tsv
+ho,1,198,"[4, 7, 197, 198]",SYWB.tsv
+uh oh,2,208,"[207, 208]",SYWB.tsv
+no no,2,334,"[201, 334]",SYWB.tsv
+uh,1,344,"[208, 344]",SYWB.tsv
+yuck,1,384,"[383, 384]",SYWB.tsv

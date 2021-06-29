@@ -1,0 +1,362 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+how would you know,4,3,"[0, 3]",SUGV.tsv
+you know,2,17,"[0, 2, 17, 78, 224, 241]",SUGV.tsv
+would,1,107,"[0, 2, 3, 14, 107, 167, 174, 179, 180, 188, 197, 205, 214, 215, 217, 218, 220, 221, 230, 231, 232, 241, 253, 273, 279, 285, 286, 293, 304, 315, 319, 330, 334, 349, 352, 366]",SUGV.tsv
+know,1,103,"[0, 2, 3, 17, 78, 103, 107, 109, 214, 218, 224, 241, 242, 332]",SUGV.tsv
+would you,2,171,"[0, 2, 3, 171, 180, 285, 366]",SUGV.tsv
+how would you know if,5,3,"[2, 3]",SUGV.tsv
+happy,1,3,"[2, 3, 17, 18, 22, 23, 24, 26, 72, 124, 167, 173, 174, 177, 178, 187, 220, 228]",SUGV.tsv
+you be,2,152,"[2, 152, 157, 158, 167, 230, 366]",SUGV.tsv
+yeah,1,24,"[4, 6, 12, 20, 24, 29, 30, 33, 35, 49, 61, 100, 105, 106, 107, 111, 119, 155, 168, 173, 181, 184, 186, 194, 198, 202, 206, 223, 233, 239, 246, 255, 257, 266, 268, 281, 294, 295, 304, 317, 336, 345]",SUGV.tsv
+well,1,8,"[7, 8, 47, 82, 95, 96, 107, 109, 114, 122, 153, 172, 195, 200, 215, 218, 219, 220, 234, 259, 273, 282, 298, 308, 352, 366, 368]",SUGV.tsv
+you can,2,19,"[8, 19, 24, 195]",SUGV.tsv
+like,1,18,"[8, 14, 18, 23, 36, 39, 53, 98, 118, 119, 127, 134, 147, 157, 161, 179, 185, 193, 205, 210, 213, 226, 228, 239, 241, 252, 262, 264, 266, 273, 279, 285, 286, 292, 293, 299, 315, 319, 337]",SUGV.tsv
+really,1,23,"[8, 23, 39, 120, 127, 130, 136, 138, 192, 203, 228, 292, 332]",SUGV.tsv
+feel,1,18,"[8, 10, 14, 18, 23, 109, 140, 143, 177, 179, 187, 220]",SUGV.tsv
+nice,1,109,"[8, 109, 128, 164, 197, 265, 266]",SUGV.tsv
+well you can,3,195,"[8, 195]",SUGV.tsv
+light,1,11,"[10, 11, 12]",SUGV.tsv
+and you,2,96,"[10, 14, 96, 171, 330]",SUGV.tsv
+in the,2,50,"[14, 47, 50, 127, 220, 308, 349, 352]",SUGV.tsv
+could,1,58,"[14, 58, 115, 171, 175, 176, 183, 185, 186, 187, 195, 197, 205, 207, 210, 213, 214, 217, 218, 238, 239, 240, 242, 259, 260, 262, 268, 273, 290, 292, 293, 312, 339, 346]",SUGV.tsv
+you could,2,171,"[14, 171, 175, 176, 183, 185, 186, 195, 197, 217, 238, 273]",SUGV.tsv
+anything,1,195,"[14, 195]",SUGV.tsv
+could do,2,205,"[14, 205, 242]",SUGV.tsv
+would feel,2,220,"[14, 220]",SUGV.tsv
+you would,2,215,"[14, 215, 232]",SUGV.tsv
+i have,2,230,"[29, 230, 361]",SUGV.tsv
+that's,1,31,"[19, 25, 31, 78, 82, 84, 87, 96, 98, 128, 158, 291, 309, 319, 333, 342]",SUGV.tsv
+cos,1,31,"[22, 31, 167, 172, 173, 175, 189, 191, 192, 204, 208, 217, 259, 272, 321, 342]",SUGV.tsv
+i that's,2,309,"[31, 309]",SUGV.tsv
+be i,2,75,"[37, 53, 75, 77, 107]",SUGV.tsv
+friends,1,197,"[37, 197, 200, 221, 230]",SUGV.tsv
+cry,1,39,"[24, 26, 27, 32, 36, 39]",SUGV.tsv
+just like,2,39,"[36, 39, 213]",SUGV.tsv
+felt,1,107,"[39, 107]",SUGV.tsv
+and we,2,197,"[39, 197, 231, 240, 339]",SUGV.tsv
+laugh,1,39,"[18, 39, 241]",SUGV.tsv
+birthday,1,46,"[43, 45, 46, 47, 50]",SUGV.tsv
+it be,2,66,"[43, 66, 95, 343]",SUGV.tsv
+second birthday,2,46,"[45, 46]",SUGV.tsv
+birthday in,2,47,"[46, 47]",SUGV.tsv
+in the summer,3,50,"[47, 50]",SUGV.tsv
+time,1,124,"[47, 124, 293]",SUGV.tsv
+the twenty eighth of december,5,52,"[51, 52]",SUGV.tsv
+when be,2,53,"[50, 53, 75, 77]",SUGV.tsv
+bear,1,86,"[53, 74, 75, 77, 86, 87, 103, 104, 107, 109]",SUGV.tsv
+day,1,86,"[53, 55, 67, 86, 87, 109, 148, 149]",SUGV.tsv
+mum,1,324,"[53, 207, 324, 329, 330, 331]",SUGV.tsv
+i'm,1,59,"[23, 59, 85, 103, 192, 273, 365]",SUGV.tsv
+full of grace,3,64,"[59, 61, 64, 81]",SUGV.tsv
+full of,2,64,"[59, 61, 64, 81, 82, 84]",SUGV.tsv
+child,1,62,"[61, 62, 63, 67, 81, 86, 87, 127, 128, 130, 131, 136, 137, 144, 145, 147, 148, 157]",SUGV.tsv
+fair of face,3,64,"[61, 64, 81]",SUGV.tsv
+full of woe,3,64,"[61, 64, 81, 82]",SUGV.tsv
+child be,2,86,"[61, 63, 67, 81, 86, 127, 130, 136, 137, 144, 145, 148]",SUGV.tsv
+tuesday's child,2,128,"[61, 81, 127, 128]",SUGV.tsv
+wednesday's,1,131,"[61, 131, 136]",SUGV.tsv
+have far to go friday's child be,7,86,"[63, 86]",SUGV.tsv
+thursday's child have far to go,6,86,"[63, 86]",SUGV.tsv
+thursday's child,2,86,"[63, 86, 137]",SUGV.tsv
+thursday's,1,136,"[63, 136, 137]",SUGV.tsv
+friday's child be,3,144,"[63, 144, 145]",SUGV.tsv
+go,1,217,"[63, 65, 86, 217, 228, 231, 246, 251, 272, 288, 304, 314, 330, 358, 361, 363, 365]",SUGV.tsv
+to go,2,272,"[63, 65, 86, 272, 330, 365]",SUGV.tsv
+far to go,3,86,"[65, 86]",SUGV.tsv
+be bear on,3,86,"[67, 86, 104, 107, 109, 148]",SUGV.tsv
+the child,2,86,"[67, 86]",SUGV.tsv
+sabbath day,2,86,"[67, 86, 87, 148, 149]",SUGV.tsv
+boney,1,88,"[67, 87, 88]",SUGV.tsv
+get,1,74,"[19, 74, 122, 181, 192, 213, 222, 262, 300, 303, 330, 339, 342, 347, 362]",SUGV.tsv
+tuesday,1,74,"[56, 74, 127]",SUGV.tsv
+bear on,2,86,"[74, 86, 87, 104, 107, 109]",SUGV.tsv
+wednesday's child be,3,136,"[81, 136]",SUGV.tsv
+on the,2,87,"[50, 86, 87, 148, 230, 322, 353, 355, 357, 358, 363, 365, 366]",SUGV.tsv
+bear on the sabbath,4,87,"[86, 87]",SUGV.tsv
+but the child,3,87,"[86, 87, 148]",SUGV.tsv
+sabbath,1,149,"[87, 149]",SUGV.tsv
+bonny and blithe,3,89,"[68, 89, 119]",SUGV.tsv
+bonny,1,89,"[88, 89]",SUGV.tsv
+blithe,1,90,"[89, 90]",SUGV.tsv
+and good and gay,4,91,"[68, 91]",SUGV.tsv
+good,1,183,"[91, 127, 183, 187, 195, 276, 331, 352, 368]",SUGV.tsv
+think,1,93,"[7, 17, 19, 23, 42, 92, 93, 96, 98, 99, 101, 104, 107, 112, 113, 152, 157, 158, 167, 173, 178, 188, 191, 192, 201, 218, 220, 222, 226, 228, 230, 250, 304, 310, 330, 347]",SUGV.tsv
+i think,2,99,"[93, 99, 101, 113, 152, 157, 158, 173, 192, 201, 222, 226, 228, 230, 250, 304, 330]",SUGV.tsv
+'s,1,118,"[101, 118, 120, 195]",SUGV.tsv
+they be,2,108,"[104, 107, 108, 109, 221]",SUGV.tsv
+felt when they,3,108,"[107, 108]",SUGV.tsv
+when they,2,108,"[103, 107, 108, 109]",SUGV.tsv
+make,1,114,"[23, 103, 114, 116, 167, 174, 177, 178, 218, 220, 228, 235, 237, 241, 260, 262, 290, 292, 299, 321]",SUGV.tsv
+up a,2,183,"[114, 183]",SUGV.tsv
+okay,1,121,"[1, 117, 121, 123, 125, 140, 241, 243, 291, 298, 350]",SUGV.tsv
+like a,2,127,"[119, 127, 147, 193, 241, 264, 266, 279, 319]",SUGV.tsv
+child be really,3,136,"[127, 136]",SUGV.tsv
+child like,2,157,"[127, 147, 157]",SUGV.tsv
+be really,2,228,"[127, 130, 228]",SUGV.tsv
+a walk in,3,317,"[127, 317]",SUGV.tsv
+wednesday's child be really cheeky,5,136,"[130, 136]",SUGV.tsv
+peaky,1,140,"[137, 140, 141, 142]",SUGV.tsv
+tuesday's,1,145,"[128, 145]",SUGV.tsv
+bore,1,222,"[145, 222]",SUGV.tsv
+saturday's child,2,147,"[86, 147]",SUGV.tsv
+saturday's,1,147,"[146, 147]",SUGV.tsv
+like to,2,157,"[147, 157, 205, 273]",SUGV.tsv
+play,1,293,"[133, 147, 293, 353, 355, 357]",SUGV.tsv
+be bear on the sabbath day,6,148,"[86, 148]",SUGV.tsv
+love,1,150,"[86, 133, 150, 153, 154, 156, 320, 321]",SUGV.tsv
+always,1,154,"[138, 154, 156, 267]",SUGV.tsv
+stay,1,241,"[154, 156, 241]",SUGV.tsv
+spaghetti carbonara,2,159,"[157, 159]",SUGV.tsv
+spaghetti carbonara for a treat,5,161,"[159, 161]",SUGV.tsv
+for a,2,228,"[159, 228]",SUGV.tsv
+because i,2,179,"[23, 179]",SUGV.tsv
+bad,1,179,"[23, 179, 187]",SUGV.tsv
+people,1,179,"[96, 107, 167, 177, 179, 187, 188, 197, 201, 218, 220, 228, 248, 252]",SUGV.tsv
+i would,2,179,"[107, 179, 230, 286, 304, 330]",SUGV.tsv
+the people,2,179,"[107, 179, 188]",SUGV.tsv
+all the,2,179,"[124, 179, 185, 217, 235, 240, 244, 258, 290, 293, 352]",SUGV.tsv
+the lottery,2,179,"[167, 179, 200, 201, 205, 226, 349]",SUGV.tsv
+lose,1,188,"[179, 187, 188, 221, 222, 228]",SUGV.tsv
+people who,2,197,"[179, 197]",SUGV.tsv
+i would like,3,205,"[179, 205, 273, 279, 286, 315, 319]",SUGV.tsv
+would like,2,241,"[179, 241, 286]",SUGV.tsv
+for all the,3,352,"[179, 352]",SUGV.tsv
+hard,1,181,"[86, 181]",SUGV.tsv
+that and,2,181,"[96, 181, 226]",SUGV.tsv
+might not,2,181,"[178, 181]",SUGV.tsv
+might,1,181,"[178, 181, 189, 191, 204, 220, 331]",SUGV.tsv
+not have,2,275,"[181, 275]",SUGV.tsv
+to get,2,330,"[181, 213, 330]",SUGV.tsv
+much,1,330,"[181, 330]",SUGV.tsv
+i could,2,187,"[58, 187]",SUGV.tsv
+and good,2,187,"[68, 187]",SUGV.tsv
+people have,2,187,"[96, 187]",SUGV.tsv
+could set up a,4,187,"[183, 187]",SUGV.tsv
+charity,1,187,"[183, 185, 187, 230]",SUGV.tsv
+stop,1,201,"[187, 201, 249, 369]",SUGV.tsv
+set up,2,230,"[187, 230]",SUGV.tsv
+i'll,1,326,"[187, 326]",SUGV.tsv
+cos they,2,204,"[189, 191, 192, 204, 321]",SUGV.tsv
+gonna,1,192,"[19, 152, 157, 158, 192, 214]",SUGV.tsv
+think they,2,192,"[104, 192]",SUGV.tsv
+win,1,192,"[167, 171, 185, 188, 192, 204, 226]",SUGV.tsv
+stuff,1,192,"[175, 176, 192, 339]",SUGV.tsv
+definitely,1,241,"[192, 241]",SUGV.tsv
+yeah but,2,198,"[107, 198]",SUGV.tsv
+but what,2,200,"[92, 195, 200, 253]",SUGV.tsv
+enter the lottery,3,201,"[200, 201, 349]",SUGV.tsv
+enter,1,323,"[200, 323, 349]",SUGV.tsv
+we could,2,207,"[115, 195, 205, 207, 210, 213, 214, 218, 239, 240, 242, 259, 260, 262, 268, 290, 292, 293, 312, 339, 346]",SUGV.tsv
+want,1,195,"[5, 18, 171, 195, 208, 210, 267, 272]",SUGV.tsv
+buy,1,210,"[171, 175, 176, 195, 210, 228, 230, 262, 322]",SUGV.tsv
+want we could,3,210,"[195, 210]",SUGV.tsv
+jelly,1,210,"[205, 210, 213, 217, 218, 230]",SUGV.tsv
+we've want,2,210,"[208, 210]",SUGV.tsv
+we've,1,347,"[210, 300, 303, 347, 368]",SUGV.tsv
+save,1,352,"[210, 213, 352]",SUGV.tsv
+money to,2,213,"[183, 185, 213, 230, 347]",SUGV.tsv
+money,1,213,"[183, 197, 213, 218, 221, 222, 226, 230, 347, 349, 352]",SUGV.tsv
+find,1,231,"[58, 231, 330, 349]",SUGV.tsv
+on your,2,231,"[197, 231]",SUGV.tsv
+we would,2,231,"[214, 231, 334, 349]",SUGV.tsv
+it and,2,231,"[230, 231]",SUGV.tsv
+hoop,1,231,"[230, 231]",SUGV.tsv
+jump on,2,232,"[231, 232]",SUGV.tsv
+we have,2,250,"[241, 250, 253, 304, 307]",SUGV.tsv
+i think we,3,330,"[250, 330]",SUGV.tsv
+a cinema,2,256,"[255, 256]",SUGV.tsv
+net,1,264,"[262, 264, 265, 266]",SUGV.tsv
+we can have,3,335,"[262, 335]",SUGV.tsv
+we can,2,262,"[258, 262, 335]",SUGV.tsv
+nice pretty net,3,266,"[265, 266]",SUGV.tsv
+cool,1,291,"[280, 291, 332, 335, 338]",SUGV.tsv
+big,1,292,"[22, 228, 292, 322]",SUGV.tsv
+room,1,292,"[238, 241, 253, 254, 256, 292, 293, 319]",SUGV.tsv
+and a,2,292,"[241, 269, 270, 292]",SUGV.tsv
+music room,2,293,"[292, 293]",SUGV.tsv
+hear,1,294,"[7, 172, 294]",SUGV.tsv
+neighbour,1,296,"[228, 239, 244, 293, 296, 297, 298, 300, 303, 304]",SUGV.tsv
+we won't have any neighbour,5,297,"[296, 297]",SUGV.tsv
+back,1,300,"[228, 300, 303]",SUGV.tsv
+some neighbour,2,304,"[300, 303, 304]",SUGV.tsv
+we've get,2,347,"[300, 303, 347]",SUGV.tsv
+you just,2,320,"[96, 320]",SUGV.tsv
+we'll have,2,329,"[298, 329]",SUGV.tsv
+we'll,1,329,"[298, 304, 329, 369]",SUGV.tsv
+be you,2,331,"[214, 276, 331]",SUGV.tsv
+you a,2,352,"[331, 352]",SUGV.tsv
+that fly,2,340,"[339, 340]",SUGV.tsv
+an invisibility cloak,3,342,"[339, 342]",SUGV.tsv
+thing,1,343,"[5, 60, 343, 352]",SUGV.tsv
+it be a,3,343,"[66, 343]",SUGV.tsv
+be a,2,343,"[226, 317, 343]",SUGV.tsv
+a real thing,3,343,"[342, 343]",SUGV.tsv
+on the tablet,3,358,"[353, 355, 357, 358, 363, 365, 366]",SUGV.tsv
+can't,1,363,"[23, 56, 64, 272, 321, 342, 363]",SUGV.tsv
+go on,2,363,"[251, 288, 363, 365]",SUGV.tsv
+go on the tablet,4,363,"[358, 363, 365]",SUGV.tsv
+know if,2,109,"[2, 3, 109]",SUGV.tsv
+if you,2,171,"[2, 171, 185]",SUGV.tsv
+be happy,2,173,"[2, 173]",SUGV.tsv
+well you,2,215,"[8, 195, 215]",SUGV.tsv
+you feel,2,18,"[10, 18]",SUGV.tsv
+feel like you,3,18,"[14, 18]",SUGV.tsv
+yeah i,2,173,"[29, 173]",SUGV.tsv
+and er,2,237,"[37, 237]",SUGV.tsv
+be just,2,221,"[39, 221]",SUGV.tsv
+and and,2,327,"[39, 327]",SUGV.tsv
+when be i bear,4,75,"[53, 75, 77]",SUGV.tsv
+be bear,2,103,"[67, 86, 103, 148]",SUGV.tsv
+wednesday's child,2,131,"[81, 130, 131, 136]",SUGV.tsv
+and gay,2,70,"[68, 70, 91]",SUGV.tsv
+when they be,3,108,"[103, 108]",SUGV.tsv
+quite,1,137,"[22, 109, 137, 139, 181]",SUGV.tsv
+be very,2,145,"[26, 145]",SUGV.tsv
+to play with,3,147,"[133, 147]",SUGV.tsv
+brother,1,154,"[150, 153, 154, 156]",SUGV.tsv
+who love,2,154,"[153, 154]",SUGV.tsv
+will always stay,3,156,"[154, 156]",SUGV.tsv
+they might,2,204,"[181, 204]",SUGV.tsv
+cos they might,3,204,"[189, 191, 204]",SUGV.tsv
+mansion,1,246,"[192, 246, 312, 316, 346]",SUGV.tsv
+up and,2,246,"[210, 246]",SUGV.tsv
+actually,1,272,"[210, 272]",SUGV.tsv
+would go,2,231,"[217, 231]",SUGV.tsv
+go and,2,246,"[231, 246]",SUGV.tsv
+like this,2,262,"[239, 262]",SUGV.tsv
+we could make we could,5,262,"[260, 262]",SUGV.tsv
+bed,1,264,"[262, 264]",SUGV.tsv
+have our,2,290,"[262, 290, 334]",SUGV.tsv
+but we,2,307,"[262, 307]",SUGV.tsv
+we could make,3,292,"[260, 292]",SUGV.tsv
+special effect,2,292,"[290, 292]",SUGV.tsv
+yeah and,2,294,"[233, 246, 294]",SUGV.tsv
+marshmallows,1,325,"[320, 325]",SUGV.tsv
+and we could,3,339,"[240, 339]",SUGV.tsv
+x,1,339,"[338, 339, 341]",SUGV.tsv
+can i,2,353,"[286, 353, 355, 361]",SUGV.tsv
+you're happy,2,18,"[3, 18, 24]",SUGV.tsv
+if you're,2,22,"[3, 22, 241]",SUGV.tsv
+you want to,3,18,"[5, 18]",SUGV.tsv
+you want,2,171,"[5, 171, 195]",SUGV.tsv
+want to,2,272,"[5, 272]",SUGV.tsv
+what do,2,79,"[7, 17, 79, 83, 92, 112, 118, 142, 167, 333]",SUGV.tsv
+around,1,312,"[7, 301, 312, 346]",SUGV.tsv
+when you're happy,3,18,"[17, 18, 24]",SUGV.tsv
+know when,2,103,"[17, 103]",SUGV.tsv
+come,1,324,"[17, 76, 92, 94, 151, 324]",SUGV.tsv
+little,1,109,"[19, 109, 230, 352]",SUGV.tsv
+have a,2,211,"[19, 48, 78, 98, 205, 211, 215, 230, 238, 253, 259, 268, 275, 282, 307, 335]",SUGV.tsv
+and then,2,240,"[19, 86, 172, 218, 240, 246, 252, 322, 328, 330]",SUGV.tsv
+eat the,2,217,"[23, 217]",SUGV.tsv
+school,1,307,"[34, 307, 330]",SUGV.tsv
+so you,2,48,"[24, 48]",SUGV.tsv
+you have,2,48,"[26, 48, 50, 173, 352]",SUGV.tsv
+mean,1,79,"[48, 54, 72, 78, 79, 83, 110, 118, 142, 195, 221]",SUGV.tsv
+find out,2,349,"[58, 349]",SUGV.tsv
+say,1,286,"[64, 157, 158, 214, 286, 309, 322, 330]",SUGV.tsv
+that mean,2,83,"[72, 83]",SUGV.tsv
+wednesday,1,79,"[78, 79, 107, 109]",SUGV.tsv
+rhyme,1,93,"[78, 80, 93, 98, 157]",SUGV.tsv
+give,1,185,"[86, 185, 230, 278, 352]",SUGV.tsv
+work,1,221,"[86, 220, 221]",SUGV.tsv
+just think,2,310,"[96, 310]",SUGV.tsv
+to have a,3,211,"[98, 205, 211, 215]",SUGV.tsv
+probably,1,104,"[28, 104, 109, 173, 220, 226, 230, 304]",SUGV.tsv
+they be bear,3,104,"[103, 104, 107]",SUGV.tsv
+they be bear on a,5,109,"[104, 109]",SUGV.tsv
+be bear on a,4,109,"[104, 107, 109]",SUGV.tsv
+if they be bear on a wednesday,7,109,"[107, 109]",SUGV.tsv
+when they know,3,109,"[107, 109]",SUGV.tsv
+something,1,310,"[107, 226, 310, 332, 340]",SUGV.tsv
+one,1,115,"[113, 115, 322, 330]",SUGV.tsv
+person,1,119,"[103, 119, 230]",SUGV.tsv
+of us,2,244,"[122, 244]",SUGV.tsv
+us,1,244,"[122, 244]",SUGV.tsv
+grumpy,1,124,"[120, 124]",SUGV.tsv
+oh yeah,2,206,"[155, 206]",SUGV.tsv
+eat,1,217,"[157, 217, 319]",SUGV.tsv
+what i,2,286,"[158, 286, 309]",SUGV.tsv
+you win a million pound,5,171,"[167, 171]",SUGV.tsv
+happy cos,2,173,"[167, 173]",SUGV.tsv
+make people,2,177,"[167, 177]",SUGV.tsv
+you win,2,185,"[167, 185]",SUGV.tsv
+million,1,185,"[167, 185, 226, 230]",SUGV.tsv
+first,1,211,"[172, 211, 215, 361, 365]",SUGV.tsv
+why would,2,174,"[171, 174]",SUGV.tsv
+you could buy,3,176,"[171, 175, 176, 195]",SUGV.tsv
+you could buy load of awesome stuff,7,176,"[175, 176]",SUGV.tsv
+load of,2,248,"[176, 248]",SUGV.tsv
+anyone,1,190,"[188, 190]",SUGV.tsv
+win it,2,204,"[188, 204]",SUGV.tsv
+it would,2,217,"[188, 214, 217, 221]",SUGV.tsv
+lego,1,195,"[133, 195, 368]",SUGV.tsv
+could buy,2,195,"[171, 175, 195]",SUGV.tsv
+lot of,2,221,"[195, 221, 228, 230, 259, 319]",SUGV.tsv
+have to,2,197,"[26, 197, 211, 215, 220]",SUGV.tsv
+er you,2,197,"[173, 197]",SUGV.tsv
+would be,2,349,"[197, 293, 304, 330, 349]",SUGV.tsv
+need,1,349,"[197, 201, 214, 230, 349, 362]",SUGV.tsv
+to be,2,201,"[26, 201]",SUGV.tsv
+do that,2,205,"[83, 205, 347]",SUGV.tsv
+bath,1,211,"[205, 211, 215, 218]",SUGV.tsv
+we could do,3,242,"[205, 242]",SUGV.tsv
+a lot,2,221,"[214, 221]",SUGV.tsv
+i know,2,242,"[214, 242, 332]",SUGV.tsv
+bring,1,246,"[218, 246]",SUGV.tsv
+someone,1,272,"[218, 272]",SUGV.tsv
+if they,2,220,"[109, 220, 222]",SUGV.tsv
+they would,2,221,"[220, 221]",SUGV.tsv
+make somebody,2,235,"[220, 235]",SUGV.tsv
+they'd,1,222,"[109, 222]",SUGV.tsv
+lose a lot of money,5,222,"[221, 222]",SUGV.tsv
+they wouldn't,2,222,"[221, 222]",SUGV.tsv
+there be,2,325,"[224, 226, 251, 325]",SUGV.tsv
+million pound,2,226,"[171, 226]",SUGV.tsv
+all of,2,244,"[226, 228, 244]",SUGV.tsv
+be in,2,349,"[226, 349]",SUGV.tsv
+very happy,2,228,"[26, 228]",SUGV.tsv
+of people,2,248,"[228, 248]",SUGV.tsv
+house,1,299,"[228, 241, 245, 251, 299, 301, 304]",SUGV.tsv
+a big,2,322,"[228, 322]",SUGV.tsv
+come in,2,324,"[228, 324]",SUGV.tsv
+a million pound,3,230,"[171, 230]",SUGV.tsv
+to charity,2,230,"[185, 230]",SUGV.tsv
+would have,2,230,"[215, 230, 334]",SUGV.tsv
+lot of money,3,230,"[221, 230, 352]",SUGV.tsv
+studio with,2,290,"[230, 259, 290]",SUGV.tsv
+could have,2,239,"[238, 239, 268, 273, 290]",SUGV.tsv
+bouncy,1,264,"[238, 264]",SUGV.tsv
+could have a,3,268,"[238, 268]",SUGV.tsv
+pound,1,241,"[171, 241, 304]",SUGV.tsv
+even,1,260,"[241, 260, 284, 336]",SUGV.tsv
+we'd have,2,245,"[211, 245, 282]",SUGV.tsv
+we'd,1,245,"[233, 235, 245, 246, 322]",SUGV.tsv
+we'd have this,3,246,"[245, 246]",SUGV.tsv
+so we'd,2,313,"[245, 313]",SUGV.tsv
+disco room,2,254,"[253, 254]",SUGV.tsv
+we have a,3,307,"[253, 307]",SUGV.tsv
+well it,2,259,"[95, 259]",SUGV.tsv
+we could have,3,259,"[239, 259, 290]",SUGV.tsv
+we could have a,4,268,"[259, 268]",SUGV.tsv
+slide,1,270,"[267, 270, 272, 273]",SUGV.tsv
+stairs,1,270,"[267, 270, 273]",SUGV.tsv
+a fireman's pole,3,270,"[269, 270]",SUGV.tsv
+to have,2,273,"[211, 215, 273]",SUGV.tsv
+garden,1,282,"[279, 282, 284]",SUGV.tsv
+and what,2,285,"[79, 285]",SUGV.tsv
+the neighbour,2,293,"[239, 244, 293]",SUGV.tsv
+like the,2,337,"[293, 337]",SUGV.tsv
+be able to,3,304,"[221, 304]",SUGV.tsv
+to move out,3,304,"[239, 244, 304]",SUGV.tsv
+underground,1,316,"[314, 316]",SUGV.tsv
+what i would like,4,315,"[286, 315, 319]",SUGV.tsv
+with all,2,317,"[290, 317]",SUGV.tsv
+lot,1,319,"[221, 319]",SUGV.tsv
+them cos,2,321,"[272, 321]",SUGV.tsv
+do not,2,324,"[323, 324]",SUGV.tsv
+and the,2,351,"[326, 351]",SUGV.tsv
+we need,2,349,"[330, 349]",SUGV.tsv
+and find,2,349,"[330, 349]",SUGV.tsv
+private jet,2,335,"[334, 335]",SUGV.tsv
+of money,2,352,"[221, 352]",SUGV.tsv

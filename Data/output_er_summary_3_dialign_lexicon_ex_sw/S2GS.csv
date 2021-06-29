@@ -1,0 +1,189 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+batteries,1,1,"[0, 1]",S2GS.tsv
+good,1,15,"[0, 15, 55, 114, 192, 200]",S2GS.tsv
+that's,1,38,"[0, 38, 55, 62, 76, 83, 96, 105, 124, 137, 206, 238]",S2GS.tsv
+first,1,143,"[0, 143, 192]",S2GS.tsv
+pretty,1,173,"[0, 173]",S2GS.tsv
+that's the,2,206,"[0, 206]",S2GS.tsv
+no i,2,11,"[4, 11, 153, 217]",S2GS.tsv
+mean,1,76,"[4, 57, 75, 76, 109, 119]",S2GS.tsv
+mean just,2,109,"[4, 109]",S2GS.tsv
+they're,1,119,"[4, 39, 114, 119, 136, 209]",S2GS.tsv
+but i,2,221,"[4, 221]",S2GS.tsv
+person,1,8,"[7, 8, 10]",S2GS.tsv
+think,1,8,"[7, 8, 14, 28, 75, 113, 122, 126, 160, 162, 202, 220]",S2GS.tsv
+i'm,1,8,"[7, 8, 10, 39, 91, 95, 213]",S2GS.tsv
+small,1,8,"[7, 8]",S2GS.tsv
+actually,1,13,"[8, 13, 14, 56, 61, 71, 92, 148]",S2GS.tsv
+like,1,22,"[8, 12, 22, 25, 41, 56, 59, 61, 68, 75, 86, 91, 95, 106, 116, 119, 135, 147, 151, 164, 196, 197, 221]",S2GS.tsv
+tiny,1,34,"[8, 34, 220]",S2GS.tsv
+big,1,44,"[8, 44, 46]",S2GS.tsv
+particularly,1,10,"[1, 10]",S2GS.tsv
+i'm just,2,10,"[7, 10]",S2GS.tsv
+say,1,12,"[11, 12, 14, 132, 178]",S2GS.tsv
+full,1,170,"[12, 14, 31, 132, 170, 180]",S2GS.tsv
+we're actually,2,14,"[13, 14]",S2GS.tsv
+we're,1,14,"[13, 14, 170, 191, 237]",S2GS.tsv
+be go,2,32,"[14, 32]",S2GS.tsv
+one in,2,32,"[14, 32]",S2GS.tsv
+one,1,32,"[14, 32, 71, 105, 111, 178, 187, 220, 221, 231]",S2GS.tsv
+just a,2,38,"[14, 38, 164, 220]",S2GS.tsv
+go,1,43,"[14, 32, 43, 57, 88, 94, 127, 134, 160, 164, 170, 176, 186, 192, 200, 211, 212, 213, 219, 221, 237, 242, 244, 246]",S2GS.tsv
+a long sword,3,23,"[22, 23]",S2GS.tsv
+be a,2,88,"[23, 88, 145]",S2GS.tsv
+it be,2,135,"[23, 47, 81, 108, 135, 164, 220]",S2GS.tsv
+get,1,25,"[1, 17, 25, 71, 158, 177, 187, 202, 223]",S2GS.tsv
+get a,2,25,"[17, 25, 71, 177]",S2GS.tsv
+it's a,2,146,"[27, 61, 77, 146]",S2GS.tsv
+see,1,50,"[31, 50, 78, 192, 213, 214]",S2GS.tsv
+people,1,246,"[31, 91, 95, 183, 246]",S2GS.tsv
+yeah,1,33,"[24, 33, 42, 55, 59, 60, 65, 67, 83, 84, 98, 106, 107, 110, 121, 123, 133, 134, 152, 153, 161, 165, 168, 177, 183, 193, 194, 197, 198, 210, 214, 228, 239, 244, 247]",S2GS.tsv
+of course,2,66,"[33, 66]",S2GS.tsv
+oh yeah,2,161,"[33, 161]",S2GS.tsv
+and it,2,94,"[39, 94, 164]",S2GS.tsv
+cool,1,146,"[39, 73, 146, 199]",S2GS.tsv
+really,1,145,"[39, 91, 106, 108, 114, 145, 146, 149, 162, 166, 167, 200]",S2GS.tsv
+point,1,152,"[39, 152]",S2GS.tsv
+something,1,192,"[39, 192]",S2GS.tsv
+better,1,238,"[39, 132, 238]",S2GS.tsv
+guy,1,41,"[20, 41]",S2GS.tsv
+the guy,2,246,"[41, 246]",S2GS.tsv
+in the,2,47,"[32, 36, 47, 49, 55, 61, 89, 92, 114, 158, 178]",S2GS.tsv
+yes,1,66,"[47, 66, 127, 137, 241]",S2GS.tsv
+you're not,2,88,"[47, 88]",S2GS.tsv
+park,1,145,"[47, 49, 51, 55, 57, 61, 145, 146, 148, 178, 196, 234]",S2GS.tsv
+multi,1,200,"[47, 49, 200]",S2GS.tsv
+sort of,2,51,"[26, 51, 91, 94, 95, 126, 147, 196]",S2GS.tsv
+sorry,1,53,"[48, 53]",S2GS.tsv
+a good,2,55,"[15, 55]",S2GS.tsv
+two,1,56,"[55, 56, 57]",S2GS.tsv
+that's a,2,96,"[55, 96]",S2GS.tsv
+go and,2,244,"[57, 244]",S2GS.tsv
+side,1,66,"[59, 66, 91, 249]",S2GS.tsv
+know,1,90,"[61, 90, 95, 116, 119, 124, 125, 156, 160, 162, 184, 192, 202]",S2GS.tsv
+always,1,133,"[61, 133, 239]",S2GS.tsv
+far,1,200,"[61, 200]",S2GS.tsv
+you know,2,119,"[61, 116, 119, 124, 156, 160, 162, 202]",S2GS.tsv
+a bite,2,213,"[61, 164, 212, 213]",S2GS.tsv
+okay,1,190,"[63, 172, 189, 190, 248, 249]",S2GS.tsv
+coat,1,71,"[36, 68, 71, 106, 110]",S2GS.tsv
+should get,2,202,"[71, 202]",S2GS.tsv
+like a,2,75,"[22, 75]",S2GS.tsv
+sock,1,75,"[72, 75]",S2GS.tsv
+ice,1,75,"[72, 75, 77]",S2GS.tsv
+you mean,2,109,"[75, 109]",S2GS.tsv
+well,1,77,"[11, 13, 28, 38, 56, 77, 83, 96, 100, 116, 119, 120, 165, 177, 183, 192, 213, 215, 219]",S2GS.tsv
+he's,1,81,"[17, 22, 81]",S2GS.tsv
+that's that's,2,83,"[38, 83]",S2GS.tsv
+that's it,2,137,"[83, 137]",S2GS.tsv
+excellent,1,113,"[83, 113, 242]",S2GS.tsv
+give,1,91,"[46, 91, 135, 178]",S2GS.tsv
+the side,2,91,"[66, 91]",S2GS.tsv
+signal,1,91,"[88, 91, 92, 95]",S2GS.tsv
+a really,2,145,"[91, 145, 146]",S2GS.tsv
+hand,1,95,"[17, 32, 89, 95]",S2GS.tsv
+i know,2,95,"[90, 95, 184]",S2GS.tsv
+way,1,160,"[95, 160, 211]",S2GS.tsv
+woman,1,103,"[36, 103]",S2GS.tsv
+on the,2,106,"[20, 46, 106, 160, 246]",S2GS.tsv
+like that,2,106,"[86, 106]",S2GS.tsv
+it's really,2,200,"[106, 114, 200]",S2GS.tsv
+round,1,211,"[106, 211, 213]",S2GS.tsv
+look,1,108,"[20, 98, 100, 102, 108, 116, 147, 206, 215, 232]",S2GS.tsv
+just lie,2,110,"[109, 110]",S2GS.tsv
+come,1,213,"[110, 213]",S2GS.tsv
+it's really good,3,200,"[114, 200]",S2GS.tsv
+around,1,160,"[114, 160, 202]",S2GS.tsv
+time,1,139,"[116, 139]",S2GS.tsv
+as well,2,119,"[116, 119, 183, 213]",S2GS.tsv
+a lot of,3,120,"[96, 120]",S2GS.tsv
+try,1,122,"[50, 122, 158]",S2GS.tsv
+slightly,1,122,"[80, 122, 170]",S2GS.tsv
+to be,2,122,"[64, 122, 182]",S2GS.tsv
+it's not,2,124,"[94, 124, 164]",S2GS.tsv
+might be,2,141,"[126, 141]",S2GS.tsv
+i sort of,3,196,"[126, 196]",S2GS.tsv
+might,1,213,"[126, 213]",S2GS.tsv
+just go,2,192,"[134, 192, 219]",S2GS.tsv
+car,1,148,"[52, 54, 66, 145, 146, 148, 178, 196, 220, 227]",S2GS.tsv
+car park,2,148,"[145, 146, 148, 178, 196]",S2GS.tsv
+hold,1,150,"[22, 150, 152]",S2GS.tsv
+handbrake,1,170,"[150, 170]",S2GS.tsv
+bite,1,213,"[150, 213]",S2GS.tsv
+drive,1,157,"[64, 157, 160, 202]",S2GS.tsv
+we go,2,186,"[164, 176, 186]",S2GS.tsv
+go up,2,192,"[176, 192, 246]",S2GS.tsv
+this car park,3,196,"[178, 196]",S2GS.tsv
+will be,2,183,"[32, 183]",S2GS.tsv
+wait,1,183,"[180, 183]",S2GS.tsv
+come up,2,213,"[183, 213]",S2GS.tsv
+yep,1,208,"[195, 205, 207, 208]",S2GS.tsv
+go round,2,212,"[211, 212, 213]",S2GS.tsv
+there be,2,220,"[92, 220]",S2GS.tsv
+but it,2,220,"[133, 220]",S2GS.tsv
+there be one there but,5,221,"[220, 221]",S2GS.tsv
+a small,2,227,"[7, 227]",S2GS.tsv
+one there,2,231,"[221, 231]",S2GS.tsv
+up here,2,246,"[239, 246]",S2GS.tsv
+take your,2,243,"[139, 243]",S2GS.tsv
+right,1,252,"[107, 170, 180, 209, 252]",S2GS.tsv
+let's,1,252,"[242, 244, 252]",S2GS.tsv
+perfect,1,252,"[251, 252]",S2GS.tsv
+though,1,62,"[0, 62, 108, 136]",S2GS.tsv
+i mean,2,119,"[4, 57, 119]",S2GS.tsv
+i think,2,113,"[8, 14, 75, 113, 122, 162, 220]",S2GS.tsv
+ha ha,2,179,"[8, 23, 47, 55, 59, 81, 128, 140, 171, 179, 185, 189, 245]",S2GS.tsv
+ha,1,179,"[8, 51, 87, 91, 126, 159, 179, 185, 203]",S2GS.tsv
+maybe,1,111,"[23, 111]",S2GS.tsv
+long,1,160,"[22, 23, 160]",S2GS.tsv
+there's,1,119,"[31, 51, 106, 110, 116, 119, 120, 134]",S2GS.tsv
+put,1,89,"[39, 55, 89]",S2GS.tsv
+of the,2,111,"[39, 111]",S2GS.tsv
+make it,2,160,"[39, 160, 165]",S2GS.tsv
+i like,2,68,"[41, 68]",S2GS.tsv
+of park,2,234,"[51, 234]",S2GS.tsv
+idea,1,113,"[55, 113]",S2GS.tsv
+dad,1,151,"[55, 59, 61, 151, 158]",S2GS.tsv
+worth,1,253,"[55, 253]",S2GS.tsv
+be it,2,253,"[63, 93, 253]",S2GS.tsv
+to the,2,160,"[91, 148, 160]",S2GS.tsv
+kind of,2,119,"[95, 119]",S2GS.tsv
+spanish,1,99,"[98, 99]",S2GS.tsv
+walk,1,106,"[62, 64, 106]",S2GS.tsv
+cream,1,106,"[105, 106]",S2GS.tsv
+fur,1,106,"[105, 106]",S2GS.tsv
+the top,2,160,"[106, 160]",S2GS.tsv
+it's just,2,165,"[110, 134, 162, 165]",S2GS.tsv
+the youth centre,3,112,"[111, 112, 114, 120, 124]",S2GS.tsv
+hang,1,119,"[114, 119]",S2GS.tsv
+have a,2,116,"[62, 116]",S2GS.tsv
+you want,2,116,"[64, 116]",S2GS.tsv
+could,1,116,"[89, 116, 162, 163]",S2GS.tsv
+you know what,3,119,"[116, 119]",S2GS.tsv
+want,1,165,"[116, 165]",S2GS.tsv
+try to,2,158,"[122, 158]",S2GS.tsv
+do you,2,130,"[119, 130, 156, 172, 197]",S2GS.tsv
+but it's,2,165,"[132, 165]",S2GS.tsv
+this be,2,148,"[145, 148, 149, 150]",S2GS.tsv
+just the,2,165,"[148, 165]",S2GS.tsv
+where you,2,150,"[64, 150]",S2GS.tsv
+to the top,3,176,"[160, 176]",S2GS.tsv
+one of the,3,178,"[111, 178]",S2GS.tsv
+be gonna,2,178,"[160, 178, 193]",S2GS.tsv
+make,1,178,"[160, 165, 178]",S2GS.tsv
+gotta,1,183,"[64, 183]",S2GS.tsv
+from the,2,183,"[111, 183]",S2GS.tsv
+cos,1,183,"[119, 183]",S2GS.tsv
+he do,2,226,"[82, 226]",S2GS.tsv
+take,1,165,"[139, 165, 243, 253]",S2GS.tsv
+piece of,2,234,"[15, 234]",S2GS.tsv
+think it's,2,113,"[28, 113]",S2GS.tsv
+that he,2,62,"[56, 62]",S2GS.tsv
+they look,2,102,"[98, 102]",S2GS.tsv
+somewhere,1,109,"[64, 109, 119]",S2GS.tsv
+it's an,2,182,"[113, 182]",S2GS.tsv
+sort of like,3,196,"[147, 196]",S2GS.tsv
+drive around,2,202,"[160, 202]",S2GS.tsv
+anything,1,213,"[165, 213]",S2GS.tsv
+feel,1,221,"[119, 221]",S2GS.tsv
+air,1,223,"[89, 223]",S2GS.tsv

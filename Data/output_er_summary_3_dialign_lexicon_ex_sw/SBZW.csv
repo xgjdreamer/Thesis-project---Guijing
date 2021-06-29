@@ -1,0 +1,225 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+cleaner,1,6,"[0, 6]",SBZW.tsv
+you know,2,31,"[0, 31, 43, 49, 51, 73, 78, 113, 145, 155, 185, 225, 232]",SBZW.tsv
+well,1,19,"[3, 18, 19, 21, 24, 25, 36, 54, 60, 96, 100, 108, 145, 167, 169, 173, 176, 181, 201, 209, 224]",SBZW.tsv
+get,1,11,"[5, 11, 18, 24, 25, 43, 71, 78, 87, 117, 123, 124, 135, 137, 157, 167, 179, 187, 230, 240, 245]",SBZW.tsv
+yeah,1,8,"[2, 8, 9, 13, 18, 21, 22, 27, 29, 40, 42, 48, 62, 71, 72, 75, 77, 79, 81, 83, 110, 112, 116, 119, 127, 131, 134, 143, 149, 153, 167, 168, 173, 174, 184, 190, 192, 196, 207, 222, 226, 231, 233, 241, 244, 247, 251]",SBZW.tsv
+suppose,1,27,"[4, 7, 8, 27, 73, 222]",SBZW.tsv
+like,1,17,"[10, 17, 31, 71, 85, 113, 126, 128, 130, 136, 137, 145, 147, 150, 161, 202, 242]",SBZW.tsv
+clean,1,18,"[1, 6, 17, 18, 19]",SBZW.tsv
+us,1,38,"[18, 38, 154]",SBZW.tsv
+people,1,18,"[17, 18, 113, 176, 180, 224, 250]",SBZW.tsv
+every,1,225,"[18, 117, 225, 230]",SBZW.tsv
+put,1,225,"[18, 22, 26, 28, 225]",SBZW.tsv
+would,1,211,"[20, 210, 211, 215, 219]",SBZW.tsv
+do you,2,31,"[22, 31, 123, 125, 129, 131, 189, 202, 240]",SBZW.tsv
+can understand,2,220,"[22, 220]",SBZW.tsv
+understand,1,22,"[17, 22, 220, 224, 227, 232]",SBZW.tsv
+i've,1,24,"[17, 24, 43, 56, 68, 73, 85, 89, 90, 176, 178, 181, 241, 246]",SBZW.tsv
+know,1,19,"[0, 19, 28, 31, 32, 34, 38, 43, 49, 51, 54, 68, 73, 78, 85, 86, 90, 94, 103, 108, 109, 113, 145, 155, 185, 194, 201, 225, 232, 250]",SBZW.tsv
+i'm,1,50,"[30, 35, 50, 111, 140, 181, 183, 187, 208, 220, 250, 252]",SBZW.tsv
+i i,2,34,"[19, 34, 89, 241]",SBZW.tsv
+when you're,2,216,"[39, 216]",SBZW.tsv
+call,1,222,"[39, 49, 222]",SBZW.tsv
+you can,2,41,"[25, 27, 41, 185, 220]",SBZW.tsv
+that's,1,43,"[21, 43, 73, 85, 88, 116, 151, 154, 155, 160, 161, 166, 180, 181, 182, 206, 220, 222, 226, 235, 237, 245]",SBZW.tsv
+they're,1,220,"[45, 167, 220]",SBZW.tsv
+so you,2,220,"[55, 220]",SBZW.tsv
+when you be,3,216,"[67, 216]",SBZW.tsv
+when you,2,216,"[67, 216]",SBZW.tsv
+in my,2,74,"[56, 68, 74, 241]",SBZW.tsv
+say,1,76,"[66, 76, 105, 150, 166, 202, 204, 216, 220, 224, 225]",SBZW.tsv
+to say,2,224,"[76, 224]",SBZW.tsv
+you don't,2,224,"[78, 85, 86, 224]",SBZW.tsv
+right,1,102,"[88, 102, 138, 140, 206, 207, 235, 237, 239]",SBZW.tsv
+h,1,225,"[92, 225]",SBZW.tsv
+b,1,225,"[96, 98, 101, 225]",SBZW.tsv
+read,1,241,"[140, 156, 206, 240, 241]",SBZW.tsv
+never,1,148,"[17, 66, 148, 219, 241]",SBZW.tsv
+be say,2,216,"[150, 216]",SBZW.tsv
+on the,2,156,"[11, 145, 156]",SBZW.tsv
+buy them,2,159,"[157, 158, 159, 166]",SBZW.tsv
+they don't,2,165,"[164, 165, 166, 168, 225]",SBZW.tsv
+buy,1,161,"[158, 159, 161, 166, 181]",SBZW.tsv
+that's right,2,235,"[206, 235, 237]",SBZW.tsv
+you would,2,211,"[210, 211]",SBZW.tsv
+hit,1,218,"[205, 209, 215, 218, 219, 221, 223]",SBZW.tsv
+mother,1,218,"[205, 218]",SBZW.tsv
+you be,2,170,"[67, 170, 216, 218, 245]",SBZW.tsv
+he's,1,230,"[224, 230, 236]",SBZW.tsv
+time,1,240,"[36, 66, 68, 215, 225, 240]",SBZW.tsv
+alright,1,246,"[11, 246]",SBZW.tsv
+ask,1,250,"[224, 250]",SBZW.tsv
+you know the,3,145,"[0, 49, 145, 155]",SBZW.tsv
+it be,2,31,"[3, 12, 16, 31, 87, 94, 95, 138, 140, 168]",SBZW.tsv
+well it,2,176,"[3, 176]",SBZW.tsv
+i mean,2,31,"[5, 31, 73, 230]",SBZW.tsv
+see,1,66,"[5, 66, 197, 242]",SBZW.tsv
+i get,2,71,"[5, 71, 87, 117, 124, 230, 245]",SBZW.tsv
+of it,2,85,"[5, 85, 195]",SBZW.tsv
+mean,1,119,"[5, 119, 230]",SBZW.tsv
+get out,2,137,"[5, 137]",SBZW.tsv
+you're suppose to,3,8,"[4, 7, 8]",SBZW.tsv
+suppose to,2,73,"[8, 73]",SBZW.tsv
+like that,2,145,"[10, 113, 145]",SBZW.tsv
+i have to,3,66,"[16, 66, 136]",SBZW.tsv
+i have,2,68,"[16, 68, 73, 96, 136, 252]",SBZW.tsv
+and i,2,73,"[16, 73, 90]",SBZW.tsv
+the the,2,145,"[16, 145, 155]",SBZW.tsv
+it it,2,147,"[16, 49, 147, 180]",SBZW.tsv
+i can't,2,215,"[16, 215]",SBZW.tsv
+wheelie bin,2,18,"[17, 18]",SBZW.tsv
+bin,1,19,"[18, 19, 22]",SBZW.tsv
+cos,1,19,"[18, 19, 23, 27, 85, 88, 90, 94, 161, 178, 199]",SBZW.tsv
+everything,1,23,"[18, 22, 23, 24, 26, 94, 103, 178, 180]",SBZW.tsv
+get the,2,25,"[18, 25, 124, 187, 245]",SBZW.tsv
+first,1,66,"[18, 66, 73, 133, 136]",SBZW.tsv
+mine,1,87,"[18, 87, 117]",SBZW.tsv
+come every,2,117,"[18, 117]",SBZW.tsv
+come,1,161,"[18, 41, 161]",SBZW.tsv
+smell,1,23,"[20, 23]",SBZW.tsv
+it's i,2,145,"[22, 145]",SBZW.tsv
+go,1,33,"[24, 33, 35, 88, 252]",SBZW.tsv
+outside,1,26,"[21, 25, 26]",SBZW.tsv
+grass,1,27,"[26, 27]",SBZW.tsv
+anything,1,36,"[26, 36, 42, 219, 221]",SBZW.tsv
+i don't,2,54,"[26, 54, 61, 94, 194, 218]",SBZW.tsv
+one,1,71,"[26, 39, 71, 73, 87, 88, 89, 137, 245]",SBZW.tsv
+don't have,2,168,"[26, 168, 187]",SBZW.tsv
+don't know,2,28,"[19, 28, 32, 34, 54, 78, 85, 86, 194, 201]",SBZW.tsv
+a bin,2,30,"[19, 30]",SBZW.tsv
+quite,1,199,"[30, 199]",SBZW.tsv
+i don't know,3,54,"[32, 54, 194, 201]",SBZW.tsv
+stuff,1,35,"[31, 35, 155]",SBZW.tsv
+to the,2,71,"[35, 55, 71]",SBZW.tsv
+thank,1,247,"[37, 43, 105, 120, 247]",SBZW.tsv
+round,1,39,"[31, 39]",SBZW.tsv
+day,1,56,"[39, 56, 60, 230]",SBZW.tsv
+flat,1,46,"[43, 46]",SBZW.tsv
+much,1,166,"[43, 166]",SBZW.tsv
+want to,2,45,"[19, 45, 161]",SBZW.tsv
+want,1,45,"[36, 42, 45, 166]",SBZW.tsv
+to have,2,66,"[45, 66]",SBZW.tsv
+look,1,66,"[45, 66, 118, 147, 187, 191]",SBZW.tsv
+in the,2,87,"[45, 87, 89, 177, 206]",SBZW.tsv
+dad's,1,243,"[45, 243]",SBZW.tsv
+have a,2,249,"[45, 96, 249]",SBZW.tsv
+and the,2,68,"[53, 68]",SBZW.tsv
+be to,2,176,"[55, 176]",SBZW.tsv
+be a,2,68,"[67, 68, 140, 252]",SBZW.tsv
+probably,1,69,"[68, 69, 71, 85, 87, 89, 147, 167, 180]",SBZW.tsv
+the old,2,137,"[74, 137]",SBZW.tsv
+old,1,178,"[74, 94, 178]",SBZW.tsv
+days,1,76,"[73, 76, 82, 84, 85, 86, 87]",SBZW.tsv
+three,1,87,"[76, 82, 84, 87]",SBZW.tsv
+come out,2,161,"[76, 161]",SBZW.tsv
+use to,2,178,"[76, 178]",SBZW.tsv
+you've get,2,78,"[25, 78, 179]",SBZW.tsv
+you don't know,3,85,"[78, 85]",SBZW.tsv
+sort of,2,80,"[31, 71, 80, 96, 101, 106, 133, 139, 140, 145, 168, 252]",SBZW.tsv
+and it's,2,80,"[66, 80]",SBZW.tsv
+start,1,133,"[80, 133, 232]",SBZW.tsv
+and then,2,82,"[71, 82, 84, 87, 117, 178]",SBZW.tsv
+better,1,84,"[68, 84, 128, 137]",SBZW.tsv
+you don't know how many days,6,86,"[85, 86]",SBZW.tsv
+around,1,88,"[66, 88, 168]",SBZW.tsv
+haven't have,2,88,"[73, 88]",SBZW.tsv
+have this,2,88,"[73, 88]",SBZW.tsv
+it's a,2,137,"[90, 137, 139, 175]",SBZW.tsv
+know the,2,145,"[90, 145, 155]",SBZW.tsv
+something,1,92,"[66, 92, 93, 137, 170]",SBZW.tsv
+it in,2,94,"[25, 94]",SBZW.tsv
+take,1,94,"[31, 94]",SBZW.tsv
+actually,1,94,"[54, 94]",SBZW.tsv
+in cos,2,94,"[85, 94]",SBZW.tsv
+be i,2,94,"[87, 94]",SBZW.tsv
+what it be,3,95,"[94, 95]",SBZW.tsv
+tell,1,95,"[94, 95]",SBZW.tsv
+well it's,2,96,"[21, 96]",SBZW.tsv
+of a,2,166,"[96, 166]",SBZW.tsv
+it's it's,2,223,"[96, 223]",SBZW.tsv
+it's my,2,243,"[96, 243]",SBZW.tsv
+friends,1,99,"[98, 99, 100, 101]",SBZW.tsv
+be sort of,3,145,"[101, 145]",SBZW.tsv
+i just,2,103,"[19, 103, 221, 223]",SBZW.tsv
+think,1,103,"[73, 103, 117, 125, 129, 131, 136, 137, 147, 178, 180, 194, 215, 218, 252]",SBZW.tsv
+know what,2,109,"[31, 73, 109, 194]",SBZW.tsv
+know what she's,3,109,"[108, 109]",SBZW.tsv
+ten,1,111,"[60, 111]",SBZW.tsv
+yes,1,141,"[111, 141, 156]",SBZW.tsv
+spend,1,180,"[111, 180]",SBZW.tsv
+i get the,3,245,"[124, 245]",SBZW.tsv
+like it,2,126,"[85, 126, 128, 136, 150]",SBZW.tsv
+like the,2,130,"[71, 130]",SBZW.tsv
+the new layout,3,130,"[129, 130]",SBZW.tsv
+new,1,147,"[130, 147, 178, 180, 181, 245]",SBZW.tsv
+the new,2,161,"[130, 161, 245]",SBZW.tsv
+when i,2,136,"[56, 58, 87, 136, 215]",SBZW.tsv
+i didn't,2,136,"[68, 136]",SBZW.tsv
+then i,2,136,"[73, 117, 136]",SBZW.tsv
+first start,2,136,"[133, 136]",SBZW.tsv
+about it,2,180,"[136, 180]",SBZW.tsv
+to think about,3,194,"[136, 194]",SBZW.tsv
+i be,2,140,"[56, 58, 87, 140, 142, 144, 150, 181]",SBZW.tsv
+last,1,140,"[71, 73, 87, 140, 208]",SBZW.tsv
+a current affairs,3,140,"[137, 140]",SBZW.tsv
+notice,1,176,"[148, 176, 178, 180]",SBZW.tsv
+yeah well,2,167,"[21, 167, 173]",SBZW.tsv
+a bite,2,167,"[27, 147, 167, 191]",SBZW.tsv
+get a,2,167,"[71, 167]",SBZW.tsv
+network,1,169,"[161, 168, 169]",SBZW.tsv
+yeah yeah,2,173,"[40, 173]",SBZW.tsv
+bt,1,173,"[157, 161, 173, 175, 178]",SBZW.tsv
+everybody,1,177,"[133, 177]",SBZW.tsv
+that's the,2,181,"[21, 180, 181]",SBZW.tsv
+move,1,181,"[36, 181]",SBZW.tsv
+a new,2,181,"[147, 181]",SBZW.tsv
+computer,1,181,"[176, 181]",SBZW.tsv
+a new computer,3,181,"[178, 181]",SBZW.tsv
+i'm not,2,183,"[50, 183, 252]",SBZW.tsv
+pop,1,185,"[25, 185]",SBZW.tsv
+have to,2,187,"[66, 187, 189]",SBZW.tsv
+good,1,187,"[168, 182, 187, 191, 248, 249]",SBZW.tsv
+be it,2,189,"[87, 176, 189, 223]",SBZW.tsv
+for it,2,189,"[147, 189]",SBZW.tsv
+pay for it,3,190,"[189, 190]",SBZW.tsv
+you have,2,249,"[189, 249]",SBZW.tsv
+it look,2,191,"[147, 191]",SBZW.tsv
+charlie,1,194,"[191, 194]",SBZW.tsv
+to be,2,193,"[54, 73, 193, 201]",SBZW.tsv
+charlie hebdo,2,194,"[193, 194]",SBZW.tsv
+a lot of,3,195,"[71, 176, 195, 240]",SBZW.tsv
+a lot,2,195,"[137, 139, 195, 240]",SBZW.tsv
+feel,1,195,"[137, 195]",SBZW.tsv
+well i,2,201,"[19, 201]",SBZW.tsv
+know where,2,201,"[31, 201]",SBZW.tsv
+honest,1,201,"[54, 201]",SBZW.tsv
+be quite,2,201,"[199, 201]",SBZW.tsv
+week so,2,249,"[208, 249]",SBZW.tsv
+i'd,1,218,"[31, 66, 218, 242]",SBZW.tsv
+hit anybody,2,219,"[218, 219, 221]",SBZW.tsv
+thing,1,230,"[25, 137, 230, 232]",SBZW.tsv
+to understand,2,232,"[17, 232]",SBZW.tsv
+the other,2,232,"[73, 85, 232]",SBZW.tsv
+be you,2,232,"[170, 232]",SBZW.tsv
+brilliant,1,236,"[87, 236]",SBZW.tsv
+in it,2,240,"[121, 240]",SBZW.tsv
+do you get,3,240,"[123, 240]",SBZW.tsv
+you get,2,240,"[137, 240]",SBZW.tsv
+i'd like to,3,242,"[31, 242]",SBZW.tsv
+have you,2,246,"[44, 246]",SBZW.tsv
+i've be,2,246,"[56, 246]",SBZW.tsv
+i think,2,252,"[73, 117, 137, 147, 180, 252]",SBZW.tsv
+no it's,2,252,"[89, 243, 252]",SBZW.tsv
+think it's,2,252,"[131, 252]",SBZW.tsv
+i think it's,3,252,"[137, 252]",SBZW.tsv
+clean a,2,19,"[1, 6, 19]",SBZW.tsv
+get this,2,87,"[11, 87]",SBZW.tsv
+phone,1,155,"[154, 155, 178]",SBZW.tsv
+they've buy them,3,166,"[158, 166]",SBZW.tsv
+hit them,2,209,"[205, 209]",SBZW.tsv
+that's what,2,220,"[73, 220]",SBZW.tsv
+yeah that's,2,222,"[116, 222]",SBZW.tsv
+in my life,3,241,"[56, 68, 241]",SBZW.tsv
+i i've,2,241,"[176, 241]",SBZW.tsv
+no yeah,2,241,"[190, 241]",SBZW.tsv

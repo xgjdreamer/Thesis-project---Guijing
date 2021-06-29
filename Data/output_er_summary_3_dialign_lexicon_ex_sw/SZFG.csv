@@ -1,0 +1,215 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+get,1,14,"[0, 14, 30, 74, 85, 86, 116, 175, 192, 207, 209, 213, 215, 254, 255, 258, 262]",SZFG.tsv
+easter,1,16,"[0, 7, 9, 16, 23, 56, 119, 120, 124, 125, 127, 130, 132, 136, 138, 140, 167]",SZFG.tsv
+like,1,7,"[0, 7, 13, 20, 45, 81, 83, 89, 92, 93, 107, 133, 141, 143, 152, 162, 171, 205, 212, 215, 219, 222, 223, 228, 235]",SZFG.tsv
+really,1,34,"[0, 34, 87, 134, 199, 215, 238, 254]",SZFG.tsv
+cos,1,13,"[0, 13, 65, 74, 77, 101, 107, 163, 167, 194, 195, 206, 213, 230]",SZFG.tsv
+shape,1,133,"[0, 133]",SZFG.tsv
+something,1,3,"[0, 3, 152, 171, 217, 247]",SZFG.tsv
+you can make,3,55,"[47, 53, 55, 57]",SZFG.tsv
+can make,2,57,"[47, 53, 57]",SZFG.tsv
+one,1,47,"[17, 47, 178, 195, 213, 228, 235, 237, 238]",SZFG.tsv
+could,1,49,"[11, 13, 16, 17, 21, 23, 39, 49, 75, 163, 214]",SZFG.tsv
+you could,2,49,"[17, 49, 75, 163]",SZFG.tsv
+you can,2,55,"[47, 51, 53, 55, 57, 140, 188, 254]",SZFG.tsv
+say,1,61,"[5, 16, 26, 61, 104, 154, 181, 189, 215, 227]",SZFG.tsv
+spectacular,1,61,"[55, 57, 61]",SZFG.tsv
+basically,1,61,"[59, 61, 89]",SZFG.tsv
+birthday,1,79,"[63, 70, 79, 83]",SZFG.tsv
+party,1,70,"[63, 69, 70, 74, 81, 83]",SZFG.tsv
+i've,1,72,"[14, 72, 164]",SZFG.tsv
+my birthday,2,79,"[72, 79, 83]",SZFG.tsv
+well,1,72,"[5, 17, 21, 25, 31, 33, 37, 54, 72, 78, 134, 144, 157, 169, 170, 181, 182, 189, 196, 200, 207, 232]",SZFG.tsv
+people,1,74,"[9, 13, 20, 22, 74, 81, 138, 162, 192]",SZFG.tsv
+to have,2,74,"[3, 74, 81, 83, 140, 167]",SZFG.tsv
+like to have,3,83,"[81, 83]",SZFG.tsv
+a big party,3,83,"[81, 83]",SZFG.tsv
+people be,2,162,"[81, 162]",SZFG.tsv
+it be,2,107,"[36, 41, 107, 206, 256]",SZFG.tsv
+like it,2,107,"[45, 107, 205]",SZFG.tsv
+want,1,162,"[25, 107, 152, 162, 179, 196, 252, 254]",SZFG.tsv
+five,1,149,"[109, 149, 151, 152, 154]",SZFG.tsv
+much,1,118,"[4, 118, 183]",SZFG.tsv
+i have,2,118,"[42, 69, 87, 118, 163, 172]",SZFG.tsv
+have a,2,122,"[5, 39, 42, 62, 83, 87, 119, 122, 171, 199, 214, 218]",SZFG.tsv
+johnny five,2,150,"[149, 150, 151, 152, 154]",SZFG.tsv
+johnny,1,152,"[149, 150, 151, 152, 153, 154, 155, 156, 158]",SZFG.tsv
+yeah,1,152,"[1, 3, 11, 21, 23, 38, 68, 91, 140, 142, 152, 158, 182, 238, 239, 240, 242, 246, 248]",SZFG.tsv
+go,1,155,"[5, 9, 13, 33, 75, 140, 154, 155, 171, 181, 260]",SZFG.tsv
+go johnny go go go,5,155,"[154, 155]",SZFG.tsv
+good,1,158,"[24, 25, 84, 134, 136, 158, 238, 241, 243]",SZFG.tsv
+and then,2,168,"[83, 128, 136, 168, 186, 206, 243]",SZFG.tsv
+day,1,178,"[83, 178, 252]",SZFG.tsv
+i be,2,181,"[5, 50, 63, 79, 97, 112, 181, 189, 224, 227]",SZFG.tsv
+in the,2,208,"[24, 33, 63, 106, 140, 164, 201, 208, 217]",SZFG.tsv
+i like,2,222,"[212, 222, 228, 235]",SZFG.tsv
+a bite,2,226,"[4, 37, 226]",SZFG.tsv
+bite,1,123,"[4, 123, 126, 128, 136, 194, 226]",SZFG.tsv
+make,1,47,"[33, 44, 47, 53, 55, 56, 57, 164, 190, 192, 234, 236]",SZFG.tsv
+look,1,236,"[13, 22, 39, 42, 113, 227, 236, 252]",SZFG.tsv
+can i,2,249,"[42, 172, 249, 250]",SZFG.tsv
+that's a,2,253,"[4, 253]",SZFG.tsv
+that's,1,25,"[4, 6, 25, 157, 167, 182, 192, 201, 205, 215, 219, 241, 253]",SZFG.tsv
+egg,1,3,"[0, 3, 23, 33, 41]",SZFG.tsv
+eat,1,5,"[0, 5, 140, 163, 164, 230]",SZFG.tsv
+easter egg,2,7,"[0, 7, 9, 138, 140]",SZFG.tsv
+have to,2,17,"[0, 17, 23, 140, 176]",SZFG.tsv
+when you,2,97,"[0, 97, 99]",SZFG.tsv
+you have,2,101,"[0, 101, 140, 215]",SZFG.tsv
+to eat,2,111,"[0, 111]",SZFG.tsv
+have to eat,3,140,"[0, 140]",SZFG.tsv
+then you,2,188,"[0, 188]",SZFG.tsv
+cos then,2,213,"[0, 213]",SZFG.tsv
+think,1,47,"[3, 11, 13, 17, 25, 47, 63, 182]",SZFG.tsv
+still,1,69,"[47, 69]",SZFG.tsv
+anything,1,53,"[5, 53, 140]",SZFG.tsv
+put,1,53,"[33, 35, 53, 106, 208]",SZFG.tsv
+together,1,188,"[53, 188, 199]",SZFG.tsv
+birthday party,2,70,"[63, 70]",SZFG.tsv
+kind of,2,72,"[5, 25, 72, 230]",SZFG.tsv
+plan,1,72,"[63, 72]",SZFG.tsv
+somewhere,1,171,"[74, 171]",SZFG.tsv
+house,1,81,"[5, 13, 81, 201]",SZFG.tsv
+like to,2,81,"[7, 13, 81, 83]",SZFG.tsv
+want to,2,107,"[25, 67, 107, 152, 167, 252]",SZFG.tsv
+of toy,2,107,"[97, 107, 108]",SZFG.tsv
+toy,1,107,"[97, 107, 108]",SZFG.tsv
+cos she,2,194,"[107, 194]",SZFG.tsv
+be a,2,238,"[107, 238]",SZFG.tsv
+hair,1,118,"[117, 118, 246]",SZFG.tsv
+i'm,1,122,"[23, 46, 122, 140, 206, 238, 242]",SZFG.tsv
+have a haircut,3,122,"[119, 122]",SZFG.tsv
+on easter,2,124,"[119, 124, 138]",SZFG.tsv
+how long,2,127,"[108, 127]",SZFG.tsv
+easter sunday,2,130,"[23, 130, 136, 138]",SZFG.tsv
+yay,1,139,"[23, 139]",SZFG.tsv
+need,1,141,"[17, 63, 111, 140, 141, 145, 213]",SZFG.tsv
+oh yeah,2,152,"[21, 152, 246]",SZFG.tsv
+to be,2,152,"[33, 97, 152]",SZFG.tsv
+want to be,3,152,"[67, 152]",SZFG.tsv
+i do,2,152,"[69, 152, 209, 227, 252]",SZFG.tsv
+oh johnny,2,152,"[149, 152]",SZFG.tsv
+i want,2,254,"[152, 254]",SZFG.tsv
+be be,2,160,"[25, 160]",SZFG.tsv
+i'll have to,3,176,"[23, 176]",SZFG.tsv
+i'll,1,176,"[159, 173, 176]",SZFG.tsv
+the other day,3,252,"[178, 252]",SZFG.tsv
+to go,2,181,"[9, 181]",SZFG.tsv
+go to,2,181,"[13, 33, 140, 181]",SZFG.tsv
+well you,2,181,"[17, 181]",SZFG.tsv
+be go to,3,181,"[33, 181]",SZFG.tsv
+to do,2,183,"[7, 13, 17, 23, 25, 138, 140, 183, 185, 192, 215]",SZFG.tsv
+there isn't,2,183,"[17, 183, 185]",SZFG.tsv
+forget,1,187,"[69, 187, 227, 233]",SZFG.tsv
+play,1,191,"[23, 167, 171, 182, 190, 191, 193, 196, 198, 199, 200, 202]",SZFG.tsv
+she be,2,194,"[191, 194]",SZFG.tsv
+minecraft,1,194,"[191, 194]",SZFG.tsv
+available to play,3,193,"[190, 193]",SZFG.tsv
+someone,1,196,"[5, 196]",SZFG.tsv
+might,1,196,"[65, 196, 215]",SZFG.tsv
+to play,2,196,"[190, 196]",SZFG.tsv
+do but,2,200,"[69, 200]",SZFG.tsv
+out of,2,200,"[97, 200, 204, 255, 258]",SZFG.tsv
+things,1,200,"[138, 186, 200]",SZFG.tsv
+things to,2,200,"[140, 200]",SZFG.tsv
+lego,1,200,"[186, 200, 202]",SZFG.tsv
+run,1,207,"[200, 204, 207]",SZFG.tsv
+when we,2,227,"[202, 227]",SZFG.tsv
+at the,2,206,"[5, 13, 106, 128, 206, 227]",SZFG.tsv
+time,1,206,"[13, 194, 206, 213, 215]",SZFG.tsv
+i don't,2,206,"[17, 173, 182, 206]",SZFG.tsv
+anyway,1,206,"[25, 206]",SZFG.tsv
+if i,2,206,"[39, 206, 209]",SZFG.tsv
+sure,1,206,"[46, 206, 234]",SZFG.tsv
+cos it,2,206,"[65, 206]",SZFG.tsv
+know,1,206,"[69, 167, 186, 206, 258]",SZFG.tsv
+be all,2,206,"[110, 206]",SZFG.tsv
+the time,2,206,"[164, 206]",SZFG.tsv
+no you,2,208,"[76, 208]",SZFG.tsv
+you put it,3,208,"[106, 208]",SZFG.tsv
+could have a,3,214,"[39, 214]",SZFG.tsv
+it just seem that,4,217,"[216, 217]",SZFG.tsv
+a lot of,3,218,"[17, 218]",SZFG.tsv
+lot of,2,218,"[182, 218]",SZFG.tsv
+friends,1,218,"[215, 218]",SZFG.tsv
+a lot,2,230,"[218, 230]",SZFG.tsv
+and i,2,222,"[13, 222, 227]",SZFG.tsv
+hang,1,222,"[188, 199, 222, 230, 252]",SZFG.tsv
+like hang,2,222,"[219, 222, 223]",SZFG.tsv
+with her,2,223,"[222, 223]",SZFG.tsv
+move,1,227,"[226, 227, 252]",SZFG.tsv
+see,1,229,"[13, 144, 159, 229, 249]",SZFG.tsv
+and you,2,234,"[35, 140, 234]",SZFG.tsv
+you didn't,2,234,"[97, 234]",SZFG.tsv
+to make,2,234,"[192, 234]",SZFG.tsv
+make me,2,236,"[33, 236]",SZFG.tsv
+take,1,240,"[108, 164, 227, 233, 240]",SZFG.tsv
+yeah i'm,2,242,"[238, 242]",SZFG.tsv
+a mask,2,245,"[228, 245]",SZFG.tsv
+on a,2,245,"[230, 245]",SZFG.tsv
+wig,1,245,"[230, 245]",SZFG.tsv
+a wig on,3,245,"[243, 245]",SZFG.tsv
+to get,2,255,"[213, 254, 255, 258]",SZFG.tsv
+tricky to get,3,255,"[254, 255]",SZFG.tsv
+be it,2,256,"[255, 256]",SZFG.tsv
+great,1,258,"[23, 258]",SZFG.tsv
+i know,2,258,"[69, 258]",SZFG.tsv
+of it,2,258,"[140, 258]",SZFG.tsv
+nice,1,6,"[3, 6, 8, 13, 94, 95]",SZFG.tsv
+that be so,3,8,"[2, 8]",SZFG.tsv
+that be,2,8,"[3, 8, 25, 34, 195, 238]",SZFG.tsv
+would,1,10,"[7, 9, 10, 13, 17, 19, 25, 83, 85]",SZFG.tsv
+we could,2,16,"[11, 13, 16, 17, 21]",SZFG.tsv
+card,1,17,"[16, 17]",SZFG.tsv
+be in charge,3,20,"[5, 20]",SZFG.tsv
+look after,2,22,"[13, 22]",SZFG.tsv
+thank you,2,161,"[22, 161, 163]",SZFG.tsv
+can do,2,69,"[24, 69]",SZFG.tsv
+do the,2,86,"[24, 86, 138, 140, 188]",SZFG.tsv
+i can,2,209,"[24, 209, 262]",SZFG.tsv
+free,1,26,"[3, 26, 32, 33, 35]",SZFG.tsv
+why do,2,106,"[26, 106]",SZFG.tsv
+do it,2,108,"[26, 108]",SZFG.tsv
+milk,1,32,"[27, 31, 32]",SZFG.tsv
+though,1,36,"[33, 36]",SZFG.tsv
+quite,1,65,"[36, 65, 167]",SZFG.tsv
+be quite,2,182,"[36, 182]",SZFG.tsv
+have a sneaky look,4,42,"[39, 42]",SZFG.tsv
+brownies,1,56,"[55, 56, 195]",SZFG.tsv
+be the,2,66,"[25, 66, 195]",SZFG.tsv
+so it's,2,66,"[33, 44, 66]",SZFG.tsv
+cos i,2,77,"[13, 77, 163, 213]",SZFG.tsv
+would like to,3,83,"[7, 83]",SZFG.tsv
+would have,2,83,"[17, 83]",SZFG.tsv
+and then the,3,128,"[83, 128, 136]",SZFG.tsv
+on the,2,252,"[83, 252, 259]",SZFG.tsv
+we would,2,85,"[17, 85]",SZFG.tsv
+get muddy,2,86,"[85, 86]",SZFG.tsv
+a really,2,238,"[87, 238]",SZFG.tsv
+'s brother,2,90,"[89, 90]",SZFG.tsv
+he's,1,95,"[94, 95]",SZFG.tsv
+no i,2,251,"[100, 251]",SZFG.tsv
+to i,2,112,"[17, 112]",SZFG.tsv
+blanket,1,112,"[108, 112]",SZFG.tsv
+et,1,144,"[143, 144]",SZFG.tsv
+i mean,2,146,"[25, 146, 148, 247]",SZFG.tsv
+they're,1,227,"[154, 227]",SZFG.tsv
+it to,2,162,"[13, 162]",SZFG.tsv
+you want,2,162,"[67, 162, 167]",SZFG.tsv
+sound,1,162,"[84, 162]",SZFG.tsv
+if you,2,162,"[140, 162]",SZFG.tsv
+load of,2,201,"[162, 201, 207]",SZFG.tsv
+actually,1,169,"[63, 169, 227, 262]",SZFG.tsv
+i be gonna say,4,189,"[5, 189]",SZFG.tsv
+gonna,1,189,"[13, 86, 189]",SZFG.tsv
+i be gonna,3,189,"[79, 189]",SZFG.tsv
+as well,2,189,"[157, 189]",SZFG.tsv
+last,1,195,"[5, 195, 227]",SZFG.tsv
+with the,2,217,"[195, 217, 247]",SZFG.tsv
+okay,1,210,"[73, 179, 210, 235]",SZFG.tsv
+the marble,2,212,"[207, 212]",SZFG.tsv
+i like the,3,228,"[212, 228]",SZFG.tsv
+very good,2,243,"[241, 243]",SZFG.tsv
+show,1,252,"[244, 252]",SZFG.tsv
+show you,2,252,"[247, 252]",SZFG.tsv
+first,1,259,"[186, 259, 262]",SZFG.tsv

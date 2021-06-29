@@ -1,0 +1,61 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+go,1,20,"[1, 20, 28, 61, 75]",SNBD.tsv
+actually,1,63,"[2, 63]",SNBD.tsv
+conversation,1,15,"[9, 15, 19]",SNBD.tsv
+probably,1,61,"[15, 61, 75]",SNBD.tsv
+drive,1,37,"[26, 37, 42, 79]",SNBD.tsv
+one,1,36,"[26, 36, 42, 50, 51, 52, 58, 60, 84, 86, 87]",SNBD.tsv
+that's,1,42,"[28, 29, 42, 54, 88]",SNBD.tsv
+well,1,41,"[9, 10, 14, 33, 41, 50, 85]",SNBD.tsv
+which be,2,45,"[4, 45, 50]",SNBD.tsv
+have line,2,54,"[45, 54]",SNBD.tsv
+um,1,51,"[6, 9, 51, 53, 60]",SNBD.tsv
+curve,1,58,"[56, 58]",SNBD.tsv
+let's make,2,71,"[58, 71]",SNBD.tsv
+take,1,81,"[68, 69, 81]",SNBD.tsv
+gonna,1,85,"[68, 69, 85]",SNBD.tsv
+forget,1,87,"[14, 86, 87]",SNBD.tsv
+i'm,1,72,"[0, 72, 85]",SNBD.tsv
+like,1,36,"[1, 13, 17, 23, 26, 34, 36, 45, 51, 58, 61]",SNBD.tsv
+i don't,2,12,"[2, 12, 34]",SNBD.tsv
+it be,2,12,"[3, 12, 45, 68]",SNBD.tsv
+yeah,1,11,"[10, 11, 13, 21, 39, 43, 45, 55, 57, 58, 65, 68, 80, 81, 84]",SNBD.tsv
+sort of,2,50,"[15, 45, 50]",SNBD.tsv
+cos,1,42,"[17, 42, 76]",SNBD.tsv
+definitely,1,48,"[23, 48]",SNBD.tsv
+anyway,1,26,"[10, 26]",SNBD.tsv
+uh,1,26,"[10, 26, 36, 51, 81, 82]",SNBD.tsv
+aah,1,32,"[24, 32]",SNBD.tsv
+a little,2,34,"[10, 34]",SNBD.tsv
+know,1,43,"[12, 43, 45, 51]",SNBD.tsv
+i dunno,2,45,"[12, 45]",SNBD.tsv
+kind of,2,59,"[45, 59]",SNBD.tsv
+the kind of,3,84,"[45, 84]",SNBD.tsv
+three,1,68,"[47, 68, 72]",SNBD.tsv
+old,1,84,"[47, 51, 84]",SNBD.tsv
+come,1,58,"[35, 58]",SNBD.tsv
+but i,2,58,"[42, 58]",SNBD.tsv
+gamble upwards,2,74,"[73, 74]",SNBD.tsv
+i think,2,77,"[10, 42, 77, 81]",SNBD.tsv
+bite,1,77,"[10, 36, 77]",SNBD.tsv
+a bite,2,77,"[42, 77]",SNBD.tsv
+think,1,77,"[42, 72, 77, 81]",SNBD.tsv
+get,1,85,"[12, 33, 44, 85]",SNBD.tsv
+i also,2,42,"[4, 42]",SNBD.tsv
+tell,1,76,"[4, 76]",SNBD.tsv
+say,1,68,"[9, 68, 69, 70, 71]",SNBD.tsv
+fun,1,35,"[14, 35]",SNBD.tsv
+oh right,2,72,"[16, 72]",SNBD.tsv
+they be,2,39,"[37, 39, 57]",SNBD.tsv
+drive around in,3,42,"[37, 42]",SNBD.tsv
+they're,1,42,"[37, 42, 61, 82]",SNBD.tsv
+around,1,42,"[37, 42]",SNBD.tsv
+really,1,84,"[37, 84]",SNBD.tsv
+need to,2,63,"[33, 63]",SNBD.tsv
+eight,1,66,"[63, 66, 67]",SNBD.tsv
+gonna take,2,69,"[68, 69]",SNBD.tsv
+hours,1,69,"[68, 69]",SNBD.tsv
+two,1,70,"[69, 70]",SNBD.tsv
+you say,2,71,"[68, 70, 71]",SNBD.tsv
+two and a half,4,71,"[70, 71]",SNBD.tsv
+say two,2,71,"[70, 71]",SNBD.tsv

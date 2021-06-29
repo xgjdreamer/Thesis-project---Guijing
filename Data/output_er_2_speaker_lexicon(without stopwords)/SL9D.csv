@@ -1,0 +1,61 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker1,Expression_uttered_position_speaker2,file,speaker1,speaker2
+think,1,64,"[0, 35, 66]","[64, 101]",SL9D.tsv,S0058,S0179
+turn,1,2,[2],[1],SL9D.tsv,S0058,S0179
+know,1,4,"[4, 6, 37, 47]","[3, 88]",SL9D.tsv,S0058,S0179
+you know,2,88,"[4, 37, 47]",[88],SL9D.tsv,S0058,S0179
+well,1,11,"[6, 51]","[11, 48, 101]",SL9D.tsv,S0058,S0179
+a lot of,3,26,[6],[26],SL9D.tsv,S0058,S0179
+stuff,1,26,[6],[26],SL9D.tsv,S0058,S0179
+work,1,28,"[6, 51]",[28],SL9D.tsv,S0058,S0179
+really,1,48,"[6, 51]",[48],SL9D.tsv,S0058,S0179
+cos,1,48,[6],"[48, 83]",SL9D.tsv,S0058,S0179
+people,1,55,"[6, 97]",[55],SL9D.tsv,S0058,S0179
+yeah,1,8,"[8, 12, 18, 23, 27, 29, 31, 33, 45, 47, 49, 51, 66, 78, 82, 84, 89, 91, 95, 105]","[7, 11, 17, 26, 38, 67, 92]",SL9D.tsv,S0058,S0179
+um,1,75,"[8, 18]","[75, 90, 94]",SL9D.tsv,S0058,S0179
+um yeah,2,92,"[8, 18]",[92],SL9D.tsv,S0058,S0179
+oo,1,60,"[10, 61]",[60],SL9D.tsv,S0058,S0179
+go,1,101,[10],[101],SL9D.tsv,S0058,S0179
+it be,2,48,"[12, 18, 57]","[48, 58]",SL9D.tsv,S0058,S0179
+good,1,56,"[12, 18, 57]","[56, 67]",SL9D.tsv,S0058,S0179
+she land,2,22,[20],[22],SL9D.tsv,S0058,S0179
+his lap,2,22,"[20, 23]",[22],SL9D.tsv,S0058,S0179
+i be,2,30,[20],[30],SL9D.tsv,S0058,S0179
+land,1,23,[23],[22],SL9D.tsv,S0058,S0179
+might've,1,81,[25],"[81, 93]",SL9D.tsv,S0058,S0179
+like,1,31,"[31, 35, 53, 63]","[28, 30, 42, 46, 55]",SL9D.tsv,S0058,S0179
+he's,1,33,[33],"[28, 42, 46]",SL9D.tsv,S0058,S0179
+hours,1,33,[33],[32],SL9D.tsv,S0058,S0179
+need to,2,35,[35],[26],SL9D.tsv,S0058,S0179
+pull,1,35,[35],[32],SL9D.tsv,S0058,S0179
+he be,2,42,"[35, 91]","[42, 77, 101]",SL9D.tsv,S0058,S0179
+days,1,48,[35],[48],SL9D.tsv,S0058,S0179
+wouldn't have,2,75,[35],"[75, 90]",SL9D.tsv,S0058,S0179
+you wouldn't,2,83,[35],[83],SL9D.tsv,S0058,S0179
+at work,2,37,[37],[28],SL9D.tsv,S0058,S0179
+week,1,37,[37],[28],SL9D.tsv,S0058,S0179
+sit,1,51,[51],[22],SL9D.tsv,S0058,S0179
+sometimes,1,51,"[51, 61]",[48],SL9D.tsv,S0058,S0179
+be a,2,64,[51],"[64, 101]",SL9D.tsv,S0058,S0179
+different,1,93,[51],[93],SL9D.tsv,S0058,S0179
+not do,2,104,[51],[104],SL9D.tsv,S0058,S0179
+that's,1,53,"[53, 61, 66]","[5, 48, 62, 65]",SL9D.tsv,S0058,S0179
+no stress job,3,55,[53],[55],SL9D.tsv,S0058,S0179
+job,1,56,[53],[56],SL9D.tsv,S0058,S0179
+have a,2,57,[57],[26],SL9D.tsv,S0058,S0179
+i have,2,57,[57],"[48, 72]",SL9D.tsv,S0058,S0179
+a very good job,4,57,[57],[56],SL9D.tsv,S0058,S0179
+thing,1,69,[57],"[69, 72]",SL9D.tsv,S0058,S0179
+hm,1,59,"[59, 99]",[7],SL9D.tsv,S0058,S0179
+shit,1,61,[61],[30],SL9D.tsv,S0058,S0179
+that's why you,3,62,[61],[62],SL9D.tsv,S0058,S0179
+light,1,79,"[61, 80]",[79],SL9D.tsv,S0058,S0179
+love,1,63,[63],[13],SL9D.tsv,S0058,S0179
+yes,1,63,[63],"[21, 54]",SL9D.tsv,S0058,S0179
+be like,2,63,[63],[30],SL9D.tsv,S0058,S0179
+you do,2,104,[63],[104],SL9D.tsv,S0058,S0179
+call,1,66,[66],[65],SL9D.tsv,S0058,S0179
+i'm,1,70,[70],"[1, 64, 75]",SL9D.tsv,S0058,S0179
+to the,2,74,[70],[74],SL9D.tsv,S0058,S0179
+would,1,73,[73],[55],SL9D.tsv,S0058,S0179
+hm yeah,2,105,[105],[7],SL9D.tsv,S0058,S0179
+to do,2,105,[105],[26],SL9D.tsv,S0058,S0179

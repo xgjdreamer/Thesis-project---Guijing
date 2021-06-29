@@ -1,0 +1,213 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+easter,1,7,"[0, 2, 7, 8, 10, 20, 43, 44, 48]",SP5V.tsv
+it be,2,8,"[3, 8, 28, 39, 56, 68, 120, 123]",SP5V.tsv
+what a,2,40,"[8, 40]",SP5V.tsv
+say,1,40,"[7, 8, 40, 51, 53, 54, 55, 56, 73, 84, 135, 136, 158]",SP5V.tsv
+well,1,85,"[8, 20, 39, 78, 85, 86, 98, 120, 123, 129, 136, 138, 139, 161, 162, 191]",SP5V.tsv
+bad,1,12,"[10, 12]",SP5V.tsv
+i'm,1,17,"[12, 17, 63, 72, 77, 135, 173]",SP5V.tsv
+a lot,2,63,"[16, 63, 139, 153]",SP5V.tsv
+that's,1,75,"[16, 18, 20, 68, 74, 75, 84, 85, 93, 136, 154, 170, 174, 175]",SP5V.tsv
+a lot of,3,126,"[16, 126, 139]",SP5V.tsv
+that's a,2,136,"[16, 74, 136, 154, 170, 175]",SP5V.tsv
+go to,2,18,"[10, 18, 20, 40, 56, 107, 111, 135, 142]",SP5V.tsv
+think,1,18,"[7, 10, 18, 20, 24, 40, 46, 80, 96, 123, 135, 154, 173, 175, 186, 190]",SP5V.tsv
+mm i think,3,40,"[18, 40, 173]",SP5V.tsv
+much,1,59,"[18, 59, 68, 72]",SP5V.tsv
+go,1,122,"[18, 20, 28, 56, 74, 94, 107, 111, 122, 135, 142, 145, 151, 158, 173, 180]",SP5V.tsv
+think that,2,20,"[10, 20, 135]",SP5V.tsv
+good,1,20,"[10, 20, 49, 69, 154, 194]",SP5V.tsv
+i know,2,20,"[14, 20, 29, 88, 90]",SP5V.tsv
+yeah,1,20,"[5, 14, 20, 37, 41, 46, 61, 65, 75, 80, 108, 118, 123, 125, 135, 146, 148, 180]",SP5V.tsv
+know,1,25,"[20, 25, 29, 84, 88, 90, 103]",SP5V.tsv
+like,1,33,"[20, 33, 41, 47, 95, 96, 120, 128, 146, 153, 158, 193]",SP5V.tsv
+be go to,3,40,"[20, 40]",SP5V.tsv
+i think,2,18,"[7, 18, 20, 40, 46, 80, 96, 123, 135, 173, 186]",SP5V.tsv
+a bite,2,85,"[20, 56, 85]",SP5V.tsv
+probably,1,85,"[20, 85, 151, 184, 186]",SP5V.tsv
+we like,2,153,"[20, 153]",SP5V.tsv
+the the,2,180,"[20, 48, 173, 180, 189]",SP5V.tsv
+get,1,20,"[13, 20, 24, 68, 76, 125, 139, 186, 193, 195]",SP5V.tsv
+thing,1,193,"[20, 41, 107, 129, 135, 151, 173, 186, 193]",SP5V.tsv
+do you think,3,24,"[10, 24, 154, 190]",SP5V.tsv
+will have,2,65,"[24, 65]",SP5V.tsv
+do you,2,67,"[24, 66, 67, 103, 135, 136, 151, 154, 175, 190]",SP5V.tsv
+you just,2,73,"[24, 73, 76]",SP5V.tsv
+absolutely,1,73,"[24, 73]",SP5V.tsv
+they do,2,100,"[26, 100, 123, 173]",SP5V.tsv
+last,1,140,"[26, 140, 173]",SP5V.tsv
+we go,2,28,"[10, 28, 142, 145, 180]",SP5V.tsv
+to find,2,33,"[28, 33]",SP5V.tsv
+decide,1,39,"[17, 39, 153]",SP5V.tsv
+what a horrible,3,40,"[39, 40]",SP5V.tsv
+what the,2,81,"[39, 81, 84]",SP5V.tsv
+in the,2,100,"[39, 82, 100, 126, 135, 150, 158]",SP5V.tsv
+it in,2,104,"[39, 104]",SP5V.tsv
+we have,2,140,"[39, 140]",SP5V.tsv
+would,1,41,"[10, 41, 68, 72, 96, 107, 135, 149, 173, 186, 189, 190]",SP5V.tsv
+tomorrow,1,41,"[10, 41]",SP5V.tsv
+so you,2,180,"[41, 180]",SP5V.tsv
+an easter egg hunt,4,44,"[10, 44]",SP5V.tsv
+nest,1,48,"[47, 48]",SP5V.tsv
+come back,2,189,"[48, 189]",SP5V.tsv
+come,1,189,"[48, 147, 189]",SP5V.tsv
+you say,2,54,"[7, 51, 53, 54, 55, 136]",SP5V.tsv
+go to have,3,56,"[10, 56]",SP5V.tsv
+to have,2,56,"[10, 56]",SP5V.tsv
+be it,2,56,"[17, 56, 145]",SP5V.tsv
+really,1,56,"[19, 49, 56, 68, 84]",SP5V.tsv
+you need to,3,56,"[33, 56, 189]",SP5V.tsv
+have a,2,167,"[56, 94, 167]",SP5V.tsv
+to stop,2,193,"[56, 193]",SP5V.tsv
+how much,2,59,"[58, 59, 62]",SP5V.tsv
+of tiger bread,3,167,"[60, 167]",SP5V.tsv
+time,1,64,"[63, 64, 65, 66, 68, 110, 180, 189, 193]",SP5V.tsv
+i don't,2,66,"[25, 66, 123]",SP5V.tsv
+you could,2,124,"[66, 124, 193]",SP5V.tsv
+don't have,2,180,"[66, 180]",SP5V.tsv
+you don't,2,180,"[66, 68, 180]",SP5V.tsv
+have do,2,68,"[10, 68]",SP5V.tsv
+would be,2,68,"[10, 68, 72, 135, 173, 186]",SP5V.tsv
+be a,2,68,"[35, 36, 68, 90, 94, 96, 112, 130, 135]",SP5V.tsv
+mm i,2,68,"[40, 68]",SP5V.tsv
+you be,2,68,"[40, 68, 71]",SP5V.tsv
+when i,2,68,"[63, 68]",SP5V.tsv
+but i,2,68,"[65, 68, 72, 86]",SP5V.tsv
+mean rudiments,2,68,"[67, 68]",SP5V.tsv
+i have,2,73,"[68, 73, 166, 167, 169]",SP5V.tsv
+though,1,73,"[68, 73, 178]",SP5V.tsv
+things,1,126,"[68, 126, 193, 194]",SP5V.tsv
+i do,2,140,"[68, 140]",SP5V.tsv
+so you don't,3,180,"[68, 180]",SP5V.tsv
+you don't have,3,180,"[68, 180]",SP5V.tsv
+mean,1,193,"[68, 107, 123, 149, 175, 193]",SP5V.tsv
+i'd,1,72,"[47, 72, 95]",SP5V.tsv
+be great,2,72,"[71, 72]",SP5V.tsv
+way,1,189,"[74, 78, 154, 175, 189]",SP5V.tsv
+learn,1,77,"[76, 77, 163]",SP5V.tsv
+use,1,102,"[76, 102]",SP5V.tsv
+read,1,104,"[76, 104]",SP5V.tsv
+able to,2,189,"[76, 189]",SP5V.tsv
+us,1,81,"[78, 81]",SP5V.tsv
+mm well,2,138,"[78, 86, 138]",SP5V.tsv
+weather,1,80,"[17, 80]",SP5V.tsv
+horrible,1,80,"[40, 80]",SP5V.tsv
+circus,1,81,"[80, 81, 84, 100, 107, 112, 126]",SP5V.tsv
+the circus,2,100,"[80, 100, 126]",SP5V.tsv
+big,1,106,"[82, 106]",SP5V.tsv
+a big,2,189,"[82, 189]",SP5V.tsv
+there's,1,189,"[82, 99, 131, 189]",SP5V.tsv
+i really,2,84,"[19, 84]",SP5V.tsv
+don't know,2,84,"[25, 84]",SP5V.tsv
+yes,1,86,"[3, 45, 49, 86, 135, 175]",SP5V.tsv
+will be,2,86,"[17, 86, 90, 135, 173]",SP5V.tsv
+clown,1,89,"[86, 89]",SP5V.tsv
+hopefully,1,88,"[14, 17, 88, 90]",SP5V.tsv
+i know hopefully,3,90,"[14, 90]",SP5V.tsv
+and the,2,90,"[17, 90]",SP5V.tsv
+trapeze,1,130,"[90, 130, 135]",SP5V.tsv
+maybe,1,153,"[90, 153, 158, 183]",SP5V.tsv
+people,1,91,"[90, 91, 116, 117, 139, 147, 189]",SP5V.tsv
+on the,2,195,"[90, 195]",SP5V.tsv
+i will,2,94,"[65, 94]",SP5V.tsv
+like it,2,96,"[95, 96, 153, 158]",SP5V.tsv
+a surprise,2,96,"[95, 96]",SP5V.tsv
+enjoy it,2,140,"[96, 140]",SP5V.tsv
+can't,1,161,"[101, 161, 168]",SP5V.tsv
+book,1,105,"[104, 105]",SP5V.tsv
+one,1,107,"[33, 107, 108, 111, 120, 141, 142, 151, 152, 158, 166, 172, 173, 189, 193]",SP5V.tsv
+animals,1,107,"[100, 107, 112, 125]",SP5V.tsv
+days,1,174,"[107, 173, 174, 180]",SP5V.tsv
+yeah i,2,123,"[14, 123]",SP5V.tsv
+treat,1,123,"[100, 123]",SP5V.tsv
+you can,2,126,"[125, 126, 130, 135]",SP5V.tsv
+yeah you,2,146,"[125, 146]",SP5V.tsv
+start,1,133,"[47, 77, 133]",SP5V.tsv
+be go to say,4,135,"[40, 135]",SP5V.tsv
+quite,1,135,"[75, 135]",SP5V.tsv
+in a,2,135,"[104, 135]",SP5V.tsv
+quite a,2,135,"[126, 135]",SP5V.tsv
+a weekend,2,136,"[135, 136, 137]",SP5V.tsv
+weekend,1,136,"[135, 136, 137, 140, 158, 173]",SP5V.tsv
+be in the,3,150,"[135, 150]",SP5V.tsv
+juggle,1,161,"[135, 139, 151, 158, 161, 162, 163, 189, 193, 194]",SP5V.tsv
+where you,2,189,"[135, 189]",SP5V.tsv
+for the,2,180,"[147, 180]",SP5V.tsv
+could,1,151,"[124, 151, 158, 192, 193]",SP5V.tsv
+for one,2,173,"[151, 152, 158, 173, 189]",SP5V.tsv
+we like it,3,158,"[153, 158]",SP5V.tsv
+that we,2,158,"[153, 158]",SP5V.tsv
+if we,2,158,"[153, 158, 161, 180]",SP5V.tsv
+back,1,189,"[158, 189]",SP5V.tsv
+can't juggle,2,162,"[161, 162]",SP5V.tsv
+three,1,166,"[35, 38, 163, 166, 168, 174, 180, 183, 189]",SP5V.tsv
+slice of tiger bread,4,168,"[167, 168]",SP5V.tsv
+have three,2,168,"[166, 168, 180]",SP5V.tsv
+anyway,1,170,"[124, 170, 194]",SP5V.tsv
+slice,1,170,"[167, 168, 170, 183]",SP5V.tsv
+be go,2,173,"[40, 173]",SP5V.tsv
+lot,1,173,"[63, 153, 173]",SP5V.tsv
+lot of,2,173,"[126, 173]",SP5V.tsv
+eleven days,2,174,"[173, 174]",SP5V.tsv
+do you mean,3,175,"[67, 175]",SP5V.tsv
+two,1,166,"[36, 153, 166, 169, 174, 176, 179, 184, 189, 193]",SP5V.tsv
+weeks,1,179,"[174, 179]",SP5V.tsv
+two weeks,2,179,"[176, 179]",SP5V.tsv
+enjoy,1,182,"[140, 182]",SP5V.tsv
+tiger bread,2,182,"[167, 182]",SP5V.tsv
+holiday,1,186,"[63, 140, 180, 186]",SP5V.tsv
+want,1,186,"[43, 163, 186, 189, 193]",SP5V.tsv
+something,1,190,"[120, 189, 190]",SP5V.tsv
+all of,2,194,"[17, 194]",SP5V.tsv
+it do,2,194,"[19, 194]",SP5V.tsv
+also,1,194,"[146, 193, 194]",SP5V.tsv
+juggle be,2,194,"[189, 194]",SP5V.tsv
+easter saturday,2,2,"[0, 2, 8]",SP5V.tsv
+say easter,2,8,"[7, 8]",SP5V.tsv
+day,1,152,"[8, 39, 64, 66, 72, 152, 158]",SP5V.tsv
+okay,1,159,"[18, 46, 111, 159]",SP5V.tsv
+we be,2,110,"[20, 110, 151, 158]",SP5V.tsv
+see,1,132,"[24, 68, 132, 133, 134]",SP5V.tsv
+can you,2,134,"[24, 26, 28, 119, 133, 134]",SP5V.tsv
+and it be,3,120,"[28, 120]",SP5V.tsv
+a treasure,2,43,"[41, 43]",SP5V.tsv
+and an easter,3,44,"[43, 44]",SP5V.tsv
+hunt,1,43,"[10, 43, 44]",SP5V.tsv
+i can,2,134,"[46, 134, 166]",SP5V.tsv
+i can do,3,164,"[46, 164, 166]",SP5V.tsv
+practice,1,51,"[48, 51, 52, 56, 62, 68]",SP5V.tsv
+when we,2,110,"[48, 110, 145]",SP5V.tsv
+it's not,2,56,"[2, 56, 78, 135]",SP5V.tsv
+i've,1,56,"[13, 56]",SP5V.tsv
+at the,2,110,"[56, 60, 82, 110, 135, 173]",SP5V.tsv
+there be,2,108,"[66, 94, 108, 112, 135]",SP5V.tsv
+it and,2,120,"[68, 107, 120]",SP5V.tsv
+see the,2,132,"[68, 132]",SP5V.tsv
+be that,2,183,"[74, 141, 183, 186]",SP5V.tsv
+and then,2,166,"[80, 158, 166, 173]",SP5V.tsv
+that be,2,183,"[86, 183]",SP5V.tsv
+there be a,3,112,"[94, 112, 135]",SP5V.tsv
+so i,2,134,"[94, 134]",SP5V.tsv
+look,1,183,"[94, 183]",SP5V.tsv
+be one,2,108,"[107, 108]",SP5V.tsv
+a circus,2,112,"[107, 112]",SP5V.tsv
+just people,2,117,"[116, 117]",SP5V.tsv
+can do,2,164,"[125, 164, 166]",SP5V.tsv
+see the bear,3,133,"[132, 133]",SP5V.tsv
+the bear,2,134,"[133, 134]",SP5V.tsv
+mm mm,2,181,"[147, 154, 181]",SP5V.tsv
+for one day,3,152,"[151, 152, 158]",SP5V.tsv
+stay,1,152,"[151, 152]",SP5V.tsv
+at all,2,162,"[112, 162]",SP5V.tsv
+an easter,2,43,"[10, 43]",SP5V.tsv
+can i,2,166,"[22, 166, 169]",SP5V.tsv
+three be,2,38,"[35, 38]",SP5V.tsv
+i think you,3,40,"[7, 40]",SP5V.tsv
+lyric,1,40,"[9, 11, 15, 21, 23, 40]",SP5V.tsv
+actually,1,120,"[63, 81, 120, 189]",SP5V.tsv
+mum,1,164,"[95, 164]",SP5V.tsv
+lion tame,2,122,"[112, 114, 122, 124]",SP5V.tsv
+key,1,146,"[120, 146, 150]",SP5V.tsv
+i want,2,163,"[43, 163]",SP5V.tsv
+ball,1,166,"[163, 166, 189, 195]",SP5V.tsv
+can i have,3,167,"[166, 167, 169]",SP5V.tsv

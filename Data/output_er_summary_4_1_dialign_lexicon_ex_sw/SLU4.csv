@@ -1,0 +1,136 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+see,1,8,"[2, 5, 7, 8, 10, 11, 19, 100, 156]",SLU4.tsv
+in the,2,26,"[1, 26, 38, 47, 57, 81]",SLU4.tsv
+get,1,27,"[26, 27, 43, 60, 74, 75, 78, 85, 89, 114, 220, 235, 244, 245, 250]",SLU4.tsv
+like,1,38,"[26, 38, 40, 42, 52, 55, 60, 61, 75, 78, 85, 87, 99, 148, 177, 179, 180, 215]",SLU4.tsv
+to the,2,220,"[26, 60, 78, 220]",SLU4.tsv
+go,1,26,"[12, 26, 71, 78, 189, 235, 246, 247, 249]",SLU4.tsv
+be in,2,30,"[1, 30]",SLU4.tsv
+i think,2,30,"[19, 30, 39, 74, 179, 195]",SLU4.tsv
+remember,1,74,"[30, 74]",SLU4.tsv
+can't,1,103,"[30, 103]",SLU4.tsv
+one,1,110,"[30, 41, 43, 45, 93, 110, 111, 127, 233, 234, 236]",SLU4.tsv
+think,1,19,"[18, 19, 30, 39, 69, 74, 114, 179, 195, 206]",SLU4.tsv
+you can,2,66,"[37, 39, 51, 54, 66, 68, 71]",SLU4.tsv
+play,1,37,"[12, 37, 51, 52, 55, 58, 60, 69, 74, 247, 254]",SLU4.tsv
+of a,2,108,"[37, 49, 108, 110]",SLU4.tsv
+of it,2,176,"[37, 176]",SLU4.tsv
+cos,1,37,"[16, 24, 37, 39, 177, 241]",SLU4.tsv
+it's a,2,195,"[37, 195]",SLU4.tsv
+on the,2,37,"[24, 37, 254]",SLU4.tsv
+do you,2,39,"[38, 39, 74, 114, 126, 127, 153, 158, 162, 206]",SLU4.tsv
+two,1,216,"[39, 54, 141, 216, 218, 226]",SLU4.tsv
+and you,2,87,"[39, 75, 87, 149, 255]",SLU4.tsv
+minute,1,213,"[41, 213]",SLU4.tsv
+if you,2,54,"[19, 54, 58, 69, 75, 85, 177]",SLU4.tsv
+you want,2,127,"[54, 71, 127, 153, 162]",SLU4.tsv
+want,1,255,"[54, 71, 89, 255]",SLU4.tsv
+time,1,119,"[58, 116, 117, 119, 120, 126, 138, 215, 220]",SLU4.tsv
+you get,2,60,"[27, 60, 74, 75, 78, 85, 114, 250]",SLU4.tsv
+you play,2,60,"[52, 60, 74]",SLU4.tsv
+you get a,3,114,"[60, 114]",SLU4.tsv
+be like,2,60,"[52, 60, 61, 177]",SLU4.tsv
+you know,2,103,"[61, 78, 103, 241]",SLU4.tsv
+eat some,2,105,"[65, 105]",SLU4.tsv
+to eat,2,177,"[65, 177]",SLU4.tsv
+need to,2,240,"[65, 240]",SLU4.tsv
+need,1,251,"[65, 251]",SLU4.tsv
+you think,2,114,"[69, 114]",SLU4.tsv
+gonna,1,71,"[1, 16, 71, 143, 177, 212]",SLU4.tsv
+wipe,1,75,"[68, 75]",SLU4.tsv
+like you,2,177,"[75, 177, 180]",SLU4.tsv
+you can't,2,103,"[76, 103]",SLU4.tsv
+of the,2,78,"[16, 78, 100, 153]",SLU4.tsv
+to do,2,195,"[78, 195]",SLU4.tsv
+you do,2,78,"[38, 78, 189, 255]",SLU4.tsv
+top,1,240,"[100, 240]",SLU4.tsv
+be you,2,116,"[1, 90, 105, 114, 116]",SLU4.tsv
+tomorrow,1,116,"[114, 116]",SLU4.tsv
+train,1,139,"[138, 139]",SLU4.tsv
+around,1,140,"[103, 140]",SLU4.tsv
+to give,2,240,"[140, 240]",SLU4.tsv
+gonna be,2,143,"[1, 143]",SLU4.tsv
+lift,1,149,"[114, 149]",SLU4.tsv
+give you,2,240,"[149, 240]",SLU4.tsv
+your hand,2,168,"[64, 66, 68, 105, 168, 170, 171]",SLU4.tsv
+put your hand,3,170,"[66, 170, 171]",SLU4.tsv
+okay,1,187,"[48, 129, 155, 178, 183, 187, 188, 190, 191, 237, 238, 250, 251, 254, 256]",SLU4.tsv
+do it,2,243,"[189, 191, 243, 255]",SLU4.tsv
+you do it,3,255,"[189, 255]",SLU4.tsv
+do you think,3,206,"[114, 206]",SLU4.tsv
+hand,1,215,"[64, 66, 68, 105, 215]",SLU4.tsv
+half,1,177,"[135, 177, 216, 218, 231]",SLU4.tsv
+half two,2,231,"[216, 218, 231]",SLU4.tsv
+back,1,235,"[135, 213, 235]",SLU4.tsv
+and get,2,245,"[220, 245]",SLU4.tsv
+five,1,201,"[26, 141, 201, 202, 203, 204, 205, 209, 211, 217, 219, 221, 223, 224, 225, 227, 229]",SLU4.tsv
+i'm,1,15,"[12, 15, 16, 71]",SLU4.tsv
+classic,1,26,"[24, 26]",SLU4.tsv
+age,1,87,"[26, 87]",SLU4.tsv
+four,1,135,"[26, 134, 135]",SLU4.tsv
+civilization,1,30,"[14, 30, 34, 37, 42, 81]",SLU4.tsv
+there's,1,42,"[30, 34, 42, 47, 78]",SLU4.tsv
+that's,1,40,"[36, 37, 40, 53, 60, 71, 160, 222]",SLU4.tsv
+have a,2,37,"[16, 37, 170]",SLU4.tsv
+multiplayer,1,38,"[37, 38, 51]",SLU4.tsv
+to be,2,62,"[37, 62]",SLU4.tsv
+i have a,3,81,"[37, 81, 170]",SLU4.tsv
+kind of,2,87,"[37, 78, 87]",SLU4.tsv
+good,1,87,"[37, 87, 191, 197]",SLU4.tsv
+different,1,42,"[39, 42]",SLU4.tsv
+could,1,42,"[39, 41, 42, 55, 60, 61, 241]",SLU4.tsv
+else,1,52,"[39, 52, 75]",SLU4.tsv
+help,1,41,"[38, 41]",SLU4.tsv
+and then,2,42,"[41, 42, 52, 87]",SLU4.tsv
+world,1,47,"[42, 47, 49, 57]",SLU4.tsv
+countries,1,47,"[42, 47]",SLU4.tsv
+online,1,51,"[50, 51]",SLU4.tsv
+the same,2,58,"[16, 57, 58]",SLU4.tsv
+at the,2,58,"[55, 58]",SLU4.tsv
+same time,2,117,"[58, 117, 119]",SLU4.tsv
+famous,1,62,"[60, 62]",SLU4.tsv
+end,1,87,"[60, 76, 78, 87]",SLU4.tsv
+know,1,61,"[42, 61, 78, 103, 200, 241]",SLU4.tsv
+i'm go to,3,71,"[12, 71]",SLU4.tsv
+go to,2,71,"[12, 71]",SLU4.tsv
+whatever,1,71,"[24, 71]",SLU4.tsv
+everyone else,2,71,"[52, 71]",SLU4.tsv
+everyone,1,71,"[55, 71]",SLU4.tsv
+and there's,2,73,"[42, 73]",SLU4.tsv
+you like,2,75,"[42, 75, 215]",SLU4.tsv
+like all,2,75,"[42, 75]",SLU4.tsv
+stuff,1,78,"[42, 78]",SLU4.tsv
+then you,2,87,"[78, 87]",SLU4.tsv
+things,1,89,"[87, 89]",SLU4.tsv
+what time,2,119,"[116, 119, 120, 126, 138, 215]",SLU4.tsv
+that be,2,120,"[24, 87, 120]",SLU4.tsv
+would,1,120,"[87, 120]",SLU4.tsv
+have to,2,140,"[62, 140, 235]",SLU4.tsv
+definitely,1,143,"[115, 143, 144]",SLU4.tsv
+say,1,170,"[24, 55, 170]",SLU4.tsv
+round,1,170,"[55, 170]",SLU4.tsv
+okay okay,2,187,"[129, 187]",SLU4.tsv
+good boy,2,197,"[191, 197]",SLU4.tsv
+what do you,3,206,"[38, 206]",SLU4.tsv
+would you,2,215,"[87, 215]",SLU4.tsv
+i'll,1,222,"[135, 222, 239, 245]",SLU4.tsv
+at half,2,231,"[135, 231]",SLU4.tsv
+i'll be,2,239,"[135, 239]",SLU4.tsv
+cos he,2,241,"[24, 241]",SLU4.tsv
+try and,2,245,"[12, 245]",SLU4.tsv
+try,1,245,"[16, 245]",SLU4.tsv
+yeah,1,115,"[4, 19, 22, 72, 115, 131, 137, 167, 176, 240]",SLU4.tsv
+something,1,64,"[29, 64]",SLU4.tsv
+play it,2,74,"[12, 55, 74]",SLU4.tsv
+far,1,87,"[74, 87]",SLU4.tsv
+better,1,91,"[90, 91, 195]",SLU4.tsv
+with your,2,105,"[52, 105]",SLU4.tsv
+a strange,2,111,"[108, 111]",SLU4.tsv
+a strange one,3,111,"[110, 111]",SLU4.tsv
+strange,1,112,"[111, 112]",SLU4.tsv
+that with,2,195,"[52, 195]",SLU4.tsv
+can you,2,243,"[27, 52, 243]",SLU4.tsv
+another,1,251,"[38, 251]",SLU4.tsv
+i don't,2,255,"[200, 255]",SLU4.tsv
+jump,1,186,"[185, 186]",SLU4.tsv
+high five,2,202,"[201, 202, 203, 204, 205, 209, 211, 217, 219, 221, 223, 224, 225, 227, 229]",SLU4.tsv

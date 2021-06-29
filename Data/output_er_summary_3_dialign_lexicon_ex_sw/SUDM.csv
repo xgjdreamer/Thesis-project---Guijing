@@ -1,0 +1,126 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+bubble,1,4,"[2, 3, 4, 5, 7, 24, 97, 101]",SUDM.tsv
+wrap,1,8,"[2, 3, 7, 8, 9, 24, 97, 101]",SUDM.tsv
+bubble wrap,2,7,"[2, 3, 7, 20, 24, 94, 97, 101]",SUDM.tsv
+bob,1,7,"[6, 7, 9, 12, 13, 25, 28, 34, 39, 41, 44, 45, 46, 48, 53, 87, 93, 95]",SUDM.tsv
+stop,1,11,"[1, 9, 11, 12, 15, 16, 63, 68, 110]",SUDM.tsv
+fall,1,11,"[10, 11, 74]",SUDM.tsv
+gonna fall,2,35,"[11, 35]",SUDM.tsv
+gonna,1,76,"[11, 75, 76, 82, 201]",SUDM.tsv
+come,1,13,"[9, 13, 24, 28, 194]",SUDM.tsv
+shower,1,30,"[28, 29, 30]",SUDM.tsv
+have a,2,183,"[30, 183, 217]",SUDM.tsv
+get,1,41,"[18, 28, 29, 40, 41, 53, 73, 75, 76, 79, 80, 86, 87, 140, 157, 201, 208, 217]",SUDM.tsv
+get off,2,41,"[40, 41, 140]",SUDM.tsv
+really,1,110,"[56, 110]",SUDM.tsv
+be you,2,56,"[39, 56, 181, 188]",SUDM.tsv
+ow,1,69,"[65, 69, 78, 117, 138, 140]",SUDM.tsv
+can you,2,73,"[40, 70, 73]",SUDM.tsv
+you get,2,73,"[40, 73, 217]",SUDM.tsv
+the crocodile's,2,76,"[75, 76]",SUDM.tsv
+gonna get,2,76,"[75, 76]",SUDM.tsv
+they're,1,111,"[77, 111]",SUDM.tsv
+your ex,2,103,"[90, 103]",SUDM.tsv
+your ex boyfriend,3,103,"[98, 103]",SUDM.tsv
+you mean,2,107,"[98, 107]",SUDM.tsv
+yeah,1,100,"[57, 65, 82, 100, 106, 109, 130, 151, 170, 180, 182, 195, 196, 197, 214]",SUDM.tsv
+ex boyfriend,2,101,"[98, 100, 101, 103]",SUDM.tsv
+mean,1,107,"[100, 107]",SUDM.tsv
+i think,2,102,"[82, 102, 208, 210, 214]",SUDM.tsv
+grandad,1,102,"[26, 102, 105]",SUDM.tsv
+make,1,102,"[9, 102, 111, 120, 122]",SUDM.tsv
+know,1,112,"[111, 112, 177, 204, 206, 208, 210, 212]",SUDM.tsv
+kick,1,115,"[114, 115, 145]",SUDM.tsv
+erm i,2,123,"[82, 123, 177, 210]",SUDM.tsv
+i'm,1,123,"[91, 97, 123, 183, 190, 201, 208, 210]",SUDM.tsv
+a bush,2,127,"[126, 127, 131]",SUDM.tsv
+watch,1,136,"[70, 136]",SUDM.tsv
+mm mm,2,200,"[137, 139, 200, 209, 211]",SUDM.tsv
+register,1,150,"[149, 150]",SUDM.tsv
+the register,2,160,"[149, 160]",SUDM.tsv
+go to,2,161,"[22, 82, 91, 161, 169, 172, 210, 212, 214]",SUDM.tsv
+assembly,1,176,"[161, 176]",SUDM.tsv
+go,1,82,"[3, 12, 22, 28, 82, 91, 116, 161, 164, 169, 172, 194, 195, 201, 210, 212, 214]",SUDM.tsv
+history,1,181,"[179, 181, 182, 185, 188, 199]",SUDM.tsv
+be kill,2,187,"[96, 187]",SUDM.tsv
+that's,1,190,"[37, 52, 62, 113, 138, 185, 190, 212]",SUDM.tsv
+okay,1,39,"[11, 39, 159]",SUDM.tsv
+come on,2,24,"[13, 24]",SUDM.tsv
+come on bob,3,28,"[13, 28]",SUDM.tsv
+yes,1,108,"[19, 77, 108, 137, 193, 215]",SUDM.tsv
+i have,2,78,"[23, 78]",SUDM.tsv
+whoop,1,53,"[36, 53]",SUDM.tsv
+wait wait,2,204,"[42, 204]",SUDM.tsv
+wait,1,204,"[42, 44, 204, 210]",SUDM.tsv
+hey,1,56,"[2, 9, 28, 37, 56]",SUDM.tsv
+space,1,56,"[2, 56, 78]",SUDM.tsv
+hey you're,2,56,"[34, 56]",SUDM.tsv
+give,1,135,"[56, 135]",SUDM.tsv
+give me a,3,204,"[56, 204]",SUDM.tsv
+give me,2,204,"[56, 204]",SUDM.tsv
+they be,2,214,"[77, 214]",SUDM.tsv
+get the,2,80,"[79, 80, 208]",SUDM.tsv
+ex,1,101,"[90, 101]",SUDM.tsv
+would,1,102,"[26, 102, 208]",SUDM.tsv
+i know,2,204,"[112, 204, 206, 208, 210]",SUDM.tsv
+somebody's,1,172,"[114, 172]",SUDM.tsv
+i don't,2,212,"[123, 212]",SUDM.tsv
+bush,1,126,"[122, 126, 127, 131]",SUDM.tsv
+to be,2,131,"[26, 128, 131, 134]",SUDM.tsv
+need to,2,204,"[131, 204]",SUDM.tsv
+room,1,137,"[116, 137]",SUDM.tsv
+then we,2,191,"[161, 191]",SUDM.tsv
+we go to,3,212,"[161, 212]",SUDM.tsv
+away,1,164,"[53, 135, 164]",SUDM.tsv
+i don't know,3,212,"[177, 212]",SUDM.tsv
+it be,2,202,"[179, 202, 204, 208, 210]",SUDM.tsv
+yeah yeah yeah,3,182,"[180, 182, 195, 197]",SUDM.tsv
+we go,2,212,"[195, 212]",SUDM.tsv
+go and get,3,201,"[28, 201]",SUDM.tsv
+name,1,208,"[4, 5, 208]",SUDM.tsv
+bobble wrap,2,9,"[8, 9]",SUDM.tsv
+bobble,1,120,"[8, 120]",SUDM.tsv
+piece,1,91,"[20, 91]",SUDM.tsv
+what be,2,204,"[21, 103, 148, 176, 181, 188, 204]",SUDM.tsv
+get dress for our shower,5,29,"[28, 29]",SUDM.tsv
+let's,1,29,"[28, 29]",SUDM.tsv
+let's get,2,87,"[29, 87]",SUDM.tsv
+the bed,2,37,"[35, 37, 40]",SUDM.tsv
+bed,1,37,"[35, 37, 38, 40, 88]",SUDM.tsv
+care about the bed,4,38,"[37, 38]",SUDM.tsv
+back,1,40,"[12, 40, 87, 217]",SUDM.tsv
+put,1,45,"[40, 45]",SUDM.tsv
+please,1,116,"[40, 63, 70, 110, 116]",SUDM.tsv
+i can,2,204,"[40, 204]",SUDM.tsv
+thing,1,204,"[52, 204]",SUDM.tsv
+to do,2,208,"[52, 208]",SUDM.tsv
+well,1,142,"[54, 57, 142]",SUDM.tsv
+push,1,142,"[54, 55, 142]",SUDM.tsv
+ouch,1,60,"[59, 60, 72]",SUDM.tsv
+yeah but,2,106,"[65, 106, 196]",SUDM.tsv
+say,1,106,"[65, 106, 208]",SUDM.tsv
+hurt,1,70,"[64, 66, 70]",SUDM.tsv
+be go,2,82,"[12, 82]",SUDM.tsv
+together,1,82,"[28, 82, 87, 88]",SUDM.tsv
+'s,1,82,"[37, 82]",SUDM.tsv
+have to,2,128,"[86, 128, 134, 208, 212]",SUDM.tsv
+poor,1,95,"[94, 95]",SUDM.tsv
+great,1,107,"[26, 107]",SUDM.tsv
+in my,2,107,"[87, 107]",SUDM.tsv
+do you,2,111,"[45, 111, 141, 160, 176]",SUDM.tsv
+people,1,111,"[80, 111]",SUDM.tsv
+and that's,2,212,"[113, 212]",SUDM.tsv
+can't,1,128,"[115, 128, 134, 202, 204, 208, 214]",SUDM.tsv
+be it,2,204,"[121, 204, 207]",SUDM.tsv
+like,1,129,"[26, 50, 53, 106, 129, 147, 194, 208]",SUDM.tsv
+like a,2,208,"[129, 208]",SUDM.tsv
+tell,1,157,"[148, 157, 159, 210, 212, 217]",SUDM.tsv
+and what,2,208,"[160, 208]",SUDM.tsv
+fun,1,181,"[9, 181]",SUDM.tsv
+church,1,192,"[191, 192, 194, 208, 210]",SUDM.tsv
+already,1,194,"[93, 194]",SUDM.tsv
+one,1,194,"[124, 194]",SUDM.tsv
+literacy,1,212,"[205, 212]",SUDM.tsv
+what be it,3,207,"[204, 207]",SUDM.tsv
+get back,2,217,"[87, 217]",SUDM.tsv
+love you,2,219,"[218, 219]",SUDM.tsv

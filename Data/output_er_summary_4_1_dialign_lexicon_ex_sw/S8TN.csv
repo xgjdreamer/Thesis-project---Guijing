@@ -1,0 +1,242 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+mm hm,2,3,"[2, 3, 24, 49, 58, 134, 162, 206, 237, 289, 301, 306, 387]",S8TN.tsv
+impressive,1,14,"[11, 14]",S8TN.tsv
+yeah,1,25,"[7, 9, 23, 25, 35, 41, 65, 72, 75, 82, 109, 110, 139, 141, 150, 170, 174, 208, 209, 228, 236, 248, 250, 256, 259, 271, 275, 291, 321, 325, 349, 361, 366]",S8TN.tsv
+ninja,1,29,"[4, 29, 49, 50]",S8TN.tsv
+could,1,29,"[28, 29, 50, 54, 57, 239, 279, 313, 331]",S8TN.tsv
+burger,1,41,"[32, 40, 41, 71, 115, 160]",S8TN.tsv
+like,1,41,"[17, 21, 22, 32, 40, 41, 44, 54, 60, 69, 70, 84, 141, 149, 164, 169, 196, 203, 207, 217, 218, 223, 234, 319, 339, 344, 374]",S8TN.tsv
+know,1,53,"[23, 46, 53, 97, 217, 327]",S8TN.tsv
+go,1,53,"[28, 32, 53, 58, 115, 157, 161, 169, 182, 235, 239, 245, 317, 336, 339, 380]",S8TN.tsv
+right,1,92,"[55, 92, 284, 292, 365]",S8TN.tsv
+if i,2,269,"[55, 70, 269]",S8TN.tsv
+i can,2,285,"[55, 285]",S8TN.tsv
+see,1,55,"[32, 55, 70, 123, 191, 336, 364, 386]",S8TN.tsv
+it on,2,92,"[70, 92]",S8TN.tsv
+one,1,75,"[17, 18, 33, 58, 75, 77, 79, 165, 323, 326]",S8TN.tsv
+yes,1,138,"[105, 133, 138, 316, 335, 376, 378]",S8TN.tsv
+a bite,2,120,"[119, 120, 169, 230, 231, 277]",S8TN.tsv
+bite,1,199,"[119, 120, 169, 199, 231, 232]",S8TN.tsv
+pancakes,1,129,"[122, 129, 132, 146, 149, 152, 281, 282]",S8TN.tsv
+really,1,126,"[11, 54, 56, 66, 67, 126, 183, 332]",S8TN.tsv
+it's not,2,138,"[131, 138]",S8TN.tsv
+we have,2,137,"[135, 137, 138, 139, 263]",S8TN.tsv
+question,1,138,"[137, 138]",S8TN.tsv
+sugar,1,138,"[137, 138, 139, 140, 141]",S8TN.tsv
+in the,2,92,"[50, 52, 92, 138, 144, 283, 339]",S8TN.tsv
+question with in the house,5,144,"[138, 144]",S8TN.tsv
+not a,2,144,"[138, 144, 345]",S8TN.tsv
+that's,1,144,"[32, 144, 229, 288, 318, 328, 359]",S8TN.tsv
+that be,2,151,"[11, 151]",S8TN.tsv
+gonna,1,165,"[11, 64, 132, 165, 175, 228, 235, 277, 288, 327, 373]",S8TN.tsv
+be gonna,2,165,"[64, 165, 327]",S8TN.tsv
+send,1,165,"[149, 161, 165]",S8TN.tsv
+gonna have,2,175,"[132, 175, 277, 288]",S8TN.tsv
+i'm,1,175,"[5, 60, 129, 175, 176, 225, 277, 288, 312, 313]",S8TN.tsv
+have to,2,300,"[175, 300, 339, 347]",S8TN.tsv
+need to,2,185,"[184, 185, 231, 304]",S8TN.tsv
+some custard,2,193,"[188, 193]",S8TN.tsv
+custard,1,193,"[188, 192, 193, 196, 203, 210, 217, 305]",S8TN.tsv
+someone have,2,360,"[193, 360]",S8TN.tsv
+they do,2,202,"[26, 202]",S8TN.tsv
+do on,2,202,"[99, 202]",S8TN.tsv
+need,1,184,"[181, 184, 202, 231, 304]",S8TN.tsv
+long time,2,210,"[94, 210, 349]",S8TN.tsv
+time,1,210,"[159, 210, 349]",S8TN.tsv
+cos,1,214,"[11, 54, 190, 211, 214, 269, 335, 382]",S8TN.tsv
+i be,2,219,"[64, 211, 219, 236, 375]",S8TN.tsv
+be a,2,219,"[94, 219]",S8TN.tsv
+to wagamama's,2,262,"[241, 242, 262]",S8TN.tsv
+wagamama's,1,262,"[241, 242, 262]",S8TN.tsv
+today,1,263,"[262, 263]",S8TN.tsv
+and then,2,262,"[236, 262, 283]",S8TN.tsv
+think,1,17,"[1, 11, 17, 18, 58, 174, 236, 279]",S8TN.tsv
+i think,2,279,"[17, 18, 58, 174, 279]",S8TN.tsv
+have a,2,288,"[94, 199, 263, 277, 288, 314, 365]",S8TN.tsv
+tea,1,288,"[141, 288, 352, 374, 381, 383]",S8TN.tsv
+be that,2,288,"[37, 258, 288, 324, 355]",S8TN.tsv
+cookie,1,288,"[273, 275, 288]",S8TN.tsv
+doughnut,1,289,"[288, 289, 296]",S8TN.tsv
+i'm not,2,288,"[129, 288, 313]",S8TN.tsv
+be with,2,298,"[297, 298, 299]",S8TN.tsv
+burgle,1,360,"[358, 360]",S8TN.tsv
+and i,2,375,"[64, 66, 375, 377, 379]",S8TN.tsv
+eat,1,140,"[115, 140, 185, 278, 307, 321, 362, 375, 382]",S8TN.tsv
+eat it,2,375,"[307, 362, 375, 382]",S8TN.tsv
+jam,1,375,"[368, 369, 375]",S8TN.tsv
+put,1,232,"[92, 181, 225, 232, 377, 379]",S8TN.tsv
+want to,2,123,"[11, 66, 123, 297, 379]",S8TN.tsv
+want,1,123,"[11, 36, 66, 77, 79, 111, 123, 297, 309, 316, 379, 381]",S8TN.tsv
+put it,2,379,"[92, 379]",S8TN.tsv
+it be,2,380,"[157, 227, 329, 380]",S8TN.tsv
+obstacles,1,54,"[12, 54]",S8TN.tsv
+make,1,15,"[14, 15, 17, 29, 55, 101, 106, 183, 212, 214, 215, 310, 352, 379]",S8TN.tsv
+we could,2,50,"[29, 50, 54, 239, 279]",S8TN.tsv
+ninja warrior,2,50,"[29, 50]",S8TN.tsv
+look,1,38,"[32, 38, 40, 41, 42, 163, 187, 315, 365, 370, 388]",S8TN.tsv
+like a,2,32,"[22, 32, 40, 41]",S8TN.tsv
+make a,2,55,"[17, 55]",S8TN.tsv
+and it,2,68,"[54, 68, 183]",S8TN.tsv
+see that,2,364,"[70, 364]",S8TN.tsv
+can i,2,75,"[15, 75, 191, 232, 284, 288]",S8TN.tsv
+omgwt,1,105,"[93, 97, 105]",S8TN.tsv
+doesn't make any sense,4,106,"[101, 106]",S8TN.tsv
+mum,1,209,"[131, 207, 209, 302, 305, 319]",S8TN.tsv
+stupid,1,145,"[137, 144, 145]",S8TN.tsv
+i'm gonna have,3,277,"[175, 277]",S8TN.tsv
+finish,1,210,"[71, 76, 210]",S8TN.tsv
+finish that,2,210,"[83, 210]",S8TN.tsv
+forget about,2,262,"[252, 262]",S8TN.tsv
+gonna have a,3,288,"[277, 288]",S8TN.tsv
+i put,2,377,"[232, 377, 379]",S8TN.tsv
+to make,2,379,"[17, 379]",S8TN.tsv
+i want to,3,379,"[123, 379]",S8TN.tsv
+i want,2,379,"[316, 379]",S8TN.tsv
+see it,2,386,"[123, 386]",S8TN.tsv
+hm,1,350,"[2, 3, 24, 49, 58, 134, 162, 237, 289, 306, 350, 387]",S8TN.tsv
+why do,2,189,"[12, 189]",S8TN.tsv
+make it,2,183,"[14, 183]",S8TN.tsv
+look like,2,41,"[32, 41]",S8TN.tsv
+a burger,2,41,"[32, 41]",S8TN.tsv
+it look like a,4,41,"[40, 41]",S8TN.tsv
+right let's,2,365,"[55, 365]",S8TN.tsv
+let's,1,365,"[55, 365, 386]",S8TN.tsv
+cheese,1,84,"[44, 84]",S8TN.tsv
+in it,2,181,"[84, 181]",S8TN.tsv
+have any,2,192,"[137, 192, 194]",S8TN.tsv
+amaze,1,151,"[37, 151]",S8TN.tsv
+pour,1,177,"[175, 177]",S8TN.tsv
+i need,2,202,"[181, 202]",S8TN.tsv
+long,1,371,"[94, 210, 371, 372]",S8TN.tsv
+it make,2,212,"[183, 212, 214]",S8TN.tsv
+pie,1,278,"[272, 274, 276, 278, 280]",S8TN.tsv
+mm mm,2,363,"[185, 363]",S8TN.tsv
+chin,1,377,"[369, 377]",S8TN.tsv
+it down and,3,379,"[181, 379]",S8TN.tsv
+enjoy,1,5,"[4, 5]",S8TN.tsv
+kind of,2,6,"[5, 6, 13, 381]",S8TN.tsv
+get,1,34,"[11, 13, 34, 136, 159, 171, 176, 217, 231, 270, 351]",S8TN.tsv
+be really,2,54,"[11, 54, 56]",S8TN.tsv
+i really,2,67,"[11, 66, 67]",S8TN.tsv
+a children's one,3,18,"[17, 18]",S8TN.tsv
+they should,2,18,"[17, 18]",S8TN.tsv
+you know,2,46,"[23, 46, 97]",S8TN.tsv
+well,1,172,"[23, 58, 92, 138, 159, 172, 174, 196, 201, 233]",S8TN.tsv
+oh my goodness,3,85,"[30, 74, 85, 97, 100, 101, 109, 110]",S8TN.tsv
+the one,2,323,"[33, 323]",S8TN.tsv
+do you,2,97,"[36, 64, 77, 79, 97, 111, 146, 152, 169, 189, 246, 247, 253, 297, 309, 381]",S8TN.tsv
+what's,1,62,"[39, 62, 97, 109, 187]",S8TN.tsv
+cross,1,47,"[45, 47]",S8TN.tsv
+be it,2,145,"[47, 145]",S8TN.tsv
+idea,1,49,"[34, 49]",S8TN.tsv
+thing,1,49,"[44, 49, 50, 287, 309]",S8TN.tsv
+day,1,58,"[22, 58, 149]",S8TN.tsv
+well i,2,172,"[58, 172, 196]",S8TN.tsv
+slide and,2,64,"[57, 64]",S8TN.tsv
+last,1,245,"[64, 157, 245]",S8TN.tsv
+remember,1,149,"[64, 149, 294]",S8TN.tsv
+say,1,97,"[90, 97, 111, 113, 189, 227, 313, 327, 328]",S8TN.tsv
+omg,1,97,"[90, 97, 103]",S8TN.tsv
+on the floor,3,92,"[91, 92, 99]",S8TN.tsv
+leave,1,187,"[92, 187, 270, 278]",S8TN.tsv
+i've,1,94,"[34, 94, 136, 149, 278, 307, 310]",S8TN.tsv
+oh my goodness gracious me,5,110,"[100, 101, 110]",S8TN.tsv
+a bite less,3,230,"[119, 230]",S8TN.tsv
+the dinner table,3,130,"[128, 129, 130]",S8TN.tsv
+i've get,2,136,"[34, 136]",S8TN.tsv
+we have sugar,3,139,"[138, 139]",S8TN.tsv
+things,1,141,"[22, 141]",S8TN.tsv
+have sugar,2,141,"[139, 141]",S8TN.tsv
+oh yeah,2,150,"[65, 150]",S8TN.tsv
+he's,1,323,"[169, 323, 334, 335]",S8TN.tsv
+will you,2,333,"[171, 333]",S8TN.tsv
+little bite,2,232,"[199, 232]",S8TN.tsv
+like to,2,217,"[17, 217]",S8TN.tsv
+i don't,2,217,"[140, 196, 217, 319]",S8TN.tsv
+i'd,1,252,"[217, 252]",S8TN.tsv
+i would like to,4,218,"[17, 218]",S8TN.tsv
+would,1,218,"[17, 54, 56, 203, 218, 220, 340, 342, 347, 374]",S8TN.tsv
+i would,2,218,"[203, 218]",S8TN.tsv
+thank,1,229,"[155, 229]",S8TN.tsv
+swim,1,236,"[235, 236, 269]",S8TN.tsv
+dad,1,249,"[153, 249]",S8TN.tsv
+yeah and,2,271,"[236, 271, 275]",S8TN.tsv
+do erm,2,285,"[50, 285]",S8TN.tsv
+accent,1,330,"[318, 330]",S8TN.tsv
+to see a,3,336,"[123, 336]",S8TN.tsv
+would be,2,220,"[54, 56, 220, 340]",S8TN.tsv
+it would,2,342,"[54, 56, 342, 347]",S8TN.tsv
+goodness,1,351,"[85, 97, 100, 101, 109, 351]",S8TN.tsv
+be you,2,352,"[1, 4, 99, 115, 119, 161, 352]",S8TN.tsv
+much,1,140,"[8, 140, 190]",S8TN.tsv
+of the,2,149,"[11, 149, 270, 334]",S8TN.tsv
+well yeah,2,174,"[23, 174]",S8TN.tsv
+you could,2,331,"[28, 313, 331]",S8TN.tsv
+give,1,385,"[28, 58, 385]",S8TN.tsv
+oh my,2,371,"[30, 74, 85, 97, 101, 109, 110, 371]",S8TN.tsv
+do you want,3,77,"[36, 77, 79, 297, 309, 381]",S8TN.tsv
+special,1,149,"[39, 149, 263]",S8TN.tsv
+do it,2,129,"[64, 66, 129]",S8TN.tsv
+water,1,177,"[64, 177, 181]",S8TN.tsv
+you be,2,206,"[64, 171, 206]",S8TN.tsv
+have you,2,74,"[71, 74, 169, 309]",S8TN.tsv
+i've have,2,149,"[94, 149]",S8TN.tsv
+a long time,3,349,"[94, 349]",S8TN.tsv
+nice,1,220,"[96, 169, 220, 224, 261]",S8TN.tsv
+you do,2,149,"[99, 141, 149, 304, 309]",S8TN.tsv
+it do,2,104,"[102, 104, 111]",S8TN.tsv
+something,1,111,"[32, 111]",S8TN.tsv
+you say,2,189,"[113, 189, 227]",S8TN.tsv
+go to,2,115,"[32, 115, 161, 336]",S8TN.tsv
+at the dinner table,4,129,"[128, 129]",S8TN.tsv
+at the,2,197,"[128, 197, 312, 365]",S8TN.tsv
+have pancakes,2,149,"[132, 149, 152]",S8TN.tsv
+tomorrow,1,228,"[132, 227, 228, 231, 235, 293, 297, 304]",S8TN.tsv
+maple syrup,2,156,"[146, 156]",S8TN.tsv
+half,1,157,"[77, 157]",S8TN.tsv
+to go,2,339,"[157, 339]",S8TN.tsv
+like mm,2,164,"[44, 164]",S8TN.tsv
+many,1,185,"[164, 185]",S8TN.tsv
+still,1,270,"[169, 270]",S8TN.tsv
+turn it off,3,179,"[178, 179]",S8TN.tsv
+turn it,2,179,"[178, 179]",S8TN.tsv
+it off,2,183,"[178, 183]",S8TN.tsv
+have some,2,197,"[188, 197]",S8TN.tsv
+cos it's,2,211,"[190, 211]",S8TN.tsv
+if you,2,217,"[181, 217, 331]",S8TN.tsv
+vanilla,1,224,"[223, 224]",S8TN.tsv
+all the,2,278,"[223, 278]",S8TN.tsv
+raspberries,1,226,"[225, 226]",S8TN.tsv
+i'm just,2,312,"[225, 312]",S8TN.tsv
+you you,2,331,"[225, 331]",S8TN.tsv
+mm you,2,227,"[185, 227]",S8TN.tsv
+to be,2,347,"[227, 297, 347]",S8TN.tsv
+enough,1,349,"[229, 349]",S8TN.tsv
+there's,1,233,"[181, 233, 278, 289, 291, 367]",S8TN.tsv
+can't,1,331,"[244, 331]",S8TN.tsv
+and if,2,269,"[181, 269]",S8TN.tsv
+take,1,269,"[201, 269]",S8TN.tsv
+yeah and your,3,275,"[271, 275]",S8TN.tsv
+and your,2,275,"[271, 275]",S8TN.tsv
+there's a,2,367,"[291, 367]",S8TN.tsv
+stop,1,295,"[185, 295, 309, 381]",S8TN.tsv
+come,1,373,"[297, 373]",S8TN.tsv
+have to be,3,347,"[300, 347]",S8TN.tsv
+i've eat,2,307,"[278, 307]",S8TN.tsv
+fine,1,359,"[321, 359]",S8TN.tsv
+war,1,347,"[324, 347]",S8TN.tsv
+that would be,3,340,"[220, 340]",S8TN.tsv
+the rift war,3,348,"[347, 348]",S8TN.tsv
+evidence,1,366,"[365, 366]",S8TN.tsv
+of jam,2,369,"[368, 369]",S8TN.tsv
+make my,2,310,"[15, 17, 310]",S8TN.tsv
+please,1,376,"[15, 376, 383]",S8TN.tsv
+maybe,1,201,"[17, 201, 239]",S8TN.tsv
+hard,1,183,"[19, 183]",S8TN.tsv
+yeah i,2,174,"[65, 174]",S8TN.tsv
+follow,1,322,"[67, 322, 327]",S8TN.tsv
+i haven't,2,192,"[76, 192, 194, 204]",S8TN.tsv
+you finish,2,83,"[71, 83]",S8TN.tsv
+mean,1,109,"[46, 109]",S8TN.tsv
+would have,2,347,"[203, 347]",S8TN.tsv
+be the,2,347,"[323, 347]",S8TN.tsv

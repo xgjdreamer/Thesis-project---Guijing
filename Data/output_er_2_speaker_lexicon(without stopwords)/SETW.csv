@@ -1,0 +1,105 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker1,Expression_uttered_position_speaker2,file,speaker1,speaker2
+put,1,9,"[0, 14, 135]","[9, 13, 90, 102, 104]",SETW.tsv,S0179,S0058
+put it,2,90,[0],"[90, 102, 104]",SETW.tsv,S0179,S0058
+well,1,2,"[2, 14, 38, 46, 72, 77, 101, 131]","[1, 3, 5]",SETW.tsv,S0179,S0058
+another,1,2,[2],[1],SETW.tsv,S0179,S0058
+minutes,1,80,[2],[80],SETW.tsv,S0179,S0058
+right okay,2,19,[4],[19],SETW.tsv,S0179,S0058
+right,1,39,"[4, 6, 56, 147]","[39, 73, 100, 122, 146, 59]",SETW.tsv,S0179,S0058
+okay,1,39,"[4, 77]","[39, 55, 140, 59]",SETW.tsv,S0179,S0058
+oh right okay,3,59,[4],[59],SETW.tsv,S0179,S0058
+wait,1,47,[8],"[47, 106]",SETW.tsv,S0179,S0058
+petrol,1,49,[8],"[49, 51, 55]",SETW.tsv,S0179,S0058
+yeah,1,10,"[10, 12, 44, 75, 81, 87, 101, 123, 129, 133, 149]","[7, 9, 13, 15, 65, 67, 69, 76, 110, 112, 120, 122, 130, 136]",SETW.tsv,S0179,S0058
+that would,2,29,[10],[29],SETW.tsv,S0179,S0058
+would,1,35,"[10, 28]",[35],SETW.tsv,S0179,S0058
+responsibility to,2,13,[12],[13],SETW.tsv,S0179,S0058
+that would be,3,29,[12],[29],SETW.tsv,S0179,S0058
+sort,1,31,[12],[31],SETW.tsv,S0179,S0058
+would be,2,35,"[12, 14]",[35],SETW.tsv,S0179,S0058
+it out,2,92,[12],[92],SETW.tsv,S0179,S0058
+could,1,14,"[14, 123]","[9, 19]",SETW.tsv,S0179,S0058
+say,1,14,[14],[9],SETW.tsv,S0179,S0058
+to put,2,14,[14],[13],SETW.tsv,S0179,S0058
+bollard in,2,14,[14],[13],SETW.tsv,S0179,S0058
+need,1,118,[14],[118],SETW.tsv,S0179,S0058
+ring the,2,18,[18],[9],SETW.tsv,S0179,S0058
+ring,1,18,[18],[9],SETW.tsv,S0179,S0058
+i'd,1,18,[18],"[11, 31]",SETW.tsv,S0179,S0058
+look,1,51,"[18, 22, 109, 115]","[51, 88, 92, 102, 142]",SETW.tsv,S0179,S0058
+it's just a,3,20,[20],[3],SETW.tsv,S0179,S0058
+it's not,2,20,[20],"[5, 90]",SETW.tsv,S0179,S0058
+love,1,92,"[22, 83, 133]",[92],SETW.tsv,S0179,S0058
+behind,1,122,[22],[122],SETW.tsv,S0179,S0058
+go,1,24,"[24, 95]","[23, 53, 104]",SETW.tsv,S0179,S0058
+that's,1,25,"[24, 32, 68, 89]","[25, 118, 122]",SETW.tsv,S0179,S0058
+quite,1,35,"[24, 60, 115]","[35, 45, 128]",SETW.tsv,S0179,S0058
+i have,2,26,[26],[3],SETW.tsv,S0179,S0058
+today,1,28,[28],[9],SETW.tsv,S0179,S0058
+like,1,28,"[28, 36, 129]","[11, 13, 21, 31, 51, 142]",SETW.tsv,S0179,S0058
+yes,1,49,"[30, 34, 42, 143]","[49, 104]",SETW.tsv,S0179,S0058
+think,1,32,"[32, 105, 113, 141]",[25],SETW.tsv,S0179,S0058
+sort of like,3,36,[36],[31],SETW.tsv,S0179,S0058
+it would,2,36,[36],[35],SETW.tsv,S0179,S0058
+tax,1,41,[36],[41],SETW.tsv,S0179,S0058
+sense,1,43,[36],[43],SETW.tsv,S0179,S0058
+fuel,1,84,[36],[84],SETW.tsv,S0179,S0058
+actually,1,120,"[36, 38]",[120],SETW.tsv,S0179,S0058
+nice,1,128,[36],[128],SETW.tsv,S0179,S0058
+on the,2,41,"[38, 66, 95]",[41],SETW.tsv,S0179,S0058
+pay,1,41,"[38, 123]",[41],SETW.tsv,S0179,S0058
+the fuel,2,84,[38],[84],SETW.tsv,S0179,S0058
+um,1,40,"[40, 62]","[7, 9]",SETW.tsv,S0179,S0058
+sort of,2,44,"[44, 117, 131]",[31],SETW.tsv,S0179,S0058
+fill,1,46,[46],[3],SETW.tsv,S0179,S0058
+fill up,2,46,[46],[45],SETW.tsv,S0179,S0058
+watch,1,46,[46],[45],SETW.tsv,S0179,S0058
+be quick,2,49,[48],[49],SETW.tsv,S0179,S0058
+good,1,90,[48],"[90, 104, 122, 126]",SETW.tsv,S0179,S0058
+drink,1,51,[50],[51],SETW.tsv,S0179,S0058
+he's gonna,2,88,[50],[88],SETW.tsv,S0179,S0058
+he's,1,96,[50],"[96, 98]",SETW.tsv,S0179,S0058
+oh right,2,59,[56],[59],SETW.tsv,S0179,S0058
+do that,2,58,"[58, 83]","[57, 122]",SETW.tsv,S0179,S0058
+you can't,2,82,[58],[82],SETW.tsv,S0179,S0058
+can't,1,88,[58],"[88, 144]",SETW.tsv,S0179,S0058
+bike,1,60,"[60, 68]",[45],SETW.tsv,S0179,S0058
+the point,2,62,"[62, 77]",[25],SETW.tsv,S0179,S0058
+if you come off,4,62,[62],[61],SETW.tsv,S0179,S0058
+slide,1,71,[62],[71],SETW.tsv,S0179,S0058
+leather,1,82,"[62, 64, 77]",[82],SETW.tsv,S0179,S0058
+come,1,92,"[62, 68]",[92],SETW.tsv,S0179,S0058
+time,1,64,"[64, 121]","[53, 122]",SETW.tsv,S0179,S0058
+take,1,71,[64],[71],SETW.tsv,S0179,S0058
+see the,2,132,[66],[132],SETW.tsv,S0179,S0058
+cos if you come off,5,68,[68],[61],SETW.tsv,S0179,S0058
+if you,2,68,"[68, 109]",[61],SETW.tsv,S0179,S0058
+cos,1,68,"[68, 109, 123]","[61, 88]",SETW.tsv,S0179,S0058
+massive,1,74,[74],[49],SETW.tsv,S0179,S0058
+yeah it,2,122,[75],[122],SETW.tsv,S0179,S0058
+get,1,79,"[79, 125]","[25, 84, 88, 92, 148]",SETW.tsv,S0179,S0058
+you can,2,83,[83],[25],SETW.tsv,S0179,S0058
+i'm,1,83,[83],"[45, 47]",SETW.tsv,S0179,S0058
+work,1,89,[89],"[88, 92]",SETW.tsv,S0179,S0058
+see,1,132,"[89, 101, 145]",[132],SETW.tsv,S0179,S0058
+i don't,2,138,[89],"[138, 140]",SETW.tsv,S0179,S0058
+be he,2,101,[101],[53],SETW.tsv,S0179,S0058
+it's a,2,134,[103],[134],SETW.tsv,S0179,S0058
+pump,1,105,[105],[27],SETW.tsv,S0179,S0058
+two,1,105,"[105, 111]",[80],SETW.tsv,S0179,S0058
+there be,2,109,[109],"[5, 27]",SETW.tsv,S0179,S0058
+they're,1,111,"[111, 129, 131]",[17],SETW.tsv,S0179,S0058
+point,1,111,[111],[25],SETW.tsv,S0179,S0058
+he look,2,115,[115],"[51, 142]",SETW.tsv,S0179,S0058
+quite nice,2,128,[115],[128],SETW.tsv,S0179,S0058
+amount of,2,121,[121],[5],SETW.tsv,S0179,S0058
+save,1,122,[121],[122],SETW.tsv,S0179,S0058
+the other,2,123,[123],[55],SETW.tsv,S0179,S0058
+you know,2,135,[135],"[5, 82]",SETW.tsv,S0179,S0058
+film,1,135,[135],[132],SETW.tsv,S0179,S0058
+know,1,140,[135],[140],SETW.tsv,S0179,S0058
+just a,2,139,[139],[3],SETW.tsv,S0179,S0058
+about the,2,139,[139],[9],SETW.tsv,S0179,S0058
+be just,2,139,[139],[86],SETW.tsv,S0179,S0058
+it be,2,139,[139],[122],SETW.tsv,S0179,S0058
+i can,2,145,[145],[9],SETW.tsv,S0179,S0058

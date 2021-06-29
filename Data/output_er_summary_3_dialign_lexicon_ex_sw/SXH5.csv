@@ -1,0 +1,246 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+learn,1,1,"[0, 1, 201, 213]",SXH5.tsv
+recycle,1,35,"[0, 35, 46, 47, 93, 95, 127, 131, 132, 134, 135]",SXH5.tsv
+be gonna,2,136,"[0, 136]",SXH5.tsv
+learn about,2,202,"[0, 201, 202, 213]",SXH5.tsv
+school,1,23,"[6, 23, 101, 105, 106, 110, 150, 152, 153, 157]",SXH5.tsv
+plastic,1,10,"[1, 3, 9, 10, 11, 46, 47, 48, 50, 57, 93, 135, 136]",SXH5.tsv
+die,1,10,"[9, 10, 19]",SXH5.tsv
+really,1,82,"[18, 30, 82, 161, 247, 249]",SXH5.tsv
+in the,2,19,"[1, 3, 19, 20, 57, 136, 142, 143, 157, 167, 169, 190, 193, 232, 257]",SXH5.tsv
+in the sea,3,20,"[3, 19, 20]",SXH5.tsv
+well,1,21,"[20, 21, 51, 62, 75, 76, 91, 95, 135, 143, 164, 185, 209, 220, 244, 255, 257]",SXH5.tsv
+go,1,22,"[1, 5, 22, 28, 29, 30, 43, 66, 76, 92, 95, 110]",SXH5.tsv
+it go,2,22,"[5, 22, 30, 66]",SXH5.tsv
+cos,1,22,"[5, 11, 22, 77, 92, 191, 198, 218, 224, 256]",SXH5.tsv
+see,1,22,"[5, 22, 60, 84, 188]",SXH5.tsv
+do it,2,169,"[22, 162, 169, 170, 173, 179, 193, 195, 265, 266]",SXH5.tsv
+do you,2,28,"[1, 7, 28, 58, 88, 89, 101, 149, 172, 174, 180, 199, 231, 240, 261]",SXH5.tsv
+know,1,28,"[1, 7, 15, 28, 33, 48, 69, 70, 89, 102, 127, 149, 264, 265]",SXH5.tsv
+big,1,138,"[30, 138]",SXH5.tsv
+you know,2,33,"[1, 7, 33, 102, 127]",SXH5.tsv
+bin,1,33,"[1, 33, 93, 135, 136, 137, 142, 143]",SXH5.tsv
+we have,2,46,"[33, 46, 135, 228]",SXH5.tsv
+general waste,2,39,"[37, 39]",SXH5.tsv
+yeah,1,41,"[7, 19, 21, 29, 31, 38, 41, 42, 44, 63, 77, 94, 117, 132, 136, 138, 140, 146, 148, 152, 160, 163, 171, 175, 186, 189, 204, 232, 237, 239, 245, 253, 254, 260, 262, 265, 266]",SXH5.tsv
+that's,1,115,"[43, 65, 115]",SXH5.tsv
+i think,2,47,"[5, 46, 47, 65, 77, 87, 93]",SXH5.tsv
+think,1,47,"[5, 46, 47, 58, 65, 74, 77, 87, 93, 218, 220, 269]",SXH5.tsv
+be on,2,245,"[47, 245]",SXH5.tsv
+put,1,51,"[1, 21, 51, 73, 135, 136, 139, 142, 239]",SXH5.tsv
+could,1,51,"[3, 51, 65, 86]",SXH5.tsv
+that be,2,138,"[51, 93, 138]",SXH5.tsv
+be a,2,153,"[51, 153, 157, 187]",SXH5.tsv
+i'm,1,76,"[54, 76, 167, 256, 260, 272]",SXH5.tsv
+come up,2,58,"[11, 58]",SXH5.tsv
+get,1,58,"[11, 19, 48, 58, 89, 93, 98, 100, 108, 136, 138, 162, 187, 198, 231, 259, 270]",SXH5.tsv
+into the,2,188,"[65, 89, 188]",SXH5.tsv
+why not,2,136,"[68, 136]",SXH5.tsv
+know to hold treasure,4,70,"[69, 70]",SXH5.tsv
+ever,1,74,"[1, 74, 167]",SXH5.tsv
+don't think,2,74,"[5, 74, 269]",SXH5.tsv
+hear that,2,74,"[73, 74]",SXH5.tsv
+i've,1,74,"[73, 74, 75, 110, 120, 188]",SXH5.tsv
+hear,1,75,"[74, 75, 219, 222]",SXH5.tsv
+for the,2,78,"[77, 78, 98, 99, 200]",SXH5.tsv
+for the environment,3,200,"[77, 200]",SXH5.tsv
+the earth,2,78,"[3, 78, 79, 80, 89]",SXH5.tsv
+of the,2,89,"[78, 79, 80, 89, 232]",SXH5.tsv
+make,1,87,"[1, 87, 164, 200, 215, 218, 220]",SXH5.tsv
+and it,2,87,"[3, 19, 50, 86, 87, 90, 150]",SXH5.tsv
+do you know,3,89,"[1, 89]",SXH5.tsv
+bite,1,89,"[1, 11, 46, 89]",SXH5.tsv
+people be,2,89,"[5, 89]",SXH5.tsv
+and do you know,4,89,"[7, 89]",SXH5.tsv
+you know the,3,102,"[89, 102]",SXH5.tsv
+gonna,1,136,"[91, 136]",SXH5.tsv
+ketchup bottle,2,95,"[94, 95]",SXH5.tsv
+two,1,117,"[95, 117, 119, 191]",SXH5.tsv
+want,1,95,"[15, 95, 153, 161]",SXH5.tsv
+we be,2,163,"[95, 163]",SXH5.tsv
+do that,2,214,"[95, 110, 214, 243]",SXH5.tsv
+container,1,101,"[46, 101]",SXH5.tsv
+a container for,3,101,"[98, 100, 101]",SXH5.tsv
+need,1,101,"[98, 100, 101, 103]",SXH5.tsv
+container for,2,102,"[101, 102]",SXH5.tsv
+bottle,1,103,"[94, 103]",SXH5.tsv
+half term,2,107,"[105, 106, 107]",SXH5.tsv
+'s,1,195,"[105, 110, 195]",SXH5.tsv
+be take,2,110,"[5, 110]",SXH5.tsv
+need to,2,110,"[98, 100, 110]",SXH5.tsv
+day,1,115,"[110, 115, 232, 247]",SXH5.tsv
+to be,2,153,"[110, 153]",SXH5.tsv
+thursday,1,136,"[114, 121, 136]",SXH5.tsv
+morning,1,232,"[114, 232]",SXH5.tsv
+it's not,2,116,"[1, 116, 161]",SXH5.tsv
+today,1,116,"[1, 5, 116, 213]",SXH5.tsv
+time,1,116,"[3, 61, 115, 116, 117, 118, 119, 132, 192]",SXH5.tsv
+in one,2,116,"[115, 116]",SXH5.tsv
+monday,1,119,"[116, 119]",SXH5.tsv
+because it's,2,136,"[116, 136]",SXH5.tsv
+days' time,2,118,"[117, 118, 119]",SXH5.tsv
+can have,2,228,"[121, 228]",SXH5.tsv
+one,1,120,"[115, 116, 120, 123, 145, 151, 152, 154, 256, 257]",SXH5.tsv
+anything,1,127,"[73, 127, 271]",SXH5.tsv
+put it in,3,135,"[1, 135, 136, 139, 142]",SXH5.tsv
+so that's,2,135,"[115, 135]",SXH5.tsv
+i say,2,136,"[135, 136]",SXH5.tsv
+say,1,136,"[135, 136, 203, 218, 219, 220, 222, 242]",SXH5.tsv
+any more,2,161,"[135, 161]",SXH5.tsv
+it in,2,19,"[1, 19, 135, 136, 139, 142, 169, 193, 195]",SXH5.tsv
+the hippo bin,3,137,"[136, 137]",SXH5.tsv
+animals,1,143,"[9, 143]",SXH5.tsv
+be it,2,147,"[113, 147]",SXH5.tsv
+flower,1,164,"[163, 164]",SXH5.tsv
+plant,1,191,"[164, 191, 200, 209]",SXH5.tsv
+garden club,2,172,"[161, 167, 172, 190, 193]",SXH5.tsv
+garden,1,167,"[161, 167, 172, 188, 190, 193, 195]",SXH5.tsv
+like,1,199,"[11, 17, 46, 55, 82, 84, 132, 138, 199, 207]",SXH5.tsv
+environment,1,203,"[200, 203]",SXH5.tsv
+load,1,207,"[5, 17, 207, 249]",SXH5.tsv
+look,1,207,"[15, 138, 206, 207, 246]",SXH5.tsv
+an l,2,207,"[206, 207]",SXH5.tsv
+l,1,207,"[206, 207, 220]",SXH5.tsv
+love,1,209,"[188, 197, 206, 208, 209, 219, 220]",SXH5.tsv
+something,1,213,"[94, 132, 134, 213, 247]",SXH5.tsv
+because i,2,219,"[5, 219, 258]",SXH5.tsv
+equal,1,219,"[210, 219, 221, 223, 227]",SXH5.tsv
+dad,1,226,"[210, 220, 221, 225, 226, 227, 240, 242]",SXH5.tsv
+they do,2,233,"[232, 233, 236]",SXH5.tsv
+play,1,250,"[232, 250, 255, 256, 257, 258]",SXH5.tsv
+people,1,89,"[5, 15, 19, 64, 89, 265]",SXH5.tsv
+on the,2,15,"[6, 15, 50, 247]",SXH5.tsv
+rubbish,1,17,"[6, 17, 19, 22, 28, 77, 86, 90]",SXH5.tsv
+way,1,48,"[6, 48, 97]",SXH5.tsv
+we do,2,193,"[6, 47, 77, 93, 193]",SXH5.tsv
+end,1,187,"[20, 187]",SXH5.tsv
+last year,2,22,"[15, 22]",SXH5.tsv
+year,1,22,"[15, 22]",SXH5.tsv
+where it,2,66,"[22, 66]",SXH5.tsv
+go to,2,76,"[22, 30, 43, 76, 95, 110]",SXH5.tsv
+to see,2,84,"[22, 84]",SXH5.tsv
+cos you,2,198,"[22, 198]",SXH5.tsv
+the rubbish,2,86,"[28, 86]",SXH5.tsv
+bury it,2,32,"[31, 32]",SXH5.tsv
+it it's,2,84,"[32, 84]",SXH5.tsv
+be the,2,145,"[33, 145]",SXH5.tsv
+waste,1,249,"[37, 39, 249]",SXH5.tsv
+to the,2,80,"[43, 58, 80]",SXH5.tsv
+remember,1,47,"[27, 47, 179]",SXH5.tsv
+have be,2,64,"[47, 64]",SXH5.tsv
+although,1,167,"[47, 167, 264]",SXH5.tsv
+on it,2,258,"[47, 258]",SXH5.tsv
+into a volcano,3,53,"[51, 53]",SXH5.tsv
+volcano,1,55,"[51, 55, 66, 77]",SXH5.tsv
+a volcano,2,76,"[51, 76, 77]",SXH5.tsv
+good,1,132,"[51, 65, 132, 135]",SXH5.tsv
+actually,1,182,"[51, 182]",SXH5.tsv
+lava,1,58,"[50, 58, 64, 84]",SXH5.tsv
+the lava,2,58,"[57, 58, 84]",SXH5.tsv
+us,1,84,"[58, 84]",SXH5.tsv
+it would,2,86,"[58, 86, 90]",SXH5.tsv
+would,1,90,"[58, 87, 90, 92]",SXH5.tsv
+get to,2,198,"[58, 162, 198]",SXH5.tsv
+the volcano,2,65,"[55, 65, 66]",SXH5.tsv
+drop,1,84,"[65, 84]",SXH5.tsv
+could drop,2,86,"[65, 86]",SXH5.tsv
+i don't,2,74,"[27, 74, 95, 179, 259, 269]",SXH5.tsv
+volcano be,2,77,"[55, 77]",SXH5.tsv
+maybe,1,79,"[15, 79]",SXH5.tsv
+dig,1,79,"[50, 78, 79, 80, 89, 90]",SXH5.tsv
+the centre of the earth,5,79,"[78, 79, 80, 89]",SXH5.tsv
+dig a tunnel,3,79,"[78, 79]",SXH5.tsv
+maybe if,2,79,"[78, 79]",SXH5.tsv
+dig a tunnel to the centre of the earth,9,80,"[79, 80]",SXH5.tsv
+tunnel,1,87,"[78, 80, 87]",SXH5.tsv
+because of,2,89,"[19, 89]",SXH5.tsv
+near,1,89,"[64, 82, 89]",SXH5.tsv
+if we,2,89,"[78, 80, 89]",SXH5.tsv
+happen,1,130,"[91, 130, 168]",SXH5.tsv
+quite,1,93,"[50, 93]",SXH5.tsv
+be recycle,2,132,"[93, 132]",SXH5.tsv
+kind of,2,182,"[93, 182]",SXH5.tsv
+because er,2,95,"[55, 95]",SXH5.tsv
+us to,2,95,"[84, 95]",SXH5.tsv
+do do,2,173,"[95, 173]",SXH5.tsv
+what do you,3,101,"[88, 101, 199]",SXH5.tsv
+what do,2,141,"[101, 141, 199, 214, 242]",SXH5.tsv
+you just,2,103,"[71, 103]",SXH5.tsv
+or the,2,106,"[15, 106]",SXH5.tsv
+last,1,106,"[15, 106]",SXH5.tsv
+of that,2,110,"[19, 110]",SXH5.tsv
+daddy,1,218,"[110, 218]",SXH5.tsv
+finish,1,121,"[120, 121]",SXH5.tsv
+put it,2,21,"[1, 21, 135, 136, 139, 142]",SXH5.tsv
+away,1,135,"[21, 50, 86, 134, 135]",SXH5.tsv
+just throw,2,135,"[134, 135]",SXH5.tsv
+at least,2,135,"[134, 135]",SXH5.tsv
+allow,1,256,"[135, 256]",SXH5.tsv
+and they,2,151,"[15, 151, 249]",SXH5.tsv
+the most expensive one,4,151,"[145, 151]",SXH5.tsv
+choose the most expensive one,5,152,"[151, 152]",SXH5.tsv
+sure,1,168,"[167, 168]",SXH5.tsv
+not sure,2,256,"[168, 256, 260]",SXH5.tsv
+do garden,2,172,"[167, 172]",SXH5.tsv
+i don't remember,3,178,"[27, 178, 179]",SXH5.tsv
+at the,2,192,"[187, 192]",SXH5.tsv
+l for,2,220,"[207, 220]",SXH5.tsv
+you get,2,231,"[198, 231, 259]",SXH5.tsv
+and what do,3,242,"[141, 242]",SXH5.tsv
+play on,2,256,"[250, 255, 256, 258]",SXH5.tsv
+tablet,1,256,"[252, 255, 256]",SXH5.tsv
+of it,2,257,"[19, 257]",SXH5.tsv
+one of,2,257,"[120, 257]",SXH5.tsv
+be in the,3,257,"[190, 257]",SXH5.tsv
+be in,2,257,"[190, 193, 257]",SXH5.tsv
+mention,1,261,"[150, 261]",SXH5.tsv
+of plastic,2,48,"[1, 9, 11, 46, 48, 57]",SXH5.tsv
+still,1,57,"[1, 57, 264]",SXH5.tsv
+alive,1,90,"[1, 90]",SXH5.tsv
+the first,2,167,"[1, 167, 169, 232]",SXH5.tsv
+it in the,3,169,"[1, 136, 142, 169, 193]",SXH5.tsv
+four,1,229,"[3, 229]",SXH5.tsv
+load of,2,17,"[5, 17, 249]",SXH5.tsv
+if it,2,260,"[5, 260]",SXH5.tsv
+food,1,40,"[34, 40]",SXH5.tsv
+they're,1,71,"[34, 71]",SXH5.tsv
+and and,2,218,"[36, 218, 232]",SXH5.tsv
+mum,1,210,"[42, 52, 67, 69, 210]",SXH5.tsv
+every,1,132,"[46, 132]",SXH5.tsv
+volcanoes,1,69,"[64, 69, 73]",SXH5.tsv
+i didn't,2,182,"[72, 182]",SXH5.tsv
+yeah the,2,152,"[94, 152]",SXH5.tsv
+to get,2,98,"[48, 98, 100]",SXH5.tsv
+might,1,98,"[57, 98, 100, 130, 266]",SXH5.tsv
+find,1,136,"[15, 50, 84, 136]",SXH5.tsv
+in its,2,136,"[19, 136]",SXH5.tsv
+the plastic,2,136,"[50, 136]",SXH5.tsv
+alive and,2,136,"[90, 136]",SXH5.tsv
+mushroom,1,144,"[136, 142, 144]",SXH5.tsv
+it be,2,138,"[15, 19, 138, 145, 150, 182, 190, 245, 256, 260, 264]",SXH5.tsv
+huge,1,138,"[17, 138]",SXH5.tsv
+want to,2,153,"[15, 153, 161]",SXH5.tsv
+a school,2,153,"[23, 153, 157]",SXH5.tsv
+the garden club,3,167,"[161, 167]",SXH5.tsv
+close,1,195,"[84, 195]",SXH5.tsv
+i do it in,4,195,"[169, 195]",SXH5.tsv
+i do,2,195,"[173, 195]",SXH5.tsv
+do it in,3,195,"[193, 195]",SXH5.tsv
+playground,1,198,"[195, 198]",SXH5.tsv
+love it,2,220,"[197, 220]",SXH5.tsv
+for love,2,220,"[206, 220]",SXH5.tsv
+mum and dad,3,221,"[210, 221]",SXH5.tsv
+mum and,2,221,"[210, 221]",SXH5.tsv
+and dad,2,221,"[220, 221, 227]",SXH5.tsv
+you and,2,223,"[218, 220, 223]",SXH5.tsv
+mum and dad equal,4,227,"[210, 227]",SXH5.tsv
+me and,2,227,"[218, 220, 227, 232]",SXH5.tsv
+and you,2,227,"[218, 227]",SXH5.tsv
+four children,2,230,"[229, 230]",SXH5.tsv
+yeah but,2,260,"[232, 260]",SXH5.tsv
+yeah but they,3,266,"[232, 266]",SXH5.tsv
+stop,1,258,"[243, 258]",SXH5.tsv
+yeah it be,3,245,"[19, 245]",SXH5.tsv
+can i,2,270,"[120, 270]",SXH5.tsv
+please,1,270,"[120, 270, 274]",SXH5.tsv
+i get,2,270,"[187, 270]",SXH5.tsv

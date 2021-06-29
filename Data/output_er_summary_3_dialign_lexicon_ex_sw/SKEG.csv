@@ -1,0 +1,279 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+look,1,14,"[0, 14, 15, 40, 72, 74, 77, 134, 136, 190, 207, 210, 215, 220, 223, 257, 329]",SKEG.tsv
+let's,1,82,"[0, 82, 206, 207, 210]",SKEG.tsv
+let's have a look,4,207,"[0, 207]",SKEG.tsv
+god,1,18,"[2, 6, 18]",SKEG.tsv
+it's not,2,74,"[2, 11, 37, 63, 74, 113, 128, 165, 169, 215]",SKEG.tsv
+nice,1,77,"[2, 11, 37, 77, 122, 141, 182, 194, 198, 215, 262, 280, 304]",SKEG.tsv
+london,1,12,"[3, 4, 12, 21, 46, 122, 124, 126, 146, 150, 152, 153, 238, 254, 256]",SKEG.tsv
+be this,2,106,"[4, 106]",SKEG.tsv
+surrey,1,6,"[5, 6, 120, 145, 146, 151, 153, 158]",SKEG.tsv
+posh,1,57,"[6, 57, 60]",SKEG.tsv
+next,1,156,"[6, 151, 156, 206, 220]",SKEG.tsv
+isn't it,2,219,"[6, 13, 17, 113, 159, 182, 219, 233, 234, 258]",SKEG.tsv
+thing isn't it,3,233,"[6, 233]",SKEG.tsv
+there's,1,233,"[6, 79, 153, 233, 257, 265, 275, 304]",SKEG.tsv
+people,1,309,"[6, 81, 126, 192, 234, 238, 240, 246, 254, 256, 309]",SKEG.tsv
+three,1,55,"[11, 37, 55, 58, 67, 119, 123, 125, 178, 180, 203, 253, 259]",SKEG.tsv
+terrace,1,55,"[11, 37, 55, 58, 123, 176, 179, 197, 201, 203, 253, 259, 263]",SKEG.tsv
+bedroomed terrace,2,176,"[11, 176, 197]",SKEG.tsv
+terrace on,2,203,"[11, 203]",SKEG.tsv
+three bedroomed terrace,3,253,"[11, 253, 259]",SKEG.tsv
+bedroomed,1,259,"[11, 259]",SKEG.tsv
+yeah,1,22,"[13, 19, 22, 33, 60, 61, 75, 79, 83, 92, 104, 108, 114, 116, 127, 131, 155, 157, 173, 175, 189, 196, 202, 206, 209, 216, 218, 219, 220, 221, 234, 235, 246, 247, 248, 256, 258, 275, 278, 281, 284, 285, 293, 300, 302, 304, 307, 310, 312, 321, 325, 327, 330]",SKEG.tsv
+wow,1,132,"[13, 68, 70, 132]",SKEG.tsv
+money,1,233,"[13, 17, 21, 228, 233]",SKEG.tsv
+scruffy look,2,15,"[14, 15]",SKEG.tsv
+scruffy,1,40,"[15, 40]",SKEG.tsv
+that's,1,17,"[12, 17, 28, 33, 45, 57, 63, 64, 83, 102, 114, 115, 116, 117, 141, 144, 173, 217, 224, 234, 253, 254, 262, 263, 281, 288, 310]",SKEG.tsv
+pay,1,46,"[17, 29, 46, 49, 50, 51, 52, 246]",SKEG.tsv
+for that,2,84,"[17, 84, 257]",SKEG.tsv
+depress,1,121,"[17, 43, 121]",SKEG.tsv
+one,1,21,"[16, 21, 89, 156, 167, 198, 209, 211, 247, 267, 269, 272, 290, 322, 323, 324, 327]",SKEG.tsv
+bedroom,1,55,"[21, 25, 55, 58, 62, 67, 99, 119, 123, 125, 129, 131, 132, 140, 142, 178, 180, 187, 201, 203, 277, 297]",SKEG.tsv
+for a,2,46,"[21, 46, 119, 128, 197, 201]",SKEG.tsv
+bedroom flat,2,119,"[21, 119, 180]",SKEG.tsv
+things,1,154,"[21, 154, 234, 310]",SKEG.tsv
+read,1,277,"[21, 277]",SKEG.tsv
+go,1,30,"[23, 30, 117, 128, 174, 182, 204, 208, 228, 296, 302, 304, 309, 328]",SKEG.tsv
+five,1,28,"[25, 28, 36, 46, 55, 62, 67, 69, 78, 82, 128, 140, 142, 176, 180, 201, 215, 226, 253, 254, 259, 273, 275, 277, 292]",SKEG.tsv
+five bedroom,2,67,"[25, 67, 140, 142, 277]",SKEG.tsv
+right,1,116,"[27, 116, 147, 229, 281, 287, 288, 300, 328]",SKEG.tsv
+i suppose,2,239,"[31, 239]",SKEG.tsv
+set,1,309,"[31, 309]",SKEG.tsv
+get,1,33,"[1, 7, 33, 45, 48, 55, 78, 84, 113, 122, 126, 154, 171, 210, 250, 259, 296, 304, 328]",SKEG.tsv
+with the,2,170,"[33, 170, 211, 277]",SKEG.tsv
+the thing,2,233,"[33, 63, 64, 233, 254]",SKEG.tsv
+start,1,237,"[33, 237, 310]",SKEG.tsv
+six,1,197,"[35, 197]",SKEG.tsv
+it's a bite,3,39,"[8, 39, 107, 278]",SKEG.tsv
+a bite,2,213,"[39, 98, 107, 212, 213, 217, 223, 278, 310, 312, 313, 326]",SKEG.tsv
+a bite of a,4,223,"[39, 212, 223, 278, 310]",SKEG.tsv
+what you,2,164,"[45, 164]",SKEG.tsv
+know,1,114,"[47, 56, 111, 114, 127, 128, 143, 192, 195, 246, 248, 249, 250, 256, 264, 274, 305, 307, 309, 316, 325]",SKEG.tsv
+pay two pound a week,5,51,"[49, 51]",SKEG.tsv
+two,1,62,"[51, 62, 137, 138, 176, 180, 201, 253, 292]",SKEG.tsv
+do you,2,93,"[51, 93, 179, 195, 264, 266, 316]",SKEG.tsv
+like,1,56,"[48, 56, 65, 79, 128, 136, 154, 192, 210, 212, 217, 218, 220, 228, 233, 240, 265, 284, 298]",SKEG.tsv
+place,1,56,"[3, 56, 63, 79, 143, 194, 225, 261, 304]",SKEG.tsv
+it's a,2,63,"[8, 63, 304]",SKEG.tsv
+with a,2,191,"[73, 191]",SKEG.tsv
+good,1,79,"[18, 79, 81, 93, 94, 97, 102, 149, 238, 246]",SKEG.tsv
+yeah i,2,92,"[79, 92, 234, 248, 304, 307]",SKEG.tsv
+a good,2,97,"[79, 97, 238]",SKEG.tsv
+there's a,2,257,"[79, 257, 275]",SKEG.tsv
+be the,2,233,"[83, 167, 169, 220, 233]",SKEG.tsv
+to the,2,152,"[88, 101, 147, 152, 192, 289]",SKEG.tsv
+quite,1,94,"[40, 94, 141, 159, 200, 254, 262, 326]",SKEG.tsv
+be quite,2,326,"[94, 326]",SKEG.tsv
+have a,2,207,"[98, 207, 238, 252]",SKEG.tsv
+a bite of,3,223,"[98, 223]",SKEG.tsv
+for his,2,106,"[101, 106]",SKEG.tsv
+say,1,105,"[91, 105, 208, 238, 257, 269, 277]",SKEG.tsv
+well,1,82,"[10, 82, 87, 107, 114, 126, 127, 128, 143, 152, 154, 164, 210, 215, 216, 225, 231, 232, 234, 254, 261, 278, 298, 303]",SKEG.tsv
+mean,1,164,"[115, 164, 226, 231, 238, 254, 257, 265, 272, 278]",SKEG.tsv
+i mean,2,231,"[115, 226, 231, 238, 254, 257, 265, 272]",SKEG.tsv
+be it,2,117,"[116, 117, 151, 192, 206, 209, 255, 322, 323]",SKEG.tsv
+see,1,120,"[46, 84, 120, 164, 206, 210]",SKEG.tsv
+happy,1,121,"[120, 121]",SKEG.tsv
+aren't you,2,225,"[120, 225, 226]",SKEG.tsv
+don't they,2,239,"[126, 239, 311]",SKEG.tsv
+pound,1,128,"[49, 54, 128]",SKEG.tsv
+go up,2,174,"[128, 174]",SKEG.tsv
+you know,2,128,"[114, 127, 128, 195, 246, 250, 256, 264, 309, 316]",SKEG.tsv
+just a,2,233,"[135, 233]",SKEG.tsv
+from the neighbour,3,138,"[137, 138]",SKEG.tsv
+two centimetres,2,138,"[137, 138]",SKEG.tsv
+garden,1,139,"[14, 78, 139]",SKEG.tsv
+quite a,2,326,"[141, 159, 200, 326]",SKEG.tsv
+i've,1,143,"[59, 76, 143, 327]",SKEG.tsv
+hear,1,143,"[59, 76, 143, 306]",SKEG.tsv
+dorking,1,143,"[142, 143]",SKEG.tsv
+exactly,1,235,"[145, 208, 235, 244, 269]",SKEG.tsv
+west,1,149,"[12, 146, 149, 152, 169]",SKEG.tsv
+i'm not,2,149,"[121, 149]",SKEG.tsv
+somerset,1,152,"[151, 152, 158]",SKEG.tsv
+oxfordshire,1,155,"[154, 155, 156]",SKEG.tsv
+okay,1,159,"[99, 159, 191, 193]",SKEG.tsv
+of a,2,223,"[165, 223]",SKEG.tsv
+point,1,167,"[16, 28, 167, 224, 247]",SKEG.tsv
+cheapest,1,167,"[30, 167, 169]",SKEG.tsv
+comparison,1,167,"[82, 167]",SKEG.tsv
+of the,2,167,"[146, 150, 167, 198, 210, 280, 286, 305, 332]",SKEG.tsv
+compare,1,170,"[167, 170]",SKEG.tsv
+i be,2,174,"[167, 174]",SKEG.tsv
+be just,2,233,"[167, 233, 267]",SKEG.tsv
+in the,2,169,"[95, 152, 169, 299, 300, 314, 327]",SKEG.tsv
+all of those,3,169,"[158, 169]",SKEG.tsv
+second,1,261,"[169, 261]",SKEG.tsv
+in the middle,3,299,"[169, 299, 300]",SKEG.tsv
+somewhere,1,311,"[169, 311]",SKEG.tsv
+get a,2,171,"[1, 7, 55, 78, 122, 171, 259]",SKEG.tsv
+still,1,172,"[171, 172]",SKEG.tsv
+the other,2,173,"[148, 173, 234]",SKEG.tsv
+thing,1,64,"[6, 64, 173, 233]",SKEG.tsv
+house,1,179,"[91, 95, 97, 99, 122, 179, 233, 266, 283]",SKEG.tsv
+it's the,2,188,"[44, 71, 188, 211]",SKEG.tsv
+price,1,257,"[188, 208, 257]",SKEG.tsv
+like that,2,233,"[192, 228, 233]",SKEG.tsv
+can't,1,194,"[30, 116, 122, 194]",SKEG.tsv
+remember,1,299,"[194, 299]",SKEG.tsv
+road,1,198,"[195, 198, 199, 200, 210, 214, 299]",SKEG.tsv
+door,1,211,"[206, 211, 220]",SKEG.tsv
+could,1,206,"[95, 206, 233, 250]",SKEG.tsv
+of it,2,257,"[208, 257]",SKEG.tsv
+on the,2,210,"[1, 210, 257]",SKEG.tsv
+it's get,2,210,"[1, 78, 210]",SKEG.tsv
+bite,1,210,"[8, 210, 213, 217, 223, 313, 326]",SKEG.tsv
+let me,2,210,"[34, 82, 210]",SKEG.tsv
+the other side,3,210,"[148, 210]",SKEG.tsv
+a little,2,210,"[174, 210]",SKEG.tsv
+have a look,3,210,"[207, 210]",SKEG.tsv
+oh no,2,263,"[210, 263, 268]",SKEG.tsv
+the road,2,299,"[210, 299]",SKEG.tsv
+live,1,214,"[1, 214, 246, 272, 284, 296, 304]",SKEG.tsv
+it be,2,214,"[12, 26, 42, 74, 160, 162, 168, 214, 216, 234, 242, 250, 252, 254, 258, 269, 270, 307]",SKEG.tsv
+lucky,1,233,"[214, 233]",SKEG.tsv
+well it,2,216,"[215, 216]",SKEG.tsv
+worth,1,216,"[215, 216]",SKEG.tsv
+room,1,220,"[1, 74, 220]",SKEG.tsv
+look like,2,220,"[136, 220]",SKEG.tsv
+it look,2,220,"[215, 220]",SKEG.tsv
+you can,2,224,"[55, 89, 224, 259]",SKEG.tsv
+no the,2,224,"[148, 224]",SKEG.tsv
+street,1,224,"[203, 224, 253, 267, 269]",SKEG.tsv
+that you,2,233,"[224, 233]",SKEG.tsv
+town,1,226,"[99, 226]",SKEG.tsv
+from the,2,226,"[138, 226, 282]",SKEG.tsv
+you be,2,226,"[205, 226, 271]",SKEG.tsv
+centre,1,247,"[226, 247, 302, 305]",SKEG.tsv
+work,1,233,"[228, 232, 233, 238, 254]",SKEG.tsv
+at the,2,305,"[228, 250, 305, 329]",SKEG.tsv
+university,1,309,"[228, 309]",SKEG.tsv
+to have,2,311,"[228, 311]",SKEG.tsv
+would,1,249,"[230, 249, 293]",SKEG.tsv
+make,1,234,"[82, 234]",SKEG.tsv
+you do,2,238,"[30, 238]",SKEG.tsv
+i think,2,238,"[110, 121, 168, 238, 240, 246]",SKEG.tsv
+in a,2,261,"[238, 261, 297]",SKEG.tsv
+high,1,305,"[238, 305]",SKEG.tsv
+far,1,240,"[53, 240]",SKEG.tsv
+debt free,2,241,"[240, 241]",SKEG.tsv
+but it's,2,242,"[215, 242, 304]",SKEG.tsv
+old fashion,2,242,"[241, 242]",SKEG.tsv
+it's very,2,242,"[241, 242]",SKEG.tsv
+nine,1,250,"[28, 250, 252]",SKEG.tsv
+actually,1,252,"[12, 152, 252, 307, 325]",SKEG.tsv
+think,1,252,"[110, 121, 168, 252, 332]",SKEG.tsv
+to be,2,252,"[241, 252]",SKEG.tsv
+london it's,2,254,"[146, 254]",SKEG.tsv
+commuter territory,2,254,"[150, 254]",SKEG.tsv
+within,1,297,"[256, 297]",SKEG.tsv
+we be,2,265,"[121, 176, 261, 265, 275]",SKEG.tsv
+sort of,2,265,"[110, 146, 150, 265]",SKEG.tsv
+anyway,1,265,"[245, 265]",SKEG.tsv
+the colleges,2,301,"[265, 301]",SKEG.tsv
+which be,2,316,"[265, 280, 316]",SKEG.tsv
+on street,2,269,"[203, 269]",SKEG.tsv
+we find one on street,5,269,"[267, 269]",SKEG.tsv
+we find,2,269,"[267, 269]",SKEG.tsv
+the one,2,272,"[156, 211, 272, 322]",SKEG.tsv
+it's in,2,272,"[181, 272]",SKEG.tsv
+currently,1,297,"[278, 297]",SKEG.tsv
+twenty,1,289,"[24, 233, 273, 289]",SKEG.tsv
+and twenty,2,289,"[82, 215, 289]",SKEG.tsv
+well you've,2,298,"[154, 298]",SKEG.tsv
+do yeah,2,302,"[92, 302]",SKEG.tsv
+silicon fen,2,310,"[305, 307, 310]",SKEG.tsv
+sound,1,312,"[60, 251, 312]",SKEG.tsv
+it just,2,312,"[257, 312]",SKEG.tsv
+sound a bite,3,313,"[312, 313]",SKEG.tsv
+doesn't it,2,313,"[312, 313]",SKEG.tsv
+mit,1,322,"[319, 322]",SKEG.tsv
+number one,2,324,"[323, 324]",SKEG.tsv
+gosh,1,325,"[20, 215, 325]",SKEG.tsv
+never,1,327,"[76, 327]",SKEG.tsv
+mind,1,327,"[134, 327]",SKEG.tsv
+in the world,3,327,"[314, 327]",SKEG.tsv
+look at,2,329,"[72, 207, 329]",SKEG.tsv
+amaze,1,332,"[267, 332]",SKEG.tsv
+in london,2,4,"[3, 4, 122, 126, 238, 254]",SKEG.tsv
+a nice,2,122,"[11, 122, 141, 304]",SKEG.tsv
+much,1,116,"[17, 116, 126, 165, 228, 238, 256, 269, 280, 290]",SKEG.tsv
+flat,1,46,"[21, 46, 48, 119, 180]",SKEG.tsv
+have you,2,59,"[31, 59, 306]",SKEG.tsv
+a a,2,122,"[31, 122]",SKEG.tsv
+that's the thing,3,64,"[33, 63, 64]",SKEG.tsv
+that's the,2,64,"[33, 63, 64, 117, 173, 234, 281]",SKEG.tsv
+yeah that's,2,116,"[33, 83, 116, 173, 281]",SKEG.tsv
+dive,1,279,"[39, 279]",SKEG.tsv
+i know,2,274,"[47, 111, 192, 248, 274]",SKEG.tsv
+pound a,2,54,"[49, 51, 54]",SKEG.tsv
+love,1,72,"[70, 72, 274]",SKEG.tsv
+you have,2,98,"[89, 91, 98, 167]",SKEG.tsv
+as well,2,107,"[10, 107, 128, 143, 210, 234, 254]",SKEG.tsv
+cos,1,112,"[107, 112]",SKEG.tsv
+what i,2,115,"[85, 115]",SKEG.tsv
+go to,2,328,"[117, 228, 328]",SKEG.tsv
+move to,2,124,"[120, 124, 192]",SKEG.tsv
+biff,1,124,"[120, 124, 290]",SKEG.tsv
+well you know,3,128,"[127, 128]",SKEG.tsv
+everything,1,285,"[128, 285]",SKEG.tsv
+not just the,3,130,"[74, 130]",SKEG.tsv
+everything be,2,285,"[130, 285]",SKEG.tsv
+i've hear of that,4,143,"[59, 143]",SKEG.tsv
+i've hear of,3,143,"[59, 143]",SKEG.tsv
+of that,2,283,"[143, 283]",SKEG.tsv
+i'm,1,328,"[121, 149, 328]",SKEG.tsv
+chester,1,167,"[10, 167, 169]",SKEG.tsv
+probably,1,169,"[110, 169]",SKEG.tsv
+all of,2,283,"[158, 169, 283]",SKEG.tsv
+you don't,2,179,"[7, 179]",SKEG.tsv
+the same,2,281,"[188, 281]",SKEG.tsv
+you look,2,190,"[72, 190]",SKEG.tsv
+that i,2,192,"[91, 192, 238]",SKEG.tsv
+something,1,328,"[192, 228, 328]",SKEG.tsv
+be where,2,204,"[42, 204, 265]",SKEG.tsv
+little,1,283,"[174, 210, 283]",SKEG.tsv
+student,1,279,"[212, 279]",SKEG.tsv
+well yeah,2,216,"[114, 216, 278]",SKEG.tsv
+that's not,2,224,"[116, 224]",SKEG.tsv
+be that,2,290,"[224, 254, 290]",SKEG.tsv
+of course it be,4,270,"[234, 270]",SKEG.tsv
+of course,2,270,"[244, 246, 270]",SKEG.tsv
+just the,2,246,"[74, 246]",SKEG.tsv
+the end,2,246,"[95, 246]",SKEG.tsv
+minute,1,250,"[89, 250]",SKEG.tsv
+where it be,3,258,"[42, 74, 258]",SKEG.tsv
+oh that's,2,262,"[102, 262]",SKEG.tsv
+and all,2,283,"[265, 283]",SKEG.tsv
+find,1,267,"[91, 266, 267, 269]",SKEG.tsv
+how much,2,290,"[269, 290]",SKEG.tsv
+they're,1,283,"[282, 283]",SKEG.tsv
+yeah but,2,312,"[114, 127, 312]",SKEG.tsv
+usually,1,317,"[85, 317]",SKEG.tsv
+number,1,323,"[74, 323, 324]",SKEG.tsv
+first,1,48,"[30, 48]",SKEG.tsv
+five hundred,2,46,"[36, 46, 55, 62, 69, 78]",SKEG.tsv
+hundred,1,46,"[36, 46, 55, 62, 69, 78, 82, 99, 109, 119, 131, 172, 191, 197, 215, 233, 273]",SKEG.tsv
+we do,2,50,"[36, 50]",SKEG.tsv
+we pay,2,50,"[49, 50, 52]",SKEG.tsv
+farnham,1,59,"[58, 59, 60]",SKEG.tsv
+semi,1,67,"[7, 67, 125, 187]",SKEG.tsv
+get a semi,3,78,"[7, 78]",SKEG.tsv
+decent,1,91,"[78, 91]",SKEG.tsv
+tell,1,89,"[82, 89, 261]",SKEG.tsv
+what we,2,84,"[48, 84]",SKEG.tsv
+four,1,99,"[46, 99, 129, 131, 132, 176, 187, 201, 297]",SKEG.tsv
+hundred for a,3,119,"[46, 119, 197]",SKEG.tsv
+look very,2,134,"[77, 134]",SKEG.tsv
+no no,2,295,"[148, 295]",SKEG.tsv
+alright,1,191,"[66, 191]",SKEG.tsv
+need,1,225,"[110, 225]",SKEG.tsv
+no way,2,233,"[122, 233, 268]",SKEG.tsv
+have to,2,239,"[89, 91, 239, 311]",SKEG.tsv
+no that's,2,263,"[64, 263]",SKEG.tsv
+home,1,297,"[46, 297]",SKEG.tsv
+must,1,301,"[42, 301]",SKEG.tsv
+i have,2,307,"[91, 307]",SKEG.tsv
+that have,2,314,"[59, 93, 314]",SKEG.tsv

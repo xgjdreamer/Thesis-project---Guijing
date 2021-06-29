@@ -1,0 +1,247 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+go,1,9,"[0, 9, 50, 74, 83, 86, 92, 93, 99, 100, 121, 124, 125, 131, 135, 147, 167, 184, 185, 197, 216, 221, 226, 241, 255, 265]",SQQX.tsv
+like,1,11,"[4, 11, 12, 13, 27, 29, 31, 33, 37, 45, 70, 73, 74, 75, 76, 77, 78, 82, 83, 91, 93, 95, 106, 131, 149, 158, 161, 164, 166, 167, 168, 189, 193, 197, 199, 218, 219, 221, 223, 226, 235, 253]",SQQX.tsv
+do you,2,116,"[4, 6, 10, 18, 32, 92, 98, 116, 192, 237, 241, 245]",SQQX.tsv
+work,1,6,"[1, 6, 25, 78, 151, 189]",SQQX.tsv
+week,1,23,"[6, 23, 25, 209]",SQQX.tsv
+a week,2,27,"[6, 27, 83]",SQQX.tsv
+day,1,83,"[6, 83, 93, 211, 236]",SQQX.tsv
+one,1,152,"[6, 52, 151, 152, 157, 159, 161, 260, 261]",SQQX.tsv
+get,1,13,"[8, 13, 16, 19, 24, 25, 28, 50, 74, 75, 88, 95, 131, 183, 187, 206, 217, 253, 261]",SQQX.tsv
+you have to,3,10,"[9, 10, 15, 28, 158, 166, 218]",SQQX.tsv
+you do,2,152,"[10, 98, 102, 139, 152, 245]",SQQX.tsv
+and like,2,12,"[11, 12, 33, 37, 76]",SQQX.tsv
+like wrap,2,12,"[11, 12]",SQQX.tsv
+wrap,1,12,"[11, 12, 13, 15, 18, 19]",SQQX.tsv
+like erm,2,13,"[12, 13, 74]",SQQX.tsv
+wrap them,2,15,"[12, 15]",SQQX.tsv
+and like erm,3,70,"[12, 70]",SQQX.tsv
+it's a,2,14,"[5, 14, 45, 49, 64]",SQQX.tsv
+toy,1,14,"[11, 13, 14]",SQQX.tsv
+cos,1,14,"[13, 14, 29, 41, 74, 78, 159, 181, 217, 233, 247]",SQQX.tsv
+maybe,1,15,"[14, 15, 84, 106, 107, 147, 148, 187, 193, 200, 208]",SQQX.tsv
+cos it's,2,29,"[14, 29, 233]",SQQX.tsv
+children,1,70,"[14, 70]",SQQX.tsv
+really,1,76,"[14, 26, 28, 34, 36, 71, 76, 78, 80, 83, 94, 137, 155, 156, 162, 164, 166, 174, 178, 186, 187, 189, 195, 197, 204, 207, 210, 212, 217, 225, 230, 233, 243, 246, 252, 256, 261, 262]",SQQX.tsv
+want,1,110,"[14, 40, 78, 110, 112, 116, 122, 126, 135, 152, 159, 216]",SQQX.tsv
+get a,2,19,"[16, 19, 25]",SQQX.tsv
+do it,2,83,"[16, 83, 84, 151, 167]",SQQX.tsv
+have he,2,180,"[16, 180]",SQQX.tsv
+that's,1,128,"[20, 71, 78, 96, 128, 162, 188, 194, 202, 203, 212, 230, 233]",SQQX.tsv
+more days,2,22,"[7, 22]",SQQX.tsv
+but he,2,22,"[9, 22, 76]",SQQX.tsv
+days,1,27,"[22, 27]",SQQX.tsv
+you get,2,24,"[19, 24, 206]",SQQX.tsv
+plan,1,212,"[24, 206, 212]",SQQX.tsv
+so you have to,4,28,"[9, 28, 158]",SQQX.tsv
+leeds,1,28,"[27, 28, 217]",SQQX.tsv
+train,1,89,"[28, 89, 131, 217, 230, 233]",SQQX.tsv
+the other,2,30,"[17, 30, 93, 236]",SQQX.tsv
+or bus,2,30,"[29, 30]",SQQX.tsv
+side,1,31,"[30, 31, 164]",SQQX.tsv
+be it,2,97,"[30, 97, 249, 251]",SQQX.tsv
+bus,1,168,"[30, 168]",SQQX.tsv
+know,1,39,"[32, 39, 58, 76, 98, 105, 136, 146, 150, 164, 166, 184, 204, 229, 261]",SQQX.tsv
+gonna,1,164,"[32, 88, 164, 173, 235, 261]",SQQX.tsv
+you know,2,166,"[32, 98, 166]",SQQX.tsv
+that'll be,2,178,"[34, 178, 214]",SQQX.tsv
+well,1,36,"[5, 7, 13, 17, 27, 36, 42, 45, 65, 146, 147, 167, 238, 240, 247, 257]",SQQX.tsv
+good,1,81,"[36, 42, 81, 97, 186, 192, 229, 230]",SQQX.tsv
+be really,2,174,"[36, 174, 178, 186, 187, 189, 195, 197]",SQQX.tsv
+that'd be really good,4,186,"[36, 186]",SQQX.tsv
+really good,2,230,"[36, 230]",SQQX.tsv
+be good,2,97,"[42, 97]",SQQX.tsv
+that'd be,2,186,"[42, 171, 175, 186]",SQQX.tsv
+charity,1,44,"[27, 33, 44, 45, 49, 64, 74]",SQQX.tsv
+think,1,48,"[13, 33, 39, 41, 48, 83, 85, 132, 136, 144, 146, 159, 218, 223, 229]",SQQX.tsv
+i don't,2,48,"[39, 48, 105, 136, 150, 164, 229, 235, 261]",SQQX.tsv
+shall i,2,53,"[50, 53]",SQQX.tsv
+hey,1,54,"[45, 54]",SQQX.tsv
+coco,1,62,"[59, 62]",SQQX.tsv
+so you,2,64,"[9, 64, 149, 158]",SQQX.tsv
+say,1,64,"[9, 64, 174]",SQQX.tsv
+oh so you,3,158,"[64, 158]",SQQX.tsv
+zimbabwe,1,66,"[65, 66]",SQQX.tsv
+oh that's,2,162,"[71, 96, 162, 188, 194]",SQQX.tsv
+everything,1,73,"[13, 73]",SQQX.tsv
+website and,2,74,"[73, 74]",SQQX.tsv
+website,1,76,"[73, 76, 78]",SQQX.tsv
+you see,2,192,"[73, 192]",SQQX.tsv
+yeah,1,75,"[3, 7, 21, 23, 25, 29, 31, 37, 41, 43, 51, 67, 72, 74, 75, 76, 79, 81, 84, 85, 86, 87, 89, 91, 93, 95, 97, 99, 101, 107, 109, 112, 119, 127, 132, 134, 138, 144, 147, 148, 150, 152, 155, 163, 164, 165, 167, 168, 170, 174, 178, 179, 181, 182, 183, 185, 186, 189, 190, 195, 201, 202, 204, 209, 210, 215, 217, 218, 223, 224, 227, 230, 231, 232, 236, 241, 244, 257, 264]",SQQX.tsv
+get like,2,75,"[74, 75]",SQQX.tsv
+birth,1,75,"[74, 75]",SQQX.tsv
+yeah but,2,218,"[75, 218]",SQQX.tsv
+cos like,2,78,"[13, 78]",SQQX.tsv
+thing,1,78,"[13, 19, 78]",SQQX.tsv
+work experience,2,78,"[25, 78]",SQQX.tsv
+it cos like,3,78,"[74, 78]",SQQX.tsv
+how to run,3,78,"[76, 78]",SQQX.tsv
+like how,2,164,"[78, 164]",SQQX.tsv
+so it's,2,80,"[77, 80]",SQQX.tsv
+tuesday,1,82,"[9, 23, 82]",SQQX.tsv
+monday,1,82,"[25, 82, 83]",SQQX.tsv
+two days,2,82,"[27, 82]",SQQX.tsv
+two,1,99,"[82, 99, 159]",SQQX.tsv
+you can do,3,84,"[41, 84]",SQQX.tsv
+from home,2,84,"[41, 84]",SQQX.tsv
+you can,2,84,"[41, 84, 115, 213, 217]",SQQX.tsv
+if you,2,84,"[74, 84, 217, 225]",SQQX.tsv
+yeah maybe,2,148,"[84, 148]",SQQX.tsv
+go to,2,86,"[74, 86, 93, 124, 135, 184, 185, 197]",SQQX.tsv
+new,1,86,"[74, 76, 86, 93]",SQQX.tsv
+school,1,86,"[74, 86, 93, 98, 135]",SQQX.tsv
+excite,1,109,"[86, 108, 109]",SQQX.tsv
+and then,2,90,"[15, 19, 69, 90, 91, 95, 149, 168, 184, 211, 246]",SQQX.tsv
+walk,1,91,"[90, 91, 255, 257]",SQQX.tsv
+nice,1,174,"[96, 174, 178, 188, 189, 195, 197, 210, 214]",SQQX.tsv
+the school,2,98,"[93, 98]",SQQX.tsv
+and do,2,98,"[95, 98, 133]",SQQX.tsv
+at the,2,124,"[98, 124, 132]",SQQX.tsv
+be go,2,100,"[9, 99, 100]",SQQX.tsv
+oh so,2,158,"[100, 158]",SQQX.tsv
+start,1,199,"[100, 199, 235]",SQQX.tsv
+subject,1,140,"[102, 140, 141]",SQQX.tsv
+be in,2,106,"[41, 106, 242]",SQQX.tsv
+not like,2,106,"[74, 106]",SQQX.tsv
+like all the,3,106,"[93, 106]",SQQX.tsv
+some class,2,107,"[106, 107]",SQQX.tsv
+okay,1,113,"[5, 113]",SQQX.tsv
+come,1,115,"[9, 15, 115, 131, 135, 173, 181, 187, 213]",SQQX.tsv
+he's,1,115,"[13, 115, 173, 189]",SQQX.tsv
+record,1,115,"[74, 115, 130]",SQQX.tsv
+join,1,115,"[93, 115, 131]",SQQX.tsv
+i've,1,125,"[7, 25, 93, 125]",SQQX.tsv
+idea,1,188,"[125, 188]",SQQX.tsv
+on the,2,131,"[11, 131, 233]",SQQX.tsv
+school and,2,135,"[93, 135]",SQQX.tsv
+leave,1,136,"[112, 135, 136, 247]",SQQX.tsv
+want to,2,152,"[112, 135, 152, 216]",SQQX.tsv
+next,1,139,"[23, 25, 139]",SQQX.tsv
+year,1,139,"[136, 139, 151, 199]",SQQX.tsv
+tire,1,144,"[143, 144, 257]",SQQX.tsv
+biology,1,147,"[146, 147, 161]",SQQX.tsv
+yeah that'll,2,178,"[147, 178]",SQQX.tsv
+and the,2,149,"[17, 93, 149]",SQQX.tsv
+like the,2,149,"[31, 74, 76, 149, 161, 164, 189]",SQQX.tsv
+art and,2,149,"[146, 149]",SQQX.tsv
+english,1,149,"[146, 149]",SQQX.tsv
+drop,1,152,"[151, 152]",SQQX.tsv
+no it's,2,155,"[17, 155, 219]",SQQX.tsv
+really hard,2,156,"[155, 156]",SQQX.tsv
+have to,2,157,"[9, 10, 15, 28, 157, 158, 166, 218, 247]",SQQX.tsv
+remember,1,157,"[93, 157]",SQQX.tsv
+when i,2,201,"[157, 167, 201]",SQQX.tsv
+i have,2,236,"[157, 236]",SQQX.tsv
+i think,2,159,"[33, 39, 41, 83, 132, 136, 144, 146, 159, 218, 223, 229]",SQQX.tsv
+there be,2,159,"[61, 93, 136, 159, 161, 229]",SQQX.tsv
+class,1,159,"[107, 159]",SQQX.tsv
+i want,2,159,"[152, 159, 216]",SQQX.tsv
+in the,2,161,"[7, 41, 161, 209, 242, 246]",SQQX.tsv
+and i,2,161,"[9, 161]",SQQX.tsv
+can do,2,161,"[41, 161]",SQQX.tsv
+i be,2,161,"[85, 161, 164, 195]",SQQX.tsv
+be like,2,161,"[93, 161]",SQQX.tsv
+chemistry,1,161,"[146, 161]",SQQX.tsv
+politics,1,164,"[161, 164]",SQQX.tsv
+i can,2,172,"[161, 172]",SQQX.tsv
+first,1,236,"[161, 236]",SQQX.tsv
+dunno,1,167,"[13, 167]",SQQX.tsv
+it be,2,167,"[21, 83, 93, 97, 167, 197, 201, 202, 254]",SQQX.tsv
+it like,2,167,"[93, 167]",SQQX.tsv
+quite,1,167,"[109, 144, 167, 193, 194]",SQQX.tsv
+in it,2,167,"[152, 167]",SQQX.tsv
+write,1,167,"[164, 167]",SQQX.tsv
+in and,2,168,"[167, 168]",SQQX.tsv
+something,1,184,"[167, 184, 265]",SQQX.tsv
+see,1,192,"[167, 192, 197]",SQQX.tsv
+often,1,192,"[167, 192, 194]",SQQX.tsv
+to go,2,167,"[124, 167, 185, 216, 226]",SQQX.tsv
+from to,2,170,"[169, 170]",SQQX.tsv
+yet,1,177,"[7, 152, 177, 180]",SQQX.tsv
+erm i'm,2,177,"[11, 177]",SQQX.tsv
+hopefully,1,177,"[23, 35, 168, 177, 209]",SQQX.tsv
+i'm,1,177,"[11, 83, 109, 144, 146, 177, 187, 221, 261]",SQQX.tsv
+yeah cos,2,181,"[29, 41, 181]",SQQX.tsv
+we'll,1,187,"[132, 187, 247]",SQQX.tsv
+long,1,189,"[39, 189]",SQQX.tsv
+be really nice,3,189,"[174, 178, 189, 195, 197, 210]",SQQX.tsv
+it's only,2,191,"[27, 191, 221]",SQQX.tsv
+far,1,191,"[29, 191, 235]",SQQX.tsv
+it's not,2,191,"[83, 191]",SQQX.tsv
+once a,2,193,"[83, 193]",SQQX.tsv
+which be,2,195,"[93, 195]",SQQX.tsv
+yeah i,2,195,"[132, 150, 164, 195, 204]",SQQX.tsv
+i haven't,2,195,"[55, 57, 152, 195, 199]",SQQX.tsv
+see them,2,195,"[192, 195]",SQQX.tsv
+in like,2,197,"[31, 197]",SQQX.tsv
+ten,1,197,"[91, 197, 254]",SQQX.tsv
+friends,1,197,"[99, 197]",SQQX.tsv
+london,1,216,"[197, 216, 221, 222]",SQQX.tsv
+recently,1,198,"[74, 93, 198]",SQQX.tsv
+you see them,3,198,"[192, 198]",SQQX.tsv
+oh yeah,2,202,"[174, 182, 202]",SQQX.tsv
+yeah yeah,2,204,"[87, 201, 204, 227]",SQQX.tsv
+i know,2,204,"[58, 146, 184, 204]",SQQX.tsv
+holiday,1,208,"[7, 208]",SQQX.tsv
+maybe a,2,208,"[107, 208]",SQQX.tsv
+yeah that'd be really,4,210,"[186, 210]",SQQX.tsv
+and you,2,213,"[15, 213]",SQQX.tsv
+it'll be,2,213,"[83, 213]",SQQX.tsv
+even,1,217,"[13, 15, 154, 172, 217, 226]",SQQX.tsv
+definitely,1,217,"[146, 217]",SQQX.tsv
+in advance,2,218,"[217, 218]",SQQX.tsv
+book,1,218,"[217, 218]",SQQX.tsv
+it's like,2,219,"[11, 29, 33, 45, 77, 219]",SQQX.tsv
+like a,2,219,"[13, 74, 93, 95, 158, 166, 168, 219]",SQQX.tsv
+it's like a,3,219,"[27, 91, 219]",SQQX.tsv
+like i,2,221,"[83, 221, 235]",SQQX.tsv
+and it's,2,221,"[166, 221]",SQQX.tsv
+from london to sheffield,4,222,"[221, 222]",SQQX.tsv
+pay,1,223,"[76, 223]",SQQX.tsv
+i think you,3,223,"[218, 223]",SQQX.tsv
+five,1,250,"[223, 250, 254]",SQQX.tsv
+every,1,225,"[13, 225]",SQQX.tsv
+give,1,225,"[74, 225]",SQQX.tsv
+a third,2,228,"[225, 228]",SQQX.tsv
+erm yeah,2,227,"[25, 227]",SQQX.tsv
+there's a,2,229,"[19, 229]",SQQX.tsv
+but it's,2,229,"[27, 83, 229]",SQQX.tsv
+i don't know,3,229,"[39, 105, 136, 150, 164, 229, 261]",SQQX.tsv
+there's,1,229,"[45, 136, 168, 229]",SQQX.tsv
+train yeah,2,231,"[89, 231]",SQQX.tsv
+just train,2,231,"[230, 231]",SQQX.tsv
+but that's,2,233,"[212, 233]",SQQX.tsv
+but i,2,235,"[41, 83, 218, 235]",SQQX.tsv
+but i don't,3,235,"[164, 235]",SQQX.tsv
+i don't like,3,235,"[164, 235]",SQQX.tsv
+milky,1,262,"[129, 260, 262, 263]",SQQX.tsv
+might,1,63,"[22, 63, 106]",SQQX.tsv
+you want,2,116,"[40, 116, 122, 126]",SQQX.tsv
+cut,1,57,"[48, 57]",SQQX.tsv
+need,1,265,"[78, 153, 265]",SQQX.tsv
+a cup of tea,4,111,"[110, 111, 116]",SQQX.tsv
+cup of tea,3,112,"[111, 112]",SQQX.tsv
+tea,1,247,"[111, 247]",SQQX.tsv
+we're,1,247,"[115, 125, 247, 255, 265]",SQQX.tsv
+a cuppa,2,122,"[121, 122, 123]",SQQX.tsv
+we're go,2,255,"[125, 255, 265]",SQQX.tsv
+we've get,2,253,"[131, 253]",SQQX.tsv
+want to leave,3,135,"[112, 135]",SQQX.tsv
+sure,1,177,"[124, 177, 187]",SQQX.tsv
+i'm not,2,261,"[177, 187, 261]",SQQX.tsv
+to go to,3,185,"[124, 185]",SQQX.tsv
+'s,1,257,"[195, 257]",SQQX.tsv
+anywhere,1,225,"[124, 225]",SQQX.tsv
+yeah well,2,257,"[7, 257]",SQQX.tsv
+things,1,253,"[19, 253]",SQQX.tsv
+time,1,261,"[93, 203, 249, 261]",SQQX.tsv
+very milky,2,263,"[129, 263]",SQQX.tsv
+know i'm,2,261,"[146, 261]",SQQX.tsv
+wanna,1,257,"[154, 257]",SQQX.tsv
+make,1,164,"[120, 164, 261]",SQQX.tsv
+or something,2,265,"[184, 265]",SQQX.tsv
+six,1,218,"[112, 218, 247, 265]",SQQX.tsv
+oh i,2,261,"[236, 261]",SQQX.tsv
+car,1,255,"[242, 255]",SQQX.tsv
+sit,1,265,"[246, 265]",SQQX.tsv
+know i,2,58,"[39, 58, 136, 164]",SQQX.tsv

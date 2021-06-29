@@ -1,0 +1,458 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+gonna,1,91,"[0, 91, 99, 102, 118, 151, 153, 339, 378]",SHKF.tsv
+i'm just,2,153,"[0, 153]",SHKF.tsv
+i'm,1,52,"[0, 45, 52, 153, 200, 230, 257, 300, 313, 366, 375, 381, 384, 385]",SHKF.tsv
+it on,2,255,"[0, 255, 261, 289, 366]",SHKF.tsv
+right,1,105,"[3, 22, 105, 121, 123, 152, 163, 177, 208, 222, 244, 252, 256, 270, 275, 276, 319, 357, 369, 392]",SHKF.tsv
+google,1,12,"[6, 7, 8, 12, 17, 80]",SHKF.tsv
+it be,2,40,"[15, 40, 126, 130, 153, 329, 342]",SHKF.tsv
+no i,2,224,"[15, 34, 143, 224, 274]",SHKF.tsv
+i think,2,20,"[2, 5, 20, 34, 67, 87, 94, 95, 124, 143, 153, 162, 247, 287, 327, 364, 365, 373]",SHKF.tsv
+get,1,20,"[2, 20, 30, 40, 50, 51, 61, 68, 75, 85, 134, 169, 174, 197, 247, 251, 277, 294, 299, 322, 325, 331, 345, 358, 366, 367, 376, 384, 388, 393, 411, 416, 429]",SHKF.tsv
+that be,2,33,"[20, 33, 113, 143, 167, 202]",SHKF.tsv
+think,1,10,"[5, 10, 20, 34, 67, 72, 87, 94, 95, 124, 143, 153, 162, 223, 247, 287, 327, 329, 364, 365, 373, 391]",SHKF.tsv
+think that,2,391,"[20, 365, 373, 391]",SHKF.tsv
+yeah,1,22,"[4, 21, 22, 25, 39, 43, 48, 50, 53, 55, 60, 68, 79, 86, 88, 95, 96, 115, 116, 117, 125, 127, 129, 130, 131, 133, 135, 137, 142, 150, 162, 168, 175, 190, 191, 200, 205, 216, 218, 219, 230, 237, 242, 245, 247, 248, 250, 260, 262, 266, 267, 271, 285, 289, 293, 295, 299, 300, 301, 303, 306, 308, 310, 313, 317, 327, 329, 331, 337, 341, 343, 366, 369, 371, 377, 383, 385, 386, 389, 392, 403, 413, 419, 425, 426]",SHKF.tsv
+oh right,2,105,"[22, 105, 121, 123, 152, 163, 177, 208, 222, 252, 256, 319, 357, 369, 392]",SHKF.tsv
+yeah yeah,2,242,"[22, 242, 331]",SHKF.tsv
+i don't know,3,57,"[32, 57, 79, 191]",SHKF.tsv
+buy,1,73,"[32, 73, 220, 221, 255]",SHKF.tsv
+know,1,61,"[32, 57, 61, 75, 79, 108, 139, 140, 143, 144, 191, 322, 333, 362, 366, 372, 378, 379, 416]",SHKF.tsv
+i don't,2,32,"[10, 32, 57, 79, 186, 191, 315, 320, 391]",SHKF.tsv
+don't know,2,139,"[32, 57, 79, 139, 191, 322, 379]",SHKF.tsv
+orange,1,36,"[30, 36, 37, 40, 47, 81, 83, 85]",SHKF.tsv
+orange liqueur,2,37,"[36, 37, 47, 83]",SHKF.tsv
+look,1,39,"[23, 26, 39, 44, 47, 59, 79, 128, 213, 226, 255, 340]",SHKF.tsv
+maybe,1,40,"[39, 40, 44, 86, 170, 205]",SHKF.tsv
+look for,2,59,"[39, 47, 59]",SHKF.tsv
+i be,2,39,"[29, 39, 47, 118, 151, 223, 255, 331, 340]",SHKF.tsv
+a bite,2,45,"[5, 42, 45, 98, 139, 212, 233, 236, 266, 303]",SHKF.tsv
+confuse,1,381,"[45, 381]",SHKF.tsv
+but i,2,47,"[2, 47, 59, 174, 261]",SHKF.tsv
+to look,2,59,"[47, 59, 79]",SHKF.tsv
+cos,1,70,"[47, 70, 118, 126, 139, 151, 167, 169, 181, 197, 210, 217, 220, 255, 270, 294, 307, 370, 373, 375, 376, 378, 384, 416]",SHKF.tsv
+they didn't have,3,75,"[47, 69, 75]",SHKF.tsv
+it in,2,50,"[47, 50, 87, 231]",SHKF.tsv
+idea,1,112,"[47, 112, 132]",SHKF.tsv
+cos i be,3,118,"[47, 118]",SHKF.tsv
+cos i,2,151,"[47, 118, 151, 210, 270]",SHKF.tsv
+in but i,3,174,"[47, 174]",SHKF.tsv
+i have,2,47,"[2, 40, 47, 62, 187, 189, 289, 429]",SHKF.tsv
+have it,2,264,"[47, 264, 289]",SHKF.tsv
+so they,2,372,"[47, 329, 331, 333, 372, 376, 378]",SHKF.tsv
+get it,2,51,"[50, 51, 68]",SHKF.tsv
+they get,2,299,"[51, 299]",SHKF.tsv
+er yeah,2,190,"[60, 190]",SHKF.tsv
+find,1,62,"[5, 62, 64, 153, 200, 202, 312, 402]",SHKF.tsv
+and then,2,62,"[23, 30, 62, 327, 335, 366]",SHKF.tsv
+one,1,62,"[18, 50, 62, 75, 103, 136, 138, 167, 176, 195, 196, 322, 376]",SHKF.tsv
+like,1,75,"[62, 75, 93, 98, 104, 111, 122, 130, 139, 143, 146, 148, 153, 167, 174, 180, 194, 195, 197, 200, 204, 209, 212, 217, 220, 221, 226, 227, 247, 251, 259, 322, 325, 327, 329, 331, 333, 335, 340, 342, 361, 363, 366, 382, 399, 412, 416, 420]",SHKF.tsv
+that's,1,62,"[42, 50, 62, 91, 99, 112, 132, 157, 207, 209, 276, 277, 305, 346, 354, 356, 384, 386, 390, 410, 430]",SHKF.tsv
+shop,1,126,"[62, 115, 126]",SHKF.tsv
+a lot,2,305,"[62, 305, 312, 323, 358, 398]",SHKF.tsv
+a lot of,3,323,"[62, 323, 398]",SHKF.tsv
+to find,2,312,"[62, 312, 402]",SHKF.tsv
+lloyds,1,66,"[65, 66]",SHKF.tsv
+go,1,67,"[59, 65, 67, 118, 124, 126, 136, 138, 143, 153, 197, 287, 327, 331, 340, 404, 405]",SHKF.tsv
+go to,2,67,"[65, 67, 118, 126, 136, 138, 153, 197, 404, 405]",SHKF.tsv
+i go to,3,138,"[67, 138]",SHKF.tsv
+first,1,428,"[67, 428]",SHKF.tsv
+well,1,90,"[23, 72, 75, 85, 90, 104, 120, 139, 140, 170, 173, 185, 188, 192, 203, 205, 239, 243, 297, 329, 333, 347, 365, 395, 399, 423]",SHKF.tsv
+food,1,102,"[1, 102]",SHKF.tsv
+gonna have,2,102,"[91, 102]",SHKF.tsv
+yet,1,191,"[102, 191]",SHKF.tsv
+in the,2,104,"[24, 50, 59, 104, 185, 194, 217, 231, 327, 365, 385]",SHKF.tsv
+they've,1,104,"[2, 70, 104, 115, 299, 376, 384, 388]",SHKF.tsv
+they have,2,104,"[52, 72, 104, 122]",SHKF.tsv
+have like,2,122,"[104, 122, 194]",SHKF.tsv
+you know,2,108,"[75, 108, 366, 416]",SHKF.tsv
+although,1,108,"[87, 108]",SHKF.tsv
+notice,1,265,"[108, 265]",SHKF.tsv
+i do,2,270,"[108, 175, 270, 276, 365, 391]",SHKF.tsv
+and the,2,109,"[26, 109, 128, 270, 388, 418]",SHKF.tsv
+christmas,1,111,"[70, 75, 107, 111, 144, 151, 180, 190, 192, 229]",SHKF.tsv
+self employ,2,111,"[107, 111]",SHKF.tsv
+wild pick,2,111,"[110, 111]",SHKF.tsv
+a self employ people's,4,132,"[111, 132]",SHKF.tsv
+like a,2,111,"[98, 111, 143, 174, 220, 226, 412, 416]",SHKF.tsv
+actually,1,113,"[68, 113, 185]",SHKF.tsv
+about it,2,238,"[113, 238, 408]",SHKF.tsv
+together,1,134,"[115, 134]",SHKF.tsv
+nice,1,129,"[112, 129, 132, 167]",SHKF.tsv
+clothe,1,129,"[128, 129]",SHKF.tsv
+really,1,129,"[50, 128, 129, 130, 148, 167, 174, 184, 210, 221, 331, 346, 366]",SHKF.tsv
+stuff,1,130,"[29, 70, 73, 75, 84, 130, 158, 159, 191, 197, 212, 253, 266, 302]",SHKF.tsv
+yeah so,2,130,"[79, 130, 190, 331]",SHKF.tsv
+use,1,154,"[130, 154, 155, 159, 230, 232, 251, 276, 288, 303, 305, 311, 315, 320, 411, 412, 418]",SHKF.tsv
+and stuff,2,191,"[130, 191, 212, 302]",SHKF.tsv
+use to,2,412,"[130, 412]",SHKF.tsv
+interest,1,137,"[128, 137]",SHKF.tsv
+round,1,140,"[87, 140, 197]",SHKF.tsv
+people,1,140,"[114, 139, 140, 143, 144, 160, 161, 299, 391, 398, 399, 409, 418]",SHKF.tsv
+it's just,2,233,"[140, 185, 233, 236, 292, 302, 303, 373]",SHKF.tsv
+people that,2,143,"[114, 143, 144, 160, 409]",SHKF.tsv
+load of,2,159,"[139, 143, 159, 331]",SHKF.tsv
+of people,2,398,"[139, 143, 144, 398]",SHKF.tsv
+want,1,146,"[5, 23, 50, 146, 336, 337, 391, 399, 401, 402, 424, 427]",SHKF.tsv
+come,1,229,"[146, 229, 373, 374]",SHKF.tsv
+want to,2,391,"[146, 391, 401, 402]",SHKF.tsv
+thing,1,148,"[5, 19, 148, 151, 157, 322]",SHKF.tsv
+a nice,2,148,"[112, 132, 148]",SHKF.tsv
+have that,2,167,"[4, 23, 87, 167, 185, 190]",SHKF.tsv
+we have,2,167,"[75, 167, 192, 194]",SHKF.tsv
+make,1,167,"[99, 151, 154, 155, 160, 167, 171, 176, 178, 192, 239, 391]",SHKF.tsv
+make a,2,167,"[151, 167, 178]",SHKF.tsv
+recipe that,2,167,"[153, 167]",SHKF.tsv
+posh,1,167,"[153, 167]",SHKF.tsv
+recipe,1,167,"[153, 160, 167, 170]",SHKF.tsv
+like the,2,217,"[167, 217]",SHKF.tsv
+put,1,169,"[5, 70, 75, 169]",SHKF.tsv
+it and,2,169,"[23, 169]",SHKF.tsv
+it's get,2,169,"[30, 85, 169]",SHKF.tsv
+in it,2,169,"[10, 85, 169]",SHKF.tsv
+to have,2,169,"[132, 169]",SHKF.tsv
+suppose,1,169,"[142, 169]",SHKF.tsv
+nut,1,156,"[151, 153, 155, 156, 160, 169, 173, 174]",SHKF.tsv
+pine nut,2,169,"[153, 169]",SHKF.tsv
+tofu,1,169,"[153, 169]",SHKF.tsv
+and it's,2,292,"[169, 292]",SHKF.tsv
+nut roast,2,156,"[151, 155, 156, 160, 171, 173, 174]",SHKF.tsv
+ready make nut roast,4,171,"[155, 171]",SHKF.tsv
+yeah i,2,175,"[95, 142, 175, 191]",SHKF.tsv
+everything,1,192,"[72, 192, 194, 388]",SHKF.tsv
+to the,2,192,"[75, 138, 158, 192, 239, 261, 276, 292, 322, 394, 397, 399, 404, 405, 407]",SHKF.tsv
+the whole,2,192,"[75, 192]",SHKF.tsv
+as well,2,192,"[85, 192, 423]",SHKF.tsv
+and add,2,192,"[159, 192]",SHKF.tsv
+add,1,192,"[158, 159, 192]",SHKF.tsv
+bake bean,2,193,"[192, 193]",SHKF.tsv
+lot,1,305,"[192, 305, 312, 323, 358, 398]",SHKF.tsv
+much,1,281,"[194, 281, 304]",SHKF.tsv
+house,1,370,"[185, 194, 197, 370]",SHKF.tsv
+we be,2,197,"[23, 24, 197, 247]",SHKF.tsv
+down to,2,197,"[75, 197]",SHKF.tsv
+and they,2,197,"[75, 122, 197, 299, 378]",SHKF.tsv
+move,1,197,"[75, 197, 273, 275, 276, 292, 299, 303]",SHKF.tsv
+people's,1,197,"[132, 197]",SHKF.tsv
+and it,2,197,"[155, 197, 329, 342]",SHKF.tsv
+leave,1,270,"[197, 270, 274, 275, 276, 277, 289, 294]",SHKF.tsv
+i'm not,2,200,"[153, 200, 230, 300, 313, 375]",SHKF.tsv
+them i,2,200,"[162, 200]",SHKF.tsv
+yeah i'm not,3,230,"[200, 230]",SHKF.tsv
+if you,2,203,"[142, 203, 207, 244, 322, 361, 365, 366, 402]",SHKF.tsv
+even,1,207,"[136, 185, 207, 220, 318, 412]",SHKF.tsv
+on the,2,218,"[217, 218, 255, 257, 258, 268, 326]",SHKF.tsv
+they're,1,220,"[5, 114, 173, 217, 220, 243, 378, 418, 420]",SHKF.tsv
+that you,2,220,"[73, 220, 244, 251, 277]",SHKF.tsv
+cos they're,2,220,"[217, 220]",SHKF.tsv
+stick,1,220,"[217, 220, 221, 263]",SHKF.tsv
+you can,2,220,"[4, 164, 219, 220, 244, 251, 258, 294, 311, 366]",SHKF.tsv
+to be,2,412,"[220, 412, 418, 423]",SHKF.tsv
+you can't,2,231,"[73, 231, 232, 404]",SHKF.tsv
+the same,2,231,"[170, 231, 257, 356]",SHKF.tsv
+it's not,2,231,"[38, 231, 250, 281, 374]",SHKF.tsv
+can't,1,255,"[73, 231, 255, 299, 381, 404]",SHKF.tsv
+things,1,239,"[72, 75, 239, 270, 331, 363]",SHKF.tsv
+different,1,270,"[239, 270, 275]",SHKF.tsv
+to get,2,247,"[75, 247, 416]",SHKF.tsv
+get a,2,247,"[85, 247, 345, 411]",SHKF.tsv
+do it,2,258,"[87, 258, 261, 339, 366, 391]",SHKF.tsv
+do you,2,288,"[64, 265, 273, 275, 288, 304, 424, 427]",SHKF.tsv
+mouse,1,276,"[273, 275, 276, 288, 292, 299, 320, 323]",SHKF.tsv
+the mouse,2,276,"[275, 276, 288, 320, 323]",SHKF.tsv
+hand,1,288,"[270, 276, 288, 294]",SHKF.tsv
+i could,2,300,"[87, 124, 191, 264, 300]",SHKF.tsv
+i suppose,2,300,"[142, 300]",SHKF.tsv
+yeah i'm not that,4,300,"[230, 300, 313]",SHKF.tsv
+do i,2,325,"[21, 153, 325]",SHKF.tsv
+go in,2,327,"[59, 327]",SHKF.tsv
+there be,2,327,"[75, 107, 120, 312, 327]",SHKF.tsv
+still,1,327,"[91, 217, 274, 282, 327]",SHKF.tsv
+something,1,327,"[56, 145, 151, 238, 244, 327, 336, 346]",SHKF.tsv
+i'll,1,327,"[178, 327, 363]",SHKF.tsv
+start,1,327,"[204, 327, 366, 424]",SHKF.tsv
+say,1,329,"[23, 29, 75, 185, 187, 204, 277, 299, 329, 356, 365, 376, 378, 429]",SHKF.tsv
+you think well,3,329,"[72, 329]",SHKF.tsv
+they say,2,329,"[299, 329]",SHKF.tsv
+and i,2,331,"[75, 124, 185, 331]",SHKF.tsv
+need,1,331,"[75, 331]",SHKF.tsv
+need to,2,331,"[79, 331]",SHKF.tsv
+online it's,2,331,"[153, 331]",SHKF.tsv
+really bad,2,346,"[331, 346]",SHKF.tsv
+give,1,259,"[21, 259, 333, 361, 366]",SHKF.tsv
+that so,2,333,"[23, 333, 378]",SHKF.tsv
+and erm,2,333,"[107, 166, 333]",SHKF.tsv
+number,1,333,"[178, 322, 333, 361, 370, 388]",SHKF.tsv
+or anything,2,333,"[275, 333]",SHKF.tsv
+account,1,346,"[333, 346]",SHKF.tsv
+they know,2,379,"[333, 379]",SHKF.tsv
+run,1,337,"[114, 337, 365]",SHKF.tsv
+gonna do,2,339,"[151, 153, 339]",SHKF.tsv
+ask,1,339,"[96, 339, 363, 372, 373, 377, 378, 379, 380]",SHKF.tsv
+what's,1,339,"[254, 339, 431]",SHKF.tsv
+so i,2,340,"[23, 79, 255, 257, 340]",SHKF.tsv
+okay,1,340,"[23, 172, 340]",SHKF.tsv
+look up,2,340,"[79, 340]",SHKF.tsv
+gotta,1,340,"[119, 199, 340, 395]",SHKF.tsv
+be a,2,342,"[120, 342]",SHKF.tsv
+a scam,2,372,"[342, 372]",SHKF.tsv
+they they,2,378,"[342, 378, 379]",SHKF.tsv
+somebody,1,351,"[349, 351, 370]",SHKF.tsv
+probably,1,352,"[70, 151, 212, 352, 412]",SHKF.tsv
+that's what,2,354,"[91, 99, 354, 386]",SHKF.tsv
+would,1,359,"[50, 91, 359]",SHKF.tsv
+phone,1,359,"[326, 358, 359, 361, 378, 388, 409, 411, 412, 414]",SHKF.tsv
+microsoft,1,359,"[356, 358, 359, 361]",SHKF.tsv
+like well,2,399,"[75, 399]",SHKF.tsv
+access to the internet,4,399,"[394, 397, 399, 407]",SHKF.tsv
+access to,2,412,"[399, 412]",SHKF.tsv
+but they,2,401,"[377, 393, 401]",SHKF.tsv
+they don't,2,401,"[378, 379, 382, 401]",SHKF.tsv
+go to the,3,405,"[138, 405]",SHKF.tsv
+go to the library,4,405,"[404, 405]",SHKF.tsv
+there's,1,416,"[10, 14, 57, 234, 238, 402, 416]",SHKF.tsv
+and everything,2,416,"[72, 388, 416]",SHKF.tsv
+have to,2,416,"[75, 324, 416]",SHKF.tsv
+for the,2,416,"[118, 124, 251, 255, 276, 322, 416]",SHKF.tsv
+cos you,2,416,"[294, 307, 416]",SHKF.tsv
+be just,2,418,"[23, 418]",SHKF.tsv
+use a,2,418,"[154, 155, 418]",SHKF.tsv
+never,1,418,"[379, 418]",SHKF.tsv
+the internet,2,411,"[394, 397, 399, 407, 411, 418]",SHKF.tsv
+use to be,3,418,"[412, 418]",SHKF.tsv
+you want,2,427,"[402, 427]",SHKF.tsv
+do you want a,4,427,"[424, 427]",SHKF.tsv
+hot drink,2,428,"[427, 428]",SHKF.tsv
+conversation,1,430,"[184, 430]",SHKF.tsv
+the conversation,2,430,"[421, 430]",SHKF.tsv
+so that,2,323,"[0, 323]",SHKF.tsv
+be in,2,24,"[20, 24]",SHKF.tsv
+two,1,322,"[20, 322, 366]",SHKF.tsv
+i think that,3,365,"[20, 365, 373]",SHKF.tsv
+oh i,2,227,"[32, 227]",SHKF.tsv
+liqueur,1,36,"[35, 36, 37, 40, 47, 83]",SHKF.tsv
+i be look,3,255,"[39, 47, 255]",SHKF.tsv
+didn't have,2,244,"[47, 69, 75, 244]",SHKF.tsv
+no er,2,189,"[60, 189]",SHKF.tsv
+we've,1,395,"[106, 167, 197, 200, 395]",SHKF.tsv
+erm the,2,322,"[108, 130, 322]",SHKF.tsv
+pick,1,251,"[110, 111, 251, 257, 378]",SHKF.tsv
+they be,2,365,"[111, 197, 331, 333, 365]",SHKF.tsv
+i mean,2,113,"[40, 113, 189, 386]",SHKF.tsv
+mean,1,189,"[113, 189]",SHKF.tsv
+tell you,2,366,"[113, 325, 366]",SHKF.tsv
+tell,1,366,"[113, 325, 366]",SHKF.tsv
+good,1,243,"[130, 243, 248, 313]",SHKF.tsv
+er i,2,251,"[130, 251, 276]",SHKF.tsv
+to do,2,367,"[130, 367]",SHKF.tsv
+if it's just,3,185,"[140, 185, 303]",SHKF.tsv
+if it's,2,268,"[140, 268, 311, 322]",SHKF.tsv
+be think,2,223,"[143, 223]",SHKF.tsv
+but she,2,411,"[146, 411]",SHKF.tsv
+with my,2,221,"[167, 221]",SHKF.tsv
+the one,2,376,"[167, 376]",SHKF.tsv
+cos it's,2,373,"[169, 373]",SHKF.tsv
+a ready make,3,171,"[154, 171]",SHKF.tsv
+but it,2,171,"[154, 171, 282, 316, 329]",SHKF.tsv
+last,1,408,"[192, 408]",SHKF.tsv
+pretty,1,194,"[52, 173, 194, 384]",SHKF.tsv
+in the house,3,194,"[185, 194]",SHKF.tsv
+in one,2,196,"[195, 196]",SHKF.tsv
+have some,2,197,"[2, 197]",SHKF.tsv
+turkey,1,197,"[181, 197]",SHKF.tsv
+house and,2,197,"[185, 197]",SHKF.tsv
+keep,1,223,"[197, 223, 339, 395]",SHKF.tsv
+of stuff,2,253,"[197, 253]",SHKF.tsv
+no but,2,316,"[197, 316, 401]",SHKF.tsv
+i like,2,200,"[98, 200, 227]",SHKF.tsv
+fry,1,209,"[207, 209, 210]",SHKF.tsv
+and garlic,2,210,"[207, 210]",SHKF.tsv
+like that,2,220,"[212, 220]",SHKF.tsv
+that you can,3,244,"[220, 244, 251]",SHKF.tsv
+it in the,3,231,"[50, 231]",SHKF.tsv
+little,1,239,"[54, 239]",SHKF.tsv
+don't they,2,414,"[239, 414]",SHKF.tsv
+a triangle,2,250,"[247, 250]",SHKF.tsv
+button,1,297,"[258, 297]",SHKF.tsv
+so you,2,312,"[258, 312]",SHKF.tsv
+computer and,2,366,"[258, 366]",SHKF.tsv
+use the mouse,3,320,"[288, 320]",SHKF.tsv
+use the,2,411,"[288, 411]",SHKF.tsv
+if i,2,300,"[50, 300]",SHKF.tsv
+could,1,223,"[87, 124, 191, 223, 268, 282, 300]",SHKF.tsv
+anyway,1,304,"[185, 223, 304, 361]",SHKF.tsv
+scroll wheel,2,310,"[309, 310]",SHKF.tsv
+shortcuts,1,313,"[312, 313]",SHKF.tsv
+erm i,2,325,"[264, 325]",SHKF.tsv
+talktalk,1,330,"[325, 329, 330, 333, 340, 347]",SHKF.tsv
+like in,2,327,"[259, 327]",SHKF.tsv
+at home,2,327,"[276, 327]",SHKF.tsv
+think oh,2,327,"[287, 327]",SHKF.tsv
+it's really,2,331,"[50, 331]",SHKF.tsv
+sort,1,331,"[253, 331, 366]",SHKF.tsv
+on a,2,331,"[311, 331, 336]",SHKF.tsv
+be you,2,331,"[330, 331, 387]",SHKF.tsv
+download,1,336,"[331, 336]",SHKF.tsv
+on your,2,345,"[331, 345]",SHKF.tsv
+on your computer and,4,366,"[331, 366]",SHKF.tsv
+you and,2,333,"[185, 333, 373]",SHKF.tsv
+give me,2,333,"[259, 333]",SHKF.tsv
+yes,1,333,"[278, 333]",SHKF.tsv
+this be,2,356,"[333, 356, 364]",SHKF.tsv
+yeah they,2,337,"[50, 337]",SHKF.tsv
+program,1,337,"[324, 337]",SHKF.tsv
+they want,2,337,"[336, 337]",SHKF.tsv
+i've,1,339,"[40, 266, 339, 340, 378]",SHKF.tsv
+computer,1,366,"[339, 366]",SHKF.tsv
+erm but,2,340,"[261, 340, 418]",SHKF.tsv
+website,1,393,"[340, 393]",SHKF.tsv
+control,1,342,"[274, 342]",SHKF.tsv
+scam,1,356,"[342, 356, 372]",SHKF.tsv
+your computer,2,366,"[342, 366]",SHKF.tsv
+else,1,429,"[349, 429]",SHKF.tsv
+phone number,2,388,"[361, 388]",SHKF.tsv
+access,1,414,"[394, 397, 399, 407, 412, 414]",SHKF.tsv
+internet,1,414,"[394, 397, 399, 407, 414, 418]",SHKF.tsv
+for that,2,405,"[320, 405]",SHKF.tsv
+hot,1,427,"[366, 427, 428]",SHKF.tsv
+that's it,2,430,"[305, 430]",SHKF.tsv
+isn't it,2,42,"[36, 42]",SHKF.tsv
+have one,2,62,"[18, 62]",SHKF.tsv
+enough,1,406,"[62, 406]",SHKF.tsv
+basically,1,213,"[106, 213]",SHKF.tsv
+know each,2,144,"[140, 143, 144]",SHKF.tsv
+load of people,3,143,"[139, 143]",SHKF.tsv
+of people that,3,144,"[143, 144]",SHKF.tsv
+quite a,2,148,"[141, 148, 239]",SHKF.tsv
+quite,1,382,"[148, 167, 231, 239, 382]",SHKF.tsv
+it's quite,2,167,"[141, 167]",SHKF.tsv
+way,1,202,"[200, 202, 231]",SHKF.tsv
+seem,1,220,"[139, 220, 382]",SHKF.tsv
+mini,1,239,"[213, 239]",SHKF.tsv
+home,1,276,"[18, 276, 327]",SHKF.tsv
+call,1,329,"[144, 254, 329]",SHKF.tsv
+of that,2,333,"[4, 333]",SHKF.tsv
+true,1,406,"[399, 406]",SHKF.tsv
+meow,1,422,"[249, 422]",SHKF.tsv
+it the,2,430,"[144, 430]",SHKF.tsv
+it's a,2,373,"[16, 372, 373, 378]",SHKF.tsv
+look at,2,26,"[23, 26, 44, 213, 255]",SHKF.tsv
+we'll have,2,181,"[23, 181]",SHKF.tsv
+i say,2,185,"[23, 75, 185]",SHKF.tsv
+day,1,365,"[23, 101, 118, 124, 190, 365]",SHKF.tsv
+of the,2,221,"[28, 75, 89, 221, 407, 410]",SHKF.tsv
+grand marnier,2,31,"[30, 31, 79]",SHKF.tsv
+chocolate chip,2,98,"[30, 97, 98]",SHKF.tsv
+brandy,1,40,"[33, 40]",SHKF.tsv
+be that,2,229,"[33, 229, 373, 376, 378]",SHKF.tsv
+grand,1,44,"[31, 44]",SHKF.tsv
+marnier,1,46,"[31, 46]",SHKF.tsv
+almost,1,209,"[59, 209]",SHKF.tsv
+end,1,255,"[59, 255]",SHKF.tsv
+that i,2,312,"[59, 153, 312]",SHKF.tsv
+normally,1,276,"[68, 151, 153, 276, 320, 363, 368]",SHKF.tsv
+see,1,72,"[14, 72]",SHKF.tsv
+you see,2,366,"[72, 366]",SHKF.tsv
+stuff and,2,84,"[75, 84]",SHKF.tsv
+and i say,3,185,"[75, 185]",SHKF.tsv
+reduce,1,255,"[75, 255]",SHKF.tsv
+rest,1,264,"[75, 264]",SHKF.tsv
+contact,1,318,"[75, 318, 391]",SHKF.tsv
+things like,2,363,"[75, 363]",SHKF.tsv
+up what,2,257,"[79, 257]",SHKF.tsv
+it as,2,164,"[85, 164]",SHKF.tsv
+i think i,3,87,"[2, 87, 124]",SHKF.tsv
+kind of,2,89,"[40, 89]",SHKF.tsv
+work,1,323,"[91, 138, 289, 292, 323]",SHKF.tsv
+mum,1,96,"[93, 96, 221]",SHKF.tsv
+i think she'll eat them,5,95,"[94, 95]",SHKF.tsv
+dinner,1,101,"[29, 101, 107, 144, 151, 180]",SHKF.tsv
+department,1,356,"[103, 356]",SHKF.tsv
+that's a,2,112,"[42, 112, 132, 276]",SHKF.tsv
+the people that,3,160,"[114, 160]",SHKF.tsv
+new,1,126,"[26, 126]",SHKF.tsv
+cos it,2,384,"[126, 384]",SHKF.tsv
+er a,2,225,"[132, 225]",SHKF.tsv
+i normally,2,276,"[151, 276, 363]",SHKF.tsv
+the recipe,2,160,"[153, 160]",SHKF.tsv
+not gonna,2,378,"[153, 378]",SHKF.tsv
+it use a,3,155,"[154, 155]",SHKF.tsv
+ready make,2,155,"[154, 155]",SHKF.tsv
+packet,1,158,"[155, 158]",SHKF.tsv
+that's the,2,356,"[157, 356]",SHKF.tsv
+stuff to,2,159,"[158, 159]",SHKF.tsv
+extra stuff,2,159,"[158, 159]",SHKF.tsv
+as a,2,164,"[159, 164, 225, 243]",SHKF.tsv
+i really,2,210,"[174, 210]",SHKF.tsv
+mum's,1,411,"[180, 411]",SHKF.tsv
+aren't they,2,217,"[173, 217]",SHKF.tsv
+the stick,2,221,"[217, 221]",SHKF.tsv
+it just,2,232,"[226, 232]",SHKF.tsv
+your shoulder,2,265,"[29, 265]",SHKF.tsv
+always,1,273,"[185, 263, 273]",SHKF.tsv
+you move,2,303,"[275, 303]",SHKF.tsv
+be say,2,277,"[29, 277]",SHKF.tsv
+shoulder,1,277,"[29, 277]",SHKF.tsv
+but that's,2,277,"[276, 277]",SHKF.tsv
+you've get,2,345,"[277, 345, 367]",SHKF.tsv
+so it's,2,281,"[212, 281]",SHKF.tsv
+it on my,3,289,"[261, 289]",SHKF.tsv
+on my,2,289,"[264, 289]",SHKF.tsv
+move it to the,4,292,"[276, 292]",SHKF.tsv
+you can get,3,294,"[251, 294]",SHKF.tsv
+can get,2,393,"[294, 393]",SHKF.tsv
+they just,2,376,"[299, 376, 378]",SHKF.tsv
+either,1,315,"[307, 315]",SHKF.tsv
+the phone,2,378,"[326, 378, 388]",SHKF.tsv
+or something,2,346,"[56, 145, 346]",SHKF.tsv
+for a,2,353,"[225, 251, 353]",SHKF.tsv
+my mum,2,358,"[96, 221, 358]",SHKF.tsv
+get that,2,393,"[358, 393]",SHKF.tsv
+i know,2,362,"[61, 362]",SHKF.tsv
+they ask,2,373,"[372, 373, 377]",SHKF.tsv
+ask for,2,378,"[372, 377, 378, 379]",SHKF.tsv
+come from,2,374,"[373, 374]",SHKF.tsv
+know they,2,379,"[366, 379]",SHKF.tsv
+mr,1,379,"[376, 379]",SHKF.tsv
+ask for they,3,379,"[378, 379]",SHKF.tsv
+they only,2,379,"[378, 379, 380]",SHKF.tsv
+can't remember,2,381,"[255, 381]",SHKF.tsv
+i don't think,3,391,"[10, 391]",SHKF.tsv
+that make,2,391,"[160, 391]",SHKF.tsv
+ring up,2,402,"[356, 402]",SHKF.tsv
+what if you,3,402,"[366, 402]",SHKF.tsv
+don't have,2,407,"[324, 407, 409, 412]",SHKF.tsv
+three,1,410,"[322, 366, 410]",SHKF.tsv
+it's probably,2,412,"[212, 412]",SHKF.tsv
+less,1,412,"[356, 412]",SHKF.tsv
+a phone,2,412,"[409, 411, 412]",SHKF.tsv
+with the,2,421,"[270, 274, 421]",SHKF.tsv
+play,1,424,"[257, 424]",SHKF.tsv
+rock band,2,424,"[259, 424]",SHKF.tsv
+'s,1,382,"[5, 382]",SHKF.tsv
+huff,1,13,"[11, 13]",SHKF.tsv
+many,1,202,"[72, 202, 315]",SHKF.tsv
+do they,2,380,"[72, 380]",SHKF.tsv
+doesn't have,2,397,"[87, 397]",SHKF.tsv
+christmas dinner,2,144,"[107, 144, 151, 180]",SHKF.tsv
+where do,2,153,"[64, 153]",SHKF.tsv
+you like,2,217,"[204, 217]",SHKF.tsv
+days,1,397,"[275, 397]",SHKF.tsv
+somehow,1,370,"[141, 370]",SHKF.tsv
+if they,2,382,"[372, 382]",SHKF.tsv
+they only ask,3,380,"[379, 380]",SHKF.tsv
+because if,2,391,"[382, 391]",SHKF.tsv
+have access to the internet,5,397,"[394, 397, 407]",SHKF.tsv
+that don't have,3,409,"[407, 409, 412]",SHKF.tsv
+have access to,3,412,"[397, 412]",SHKF.tsv
+there's no,2,234,"[14, 234]",SHKF.tsv
+have a,2,409,"[40, 187, 244, 266, 409]",SHKF.tsv
+cabbage,1,213,"[209, 210, 213, 216]",SHKF.tsv
+find that,2,312,"[202, 312]",SHKF.tsv
+you don't know,3,322,"[139, 322]",SHKF.tsv
+and like,2,322,"[139, 322]",SHKF.tsv
+you don't,2,324,"[139, 324]",SHKF.tsv
+em,1,363,"[204, 363]",SHKF.tsv
+every,1,365,"[18, 365]",SHKF.tsv
+they should,2,366,"[144, 366]",SHKF.tsv
+when you,2,366,"[213, 366]",SHKF.tsv

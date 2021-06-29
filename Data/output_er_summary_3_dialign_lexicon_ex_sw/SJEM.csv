@@ -1,0 +1,191 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+run,1,1,"[0, 1, 3]",SJEM.tsv
+like,1,11,"[0, 11, 83, 234, 236, 238, 240]",SJEM.tsv
+time,1,45,"[0, 3, 24, 45, 47, 81, 92, 94, 101, 126, 127, 144, 182, 197, 222]",SJEM.tsv
+twenty,1,149,"[0, 149, 152]",SJEM.tsv
+all the,2,55,"[3, 9, 24, 55, 102, 236]",SJEM.tsv
+do you,2,13,"[1, 13, 15, 26, 67, 103, 141, 201]",SJEM.tsv
+know,1,35,"[15, 17, 35, 43, 92, 122, 188, 211, 231, 234, 236, 240, 246, 247, 248, 249, 250, 253]",SJEM.tsv
+you know,2,43,"[15, 17, 43, 122, 234, 236]",SJEM.tsv
+anything,1,144,"[15, 144]",SJEM.tsv
+to me,2,17,"[11, 17, 246]",SJEM.tsv
+well,1,51,"[17, 51, 52, 54, 56, 68, 76, 91, 124, 134, 140, 145, 176, 183, 195, 253]",SJEM.tsv
+well you,2,253,"[17, 253]",SJEM.tsv
+yeah,1,24,"[6, 10, 20, 23, 24, 27, 66, 76, 77, 79, 88, 90, 93, 94, 97, 106, 107, 114, 118, 120, 121, 125, 128, 130, 132, 136, 138, 146, 150, 153, 157, 158, 160, 163, 167, 170, 172, 174, 181, 183, 188, 190, 196, 199, 204, 208, 216, 223, 238, 240]",SJEM.tsv
+do it,2,49,"[24, 46, 49, 186, 213]",SJEM.tsv
+push,1,35,"[32, 34, 35]",SJEM.tsv
+luck,1,35,"[32, 34, 35, 91, 173, 174, 180]",SJEM.tsv
+don't you,2,180,"[34, 180, 253]",SJEM.tsv
+get,1,36,"[1, 4, 19, 28, 36, 41, 48, 52, 54, 74, 75, 113, 119, 122, 140, 149, 183, 184, 189, 192, 194, 196, 198, 221, 222]",SJEM.tsv
+get your lottery,3,41,"[36, 41]",SJEM.tsv
+your lottery,2,45,"[36, 45]",SJEM.tsv
+lottery,1,133,"[36, 133, 144, 165, 188]",SJEM.tsv
+get your,2,192,"[36, 192, 196, 198, 221]",SJEM.tsv
+too late,2,39,"[38, 39, 40]",SJEM.tsv
+seven,1,39,"[38, 39]",SJEM.tsv
+five,1,149,"[50, 149, 152, 183]",SJEM.tsv
+minutes,1,184,"[50, 183, 184]",SJEM.tsv
+why not,2,143,"[142, 143, 144]",SJEM.tsv
+year,1,148,"[92, 96, 148, 156]",SJEM.tsv
+it be,2,148,"[60, 148, 224, 242, 246, 250, 255, 256]",SJEM.tsv
+you've get,2,183,"[28, 119, 183]",SJEM.tsv
+no you've get,3,184,"[183, 184]",SJEM.tsv
+four minutes,2,185,"[184, 185]",SJEM.tsv
+lucky dip,2,192,"[189, 192, 198]",SJEM.tsv
+i'm,1,194,"[22, 52, 94, 140, 165, 194, 197]",SJEM.tsv
+go,1,58,"[2, 38, 58, 92, 145, 186, 194, 196, 256, 257]",SJEM.tsv
+your number,2,194,"[43, 194, 196]",SJEM.tsv
+do your,2,194,"[4, 45, 194]",SJEM.tsv
+so you,2,194,"[54, 63, 194]",SJEM.tsv
+number,1,70,"[43, 63, 65, 69, 70, 71, 84, 102, 126, 127, 137, 149, 155, 175, 192, 194, 196]",SJEM.tsv
+get in,2,194,"[113, 194]",SJEM.tsv
+in and do,3,194,"[186, 194]",SJEM.tsv
+go in,2,194,"[186, 194, 256, 257]",SJEM.tsv
+you can,2,240,"[194, 240]",SJEM.tsv
+do the,2,202,"[52, 53, 176, 202]",SJEM.tsv
+there's no,2,208,"[161, 188, 208]",SJEM.tsv
+there's,1,161,"[112, 161, 165, 188, 208]",SJEM.tsv
+winner,1,208,"[207, 208]",SJEM.tsv
+australia,1,213,"[210, 213, 216, 218]",SJEM.tsv
+be the,2,216,"[91, 144, 209, 216, 236, 250]",SJEM.tsv
+win,1,216,"[94, 95, 115, 144, 145, 205, 209, 216]",SJEM.tsv
+that be,2,216,"[56, 161, 216, 250]",SJEM.tsv
+petrol,1,221,"[5, 221, 253]",SJEM.tsv
+you gonna,2,221,"[20, 186, 221]",SJEM.tsv
+gonna,1,20,"[19, 20, 31, 94, 182, 186, 188, 221]",SJEM.tsv
+tomorrow,1,221,"[188, 221]",SJEM.tsv
+weeks,1,229,"[83, 229]",SJEM.tsv
+right,1,237,"[75, 237, 241]",SJEM.tsv
+i be,2,240,"[237, 240, 241]",SJEM.tsv
+shower,1,239,"[236, 239]",SJEM.tsv
+one,1,180,"[65, 115, 180, 190, 209, 236, 238, 241, 250]",SJEM.tsv
+one to,2,241,"[209, 238, 241]",SJEM.tsv
+the shower,2,241,"[236, 241]",SJEM.tsv
+boiler,1,241,"[236, 241]",SJEM.tsv
+you be,2,249,"[31, 242, 249]",SJEM.tsv
+person,1,249,"[209, 249]",SJEM.tsv
+i know,2,249,"[92, 249, 250]",SJEM.tsv
+pay for,2,257,"[135, 257]",SJEM.tsv
+go in and,3,257,"[186, 257]",SJEM.tsv
+too low,2,4,"[0, 4]",SJEM.tsv
+in it,2,56,"[0, 56, 120]",SJEM.tsv
+could,1,108,"[0, 108]",SJEM.tsv
+low,1,4,"[3, 4]",SJEM.tsv
+cars,1,19,"[15, 19]",SJEM.tsv
+leave the cars to,4,19,"[17, 19]",SJEM.tsv
+leave,1,84,"[17, 84, 86, 120, 126, 134]",SJEM.tsv
+leave the,2,126,"[17, 126]",SJEM.tsv
+i do,2,108,"[24, 108, 202, 247]",SJEM.tsv
+yeah i,2,132,"[24, 132, 138, 174]",SJEM.tsv
+be too,2,39,"[10, 39]",SJEM.tsv
+be too late,3,40,"[39, 40]",SJEM.tsv
+normally,1,180,"[46, 180]",SJEM.tsv
+ago,1,148,"[78, 148]",SJEM.tsv
+four,1,184,"[47, 60, 74, 166, 184, 185]",SJEM.tsv
+i've,1,189,"[102, 126, 140, 145, 151, 178, 189]",SJEM.tsv
+dip,1,189,"[180, 189, 192, 198]",SJEM.tsv
+in there,2,194,"[44, 194]",SJEM.tsv
+when i,2,202,"[78, 202, 252]",SJEM.tsv
+three,1,229,"[47, 149, 155, 229]",SJEM.tsv
+take,1,233,"[84, 102, 126, 233]",SJEM.tsv
+side,1,243,"[235, 243, 245]",SJEM.tsv
+be a,2,249,"[54, 145, 249]",SJEM.tsv
+start,1,252,"[8, 47, 78, 102, 252]",SJEM.tsv
+out when,2,252,"[19, 252]",SJEM.tsv
+pay,1,135,"[54, 60, 135, 166, 257]",SJEM.tsv
+just get it,3,140,"[1, 140]",SJEM.tsv
+can't,1,147,"[1, 43, 51, 63, 147]",SJEM.tsv
+get it,2,222,"[1, 48, 222]",SJEM.tsv
+no i,2,37,"[14, 16, 37, 242, 251]",SJEM.tsv
+i don't,2,166,"[14, 16, 35, 166, 168]",SJEM.tsv
+clean it,2,20,"[19, 20]",SJEM.tsv
+car,1,22,"[4, 10, 22]",SJEM.tsv
+clean,1,22,"[19, 22]",SJEM.tsv
+of a,2,120,"[22, 120]",SJEM.tsv
+i mean,2,132,"[22, 28, 119, 132, 192, 250]",SJEM.tsv
+dad,1,157,"[22, 141, 157, 173, 175, 176, 180, 188, 198, 214, 218, 234, 236, 238, 240, 246, 248, 254]",SJEM.tsv
+mean,1,162,"[22, 28, 35, 119, 162, 190, 192, 250]",SJEM.tsv
+to do,2,30,"[28, 30, 45, 123, 131, 165, 166]",SJEM.tsv
+in the,2,44,"[31, 44, 94, 156]",SJEM.tsv
+think,1,82,"[31, 82, 141]",SJEM.tsv
+i say,2,94,"[31, 94]",SJEM.tsv
+look,1,193,"[31, 43, 51, 193]",SJEM.tsv
+don't know,2,211,"[35, 211, 231]",SJEM.tsv
+it's go,2,38,"[2, 38]",SJEM.tsv
+now it's,2,145,"[38, 145]",SJEM.tsv
+number you,2,149,"[43, 149]",SJEM.tsv
+forget,1,45,"[44, 45]",SJEM.tsv
+it do,2,134,"[48, 134]",SJEM.tsv
+money,1,54,"[51, 54, 144]",SJEM.tsv
+can you,2,147,"[51, 147]",SJEM.tsv
+do the bonus ball,4,53,"[52, 53]",SJEM.tsv
+bonus ball,2,54,"[53, 54, 73, 75, 94]",SJEM.tsv
+the bonus ball,3,94,"[53, 94]",SJEM.tsv
+somebody,1,102,"[63, 102, 108, 122]",SJEM.tsv
+forty,1,65,"[54, 56, 65]",SJEM.tsv
+forty nine,2,65,"[58, 65]",SJEM.tsv
+you keep that,3,69,"[68, 69]",SJEM.tsv
+you keep that number,4,70,"[69, 70]",SJEM.tsv
+keep,1,134,"[69, 134, 138, 140, 178]",SJEM.tsv
+number be,2,102,"[71, 102]",SJEM.tsv
+come up,2,73,"[54, 73]",SJEM.tsv
+fourteen,1,73,"[72, 73, 137]",SJEM.tsv
+come,1,80,"[73, 75, 80, 82, 84, 92, 94, 96]",SJEM.tsv
+your bonus ball,3,75,"[54, 75]",SJEM.tsv
+cos,1,75,"[58, 75, 102, 122, 124, 145, 159, 166, 188]",SJEM.tsv
+better,1,174,"[75, 174]",SJEM.tsv
+work,1,81,"[52, 78, 81, 133]",SJEM.tsv
+work there,2,81,"[78, 81, 133]",SJEM.tsv
+years,1,83,"[78, 82, 83, 98]",SJEM.tsv
+eleven years,2,83,"[82, 83]",SJEM.tsv
+something,1,91,"[30, 91, 242]",SJEM.tsv
+say,1,94,"[91, 94, 234, 240, 242]",SJEM.tsv
+come out,2,98,"[80, 82, 84, 92, 94, 96, 98, 101]",SJEM.tsv
+ten,1,149,"[98, 149, 161]",SJEM.tsv
+it come out,3,101,"[82, 84, 92, 94, 101]",SJEM.tsv
+a couple of,3,101,"[84, 101]",SJEM.tsv
+a lot,2,105,"[104, 105, 120]",SJEM.tsv
+lot,1,120,"[105, 120]",SJEM.tsv
+none available for saturday,4,112,"[111, 112]",SJEM.tsv
+pound,1,115,"[54, 60, 74, 115, 118, 145, 149, 152, 161, 162, 163]",SJEM.tsv
+ninety,1,115,"[60, 74, 115, 116, 117, 119]",SJEM.tsv
+eight,1,117,"[54, 56, 117, 119]",SJEM.tsv
+home,1,119,"[19, 119]",SJEM.tsv
+any more,2,166,"[133, 166, 173]",SJEM.tsv
+really,1,164,"[139, 154, 164, 165]",SJEM.tsv
+i dunno,2,225,"[141, 225]",SJEM.tsv
+last time,2,144,"[126, 144]",SJEM.tsv
+change,1,149,"[146, 149]",SJEM.tsv
+a few,2,152,"[145, 151, 152]",SJEM.tsv
+twenty five pound,3,152,"[149, 152]",SJEM.tsv
+last,1,156,"[126, 156, 209]",SJEM.tsv
+up to,2,161,"[58, 161]",SJEM.tsv
+two pound,2,163,"[60, 145, 162, 163]",SJEM.tsv
+two,1,168,"[163, 168, 169, 171]",SJEM.tsv
+line,1,169,"[145, 166, 168, 169, 180]",SJEM.tsv
+be always,2,171,"[160, 171]",SJEM.tsv
+always,1,176,"[171, 176]",SJEM.tsv
+good,1,173,"[4, 173]",SJEM.tsv
+oh no,2,173,"[37, 173]",SJEM.tsv
+might,1,173,"[140, 173]",SJEM.tsv
+never,1,175,"[80, 175]",SJEM.tsv
+we're gonna,2,182,"[19, 182]",SJEM.tsv
+the sevens,2,188,"[176, 188]",SJEM.tsv
+get the,2,192,"[54, 192]",SJEM.tsv
+win the,2,209,"[94, 209]",SJEM.tsv
+it's not,2,214,"[110, 214]",SJEM.tsv
+long,1,227,"[224, 227]",SJEM.tsv
+first,1,236,"[78, 92, 126, 236]",SJEM.tsv
+ask,1,236,"[235, 236]",SJEM.tsv
+to be,2,238,"[54, 145, 238]",SJEM.tsv
+yeah yeah,2,238,"[132, 174, 238, 240]",SJEM.tsv
+tell,1,240,"[92, 240]",SJEM.tsv
+yeah and,2,240,"[94, 240]",SJEM.tsv
+he be,2,240,"[160, 240, 246]",SJEM.tsv
+about it,2,242,"[44, 242]",SJEM.tsv
+anyway,1,242,"[49, 149, 242]",SJEM.tsv
+but no,2,242,"[68, 242]",SJEM.tsv
+i think,2,242,"[82, 242, 250]",SJEM.tsv
+it it,2,242,"[82, 242]",SJEM.tsv
+whatever,1,250,"[82, 250]",SJEM.tsv
+it do but,3,250,"[134, 250]",SJEM.tsv

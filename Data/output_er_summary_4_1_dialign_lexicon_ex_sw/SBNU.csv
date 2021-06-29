@@ -1,0 +1,293 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+chat,1,160,"[0, 15, 160]",SBNU.tsv
+have a,2,181,"[0, 15, 181, 257, 267, 295, 297, 307, 310, 356]",SBNU.tsv
+can just,2,134,"[6, 134]",SBNU.tsv
+record,1,310,"[6, 310]",SBNU.tsv
+what's,1,329,"[6, 329, 354]",SBNU.tsv
+you can,2,259,"[6, 15, 259, 346]",SBNU.tsv
+i'm gonna,2,11,"[1, 11, 22, 223]",SBNU.tsv
+okay,1,16,"[11, 16, 17, 46, 111, 150, 162, 179, 261, 284, 337]",SBNU.tsv
+i'm,1,93,"[1, 11, 22, 93, 109, 112, 113, 173, 180, 188, 196, 199, 203, 219, 223, 237, 245, 247, 248, 249, 271, 310, 337, 356, 360]",SBNU.tsv
+cool,1,129,"[11, 129, 130, 313]",SBNU.tsv
+gonna,1,213,"[1, 11, 22, 213, 223, 244, 278]",SBNU.tsv
+one of these,3,22,"[13, 22, 132, 237, 238]",SBNU.tsv
+one,1,84,"[13, 22, 84, 109, 132, 139, 154, 161, 166, 204, 237, 238, 248, 297]",SBNU.tsv
+can you,2,90,"[13, 90]",SBNU.tsv
+one of,2,109,"[13, 109, 204, 238, 297]",SBNU.tsv
+and erm,2,84,"[15, 84]",SBNU.tsv
+talk about,2,218,"[15, 218, 345]",SBNU.tsv
+i'll,1,69,"[15, 69, 286, 302, 339]",SBNU.tsv
+anything,1,321,"[15, 321]",SBNU.tsv
+fill,1,13,"[2, 13]",SBNU.tsv
+name,1,7,"[6, 7, 10]",SBNU.tsv
+so you,2,272,"[6, 272]",SBNU.tsv
+what's your,2,354,"[6, 354]",SBNU.tsv
+talk,1,52,"[15, 52, 218, 345]",SBNU.tsv
+back,1,287,"[15, 287]",SBNU.tsv
+baby,1,75,"[1, 75, 113, 115, 118, 121, 221, 231]",SBNU.tsv
+mean,1,79,"[1, 79, 80, 124, 219, 301, 314, 321, 325, 342]",SBNU.tsv
+jelly baby,2,113,"[1, 113, 115, 221, 231]",SBNU.tsv
+in the,2,153,"[1, 86, 153, 204, 218]",SBNU.tsv
+she be,2,45,"[3, 45, 47, 52, 58, 65, 71, 93, 244]",SBNU.tsv
+oh i,2,161,"[9, 161, 326]",SBNU.tsv
+thing,1,324,"[12, 244, 324, 361]",SBNU.tsv
+think,1,40,"[18, 32, 40, 56, 59, 62, 71, 73, 79, 80, 90, 91, 93, 96, 170, 199, 244, 291, 357, 369, 370, 373]",SBNU.tsv
+what do you think,4,73,"[18, 73, 79]",SBNU.tsv
+do you,2,140,"[18, 82, 140, 153, 325]",SBNU.tsv
+guy,1,146,"[18, 105, 146, 175, 186, 286, 290, 291, 349]",SBNU.tsv
+that movie,2,24,"[22, 24, 25]",SBNU.tsv
+i mean,2,79,"[22, 79, 219, 241, 271, 301, 325]",SBNU.tsv
+jelly,1,113,"[22, 113, 115, 221]",SBNU.tsv
+take,1,169,"[22, 166, 169, 175, 245, 254, 286, 337, 339]",SBNU.tsv
+movie,1,82,"[22, 25, 82, 197]",SBNU.tsv
+night,1,212,"[22, 209, 212, 318, 369]",SBNU.tsv
+like,1,30,"[29, 30, 31, 32, 40, 43, 45, 46, 47, 48, 56, 62, 65, 67, 69, 71, 73, 80, 82, 84, 86, 88, 90, 91, 93, 96, 100, 118, 119, 124, 126, 128, 132, 146, 148, 152, 154, 156, 157, 160, 165, 174, 176, 188, 189, 193, 197, 205, 209, 219, 230, 231, 233, 235, 240, 241, 243, 245, 246, 252, 262, 278, 283, 285, 287, 289, 290, 291, 293, 296, 297, 298, 300, 301, 303, 307, 316, 317, 320, 324, 325, 327, 329, 342, 346, 349, 352, 369]",SBNU.tsv
+like a,2,30,"[29, 30, 146, 157, 174, 189, 197, 205, 241, 243, 252, 296, 352]",SBNU.tsv
+just like a,3,189,"[30, 189]",SBNU.tsv
+of like,2,188,"[30, 188, 278]",SBNU.tsv
+there be,2,33,"[32, 33, 34, 90, 125, 235, 241, 301, 373]",SBNU.tsv
+be like,2,32,"[29, 32, 40, 43, 45, 46, 47, 48, 62, 65, 67, 80, 90, 91, 119, 156, 209, 241, 246, 262, 289, 291, 293, 296, 369]",SBNU.tsv
+i think,2,56,"[32, 56, 59, 62, 80, 90, 91, 93, 170, 244, 291, 369, 370, 373]",SBNU.tsv
+stuff,1,58,"[32, 58, 140, 219]",SBNU.tsv
+there be some,3,34,"[33, 34]",SBNU.tsv
+i be like,3,47,"[40, 43, 47, 67, 289, 293, 296]",SBNU.tsv
+i be,2,130,"[40, 47, 67, 130, 154, 262, 287, 289, 293, 296, 339]",SBNU.tsv
+no i,2,51,"[40, 51]",SBNU.tsv
+i don't,2,333,"[55, 228, 231, 239, 271, 314, 323, 325, 333, 342, 357]",SBNU.tsv
+yeah,1,57,"[14, 29, 35, 53, 57, 60, 63, 64, 69, 70, 99, 104, 123, 126, 127, 144, 147, 156, 158, 160, 163, 167, 168, 190, 199, 209, 215, 217, 226, 228, 235, 244, 247, 253, 260, 261, 273, 275, 284, 304, 305, 310, 311, 318, 323, 328, 332, 334, 369, 373, 376]",SBNU.tsv
+pumpkin,1,104,"[68, 104]",SBNU.tsv
+film be,2,71,"[31, 71]",SBNU.tsv
+be she,2,71,"[45, 49, 71]",SBNU.tsv
+never,1,71,"[69, 71, 93, 132, 188]",SBNU.tsv
+film,1,92,"[31, 71, 92, 93, 219]",SBNU.tsv
+i i,2,161,"[71, 161]",SBNU.tsv
+just like,2,148,"[30, 71, 88, 93, 148, 152, 154, 189, 298]",SBNU.tsv
+to be,2,80,"[31, 58, 80, 177, 219, 262, 310, 313]",SBNU.tsv
+it be,2,80,"[29, 46, 48, 53, 62, 80, 93, 96, 154, 156, 209, 210, 214, 265, 281, 283, 329, 331, 361]",SBNU.tsv
+see,1,80,"[23, 80, 126, 194, 197, 268, 302, 322, 326]",SBNU.tsv
+scene,1,82,"[28, 82, 84]",SBNU.tsv
+like they,2,82,"[31, 82]",SBNU.tsv
+and like,2,82,"[31, 82, 84, 86, 146]",SBNU.tsv
+horror,1,92,"[82, 92]",SBNU.tsv
+a horror movie,3,197,"[82, 197]",SBNU.tsv
+go,1,208,"[82, 208, 219, 242, 246, 302, 306, 313]",SBNU.tsv
+it's not,2,324,"[82, 324, 361]",SBNU.tsv
+find,1,84,"[28, 84]",SBNU.tsv
+be try to,3,84,"[31, 84]",SBNU.tsv
+long,1,84,"[31, 84, 324]",SBNU.tsv
+out of,2,84,"[75, 84, 186]",SBNU.tsv
+get,1,84,"[8, 56, 84, 86, 90, 122, 186, 297, 365, 373]",SBNU.tsv
+the end,2,153,"[84, 153]",SBNU.tsv
+leave,1,223,"[84, 223, 229, 235, 379]",SBNU.tsv
+way,1,306,"[84, 124, 306]",SBNU.tsv
+right,1,219,"[84, 186, 219, 271, 327, 329]",SBNU.tsv
+and then,2,86,"[29, 75, 86]",SBNU.tsv
+still,1,184,"[86, 184]",SBNU.tsv
+it's just,2,275,"[88, 148, 152, 275, 278]",SBNU.tsv
+maybe,1,90,"[31, 61, 90, 154, 318, 332, 344]",SBNU.tsv
+or something,2,157,"[90, 157, 257]",SBNU.tsv
+bite,1,190,"[90, 190, 220, 239]",SBNU.tsv
+you know,2,90,"[48, 56, 90, 100, 124, 129, 272, 291, 306, 325]",SBNU.tsv
+that be,2,91,"[42, 70, 91]",SBNU.tsv
+like the,2,91,"[62, 91, 119, 126, 146, 230, 231, 233, 290, 297]",SBNU.tsv
+which be why,3,93,"[31, 93, 160]",SBNU.tsv
+up in,2,153,"[93, 153]",SBNU.tsv
+sure,1,180,"[93, 180, 322, 356]",SBNU.tsv
+do not,2,105,"[104, 105]",SBNU.tsv
+mm mm,2,108,"[81, 85, 108, 136, 138, 142, 143, 145, 149, 155, 159, 185, 225, 288, 292]",SBNU.tsv
+sorry,1,109,"[8, 77, 109, 112]",SBNU.tsv
+ones,1,233,"[119, 126, 230, 231, 233, 235, 238]",SBNU.tsv
+little,1,190,"[124, 190, 220]",SBNU.tsv
+actually,1,135,"[126, 135, 197, 265, 300, 368]",SBNU.tsv
+them in,2,146,"[126, 146, 243]",SBNU.tsv
+make,1,129,"[31, 129, 153, 362]",SBNU.tsv
+room,1,132,"[113, 132]",SBNU.tsv
+head,1,132,"[122, 132]",SBNU.tsv
+i can,2,134,"[43, 134, 302, 306]",SBNU.tsv
+have to,2,160,"[31, 160, 239, 339, 375]",SBNU.tsv
+i do,2,160,"[40, 160, 161]",SBNU.tsv
+transcribe,1,160,"[135, 140, 150, 160]",SBNU.tsv
+do it,2,160,"[76, 160, 259]",SBNU.tsv
+oh yeah,2,163,"[53, 99, 163, 304, 373]",SBNU.tsv
+come,1,191,"[180, 191, 196, 287, 335]",SBNU.tsv
+could,1,204,"[44, 204, 240]",SBNU.tsv
+about the,2,218,"[113, 218, 331]",SBNU.tsv
+people,1,218,"[139, 177, 218, 235, 301, 310, 378]",SBNU.tsv
+blackcurrant,1,230,"[227, 230, 238]",SBNU.tsv
+eat,1,231,"[122, 231, 240]",SBNU.tsv
+i like the,3,233,"[231, 233]",SBNU.tsv
+red ones,2,235,"[233, 235]",SBNU.tsv
+try,1,237,"[31, 237]",SBNU.tsv
+feel,1,239,"[31, 42, 220, 239, 245, 249]",SBNU.tsv
+feel a,2,239,"[220, 239]",SBNU.tsv
+bite sick,2,239,"[220, 239]",SBNU.tsv
+know,1,148,"[90, 124, 129, 148, 219, 239, 272, 291, 306, 314, 325, 342, 343, 365]",SBNU.tsv
+the same,2,244,"[152, 244, 331]",SBNU.tsv
+i feel,2,249,"[31, 245, 249]",SBNU.tsv
+everyone,1,370,"[249, 370]",SBNU.tsv
+it's like,2,252,"[69, 252, 300, 346]",SBNU.tsv
+on the,2,254,"[189, 254, 339]",SBNU.tsv
+be about,2,331,"[262, 331]",SBNU.tsv
+cardigan,1,315,"[263, 315, 316, 317, 319]",SBNU.tsv
+yeah it's,2,275,"[69, 158, 275]",SBNU.tsv
+that's,1,282,"[7, 46, 111, 118, 174, 213, 219, 232, 281, 282, 307, 320, 324, 327, 363]",SBNU.tsv
+this morning be chilly,4,334,"[333, 334]",SBNU.tsv
+you just,2,342,"[153, 342]",SBNU.tsv
+rain,1,343,"[324, 343]",SBNU.tsv
+your super power,3,351,"[348, 351]",SBNU.tsv
+super power,2,350,"[348, 350, 351, 353]",SBNU.tsv
+power,1,354,"[348, 351, 353, 354, 356, 362, 366]",SBNU.tsv
+i'm sure,2,356,"[180, 356]",SBNU.tsv
+true,1,307,"[299, 307, 347, 363]",SBNU.tsv
+think i,2,369,"[40, 369]",SBNU.tsv
+yes,1,100,"[3, 100, 210, 257]",SBNU.tsv
+oh my god,3,52,"[18, 52, 107, 118, 125, 196, 204, 239, 245, 281, 289, 347]",SBNU.tsv
+i take,2,166,"[22, 166]",SBNU.tsv
+the alpaca,2,29,"[26, 29, 195, 196]",SBNU.tsv
+alpaca,1,30,"[29, 30, 196]",SBNU.tsv
+at the,2,41,"[30, 41, 50]",SBNU.tsv
+good,1,32,"[29, 32, 34, 39, 93, 107, 112, 171, 203, 241, 270, 290, 291, 301]",SBNU.tsv
+well i,2,219,"[32, 219]",SBNU.tsv
+be there,2,287,"[32, 287]",SBNU.tsv
+there for,2,287,"[32, 287]",SBNU.tsv
+like good,2,291,"[32, 291]",SBNU.tsv
+well,1,364,"[32, 34, 68, 170, 246, 302, 364]",SBNU.tsv
+be some,2,96,"[33, 34, 96]",SBNU.tsv
+very good,2,203,"[39, 203]",SBNU.tsv
+when she be,3,52,"[47, 52, 58]",SBNU.tsv
+the begin,2,51,"[41, 48, 50, 51]",SBNU.tsv
+probably,1,359,"[59, 359, 373]",SBNU.tsv
+be this,2,154,"[67, 154]",SBNU.tsv
+have you,2,266,"[80, 266]",SBNU.tsv
+see the,2,322,"[80, 322]",SBNU.tsv
+alright,1,164,"[82, 164]",SBNU.tsv
+bad,1,206,"[82, 206]",SBNU.tsv
+but like,2,219,"[82, 219]",SBNU.tsv
+they're,1,118,"[84, 118, 171, 178, 298]",SBNU.tsv
+creepy,1,118,"[84, 118]",SBNU.tsv
+have be,2,183,"[84, 93, 183]",SBNU.tsv
+things,1,185,"[84, 185, 240]",SBNU.tsv
+they've be,2,229,"[84, 229]",SBNU.tsv
+they've,1,229,"[84, 229]",SBNU.tsv
+there's,1,296,"[84, 170, 296]",SBNU.tsv
+and it's,2,137,"[88, 137]",SBNU.tsv
+it's just like,3,148,"[88, 148]",SBNU.tsv
+and it's just like,4,152,"[88, 152]",SBNU.tsv
+felt,1,90,"[52, 90]",SBNU.tsv
+can't,1,90,"[72, 90, 219, 228, 325]",SBNU.tsv
+i can't,2,96,"[90, 96, 228, 325]",SBNU.tsv
+like that,2,154,"[90, 91, 154]",SBNU.tsv
+of the,2,196,"[90, 109, 196, 252]",SBNU.tsv
+that where,2,229,"[90, 229]",SBNU.tsv
+that you know,3,291,"[90, 291]",SBNU.tsv
+think that,2,96,"[91, 96]",SBNU.tsv
+i think that,3,291,"[91, 291]",SBNU.tsv
+cos,1,93,"[29, 93, 287, 298, 309, 329]",SBNU.tsv
+hack herself,2,94,"[93, 94]",SBNU.tsv
+really,1,107,"[93, 107, 112, 118, 132, 146, 198, 222, 240, 277, 290, 297, 300, 307, 339, 364, 377]",SBNU.tsv
+would,1,133,"[93, 133, 291, 301, 332]",SBNU.tsv
+a good,2,270,"[93, 241, 270]",SBNU.tsv
+cos i,2,287,"[93, 287]",SBNU.tsv
+young,1,97,"[66, 97]",SBNU.tsv
+alpacas,1,101,"[27, 101, 102, 193]",SBNU.tsv
+use,1,135,"[105, 135, 254]",SBNU.tsv
+two,1,150,"[109, 150]",SBNU.tsv
+really good,2,112,"[107, 112, 290]",SBNU.tsv
+it's really,2,277,"[112, 277, 307]",SBNU.tsv
+these be,2,119,"[107, 114, 119]",SBNU.tsv
+you know the,3,124,"[48, 124]",SBNU.tsv
+fake,1,124,"[52, 124]",SBNU.tsv
+look,1,126,"[21, 126, 267, 290, 291, 301, 320]",SBNU.tsv
+cos it,2,126,"[29, 126, 309]",SBNU.tsv
+meet,1,146,"[132, 146]",SBNU.tsv
+sound,1,135,"[134, 135, 152, 154]",SBNU.tsv
+chew,1,135,"[134, 135]",SBNU.tsv
+say,1,213,"[134, 213, 214, 244, 282, 301, 307, 310, 332, 361]",SBNU.tsv
+mm mm mm mm,4,185,"[155, 185]",SBNU.tsv
+like i,2,160,"[43, 56, 160, 219, 285, 287, 325]",SBNU.tsv
+to do,2,160,"[135, 160]",SBNU.tsv
+for the,2,160,"[158, 160, 252]",SBNU.tsv
+level,1,296,"[160, 296]",SBNU.tsv
+a lot,2,301,"[160, 301]",SBNU.tsv
+we have to,3,375,"[160, 375]",SBNU.tsv
+the guy,2,175,"[146, 175, 290]",SBNU.tsv
+us,1,219,"[175, 187, 204, 219]",SBNU.tsv
+fine,1,178,"[46, 178, 186]",SBNU.tsv
+a hard week,3,183,"[181, 183]",SBNU.tsv
+hard,1,307,"[181, 307]",SBNU.tsv
+we have,2,375,"[181, 295, 297, 375]",SBNU.tsv
+guy be,2,290,"[186, 290]",SBNU.tsv
+come in,2,196,"[191, 196]",SBNU.tsv
+this one,2,204,"[154, 166, 204]",SBNU.tsv
+pumpkins,1,207,"[103, 207]",SBNU.tsv
+it be like,3,209,"[29, 46, 48, 156, 209]",SBNU.tsv
+silent night,2,212,"[209, 212]",SBNU.tsv
+blackcurrant ones,2,238,"[230, 238]",SBNU.tsv
+i like,2,303,"[231, 233, 303]",SBNU.tsv
+i have,2,239,"[115, 239, 248, 263, 267, 310]",SBNU.tsv
+be like a,3,241,"[29, 241]",SBNU.tsv
+i mean there be,4,301,"[241, 301]",SBNU.tsv
+think so,2,357,"[244, 357]",SBNU.tsv
+sad,1,247,"[232, 247, 248, 249]",SBNU.tsv
+be like oh,3,289,"[262, 289]",SBNU.tsv
+but i,2,267,"[245, 267, 323]",SBNU.tsv
+i couldn't,2,285,"[267, 285]",SBNU.tsv
+that's what,2,282,"[213, 282]",SBNU.tsv
+yeah okay,2,284,"[261, 284]",SBNU.tsv
+a whole,2,296,"[295, 296]",SBNU.tsv
+get like,2,297,"[56, 297]",SBNU.tsv
+be really,2,297,"[107, 290, 297, 339]",SBNU.tsv
+of them,2,297,"[146, 297]",SBNU.tsv
+like we,2,297,"[245, 297]",SBNU.tsv
+tall and,2,301,"[298, 301]",SBNU.tsv
+of people,2,310,"[139, 310]",SBNU.tsv
+people i,2,310,"[301, 310]",SBNU.tsv
+have a set type,4,310,"[307, 310]",SBNU.tsv
+type,1,310,"[307, 310]",SBNU.tsv
+know what,2,314,"[272, 314, 325]",SBNU.tsv
+like cardigan,2,317,"[316, 317]",SBNU.tsv
+be i,2,325,"[148, 325]",SBNU.tsv
+what the,2,325,"[213, 325]",SBNU.tsv
+you know what,3,325,"[272, 325]",SBNU.tsv
+sixteen degrees,2,325,"[313, 325]",SBNU.tsv
+degrees,1,325,"[313, 325, 332, 340]",SBNU.tsv
+to take,2,339,"[245, 339]",SBNU.tsv
+i be there,3,339,"[287, 339]",SBNU.tsv
+to sweden,2,339,"[287, 339]",SBNU.tsv
+sweden,1,339,"[301, 339]",SBNU.tsv
+moment,1,342,"[29, 342]",SBNU.tsv
+my boob,2,344,"[343, 344]",SBNU.tsv
+like you,2,346,"[48, 346]",SBNU.tsv
+this be,2,348,"[206, 348]",SBNU.tsv
+super,1,348,"[279, 348, 351, 353]",SBNU.tsv
+be just,2,361,"[154, 361]",SBNU.tsv
+to say,2,361,"[307, 361]",SBNU.tsv
+that's true,2,363,"[307, 363]",SBNU.tsv
+i know,2,365,"[219, 365]",SBNU.tsv
+be a,2,373,"[183, 313, 373]",SBNU.tsv
+ten,1,373,"[240, 373]",SBNU.tsv
+there be a,3,373,"[301, 373]",SBNU.tsv
+much,1,379,"[56, 379]",SBNU.tsv
+need,1,250,"[2, 250]",SBNU.tsv
+i guess,2,375,"[2, 375]",SBNU.tsv
+hello,1,5,"[4, 5]",SBNU.tsv
+they be,2,31,"[27, 31, 301]",SBNU.tsv
+be so,2,31,"[29, 31, 53, 62, 70, 206]",SBNU.tsv
+like maybe,2,154,"[31, 154]",SBNU.tsv
+i feel like,3,245,"[31, 245]",SBNU.tsv
+it be so,3,53,"[29, 53, 62]",SBNU.tsv
+yeah it be,3,156,"[53, 156]",SBNU.tsv
+she be like,3,65,"[45, 65]",SBNU.tsv
+happen,1,185,"[75, 79, 185]",SBNU.tsv
+be it,2,177,"[157, 177, 274]",SBNU.tsv
+bacon sandwich,2,177,"[174, 177]",SBNU.tsv
+fly,1,287,"[189, 287]",SBNU.tsv
+see you,2,194,"[23, 194, 197]",SBNU.tsv
+a little bite,3,220,"[190, 220]",SBNU.tsv
+can do,2,259,"[43, 259]",SBNU.tsv
+be full of,3,283,"[278, 283]",SBNU.tsv
+it's true,2,347,"[299, 347]",SBNU.tsv
+historically,1,312,"[311, 312]",SBNU.tsv
+at least,2,315,"[146, 315, 333]",SBNU.tsv
+weather,1,315,"[266, 315]",SBNU.tsv
+must,1,370,"[336, 370]",SBNU.tsv

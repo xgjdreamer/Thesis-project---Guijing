@@ -1,0 +1,639 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+blind drink,2,1,"[0, 1]",SLPW.tsv
+remember,1,20,"[0, 20, 25, 182, 266, 351]",SLPW.tsv
+actually,1,25,"[0, 25, 57, 77, 122, 177, 359]",SLPW.tsv
+be like,2,21,"[0, 21, 28, 70, 81, 187, 191, 293, 317, 318, 330, 332, 344, 402, 440]",SLPW.tsv
+he be,2,28,"[0, 28, 32, 81, 148, 440]",SLPW.tsv
+like,1,11,"[0, 11, 21, 24, 28, 38, 43, 45, 47, 70, 81, 88, 90, 96, 100, 106, 115, 149, 151, 152, 169, 171, 173, 175, 177, 187, 188, 191, 195, 224, 260, 271, 287, 288, 293, 295, 308, 309, 317, 318, 323, 330, 332, 344, 362, 402, 421, 440, 451, 467, 475]",SLPW.tsv
+but i,2,11,"[0, 11, 15, 70, 89, 116, 424]",SLPW.tsv
+i be,2,70,"[0, 70, 81, 92, 162, 187, 188, 194, 238, 318, 360, 461]",SLPW.tsv
+he be like,3,81,"[0, 81, 440]",SLPW.tsv
+it be,2,71,"[0, 21, 71, 75, 79, 91, 92, 93, 95, 96, 116, 147, 191, 233, 270, 271, 293, 300, 312, 317, 326, 327, 329, 366, 381, 412]",SLPW.tsv
+happen,1,152,"[0, 80, 152, 317, 318, 347]",SLPW.tsv
+be like no,3,187,"[0, 187]",SLPW.tsv
+drink,1,237,"[0, 1, 237, 238, 240, 242, 391, 392, 401]",SLPW.tsv
+no i,2,313,"[0, 133, 185, 238, 313]",SLPW.tsv
+get,1,19,"[9, 19, 21, 28, 32, 40, 42, 47, 55, 57, 67, 70, 90, 96, 111, 114, 116, 119, 126, 187, 196, 202, 223, 225, 254, 300, 308, 313, 314, 320, 330, 338, 348, 374, 375, 376, 388, 389, 390, 391, 392, 396, 402, 410, 411, 414, 415, 423, 428, 430, 435, 453, 456, 461, 471, 476, 478, 482, 483, 485]",SLPW.tsv
+fuck,1,28,"[9, 28, 33, 36, 38, 46, 64, 69, 76, 83, 102, 104, 108, 109, 110, 140, 143, 148, 158, 160, 168, 178, 188, 191, 194, 198, 200, 233, 237, 292, 308, 310, 314, 315, 317, 319, 320, 326, 329, 330, 335, 342, 344, 367, 368, 372, 375, 393, 400, 401, 410, 412, 417, 427, 439, 440, 450, 452, 456, 462, 469, 483]",SLPW.tsv
+he's,1,11,"[9, 11, 64, 108, 110, 111, 127, 147, 149, 430, 433, 435]",SLPW.tsv
+much,1,70,"[9, 70, 116, 119, 122]",SLPW.tsv
+find,1,457,"[15, 85, 457, 475]",SLPW.tsv
+wonder,1,42,"[23, 42, 49]",SLPW.tsv
+go,1,35,"[24, 27, 35, 42, 43, 57, 68, 70, 88, 96, 106, 114, 116, 130, 313, 315, 332, 341, 344, 355, 356, 359, 360, 387, 401, 402, 419, 426, 428, 429, 449, 461, 467, 469, 472, 475, 477]",SLPW.tsv
+be go,2,96,"[35, 96, 106, 116, 401, 402, 449, 461, 477]",SLPW.tsv
+they be,2,45,"[35, 45, 49, 223, 283, 330, 332, 377, 419, 420, 473, 474]",SLPW.tsv
+show i,2,37,"[10, 37]",SLPW.tsv
+show,1,37,"[10, 11, 28, 29, 37, 306]",SLPW.tsv
+that's,1,45,"[37, 45, 50, 60, 62, 71, 76, 77, 87, 89, 99, 108, 141, 152, 159, 187, 188, 189, 196, 198, 220, 222, 226, 272, 275, 304, 352, 365, 383, 407, 429, 440]",SLPW.tsv
+watch,1,140,"[37, 140, 292, 308, 313, 315, 322, 426]",SLPW.tsv
+that's a,2,198,"[37, 188, 198, 365]",SLPW.tsv
+yeah,1,39,"[21, 22, 24, 25, 30, 39, 40, 43, 44, 58, 82, 89, 90, 95, 98, 107, 112, 113, 114, 116, 118, 128, 129, 131, 142, 148, 152, 153, 156, 181, 189, 192, 193, 196, 205, 206, 248, 256, 257, 259, 262, 277, 280, 302, 305, 307, 313, 317, 321, 323, 329, 332, 337, 367, 368, 380, 383, 386, 390, 392, 412, 425, 429, 436, 440, 447, 453, 464, 466, 468, 474, 485]",SLPW.tsv
+though,1,39,"[28, 39, 89, 99, 252, 300, 314, 350, 373, 421, 465]",SLPW.tsv
+it's a,2,106,"[39, 106, 373, 425]",SLPW.tsv
+yeah it's,2,152,"[39, 152, 317, 425]",SLPW.tsv
+bring,1,237,"[39, 237, 238, 428]",SLPW.tsv
+money,1,330,"[39, 330, 332, 377]",SLPW.tsv
+big,1,386,"[39, 293, 386]",SLPW.tsv
+noodles,1,54,"[50, 53, 54, 389, 469, 471, 473, 490, 491]",SLPW.tsv
+you know,2,50,"[3, 50, 78, 84, 322, 327, 342, 372]",SLPW.tsv
+know,1,58,"[50, 58, 78, 84, 116, 150, 170, 171, 275, 322, 327, 342, 372, 378, 410, 412, 417, 419, 435, 448]",SLPW.tsv
+steak,1,55,"[54, 55, 57, 59, 360]",SLPW.tsv
+get any,2,482,"[55, 482]",SLPW.tsv
+nice,1,205,"[60, 205, 358, 361, 364, 365, 366, 379, 486]",SLPW.tsv
+mate,1,65,"[27, 54, 65, 70, 141, 144, 167, 170, 205, 233, 346, 372, 406, 418, 423, 452, 470]",SLPW.tsv
+shit,1,147,"[65, 147, 324]",SLPW.tsv
+talk,1,237,"[65, 237]",SLPW.tsv
+have you,2,301,"[67, 301, 357, 389, 471, 476, 479, 482]",SLPW.tsv
+you get,2,119,"[67, 119, 375, 389, 423, 471, 476, 482]",SLPW.tsv
+have you get any,4,482,"[67, 482]",SLPW.tsv
+that be,2,75,"[56, 57, 74, 75, 188]",SLPW.tsv
+leave,1,81,"[75, 81, 90, 91, 92, 332, 342]",SLPW.tsv
+leave it,2,90,"[75, 90, 92]",SLPW.tsv
+on the side,3,97,"[75, 79, 97, 484]",SLPW.tsv
+on the,2,396,"[75, 79, 396, 428, 484]",SLPW.tsv
+think,1,54,"[11, 29, 54, 57, 79, 93, 111, 173, 174, 202, 211, 271, 295, 297, 299, 303, 308, 373, 419]",SLPW.tsv
+i think,2,79,"[11, 29, 57, 79, 93, 173, 174, 202, 211, 271, 295, 308, 419]",SLPW.tsv
+this be,2,81,"[79, 81]",SLPW.tsv
+a while,2,81,"[79, 81, 192]",SLPW.tsv
+it have be,3,84,"[79, 84]",SLPW.tsv
+it be on,3,93,"[79, 93]",SLPW.tsv
+be there,2,93,"[79, 93, 95, 333]",SLPW.tsv
+have be,2,83,"[79, 83, 194, 252, 461]",SLPW.tsv
+because i,2,92,"[79, 92, 132, 238, 239, 308, 352]",SLPW.tsv
+use,1,102,"[70, 71, 76, 78, 80, 86, 89, 93, 95, 100, 101, 102, 103, 104, 105, 106, 109, 149, 151, 209, 342, 344, 352, 354, 361, 417]",SLPW.tsv
+probably use,2,102,"[86, 102]",SLPW.tsv
+to cover,2,102,"[24, 102, 159, 161]",SLPW.tsv
+probably,1,86,"[78, 86, 102, 108, 187, 196, 407, 413]",SLPW.tsv
+i mean you,3,226,"[102, 226]",SLPW.tsv
+cookies,1,341,"[102, 341, 349, 352]",SLPW.tsv
+mean,1,102,"[24, 102, 150, 226, 491]",SLPW.tsv
+if it's,2,124,"[101, 124]",SLPW.tsv
+'s,1,127,"[70, 93, 127, 341]",SLPW.tsv
+read,1,128,"[127, 128, 129, 140, 173, 177, 182, 184, 194, 196, 197, 198, 208, 210, 223, 296, 298, 423, 424, 431, 444, 445, 446, 456]",SLPW.tsv
+two,1,127,"[47, 127, 129, 173, 254, 376, 377, 403, 426, 441, 442]",SLPW.tsv
+book now,2,194,"[127, 194]",SLPW.tsv
+book,1,127,"[126, 127, 130, 140, 141, 143, 169, 177, 178, 179, 182, 186, 188, 194, 207, 210, 211, 218, 220, 221, 223, 228, 232, 276, 296, 423, 424, 428, 431, 432, 440, 442, 444, 451, 453, 457]",SLPW.tsv
+i've,1,129,"[57, 70, 77, 86, 93, 129, 173, 196, 198, 338, 390, 445, 456, 478, 483]",SLPW.tsv
+i'm,1,133,"[66, 68, 70, 114, 133, 140, 164, 168, 194, 205, 225, 290, 295, 338, 355, 360, 387, 388, 403, 440, 469, 472, 475]",SLPW.tsv
+no no,2,133,"[70, 133]",SLPW.tsv
+want,1,207,"[133, 207, 232, 237, 330, 360, 399, 400, 434, 448]",SLPW.tsv
+i want it,3,360,"[133, 360]",SLPW.tsv
+want it,2,399,"[133, 399]",SLPW.tsv
+hunger game,2,136,"[135, 136, 137]",SLPW.tsv
+see,1,139,"[77, 139, 197, 210, 301, 351, 424]",SLPW.tsv
+still,1,139,"[81, 139, 320, 338]",SLPW.tsv
+a fuck,2,143,"[64, 109, 143, 168, 188, 237, 314, 315, 372, 375, 401, 410]",SLPW.tsv
+for a,2,143,"[81, 114, 116, 143, 202, 367, 405, 453]",SLPW.tsv
+a book,2,182,"[143, 182, 210, 228]",SLPW.tsv
+you just,2,275,"[143, 275, 354]",SLPW.tsv
+use the,2,151,"[70, 86, 151, 361]",SLPW.tsv
+it's like,2,152,"[151, 152, 271, 293]",SLPW.tsv
+keep,1,448,"[151, 367, 448]",SLPW.tsv
+look,1,158,"[10, 108, 158, 211, 227, 268, 361, 363, 442, 451]",SLPW.tsv
+a bite,2,158,"[3, 158, 227, 283, 285]",SLPW.tsv
+oh i,2,162,"[25, 70, 162, 179, 232, 344]",SLPW.tsv
+be just,2,162,"[81, 162, 317]",SLPW.tsv
+make,1,162,"[29, 83, 116, 162, 283, 349, 352, 356, 357, 359, 439]",SLPW.tsv
+i be just,3,360,"[162, 360]",SLPW.tsv
+i don't,2,170,"[20, 89, 170, 173, 196, 232, 313, 314, 412, 424, 435]",SLPW.tsv
+be honest,2,170,"[167, 170, 174]",SLPW.tsv
+to be honest,3,173,"[170, 173, 174]",SLPW.tsv
+don't know,2,170,"[150, 170, 275, 410, 412, 419, 435]",SLPW.tsv
+to be,2,283,"[170, 173, 174, 283, 388, 429]",SLPW.tsv
+i'll,1,174,"[59, 174, 434, 480]",SLPW.tsv
+alright,1,174,"[76, 87, 89, 174, 226, 437]",SLPW.tsv
+book be,2,221,"[178, 221]",SLPW.tsv
+be fuck,2,178,"[148, 178, 233, 440]",SLPW.tsv
+three,1,178,"[41, 178, 313, 343, 451]",SLPW.tsv
+quality,1,420,"[178, 420]",SLPW.tsv
+the book,2,178,"[140, 178, 179, 423, 424]",SLPW.tsv
+as well,2,188,"[46, 83, 119, 186, 188, 264, 271, 402, 438]",SLPW.tsv
+that i,2,188,"[59, 95, 116, 118, 161, 188, 190, 322, 326]",SLPW.tsv
+well,1,87,"[46, 59, 87, 95, 106, 119, 128, 186, 188, 264, 271, 275, 312, 402, 415, 438]",SLPW.tsv
+pick,1,188,"[81, 188, 417]",SLPW.tsv
+game,1,188,"[136, 137, 188]",SLPW.tsv
+be that,2,255,"[188, 255, 326, 328]",SLPW.tsv
+book that,2,457,"[188, 457]",SLPW.tsv
+do you,2,208,"[3, 81, 165, 167, 169, 175, 208, 248, 303, 309, 315, 353, 354, 491]",SLPW.tsv
+you be,2,210,"[59, 70, 106, 210, 226, 315, 317, 353, 384, 402, 426, 438, 442, 444, 477]",SLPW.tsv
+i haven't,2,210,"[70, 109, 173, 184, 196, 210, 296]",SLPW.tsv
+be so,2,210,"[116, 210, 327]",SLPW.tsv
+book you be,3,444,"[210, 444]",SLPW.tsv
+be you,2,220,"[57, 130, 157, 220, 221, 356, 359, 373, 399, 431]",SLPW.tsv
+be you steal,3,221,"[220, 221]",SLPW.tsv
+want to,2,237,"[232, 237, 448]",SLPW.tsv
+to do,2,270,"[232, 270, 271]",SLPW.tsv
+of book,2,232,"[126, 232, 428]",SLPW.tsv
+no you,2,234,"[59, 70, 234]",SLPW.tsv
+take,1,234,"[62, 71, 78, 90, 93, 182, 194, 233, 234, 360, 434, 435]",SLPW.tsv
+jumper off,2,234,"[233, 234]",SLPW.tsv
+last,1,236,"[70, 236]",SLPW.tsv
+what about last night,4,237,"[236, 237]",SLPW.tsv
+aye,1,296,"[236, 296, 406]",SLPW.tsv
+night,1,290,"[236, 237, 290, 360, 487, 488]",SLPW.tsv
+come,1,238,"[71, 92, 96, 115, 120, 147, 211, 212, 215, 216, 237, 238, 242, 264, 318, 330, 350, 440, 472, 489]",SLPW.tsv
+and i,2,238,"[92, 173, 187, 194, 211, 238, 340, 372, 376]",SLPW.tsv
+drink because,2,238,"[237, 238]",SLPW.tsv
+come up,2,264,"[238, 242, 264]",SLPW.tsv
+never,1,243,"[110, 122, 177, 182, 235, 243, 251, 300, 344]",SLPW.tsv
+you never,2,243,"[235, 243]",SLPW.tsv
+ask,1,243,"[212, 215, 239, 243]",SLPW.tsv
+have a look,3,363,"[268, 363]",SLPW.tsv
+let,1,490,"[111, 268, 490, 491]",SLPW.tsv
+hippocampus,1,274,"[245, 246, 250, 251, 253, 258, 259, 262, 267, 272, 274, 287, 289, 385]",SLPW.tsv
+do that,2,277,"[57, 59, 118, 277]",SLPW.tsv
+we've,1,388,"[277, 388]",SLPW.tsv
+lobe,1,282,"[279, 281, 282, 283]",SLPW.tsv
+really,1,284,"[6, 10, 198, 229, 284]",SLPW.tsv
+if you,2,286,"[54, 106, 286, 330, 332, 373, 391, 434]",SLPW.tsv
+the brain,2,286,"[273, 282, 286, 289, 383]",SLPW.tsv
+brain,1,273,"[247, 255, 273, 282, 286, 289, 383]",SLPW.tsv
+like a,2,287,"[100, 173, 287, 288, 475]",SLPW.tsv
+the hippocampus,2,289,"[287, 289]",SLPW.tsv
+be on,2,293,"[93, 293]",SLPW.tsv
+innit,1,293,"[147, 293, 304, 366, 405, 455]",SLPW.tsv
+be in,2,293,"[43, 45, 56, 194, 293]",SLPW.tsv
+the think police,3,299,"[297, 299]",SLPW.tsv
+the think,2,299,"[297, 299]",SLPW.tsv
+christian bale,2,305,"[304, 305]",SLPW.tsv
+i start,2,308,"[118, 187, 298, 308]",SLPW.tsv
+start,1,308,"[118, 187, 298, 305, 308, 417]",SLPW.tsv
+minutes,1,313,"[308, 313, 330, 332]",SLPW.tsv
+bore,1,310,"[192, 298, 310]",SLPW.tsv
+it's fuck,2,310,"[194, 310]",SLPW.tsv
+even,1,312,"[10, 312, 444]",SLPW.tsv
+of the,2,312,"[33, 34, 81, 103, 147, 223, 273, 282, 289, 312]",SLPW.tsv
+for the,2,312,"[42, 312]",SLPW.tsv
+wrong,1,312,"[149, 312]",SLPW.tsv
+well it,2,312,"[271, 312]",SLPW.tsv
+film,1,312,"[140, 177, 301, 307, 311, 312, 314, 322, 425]",SLPW.tsv
+be the,2,386,"[312, 386]",SLPW.tsv
+i be like,3,318,"[70, 81, 187, 318]",SLPW.tsv
+come out,2,318,"[147, 318, 330]",SLPW.tsv
+out the,2,360,"[318, 360]",SLPW.tsv
+get it,2,320,"[28, 320, 396, 411]",SLPW.tsv
+it now,2,399,"[320, 399]",SLPW.tsv
+bad,1,326,"[147, 326]",SLPW.tsv
+when the,2,329,"[88, 329]",SLPW.tsv
+the fuck,2,329,"[140, 292, 329, 412, 417]",SLPW.tsv
+break,1,329,"[325, 329]",SLPW.tsv
+when we,2,335,"[328, 335]",SLPW.tsv
+easter egg,2,343,"[342, 343, 344, 348]",SLPW.tsv
+what be,2,344,"[68, 134, 157, 230, 344, 356, 405]",SLPW.tsv
+it will be,3,344,"[70, 81, 344, 397]",SLPW.tsv
+it will,2,344,"[81, 90, 106, 344, 397]",SLPW.tsv
+i use,2,209,"[95, 105, 109, 209, 344, 352]",SLPW.tsv
+eat,1,470,"[344, 470, 490, 491]",SLPW.tsv
+to go,2,475,"[344, 475]",SLPW.tsv
+i remember,2,351,"[25, 182, 351]",SLPW.tsv
+in the,2,351,"[24, 57, 81, 96, 122, 328, 351, 383]",SLPW.tsv
+kitchen,1,351,"[96, 100, 103, 109, 116, 351]",SLPW.tsv
+the kitchen,2,351,"[116, 351]",SLPW.tsv
+be you go,3,356,"[57, 130, 356, 359]",SLPW.tsv
+go to,2,130,"[68, 70, 106, 116, 130, 356, 359, 360, 387, 401, 426, 429, 449, 469, 472, 475, 477]",SLPW.tsv
+you do,2,157,"[118, 157, 315, 356]",SLPW.tsv
+go to cook,3,360,"[359, 360]",SLPW.tsv
+give,1,367,"[61, 332, 367, 369, 373, 402, 449]",SLPW.tsv
+something,1,367,"[152, 159, 161, 261, 270, 271, 306, 367, 383, 387, 453]",SLPW.tsv
+easter,1,367,"[342, 344, 348, 367, 370]",SLPW.tsv
+it to,2,360,"[24, 360, 367, 369, 402]",SLPW.tsv
+present,1,367,"[365, 367, 370, 373]",SLPW.tsv
+give it to,3,369,"[367, 369, 402]",SLPW.tsv
+give it,2,369,"[367, 369, 373, 402]",SLPW.tsv
+i know,2,378,"[116, 378]",SLPW.tsv
+need,1,387,"[28, 387]",SLPW.tsv
+i need,2,387,"[57, 387]",SLPW.tsv
+i go,2,387,"[116, 387]",SLPW.tsv
+hungry,1,387,"[341, 387]",SLPW.tsv
+satisfy,1,388,"[387, 388]",SLPW.tsv
+i've get some,3,390,"[57, 390, 478]",SLPW.tsv
+get some,2,389,"[57, 70, 389, 390, 478]",SLPW.tsv
+i've get,2,390,"[196, 390, 456, 478, 483]",SLPW.tsv
+i tell you,3,491,"[403, 491]",SLPW.tsv
+be it,2,405,"[51, 97, 315, 405]",SLPW.tsv
+what be it,3,405,"[68, 134, 405]",SLPW.tsv
+to have,2,407,"[70, 407]",SLPW.tsv
+every,1,408,"[116, 408]",SLPW.tsv
+five,1,411,"[106, 411, 451, 453]",SLPW.tsv
+first,1,424,"[123, 223, 289, 316, 321, 330, 424, 440, 463, 464]",SLPW.tsv
+read the book,3,424,"[140, 423, 424]",SLPW.tsv
+fuck off,2,452,"[427, 452]",SLPW.tsv
+one,1,429,"[106, 116, 177, 194, 196, 289, 311, 379, 406, 428, 429, 457]",SLPW.tsv
+it off,2,434,"[28, 434]",SLPW.tsv
+take it,2,434,"[78, 93, 434]",SLPW.tsv
+say,1,434,"[2, 16, 21, 24, 32, 47, 78, 149, 184, 205, 248, 250, 251, 434]",SLPW.tsv
+you want,2,330,"[207, 237, 330, 399, 434]",SLPW.tsv
+try,1,439,"[149, 439]",SLPW.tsv
+try to,2,439,"[313, 439]",SLPW.tsv
+stop,1,439,"[348, 439]",SLPW.tsv
+word,1,456,"[147, 149, 456]",SLPW.tsv
+quarter,1,462,"[187, 462]",SLPW.tsv
+i'm go to,3,469,"[68, 360, 469, 472, 475]",SLPW.tsv
+i'm go to have,4,469,"[70, 469]",SLPW.tsv
+cheap,1,473,"[341, 473]",SLPW.tsv
+have you get,3,389,"[67, 389, 471, 476, 482]",SLPW.tsv
+no i've,2,483,"[93, 483]",SLPW.tsv
+fuck all,2,483,"[319, 483]",SLPW.tsv
+good,1,488,"[28, 33, 81, 197, 224, 229, 300, 316, 353, 373, 425, 488]",SLPW.tsv
+can't let,2,491,"[490, 491]",SLPW.tsv
+eat noodles,2,491,"[490, 491]",SLPW.tsv
+can't,1,490,"[137, 266, 361, 465, 490, 491]",SLPW.tsv
+have a,2,410,"[268, 363, 410, 421, 492]",SLPW.tsv
+it be like,3,21,"[0, 21, 191, 293]",SLPW.tsv
+can you,2,435,"[0, 435]",SLPW.tsv
+get so,2,111,"[9, 111]",SLPW.tsv
+get so much,3,119,"[9, 119]",SLPW.tsv
+so much,2,122,"[9, 122]",SLPW.tsv
+he's get,2,430,"[9, 430]",SLPW.tsv
+i find,2,85,"[15, 85]",SLPW.tsv
+funny,1,198,"[15, 198]",SLPW.tsv
+do he,2,171,"[17, 171, 430]",SLPW.tsv
+wonder why,2,49,"[23, 49]",SLPW.tsv
+yeah it's a,3,425,"[39, 425]",SLPW.tsv
+that's not,2,62,"[60, 62]",SLPW.tsv
+very nice,2,379,"[60, 379]",SLPW.tsv
+someone,1,71,"[69, 71, 435]",SLPW.tsv
+bertolli,1,73,"[71, 73, 484]",SLPW.tsv
+think oh,2,111,"[79, 111]",SLPW.tsv
+pan,1,122,"[102, 122]",SLPW.tsv
+i've read,2,198,"[129, 198, 445]",SLPW.tsv
+ooh,1,135,"[78, 135, 476, 479]",SLPW.tsv
+look at,2,158,"[108, 158, 451]",SLPW.tsv
+to the,2,164,"[49, 164]",SLPW.tsv
+i don't know,3,412,"[170, 412, 435]",SLPW.tsv
+number,1,178,"[47, 178, 391]",SLPW.tsv
+well that's,2,188,"[87, 188]",SLPW.tsv
+long,1,372,"[188, 372]",SLPW.tsv
+pick up,2,417,"[188, 417]",SLPW.tsv
+quid,1,204,"[40, 204, 405, 453]",SLPW.tsv
+a quid,2,204,"[202, 204]",SLPW.tsv
+call,1,417,"[220, 222, 417]",SLPW.tsv
+series,1,232,"[223, 232]",SLPW.tsv
+you take,2,435,"[234, 435]",SLPW.tsv
+i didn't,2,238,"[104, 238, 320]",SLPW.tsv
+come up here,3,242,"[238, 242]",SLPW.tsv
+you a,2,376,"[238, 376, 402]",SLPW.tsv
+let me,2,268,"[111, 268]",SLPW.tsv
+in it,2,410,"[268, 410]",SLPW.tsv
+be like be,3,402,"[293, 402]",SLPW.tsv
+like be,2,402,"[293, 402]",SLPW.tsv
+i only,2,322,"[308, 322, 443]",SLPW.tsv
+i come,2,318,"[71, 92, 96, 318, 440]",SLPW.tsv
+out i,2,318,"[96, 318]",SLPW.tsv
+so what,2,318,"[223, 318]",SLPW.tsv
+it i,2,320,"[29, 184, 320, 352]",SLPW.tsv
+thing,1,326,"[45, 89, 326, 332, 407]",SLPW.tsv
+django,1,324,"[323, 324, 326]",SLPW.tsv
+yeah it be,3,329,"[21, 329]",SLPW.tsv
+yeah it,2,329,"[21, 329]",SLPW.tsv
+we be,2,333,"[43, 333]",SLPW.tsv
+boys,1,335,"[334, 335, 383]",SLPW.tsv
+when they,2,342,"[45, 342]",SLPW.tsv
+use fuck,2,342,"[104, 342]",SLPW.tsv
+and like,2,344,"[47, 344]",SLPW.tsv
+i use to,3,344,"[209, 344]",SLPW.tsv
+be they,2,230,"[218, 230, 344]",SLPW.tsv
+an easter,2,370,"[344, 370]",SLPW.tsv
+sister,1,379,"[344, 379, 417]",SLPW.tsv
+round,1,406,"[344, 406]",SLPW.tsv
+you go,2,57,"[27, 57, 356, 359]",SLPW.tsv
+be you go to,4,356,"[130, 356, 359]",SLPW.tsv
+what be you do,4,356,"[157, 356]",SLPW.tsv
+make it,2,359,"[29, 83, 359]",SLPW.tsv
+cook,1,359,"[96, 359, 360]",SLPW.tsv
+you actually,2,359,"[122, 359]",SLPW.tsv
+to cook,2,359,"[122, 359, 360]",SLPW.tsv
+it for,2,367,"[352, 367, 405]",SLPW.tsv
+christmas,1,371,"[338, 349, 371, 372]",SLPW.tsv
+sub,1,400,"[391, 400]",SLPW.tsv
+tell,1,403,"[184, 403, 442, 491]",SLPW.tsv
+monday,1,404,"[403, 404]",SLPW.tsv
+for a quid,3,405,"[202, 405]",SLPW.tsv
+twenty,1,451,"[411, 451, 453]",SLPW.tsv
+probably be,2,413,"[78, 413]",SLPW.tsv
+nokia,1,416,"[415, 416]",SLPW.tsv
+but i don't,3,424,"[89, 424]",SLPW.tsv
+read the,2,423,"[223, 423, 424]",SLPW.tsv
+yeah that's,2,429,"[383, 429]",SLPW.tsv
+i say,2,434,"[184, 434]",SLPW.tsv
+to you,2,434,"[276, 402, 434]",SLPW.tsv
+get a,2,456,"[96, 225, 314, 375, 391, 415, 456]",SLPW.tsv
+i'm go,2,355,"[68, 70, 114, 355, 360, 469, 472, 475]",SLPW.tsv
+fuck it,2,469,"[412, 469]",SLPW.tsv
+no cheese,2,481,"[476, 481]",SLPW.tsv
+can't you,2,490,"[361, 465, 490]",SLPW.tsv
+i can,2,492,"[111, 122, 492]",SLPW.tsv
+what happen,2,80,"[0, 80, 318]",SLPW.tsv
+i actually,2,177,"[0, 177]",SLPW.tsv
+somewhere,1,332,"[35, 332]",SLPW.tsv
+i watch,2,322,"[37, 322]",SLPW.tsv
+in though,2,350,"[39, 350]",SLPW.tsv
+isn't it,2,364,"[39, 364]",SLPW.tsv
+use that,2,109,"[102, 109]",SLPW.tsv
+stick,1,124,"[123, 124]",SLPW.tsv
+the hunger game,3,137,"[135, 137]",SLPW.tsv
+i lend it you,4,146,"[145, 146]",SLPW.tsv
+bite,1,158,"[8, 158, 285]",SLPW.tsv
+they look a bite,4,227,"[158, 227]",SLPW.tsv
+oh fuck,2,160,"[36, 160, 393]",SLPW.tsv
+oh no,2,185,"[183, 185]",SLPW.tsv
+you read,2,431,"[208, 210, 431]",SLPW.tsv
+that's call theft,3,222,"[220, 222]",SLPW.tsv
+because i be,3,238,"[92, 238]",SLPW.tsv
+if i,2,238,"[197, 238, 322]",SLPW.tsv
+a drink,2,392,"[238, 392]",SLPW.tsv
+frontal,1,281,"[276, 281]",SLPW.tsv
+frontal lobe,2,283,"[281, 283]",SLPW.tsv
+in and,2,332,"[308, 332]",SLPW.tsv
+feel,1,326,"[260, 326]",SLPW.tsv
+django be,2,326,"[324, 326]",SLPW.tsv
+cold,1,327,"[326, 327]",SLPW.tsv
+heat,1,332,"[329, 332]",SLPW.tsv
+open,1,336,"[335, 336]",SLPW.tsv
+why haven't you open it,5,337,"[336, 337]",SLPW.tsv
+be like fuck,3,344,"[191, 344]",SLPW.tsv
+what be they,3,344,"[230, 344]",SLPW.tsv
+like fuck,2,344,"[330, 344]",SLPW.tsv
+his for,2,367,"[92, 367]",SLPW.tsv
+or something,2,367,"[306, 367]",SLPW.tsv
+fuck that,2,393,"[191, 393]",SLPW.tsv
+deliver,1,401,"[393, 401]",SLPW.tsv
+that so,2,407,"[191, 407]",SLPW.tsv
+second,1,455,"[429, 455]",SLPW.tsv
+now if,2,434,"[197, 434]",SLPW.tsv
+if you want,3,434,"[330, 434]",SLPW.tsv
+bless you,2,459,"[458, 459]",SLPW.tsv
+cheese,1,478,"[476, 478, 481]",SLPW.tsv
+the show,2,11,"[10, 11, 28, 29]",SLPW.tsv
+mm i,2,122,"[10, 122]",SLPW.tsv
+it on,2,132,"[10, 97, 132, 396, 465]",SLPW.tsv
+anything,1,115,"[14, 115, 235, 354, 362]",SLPW.tsv
+he doesn't,2,171,"[14, 171]",SLPW.tsv
+he doesn't do,3,430,"[14, 430]",SLPW.tsv
+yeah i,2,25,"[24, 25, 116, 118, 189, 192, 196, 307, 313, 412]",SLPW.tsv
+like the show,3,28,"[11, 28]",SLPW.tsv
+would be,2,29,"[28, 29, 189, 197]",SLPW.tsv
+he be a,3,32,"[28, 32]",SLPW.tsv
+would,1,38,"[28, 29, 38, 109, 159, 189, 192, 197, 419, 461]",SLPW.tsv
+be a,2,71,"[28, 32, 71, 197, 226, 282, 315, 321, 366, 372, 379, 453]",SLPW.tsv
+like the,2,96,"[28, 96, 177, 195]",SLPW.tsv
+without him,2,30,"[29, 30]",SLPW.tsv
+do it,2,195,"[30, 118, 195, 266, 269, 271, 421]",SLPW.tsv
+what he,2,171,"[33, 171]",SLPW.tsv
+way,1,372,"[33, 187, 372, 379, 396]",SLPW.tsv
+disgust,1,42,"[32, 42]",SLPW.tsv
+they get,2,42,"[40, 42]",SLPW.tsv
+they go,2,43,"[42, 43]",SLPW.tsv
+they get the,3,47,"[42, 47]",SLPW.tsv
+of it,2,96,"[42, 59, 66, 96, 313, 461]",SLPW.tsv
+just for,2,180,"[42, 180]",SLPW.tsv
+i think i,3,57,"[29, 57, 202, 295]",SLPW.tsv
+upstairs,1,96,"[57, 96, 435]",SLPW.tsv
+might,1,252,"[57, 114, 252, 261]",SLPW.tsv
+i will,2,132,"[59, 132, 179, 223]",SLPW.tsv
+else,1,111,"[61, 111, 261, 332]",SLPW.tsv
+he's a,2,64,"[11, 64]",SLPW.tsv
+the other,2,68,"[45, 68]",SLPW.tsv
+the other day,3,96,"[68, 96, 343, 441]",SLPW.tsv
+day,1,182,"[68, 182, 228, 343, 441]",SLPW.tsv
+out of,2,70,"[49, 70, 81]",SLPW.tsv
+of my,2,71,"[70, 71, 311]",SLPW.tsv
+about it,2,184,"[70, 184]",SLPW.tsv
+so i'm,2,225,"[70, 225]",SLPW.tsv
+fine,1,272,"[70, 81, 272]",SLPW.tsv
+mate and,2,372,"[70, 372]",SLPW.tsv
+it mate,2,406,"[70, 406]",SLPW.tsv
+no don't,2,419,"[70, 419]",SLPW.tsv
+to get,2,114,"[70, 114, 116, 313, 435, 461]",SLPW.tsv
+there's,1,85,"[72, 85, 101, 103, 122, 205, 295, 345, 406, 484]",SLPW.tsv
+it in the,3,81,"[24, 81]",SLPW.tsv
+it up,2,81,"[24, 81]",SLPW.tsv
+it in,2,81,"[43, 81, 149]",SLPW.tsv
+in like,2,100,"[81, 100]",SLPW.tsv
+sit,1,111,"[81, 111, 205]",SLPW.tsv
+like do,2,171,"[81, 171]",SLPW.tsv
+reckon,1,190,"[81, 190]",SLPW.tsv
+it up and,3,352,"[81, 352]",SLPW.tsv
+be this,2,379,"[81, 379]",SLPW.tsv
+have be rinse,3,84,"[83, 84]",SLPW.tsv
+wash powder,2,86,"[83, 86, 88]",SLPW.tsv
+put it,2,88,"[78, 80, 88, 132]",SLPW.tsv
+it out,2,88,"[78, 88, 90]",SLPW.tsv
+so i,2,111,"[88, 111, 191]",SLPW.tsv
+put,1,122,"[78, 88, 122, 132, 191, 443]",SLPW.tsv
+buy,1,130,"[88, 116, 130, 177, 179, 196, 223, 228, 336, 340, 343, 354, 377, 392]",SLPW.tsv
+i buy,2,336,"[88, 116, 336, 340, 343, 354]",SLPW.tsv
+stuff,1,90,"[62, 90, 120, 149, 340, 386, 467]",SLPW.tsv
+yeah but,2,90,"[89, 90, 323]",SLPW.tsv
+you've get,2,126,"[90, 126, 330, 374, 392, 428]",SLPW.tsv
+cos,1,93,"[24, 93, 119, 197]",SLPW.tsv
+use it,2,93,"[76, 80, 93, 95, 105, 149, 352, 417]",SLPW.tsv
+the sink,2,93,"[91, 92, 93]",SLPW.tsv
+underneath,1,207,"[93, 207]",SLPW.tsv
+i use it,3,105,"[95, 105, 352]",SLPW.tsv
+there's a,2,101,"[85, 101, 103, 205, 295]",SLPW.tsv
+kitchen roll,2,103,"[96, 100, 103, 109, 116]",SLPW.tsv
+roll,1,103,"[96, 103, 104, 109, 116]",SLPW.tsv
+things,1,106,"[32, 106, 116, 275, 372]",SLPW.tsv
+six,1,106,"[96, 106]",SLPW.tsv
+the same,2,223,"[106, 223]",SLPW.tsv
+to use,2,417,"[106, 417]",SLPW.tsv
+job,1,435,"[106, 435]",SLPW.tsv
+be go to,3,401,"[106, 116, 401, 449, 477]",SLPW.tsv
+fuck quiet,2,110,"[108, 110]",SLPW.tsv
+quiet,1,111,"[110, 111]",SLPW.tsv
+rinse,1,116,"[83, 116]",SLPW.tsv
+when i,2,116,"[85, 116, 187, 349]",SLPW.tsv
+it be go,3,116,"[96, 116]",SLPW.tsv
+ago,1,118,"[21, 118, 348]",SLPW.tsv
+i do,2,223,"[118, 211, 223, 235, 441]",SLPW.tsv
+months,1,376,"[118, 376]",SLPW.tsv
+idiot,1,147,"[76, 83, 147]",SLPW.tsv
+he's so,2,147,"[108, 147]",SLPW.tsv
+he he's,2,430,"[147, 430]",SLPW.tsv
+some of,2,219,"[147, 219, 451]",SLPW.tsv
+say it,2,149,"[21, 24, 149, 248]",SLPW.tsv
+in a,2,149,"[38, 149, 379]",SLPW.tsv
+mum,1,223,"[149, 223, 369, 410]",SLPW.tsv
+and use,2,352,"[149, 352]",SLPW.tsv
+already,1,152,"[144, 152]",SLPW.tsv
+what's,1,213,"[156, 213, 394, 410, 414]",SLPW.tsv
+that's why,2,159,"[108, 159]",SLPW.tsv
+be something,2,261,"[159, 161, 261, 270, 271]",SLPW.tsv
+i have,2,349,"[161, 194, 349]",SLPW.tsv
+you don't,2,410,"[163, 373, 410]",SLPW.tsv
+do you google it,4,167,"[165, 167]",SLPW.tsv
+harry potter,2,175,"[173, 175, 176]",SLPW.tsv
+i haven't read,3,184,"[173, 184, 196, 296]",SLPW.tsv
+read that,2,198,"[173, 198, 296]",SLPW.tsv
+two of them,3,441,"[173, 441]",SLPW.tsv
+of them,2,177,"[173, 177, 219, 441, 443]",SLPW.tsv
+i get,2,187,"[96, 187, 202, 300, 376, 410, 453]",SLPW.tsv
+goblet of fire,3,187,"[182, 187]",SLPW.tsv
+i reckon that,3,192,"[190, 192]",SLPW.tsv
+at the,2,194,"[34, 194, 428]",SLPW.tsv
+i'm read,2,194,"[140, 194]",SLPW.tsv
+biographies,1,195,"[194, 195]",SLPW.tsv
+history,1,451,"[194, 451]",SLPW.tsv
+yeah i don't,3,412,"[196, 412]",SLPW.tsv
+come from,2,215,"[211, 215, 216]",SLPW.tsv
+i like,2,224,"[11, 177, 195, 224, 295]",SLPW.tsv
+me and rum,3,224,"[223, 224]",SLPW.tsv
+rum,1,224,"[223, 224]",SLPW.tsv
+me and,2,224,"[223, 224, 477]",SLPW.tsv
+that's alright,2,226,"[76, 87, 89, 226]",SLPW.tsv
+book for,2,453,"[228, 453]",SLPW.tsv
+hot,1,357,"[233, 357]",SLPW.tsv
+off mate,2,372,"[233, 372, 452]",SLPW.tsv
+i do be,3,235,"[223, 235]",SLPW.tsv
+right,1,290,"[239, 290, 379]",SLPW.tsv
+it might,2,261,"[252, 261]",SLPW.tsv
+get you,2,376,"[254, 376]",SLPW.tsv
+up in,2,264,"[96, 264]",SLPW.tsv
+it do,2,271,"[266, 269, 271]",SLPW.tsv
+just don't,2,275,"[24, 275]",SLPW.tsv
+the first,2,289,"[223, 289, 316, 321, 330, 440]",SLPW.tsv
+us,1,292,"[184, 292, 417, 433]",SLPW.tsv
+what do,2,303,"[266, 269, 303, 491]",SLPW.tsv
+not like,2,309,"[115, 309]",SLPW.tsv
+and then,2,313,"[24, 49, 223, 313, 330, 332, 417, 421]",SLPW.tsv
+it and she,3,417,"[313, 417]",SLPW.tsv
+it and,2,417,"[313, 417]",SLPW.tsv
+you be like,3,402,"[317, 402]",SLPW.tsv
+half,1,300,"[71, 96, 100, 104, 109, 300, 316, 321]",SLPW.tsv
+and half,2,321,"[96, 321]",SLPW.tsv
+time,1,430,"[321, 430]",SLPW.tsv
+hear,1,328,"[111, 328]",SLPW.tsv
+room,1,381,"[328, 381, 440]",SLPW.tsv
+no rush,2,346,"[345, 346]",SLPW.tsv
+let's,1,363,"[111, 363]",SLPW.tsv
+oh that's,2,365,"[76, 99, 365]",SLPW.tsv
+a nice,2,365,"[205, 364, 365, 366]",SLPW.tsv
+expect,1,373,"[372, 373]",SLPW.tsv
+it's a good,3,425,"[373, 425]",SLPW.tsv
+and they,2,377,"[43, 377]",SLPW.tsv
+comberflaged,1,383,"[382, 383]",SLPW.tsv
+be up,2,388,"[34, 388]",SLPW.tsv
+back,1,396,"[71, 92, 96, 115, 332, 396]",SLPW.tsv
+can get,2,396,"[391, 396]",SLPW.tsv
+it's not,2,418,"[115, 418]",SLPW.tsv
+get the,2,423,"[47, 423]",SLPW.tsv
+of us,2,433,"[417, 433]",SLPW.tsv
+course,1,433,"[430, 433, 493]",SLPW.tsv
+read them,2,444,"[182, 444, 445, 446]",SLPW.tsv
+sell them,2,444,"[440, 441, 444, 455]",SLPW.tsv
+sell,1,444,"[440, 441, 442, 444, 455, 465, 480]",SLPW.tsv
+it would,2,461,"[29, 197, 461]",SLPW.tsv
+bother,1,461,"[374, 461]",SLPW.tsv
+have get,2,461,"[415, 461]",SLPW.tsv
+be have,2,461,"[438, 461]",SLPW.tsv
+year,1,455,"[21, 455, 463, 464, 465]",SLPW.tsv
+go down,2,475,"[96, 475]",SLPW.tsv
+and you be,3,477,"[402, 442, 477]",SLPW.tsv
+you can,2,493,"[332, 391, 465, 493]",SLPW.tsv
+be good though,3,300,"[28, 300]",SLPW.tsv
+be good,2,316,"[28, 316, 353]",SLPW.tsv
+though like,2,421,"[28, 421]",SLPW.tsv
+yeah they,2,474,"[30, 474]",SLPW.tsv
+i might,2,114,"[57, 114]",SLPW.tsv
+be not,2,474,"[59, 426, 444, 474]",SLPW.tsv
+give you,2,332,"[61, 332]",SLPW.tsv
+be like oh,3,332,"[70, 332]",SLPW.tsv
+little,1,81,"[8, 81]",SLPW.tsv
+people,1,283,"[81, 101, 103, 283, 350, 421, 487]",SLPW.tsv
+finish,1,300,"[81, 300]",SLPW.tsv
+and he be,3,440,"[81, 440]",SLPW.tsv
+wash,1,92,"[83, 86, 88, 92]",SLPW.tsv
+buy some,2,179,"[88, 179]",SLPW.tsv
+because it,2,283,"[90, 106, 283]",SLPW.tsv
+like that,2,362,"[90, 224, 362]",SLPW.tsv
+like if you,3,330,"[106, 330]",SLPW.tsv
+one of,2,177,"[116, 177, 289, 311]",SLPW.tsv
+that would,2,197,"[159, 192, 197]",SLPW.tsv
+a few,2,173,"[114, 173]",SLPW.tsv
+many,1,442,"[173, 442]",SLPW.tsv
+that would be,3,197,"[189, 197]",SLPW.tsv
+deep,1,227,"[189, 227]",SLPW.tsv
+read one,2,194,"[177, 194]",SLPW.tsv
+oh yeah,2,332,"[196, 332]",SLPW.tsv
+yet,1,336,"[196, 296, 336]",SLPW.tsv
+whose,1,221,"[199, 221]",SLPW.tsv
+do i,2,266,"[235, 266]",SLPW.tsv
+oh you,2,327,"[235, 327, 353]",SLPW.tsv
+to come,2,330,"[237, 330, 472]",SLPW.tsv
+a fuck drink,3,401,"[237, 401]",SLPW.tsv
+yeah you,2,368,"[248, 368]",SLPW.tsv
+say hippocampus,2,251,"[250, 251]",SLPW.tsv
+psychology,1,276,"[265, 276]",SLPW.tsv
+with the,2,271,"[137, 271]",SLPW.tsv
+it be something to do with,6,271,"[270, 271]",SLPW.tsv
+memory,1,289,"[270, 289, 290, 386]",SLPW.tsv
+damage,1,289,"[283, 289]",SLPW.tsv
+the film,2,301,"[177, 301]",SLPW.tsv
+like it,2,309,"[295, 309]",SLPW.tsv
+get to,2,330,"[313, 330, 388, 392]",SLPW.tsv
+oblivion be,2,316,"[315, 316]",SLPW.tsv
+we go,2,332,"[315, 332]",SLPW.tsv
+be like oh yeah,4,332,"[317, 332]",SLPW.tsv
+yeah the,2,332,"[321, 332]",SLPW.tsv
+next,1,328,"[276, 328, 465]",SLPW.tsv
+why be,2,373,"[94, 373]",SLPW.tsv
+a good,2,373,"[197, 373, 425]",SLPW.tsv
+be these,2,386,"[199, 386]",SLPW.tsv
+so you,2,426,"[332, 426, 444]",SLPW.tsv
+it it,2,461,"[300, 461]",SLPW.tsv
+from first year,3,464,"[463, 464]",SLPW.tsv
+i can't,2,491,"[137, 266, 491]",SLPW.tsv
+i like the,3,177,"[11, 177, 195]",SLPW.tsv
+it didn't,2,80,"[21, 80]",SLPW.tsv
+it would be,3,197,"[29, 197]",SLPW.tsv
+away,1,80,"[32, 78, 80, 114, 419, 449]",SLPW.tsv
+get away with,3,114,"[32, 114]",SLPW.tsv
+million,1,41,"[40, 41]",SLPW.tsv
+through it,2,300,"[43, 300, 355]",SLPW.tsv
+that's the,2,440,"[45, 89, 440]",SLPW.tsv
+nineteen eighty,2,295,"[47, 295]",SLPW.tsv
+reference,1,295,"[49, 295]",SLPW.tsv
+i come back,3,92,"[71, 92, 96]",SLPW.tsv
+use half,2,109,"[71, 109]",SLPW.tsv
+half of,2,316,"[71, 96, 316]",SLPW.tsv
+put it away,3,80,"[78, 80]",SLPW.tsv
+whoever use,2,80,"[78, 80]",SLPW.tsv
+you know what it,4,327,"[78, 327]",SLPW.tsv
+the thing,2,332,"[89, 332]",SLPW.tsv
+under the sink,3,92,"[91, 92]",SLPW.tsv
+use half a,3,109,"[100, 109]",SLPW.tsv
+half a,2,109,"[104, 109]",SLPW.tsv
+come back,2,115,"[92, 115]",SLPW.tsv
+fat,1,122,"[117, 122]",SLPW.tsv
+sausages,1,122,"[120, 122]",SLPW.tsv
+exactly,1,128,"[120, 128, 347]",SLPW.tsv
+man,1,474,"[128, 474]",SLPW.tsv
+to buy,2,392,"[130, 392]",SLPW.tsv
+otherwise,1,132,"[123, 132]",SLPW.tsv
+know what it,3,327,"[150, 327]",SLPW.tsv
+know what,2,327,"[171, 327, 412]",SLPW.tsv
+never read,2,182,"[177, 182]",SLPW.tsv
+i never,2,251,"[182, 251]",SLPW.tsv
+to a,2,401,"[182, 391, 401]",SLPW.tsv
+some book,2,207,"[179, 207]",SLPW.tsv
+i will buy,3,223,"[179, 223]",SLPW.tsv
+buy the,2,223,"[179, 223]",SLPW.tsv
+that part of your brain,5,255,"[247, 255]",SLPW.tsv
+might be,2,261,"[114, 261]",SLPW.tsv
+what do it do,4,269,"[266, 269]",SLPW.tsv
+it but,2,300,"[298, 300]",SLPW.tsv
+four,1,343,"[177, 295, 343]",SLPW.tsv
+when have,2,362,"[357, 362]",SLPW.tsv
+look how,2,442,"[361, 442]",SLPW.tsv
+a nice set,3,366,"[364, 366]",SLPW.tsv
+set,1,372,"[364, 372]",SLPW.tsv
+a very,2,379,"[295, 379]",SLPW.tsv
+free,1,391,"[276, 391, 402, 430]",SLPW.tsv
+home,1,410,"[217, 410]",SLPW.tsv
+go away,2,419,"[114, 419]",SLPW.tsv
+get load of,3,430,"[126, 430]",SLPW.tsv
+likely to,2,435,"[283, 435]",SLPW.tsv
+sell two,2,442,"[441, 442]",SLPW.tsv
+thank you,2,460,"[290, 460]",SLPW.tsv
+super,1,474,"[471, 474]",SLPW.tsv

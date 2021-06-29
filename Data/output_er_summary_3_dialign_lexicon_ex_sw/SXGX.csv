@@ -1,0 +1,612 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+seven two five,3,2,"[0, 2, 21]",SXGX.tsv
+five,1,6,"[0, 2, 5, 6, 14, 15, 21, 183, 199, 289]",SXGX.tsv
+two,1,8,"[0, 2, 7, 8, 21, 42, 151, 184, 235, 272, 336, 338, 411, 440, 485]",SXGX.tsv
+seven,1,18,"[0, 18, 21, 239]",SXGX.tsv
+the house,2,24,"[0, 24, 104, 121, 262]",SXGX.tsv
+i've,1,22,"[0, 22, 24, 124, 199, 386, 392]",SXGX.tsv
+cos,1,24,"[0, 24, 33, 54, 75, 141, 162, 289, 292, 317, 386]",SXGX.tsv
+be that,2,26,"[0, 26, 69, 95, 97, 248, 397, 412]",SXGX.tsv
+house,1,28,"[0, 24, 28, 33, 72, 74, 94, 97, 104, 107, 121, 183, 190, 235, 253, 262, 270, 277, 284, 292, 303, 308, 323, 327, 330, 334, 340, 342, 380, 386, 404, 434, 455, 507]",SXGX.tsv
+good,1,33,"[0, 33, 97, 139, 160, 204, 314, 409, 444, 528, 546]",SXGX.tsv
+look,1,60,"[0, 60, 66, 74, 164, 228, 268, 292, 303, 319, 386, 388, 392, 447, 460, 466, 467, 509]",SXGX.tsv
+and it,2,79,"[0, 79, 91, 321, 411]",SXGX.tsv
+know,1,87,"[0, 49, 61, 68, 82, 87, 91, 99, 104, 111, 115, 141, 143, 183, 184, 189, 192, 221, 244, 262, 289, 294, 295, 348, 350, 378, 379, 389, 462, 471, 495, 509, 514, 516, 517, 518]",SXGX.tsv
+can't,1,57,"[0, 57, 130, 344, 507]",SXGX.tsv
+cos it's,2,162,"[0, 162, 386]",SXGX.tsv
+look at,2,292,"[0, 228, 292, 392, 467, 509]",SXGX.tsv
+to this,2,308,"[0, 308, 342]",SXGX.tsv
+even,1,348,"[0, 82, 348]",SXGX.tsv
+i don't,2,373,"[0, 68, 115, 165, 373, 386, 451, 460, 477, 484, 485, 514]",SXGX.tsv
+don't know,2,389,"[0, 82, 115, 389, 509, 514]",SXGX.tsv
+excellent,1,140,"[1, 140]",SXGX.tsv
+like,1,18,"[3, 18, 33, 60, 85, 104, 107, 127, 141, 143, 153, 157, 183, 192, 193, 196, 220, 280, 303, 314, 350, 362, 363, 373, 378, 386, 434, 451, 460, 485, 493, 507, 546]",SXGX.tsv
+beautiful and,2,79,"[3, 79]",SXGX.tsv
+set,1,107,"[3, 107, 434]",SXGX.tsv
+in a,2,197,"[3, 42, 197, 228, 253, 358, 434, 474, 546]",SXGX.tsv
+location,1,314,"[3, 68, 228, 313, 314, 444, 445, 446, 474]",SXGX.tsv
+don't like,2,373,"[3, 373, 451]",SXGX.tsv
+five reception room,3,6,"[5, 6, 14, 15]",SXGX.tsv
+room,1,56,"[5, 6, 14, 15, 56, 106, 203, 467, 468, 470, 472, 473, 476, 493]",SXGX.tsv
+three,1,183,"[5, 178, 183, 199, 237, 413]",SXGX.tsv
+four,1,166,"[5, 166, 173, 199, 251, 252]",SXGX.tsv
+need,1,7,"[6, 7, 87, 102, 149, 231, 253, 275, 322, 340, 423]",SXGX.tsv
+two for the piano,4,8,"[7, 8]",SXGX.tsv
+well,1,28,"[7, 28, 46, 68, 107, 114, 160, 166, 169, 173, 200, 224, 282, 292, 314, 342, 351, 362, 377, 378, 389, 426, 434, 493, 496, 514, 528]",SXGX.tsv
+that's,1,31,"[7, 27, 29, 31, 33, 36, 67, 79, 86, 100, 110, 160, 162, 163, 179, 180, 239, 261, 262, 275, 317, 332, 344, 345, 347, 358, 363, 380, 409, 420, 499, 507, 514, 546]",SXGX.tsv
+the piano,2,37,"[7, 34, 37, 106, 179, 199, 547]",SXGX.tsv
+piano,1,30,"[7, 8, 30, 34, 37, 38, 48, 56, 106, 164, 166, 172, 179, 199, 547]",SXGX.tsv
+away,1,48,"[7, 48, 404]",SXGX.tsv
+for the,2,120,"[7, 8, 34, 120, 174, 179, 183, 205, 323, 547]",SXGX.tsv
+for the piano,3,179,"[7, 8, 34, 179, 199, 547]",SXGX.tsv
+far,1,292,"[7, 292, 307, 421]",SXGX.tsv
+love,1,95,"[10, 95, 234]",SXGX.tsv
+on a,2,304,"[10, 40, 304, 310, 348, 364, 392]",SXGX.tsv
+south,1,421,"[12, 286, 420, 421, 422]",SXGX.tsv
+five reception room it's,4,15,"[14, 15]",SXGX.tsv
+a bite,2,24,"[15, 21, 24, 61, 217, 280, 386, 420, 462, 470, 485]",SXGX.tsv
+it's probably,2,33,"[15, 33, 72]",SXGX.tsv
+probably,1,162,"[15, 72, 135, 162, 262, 314]",SXGX.tsv
+bite,1,462,"[15, 21, 61, 280, 420, 461, 462, 470, 482, 485]",SXGX.tsv
+don't want,2,24,"[17, 24, 83, 253, 292, 350, 448]",SXGX.tsv
+get,1,48,"[17, 48, 89, 123, 141, 151, 153, 166, 172, 188, 199, 204, 264, 266, 267, 282, 321, 340, 402, 404, 414, 452, 469, 519, 521, 544]",SXGX.tsv
+go,1,56,"[17, 19, 21, 56, 75, 121, 184, 210, 255, 289, 321, 470, 494, 502]",SXGX.tsv
+want,1,69,"[17, 24, 69, 81, 89, 184, 189, 195, 350, 448, 479, 541]",SXGX.tsv
+not go to,3,75,"[17, 75]",SXGX.tsv
+things,1,75,"[17, 75, 330]",SXGX.tsv
+go to,2,75,"[17, 75, 184, 210, 494]",SXGX.tsv
+to get,2,89,"[17, 89, 151, 267, 321, 340]",SXGX.tsv
+i'm,1,164,"[17, 164, 166, 176, 180, 182, 238, 239, 247, 303, 326, 344, 390, 514, 541]",SXGX.tsv
+you go,2,210,"[19, 210]",SXGX.tsv
+if you,2,28,"[21, 28, 85, 190, 256, 515]",SXGX.tsv
+maybe,1,37,"[21, 37, 180, 442, 505, 507]",SXGX.tsv
+you could,2,56,"[21, 56, 244, 247, 389, 487, 507, 509]",SXGX.tsv
+that you,2,77,"[21, 77, 97, 344, 350, 534]",SXGX.tsv
+could,1,91,"[21, 91, 104, 244, 247, 262, 270, 282, 389, 487, 507, 509, 537]",SXGX.tsv
+come,1,136,"[21, 38, 136, 151, 158, 159, 342, 386, 471, 476, 496]",SXGX.tsv
+would,1,183,"[21, 106, 123, 183, 203, 217, 240, 241, 255, 327, 361, 368, 384, 423, 429, 490, 527, 534]",SXGX.tsv
+that you could,3,244,"[21, 244, 389]",SXGX.tsv
+say,1,247,"[21, 141, 147, 153, 247, 321, 325, 344, 434, 436, 470, 546]",SXGX.tsv
+fifty,1,164,"[21, 164, 185, 186, 250, 427, 428, 429, 443]",SXGX.tsv
+be the,2,107,"[23, 107, 183, 200, 242, 332, 520]",SXGX.tsv
+the idea,2,107,"[23, 107]",SXGX.tsv
+yeah,1,27,"[18, 27, 29, 32, 46, 51, 56, 70, 78, 88, 89, 107, 115, 117, 126, 128, 135, 138, 142, 161, 170, 181, 184, 196, 208, 221, 223, 244, 247, 255, 267, 292, 302, 308, 335, 343, 349, 352, 355, 359, 364, 380, 386, 413, 415, 424, 431, 437, 445, 470, 474, 483, 486, 488, 513, 514, 516, 531, 534, 538, 544]",SXGX.tsv
+decision,1,27,"[26, 27]",SXGX.tsv
+right,1,387,"[27, 29, 76, 86, 100, 157, 163, 347, 387, 474, 487]",SXGX.tsv
+it's a,2,34,"[24, 34, 61, 72, 74, 276, 280, 386, 439]",SXGX.tsv
+no no,2,34,"[33, 34, 84, 139]",SXGX.tsv
+to the,2,75,"[34, 36, 75, 104, 373, 448, 476, 494]",SXGX.tsv
+kitchen,1,77,"[34, 77, 89, 211, 502]",SXGX.tsv
+one,1,52,"[36, 38, 52, 65, 77, 85, 128, 197, 212, 214, 220, 228, 247, 330, 334, 359, 472, 474, 485, 528]",SXGX.tsv
+garden and,2,111,"[36, 111]",SXGX.tsv
+and then,2,197,"[36, 106, 151, 166, 197, 204, 205, 436]",SXGX.tsv
+the grand piano,3,56,"[38, 56]",SXGX.tsv
+the the,2,205,"[38, 123, 205, 212, 461]",SXGX.tsv
+be one,2,330,"[38, 330]",SXGX.tsv
+there be,2,415,"[38, 415, 520]",SXGX.tsv
+little,1,44,"[40, 42, 44, 48, 51, 56, 218, 220, 222, 348, 367, 368, 370, 395, 402, 461, 462, 517]",SXGX.tsv
+on a little,3,348,"[40, 348]",SXGX.tsv
+a little,2,367,"[40, 51, 367, 370, 461, 462]",SXGX.tsv
+i be,2,50,"[45, 50, 143, 151, 330, 417]",SXGX.tsv
+isn't it,2,49,"[2, 24, 33, 49, 110, 119, 160, 162, 163, 245, 253, 314, 358, 380, 386, 418, 474, 493]",SXGX.tsv
+i know,2,183,"[49, 183, 189, 221, 262, 378, 379, 516, 518]",SXGX.tsv
+i know it's funny,4,378,"[49, 378]",SXGX.tsv
+just a,2,51,"[14, 51, 242, 244]",SXGX.tsv
+be just,2,85,"[51, 85, 149, 284, 296, 463]",SXGX.tsv
+you be,2,118,"[51, 118, 485, 515, 543, 546]",SXGX.tsv
+yeah you,2,292,"[51, 292, 343]",SXGX.tsv
+different,1,55,"[24, 55, 75, 358, 360, 434]",SXGX.tsv
+feel,1,109,"[55, 109, 485]",SXGX.tsv
+it's a bite,3,61,"[24, 61, 280, 386]",SXGX.tsv
+you know,2,87,"[61, 87, 91, 99, 104, 111, 141, 143, 184, 192, 244, 289, 348, 350, 462, 471, 495, 517]",SXGX.tsv
+characterful,1,63,"[62, 63, 268, 303]",SXGX.tsv
+garden,1,111,"[66, 106, 111, 230, 336]",SXGX.tsv
+and the,2,107,"[68, 107, 111, 147, 236, 534]",SXGX.tsv
+know that,2,348,"[68, 348, 350]",SXGX.tsv
+don't know that,3,389,"[68, 389]",SXGX.tsv
+but it's a,3,72,"[24, 72]",SXGX.tsv
+which be,2,81,"[72, 81, 239, 463, 546]",SXGX.tsv
+be not,2,124,"[72, 124, 186, 282, 317]",SXGX.tsv
+have in,2,206,"[72, 206]",SXGX.tsv
+but it's,2,244,"[24, 72, 244, 459, 494, 507]",SXGX.tsv
+an hour,2,544,"[72, 544]",SXGX.tsv
+lovely,1,81,"[74, 81, 110, 111, 386, 411]",SXGX.tsv
+lovely look house,3,386,"[74, 386]",SXGX.tsv
+you're right,2,474,"[76, 474]",SXGX.tsv
+no but,2,82,"[24, 82, 190, 293, 494]",SXGX.tsv
+you don't,2,82,"[24, 30, 82, 83, 97, 247, 253, 292, 315, 322, 389, 509]",SXGX.tsv
+until you,2,82,"[75, 82]",SXGX.tsv
+gas,1,87,"[82, 87, 141]",SXGX.tsv
+agas,1,89,"[82, 89]",SXGX.tsv
+you can,2,99,"[82, 99, 153, 311, 400]",SXGX.tsv
+so you,2,109,"[82, 109, 400]",SXGX.tsv
+you don't know,3,389,"[82, 389, 509]",SXGX.tsv
+it have,2,84,"[79, 84]",SXGX.tsv
+an aga,2,84,"[79, 84]",SXGX.tsv
+aga,1,87,"[84, 87]",SXGX.tsv
+the wisdom of agas,4,89,"[88, 89]",SXGX.tsv
+yeah the,2,223,"[88, 223]",SXGX.tsv
+sound,1,90,"[81, 90, 169]",SXGX.tsv
+road,1,304,"[90, 304, 310, 314, 320, 327, 331, 340, 341, 342, 348, 356, 404, 435, 448, 449]",SXGX.tsv
+major,1,310,"[90, 123, 310, 520, 521]",SXGX.tsv
+beautiful,1,94,"[79, 94, 277, 418]",SXGX.tsv
+six,1,248,"[94, 180, 239, 248, 250, 413, 414, 427, 428]",SXGX.tsv
+seven hundred,2,96,"[18, 96]",SXGX.tsv
+hundred,1,164,"[18, 96, 164, 166, 178, 180, 183, 185, 186, 199, 441, 442]",SXGX.tsv
+mm that's,2,100,"[67, 100, 499]",SXGX.tsv
+better quality,2,102,"[101, 102]",SXGX.tsv
+to it,2,104,"[54, 104, 166, 404]",SXGX.tsv
+close,1,104,"[13, 69, 104, 373]",SXGX.tsv
+that be,2,107,"[104, 107, 192, 330, 332, 361, 388, 422]",SXGX.tsv
+something,1,247,"[104, 129, 247, 507]",SXGX.tsv
+either,1,104,"[30, 104, 253, 460]",SXGX.tsv
+like that,2,350,"[104, 350, 507]",SXGX.tsv
+that would be,3,183,"[106, 183, 384]",SXGX.tsv
+would be,2,217,"[106, 217, 368, 384, 429, 534]",SXGX.tsv
+ideal,1,460,"[106, 460]",SXGX.tsv
+mm mm,2,508,"[108, 508]",SXGX.tsv
+we be,2,115,"[30, 54, 115, 149]",SXGX.tsv
+yeah i,2,221,"[115, 221, 255, 486, 514, 516, 538]",SXGX.tsv
+be in,2,546,"[115, 436, 507, 546]",SXGX.tsv
+see,1,121,"[24, 75, 121, 311]",SXGX.tsv
+they're,1,121,"[46, 121, 173, 199, 411, 460]",SXGX.tsv
+go and,2,121,"[56, 121, 321]",SXGX.tsv
+to have,2,121,"[67, 97, 121, 127, 129, 172, 205, 240, 247, 519]",SXGX.tsv
+have a,2,121,"[77, 85, 97, 121, 126, 131, 240, 247, 297]",SXGX.tsv
+a survey,2,126,"[121, 126, 133]",SXGX.tsv
+on the,2,126,"[121, 126, 204, 263, 270, 305, 309, 314, 317, 320, 331, 380, 388, 391, 396, 406, 441]",SXGX.tsv
+to have a,3,240,"[121, 240, 247]",SXGX.tsv
+see the,2,311,"[121, 311, 386]",SXGX.tsv
+it's quite a,3,123,"[33, 123, 386]",SXGX.tsv
+quite,1,123,"[33, 123, 224, 268, 331, 351, 386, 388, 447, 470, 474]",SXGX.tsv
+have get,2,123,"[48, 123]",SXGX.tsv
+think,1,123,"[118, 123, 149, 166, 169, 171, 179, 214, 296, 362, 363, 386, 431, 477, 521, 538]",SXGX.tsv
+get the,2,267,"[123, 267, 321]",SXGX.tsv
+a major,2,310,"[123, 310]",SXGX.tsv
+but i,2,362,"[123, 362, 378, 380, 417]",SXGX.tsv
+paper,1,521,"[123, 521, 525]",SXGX.tsv
+aren't they,2,125,"[46, 125, 462]",SXGX.tsv
+pretty,1,125,"[113, 125, 390, 417]",SXGX.tsv
+you have,2,127,"[48, 56, 77, 109, 120, 126, 127, 155, 206, 264, 413, 463]",SXGX.tsv
+you have to,3,127,"[56, 127, 413]",SXGX.tsv
+have to have,3,127,"[97, 127, 247]",SXGX.tsv
+survey,1,127,"[121, 126, 127, 133, 323]",SXGX.tsv
+general,1,128,"[127, 128, 303, 546]",SXGX.tsv
+like a,2,193,"[127, 193, 196, 485, 507]",SXGX.tsv
+have to,2,188,"[56, 97, 127, 131, 157, 188, 411, 413, 437, 546]",SXGX.tsv
+mortgage,1,131,"[24, 131]",SXGX.tsv
+to erm,2,131,"[75, 131, 467, 546]",SXGX.tsv
+have to erm,3,546,"[131, 546]",SXGX.tsv
+really,1,139,"[20, 67, 85, 89, 93, 109, 113, 139, 162, 165, 211, 254, 263, 289, 362, 378, 386, 417, 434, 453, 519]",SXGX.tsv
+be really,2,139,"[113, 139, 254, 263, 386, 417]",SXGX.tsv
+no it's,2,212,"[139, 212]",SXGX.tsv
+dad,1,141,"[31, 141, 143, 151, 410]",SXGX.tsv
+company,1,141,"[33, 141, 166]",SXGX.tsv
+give,1,141,"[58, 114, 141, 166, 377]",SXGX.tsv
+tell,1,141,"[75, 141, 149, 195, 228, 262, 300, 305, 326]",SXGX.tsv
+advice,1,160,"[141, 160]",SXGX.tsv
+it it,2,183,"[141, 183, 492, 494]",SXGX.tsv
+you do,2,312,"[141, 277, 312, 344]",SXGX.tsv
+but do,2,342,"[141, 342]",SXGX.tsv
+say you,2,344,"[141, 344]",SXGX.tsv
+completely,1,358,"[141, 151, 358]",SXGX.tsv
+be like,2,192,"[143, 192, 220]",SXGX.tsv
+erm i,2,386,"[143, 386]",SXGX.tsv
+and i,2,448,"[143, 411, 448, 455]",SXGX.tsv
+bargain,1,145,"[97, 145]",SXGX.tsv
+nothing,1,208,"[145, 208]",SXGX.tsv
+mean,1,147,"[9, 14, 71, 97, 147, 183, 189, 221, 314, 324, 344, 358, 379, 380, 448, 470, 515, 534]",SXGX.tsv
+it's not,2,480,"[147, 305, 480, 489, 493]",SXGX.tsv
+do it,2,149,"[14, 60, 149, 167, 168, 424, 470]",SXGX.tsv
+to tell,2,149,"[75, 149]",SXGX.tsv
+put,1,149,"[126, 149, 189, 190, 491, 527, 539]",SXGX.tsv
+what be,2,192,"[149, 192, 242]",SXGX.tsv
+us,1,544,"[149, 184, 275, 544]",SXGX.tsv
+of the,2,151,"[24, 87, 151, 190, 204, 224, 239, 303, 326, 330, 377, 413, 476, 477, 478, 485, 493, 498, 546]",SXGX.tsv
+be i,2,151,"[50, 151, 189]",SXGX.tsv
+stuff,1,151,"[56, 113, 151, 157, 544]",SXGX.tsv
+be able to,3,151,"[75, 151, 327]",SXGX.tsv
+what i,2,151,"[79, 151, 189]",SXGX.tsv
+the bird,2,151,"[136, 151, 159]",SXGX.tsv
+bird,1,151,"[136, 151, 159]",SXGX.tsv
+to stop the bird,4,158,"[151, 158, 159]",SXGX.tsv
+the whole,2,183,"[151, 183, 190, 204]",SXGX.tsv
+there's no,2,153,"[33, 153, 404]",SXGX.tsv
+be there,2,153,"[75, 153, 331, 344, 490]",SXGX.tsv
+there's,1,153,"[33, 130, 153, 338, 342, 350, 380, 404, 460, 462, 470, 489]",SXGX.tsv
+but they,2,386,"[153, 386]",SXGX.tsv
+like there's,2,460,"[153, 460]",SXGX.tsv
+so you have,3,155,"[109, 155]",SXGX.tsv
+build,1,247,"[155, 247]",SXGX.tsv
+back,1,157,"[136, 157, 526]",SXGX.tsv
+come in,2,159,"[158, 159]",SXGX.tsv
+so erm,2,164,"[159, 164, 486]",SXGX.tsv
+it be,2,161,"[30, 79, 85, 87, 89, 109, 111, 113, 119, 136, 161, 247, 296, 300, 319, 336, 344, 417, 457, 490, 492]",SXGX.tsv
+didn't have,2,161,"[85, 161]",SXGX.tsv
+but it be,3,161,"[87, 161]",SXGX.tsv
+have any,2,161,"[120, 161]",SXGX.tsv
+yeah but,2,244,"[161, 244, 470]",SXGX.tsv
+that's what,2,163,"[79, 163, 275, 344]",SXGX.tsv
+it's all,2,163,"[162, 163]",SXGX.tsv
+what it's,2,412,"[163, 412]",SXGX.tsv
+that really,2,165,"[109, 165]",SXGX.tsv
+understand,1,202,"[165, 202]",SXGX.tsv
+still,1,172,"[87, 172, 283]",SXGX.tsv
+have that,2,172,"[109, 172, 205]",SXGX.tsv
+then get,2,204,"[172, 204]",SXGX.tsv
+get to,2,267,"[172, 267, 340, 452, 519]",SXGX.tsv
+get to have,3,519,"[172, 519]",SXGX.tsv
+storage,1,175,"[174, 175, 178, 206]",SXGX.tsv
+mm i,2,176,"[130, 176, 327, 379]",SXGX.tsv
+quote,1,178,"[164, 173, 178, 192, 197]",SXGX.tsv
+hour,1,544,"[180, 544]",SXGX.tsv
+be it,2,184,"[18, 184, 192, 300, 316, 320, 346, 433, 480]",SXGX.tsv
+to be,2,184,"[46, 69, 75, 83, 184, 253, 292, 314, 323, 327, 437, 455, 479]",SXGX.tsv
+want to,2,184,"[69, 81, 83, 184, 189, 195, 253, 292, 448, 479, 541]",SXGX.tsv
+go to be,3,184,"[75, 184]",SXGX.tsv
+imagine,1,184,"[79, 107, 130, 184]",SXGX.tsv
+the you know,3,184,"[111, 184]",SXGX.tsv
+much,1,384,"[184, 238, 326, 384, 430, 442]",SXGX.tsv
+a hundred,2,442,"[164, 186, 442]",SXGX.tsv
+be to,2,448,"[186, 448]",SXGX.tsv
+it in,2,189,"[24, 189, 190, 203]",SXGX.tsv
+in the,2,189,"[31, 75, 164, 189, 190, 256, 262, 467]",SXGX.tsv
+i mean,2,189,"[71, 97, 189, 314, 344, 358, 380, 448, 515, 534]",SXGX.tsv
+i just,2,189,"[89, 189, 453]",SXGX.tsv
+of erm,2,189,"[89, 189]",SXGX.tsv
+put it,2,189,"[126, 189, 190, 491]",SXGX.tsv
+put it in the context of,6,190,"[189, 190]",SXGX.tsv
+the little,2,218,"[48, 218, 220, 222]",SXGX.tsv
+from the,2,220,"[37, 220, 311, 323, 404, 502]",SXGX.tsv
+colour,1,220,"[89, 220]",SXGX.tsv
+one the,2,220,"[212, 220]",SXGX.tsv
+erm the,2,222,"[65, 222, 323]",SXGX.tsv
+and erm,2,386,"[222, 386, 546]",SXGX.tsv
+quite a,2,224,"[33, 224, 386, 470]",SXGX.tsv
+a lot,2,193,"[89, 193, 224, 327, 450]",SXGX.tsv
+as well,2,224,"[107, 169, 224, 342]",SXGX.tsv
+lot of,2,193,"[136, 193, 224, 450]",SXGX.tsv
+take,1,224,"[204, 205, 224, 282, 413, 507]",SXGX.tsv
+table,1,224,"[209, 210, 219, 224]",SXGX.tsv
+even if,2,348,"[224, 348]",SXGX.tsv
+tree,1,226,"[109, 113, 226]",SXGX.tsv
+the blobby,2,226,"[225, 226]",SXGX.tsv
+blobby,1,227,"[226, 227]",SXGX.tsv
+i'll,1,228,"[28, 228, 321, 542]",SXGX.tsv
+you the,2,228,"[77, 228, 534]",SXGX.tsv
+not the,2,228,"[124, 228]",SXGX.tsv
+the price,2,228,"[183, 228, 427]",SXGX.tsv
+situate,1,308,"[228, 237, 308]",SXGX.tsv
+a highly seek after location,5,314,"[228, 314]",SXGX.tsv
+family,1,386,"[228, 386]",SXGX.tsv
+paddocks,1,231,"[230, 231]",SXGX.tsv
+be a,2,235,"[87, 89, 217, 235, 314, 435, 462]",SXGX.tsv
+nice,1,237,"[67, 89, 107, 111, 237, 319, 447, 461]",SXGX.tsv
+within,1,237,"[95, 237]",SXGX.tsv
+and that's,2,239,"[79, 239]",SXGX.tsv
+nine nine,2,250,"[239, 250, 428]",SXGX.tsv
+mention,1,534,"[239, 307, 534]",SXGX.tsv
+use,1,254,"[30, 54, 85, 89, 254]",SXGX.tsv
+leave it,2,262,"[258, 261, 262]",SXGX.tsv
+it i,2,534,"[262, 477, 534]",SXGX.tsv
+it look,2,268,"[60, 268, 447, 460, 466]",SXGX.tsv
+kind of,2,270,"[56, 75, 89, 107, 111, 183, 270, 493]",SXGX.tsv
+it could be,3,270,"[91, 270]",SXGX.tsv
+be erm,2,270,"[91, 270, 323]",SXGX.tsv
+head,1,452,"[270, 452, 455]",SXGX.tsv
+low,1,179,"[30, 179, 271, 273, 274, 450, 451]",SXGX.tsv
+low beam,2,273,"[271, 273, 274]",SXGX.tsv
+beam,1,450,"[271, 273, 274, 450, 451, 457, 460, 463, 467, 469, 478, 485, 507]",SXGX.tsv
+paddock,1,275,"[231, 240, 242, 275, 278]",SXGX.tsv
+the paddock,2,275,"[242, 275]",SXGX.tsv
+do that,2,324,"[277, 324, 543]",SXGX.tsv
+i i,2,284,"[50, 284, 362]",SXGX.tsv
+every,1,284,"[58, 284, 411]",SXGX.tsv
+shropshire,1,417,"[286, 417, 425, 510]",SXGX.tsv
+out of,2,289,"[204, 289]",SXGX.tsv
+nine,1,248,"[239, 248, 250, 289, 427, 428]",SXGX.tsv
+eight,1,429,"[289, 429]",SXGX.tsv
+time,1,293,"[24, 58, 293, 413, 432, 543]",SXGX.tsv
+when i,2,484,"[293, 484]",SXGX.tsv
+i didn't,2,295,"[85, 295]",SXGX.tsv
+didn't know,2,295,"[294, 295]",SXGX.tsv
+near,1,301,"[300, 301, 314, 493]",SXGX.tsv
+i like the,3,303,"[107, 303]",SXGX.tsv
+i like,2,303,"[183, 303]",SXGX.tsv
+sure,1,303,"[171, 303, 326, 390, 444, 514, 541]",SXGX.tsv
+highly seek after location,4,314,"[313, 314]",SXGX.tsv
+of it,2,528,"[313, 528]",SXGX.tsv
+nobody,1,315,"[81, 315]",SXGX.tsv
+highly,1,315,"[314, 315]",SXGX.tsv
+be look,2,319,"[292, 319, 388]",SXGX.tsv
+keep,1,321,"[28, 321]",SXGX.tsv
+there and,2,386,"[321, 386]",SXGX.tsv
+thing,1,334,"[33, 75, 97, 107, 334, 397, 413, 435, 469, 520, 521]",SXGX.tsv
+the one,2,334,"[65, 77, 212, 334]",SXGX.tsv
+but the,2,336,"[111, 336, 485]",SXGX.tsv
+be too,2,373,"[336, 373]",SXGX.tsv
+you need,2,340,"[6, 87, 253, 340, 341]",SXGX.tsv
+need a,2,340,"[231, 322, 340, 341]",SXGX.tsv
+a road,2,341,"[327, 340, 341, 342, 448, 449]",SXGX.tsv
+here the,2,344,"[343, 344]",SXGX.tsv
+absolutely,1,357,"[79, 357, 432]",SXGX.tsv
+i wouldn't,2,363,"[69, 363]",SXGX.tsv
+i think,2,363,"[169, 362, 363, 431, 521, 538]",SXGX.tsv
+think that's,2,363,"[179, 363]",SXGX.tsv
+it's too,2,363,"[212, 363, 460]",SXGX.tsv
+water,1,363,"[358, 359, 363]",SXGX.tsv
+little brook,2,368,"[367, 368]",SXGX.tsv
+mini,1,371,"[370, 371]",SXGX.tsv
+babble,1,370,"[365, 370, 544]",SXGX.tsv
+not a,2,372,"[327, 372]",SXGX.tsv
+be on the,3,388,"[314, 388, 396]",SXGX.tsv
+pin,1,396,"[395, 396]",SXGX.tsv
+this house,2,404,"[28, 308, 330, 342, 404, 434, 455, 507]",SXGX.tsv
+house it's,2,404,"[33, 404]",SXGX.tsv
+if it's,2,404,"[183, 348, 378, 404, 460, 489, 500]",SXGX.tsv
+it's on,2,391,"[304, 348, 391, 406]",SXGX.tsv
+remember,1,411,"[37, 48, 52, 85, 411]",SXGX.tsv
+the set,2,411,"[107, 411]",SXGX.tsv
+photos,1,417,"[411, 417]",SXGX.tsv
+turn the,2,542,"[411, 542]",SXGX.tsv
+live,1,423,"[28, 386, 423, 515]",SXGX.tsv
+to live,2,423,"[362, 423]",SXGX.tsv
+make sense,2,427,"[183, 424, 426, 427]",SXGX.tsv
+nine nine fifty,3,427,"[250, 427, 428]",SXGX.tsv
+time you,2,432,"[58, 432]",SXGX.tsv
+like this,2,434,"[183, 434]",SXGX.tsv
+really like,2,434,"[362, 378, 434]",SXGX.tsv
+i'd,1,434,"[205, 434, 515]",SXGX.tsv
+but in,2,546,"[434, 546]",SXGX.tsv
+your budget,2,436,"[2, 18, 292, 436]",SXGX.tsv
+budget,1,436,"[24, 95, 436]",SXGX.tsv
+in your,2,436,"[33, 436]",SXGX.tsv
+they they,2,436,"[377, 380, 436]",SXGX.tsv
+big,1,443,"[48, 52, 210, 212, 214, 253, 314, 435, 443]",SXGX.tsv
+thousand,1,443,"[183, 442, 443]",SXGX.tsv
+hear,1,124,"[22, 24, 124, 327, 344, 448, 449]",SXGX.tsv
+hear a road,3,449,"[327, 448, 449]",SXGX.tsv
+agree,1,456,"[204, 456, 534]",SXGX.tsv
+i agree,2,534,"[456, 534]",SXGX.tsv
+be nice,2,461,"[107, 461]",SXGX.tsv
+the a,2,461,"[314, 344, 461]",SXGX.tsv
+bite of,2,461,"[386, 461]",SXGX.tsv
+a little bite of beamage,5,462,"[461, 462]",SXGX.tsv
+oh no,2,464,"[271, 464]",SXGX.tsv
+upstairs,1,467,"[77, 467]",SXGX.tsv
+be structural,2,490,"[467, 490]",SXGX.tsv
+the room,2,476,"[467, 476, 493]",SXGX.tsv
+least,1,470,"[28, 261, 470]",SXGX.tsv
+but it,2,470,"[87, 470, 494]",SXGX.tsv
+a bite of,3,470,"[386, 470]",SXGX.tsv
+move,1,37,"[30, 37, 46, 162, 435, 448, 471, 476, 477]",SXGX.tsv
+to move,2,477,"[46, 448, 477]",SXGX.tsv
+couldn't be,2,477,"[91, 477]",SXGX.tsv
+bed,1,471,"[206, 471, 476, 477]",SXGX.tsv
+sleep,1,477,"[376, 386, 477, 483, 484]",SXGX.tsv
+i don't think,3,477,"[386, 477]",SXGX.tsv
+move it,2,477,"[435, 477]",SXGX.tsv
+want to be,3,479,"[69, 83, 253, 292, 479]",SXGX.tsv
+be you,2,485,"[91, 120, 210, 214, 485]",SXGX.tsv
+people,1,485,"[124, 362, 378, 380, 437, 448, 485, 546]",SXGX.tsv
+it but,2,485,"[362, 378, 485, 507]",SXGX.tsv
+a bite of a,4,485,"[386, 485]",SXGX.tsv
+of the beam,3,485,"[478, 485]",SXGX.tsv
+i don't notice it,4,485,"[484, 485]",SXGX.tsv
+he's,1,487,"[469, 487, 546]",SXGX.tsv
+there's a,2,489,"[338, 342, 489]",SXGX.tsv
+structural,1,490,"[489, 490, 500]",SXGX.tsv
+how it,2,492,"[460, 492]",SXGX.tsv
+erm it,2,494,"[386, 494]",SXGX.tsv
+wall,1,521,"[494, 498, 500, 505, 521]",SXGX.tsv
+the other,2,496,"[107, 496]",SXGX.tsv
+of the of the,4,498,"[87, 498]",SXGX.tsv
+land,1,498,"[101, 245, 498]",SXGX.tsv
+on that,2,500,"[380, 500]",SXGX.tsv
+that must be,3,505,"[200, 505]",SXGX.tsv
+must be,2,200,"[119, 200, 386, 505]",SXGX.tsv
+have it,2,507,"[79, 507]",SXGX.tsv
+way,1,507,"[109, 358, 507]",SXGX.tsv
+you could have,3,507,"[247, 507]",SXGX.tsv
+you can't,2,507,"[344, 507]",SXGX.tsv
+do anything,2,507,"[344, 507]",SXGX.tsv
+house and,2,507,"[323, 386, 507]",SXGX.tsv
+in this house,3,507,"[455, 507]",SXGX.tsv
+the beam,2,507,"[478, 507]",SXGX.tsv
+that's true,2,507,"[345, 499, 507]",SXGX.tsv
+it couldn't,2,509,"[91, 509]",SXGX.tsv
+but you,2,509,"[247, 462, 509]",SXGX.tsv
+ask,1,509,"[195, 389, 488, 509]",SXGX.tsv
+engineer,1,510,"[509, 510, 511, 512]",SXGX.tsv
+yeah i know,3,516,"[221, 516]",SXGX.tsv
+next,1,520,"[380, 520]",SXGX.tsv
+the next major thing,4,521,"[520, 521]",SXGX.tsv
+the seventies,2,524,"[523, 524]",SXGX.tsv
+seventies,1,525,"[523, 524, 525, 526]",SXGX.tsv
+dream,1,527,"[33, 380, 527]",SXGX.tsv
+also,1,529,"[48, 56, 529]",SXGX.tsv
+flower,1,530,"[529, 530]",SXGX.tsv
+work,1,537,"[30, 89, 537]",SXGX.tsv
+in here,2,537,"[534, 537]",SXGX.tsv
+have you,2,543,"[120, 264, 266, 344, 391, 452, 543]",SXGX.tsv
+i don't know,3,514,"[0, 68, 514]",SXGX.tsv
+listen to,2,541,"[0, 541]",SXGX.tsv
+listen,1,547,"[0, 547]",SXGX.tsv
+value,1,30,"[1, 3, 30]",SXGX.tsv
+offer,1,201,"[1, 19, 201, 205]",SXGX.tsv
+piano and,2,166,"[7, 166]",SXGX.tsv
+for the piano and,4,199,"[7, 199]",SXGX.tsv
+it so,2,166,"[10, 166]",SXGX.tsv
+cheshire,1,283,"[12, 283, 286]",SXGX.tsv
+modern,1,466,"[15, 61, 72, 466]",SXGX.tsv
+so i'm,2,166,"[17, 166, 239]",SXGX.tsv
+that we,2,323,"[17, 104, 323]",SXGX.tsv
+i'm not,2,326,"[17, 326, 514]",SXGX.tsv
+yes,1,329,"[21, 110, 147, 329, 347, 381, 383, 398, 411]",SXGX.tsv
+this be,2,517,"[23, 186, 284, 517]",SXGX.tsv
+that's right,2,347,"[27, 29, 86, 100, 163, 347]",SXGX.tsv
+and a,2,34,"[30, 34]",SXGX.tsv
+the kitchen,2,211,"[34, 211, 502]",SXGX.tsv
+and then you,3,166,"[36, 166]",SXGX.tsv
+then you,2,463,"[36, 463]",SXGX.tsv
+the grand,2,57,"[38, 57]",SXGX.tsv
+trolley,1,41,"[40, 41]",SXGX.tsv
+mind,1,72,"[30, 72]",SXGX.tsv
+we have,2,323,"[72, 323, 411, 467]",SXGX.tsv
+no that's,2,345,"[86, 345]",SXGX.tsv
+doesn't it,2,90,"[9, 90]",SXGX.tsv
+country,1,517,"[94, 517]",SXGX.tsv
+downstairs,1,104,"[9, 104]",SXGX.tsv
+sort of,2,166,"[106, 166, 193, 220, 280]",SXGX.tsv
+have the,2,463,"[106, 463]",SXGX.tsv
+yes that's,2,347,"[110, 347]",SXGX.tsv
+yeah i don't know,4,514,"[115, 514]",SXGX.tsv
+sorry,1,177,"[121, 177]",SXGX.tsv
+they can,2,166,"[129, 166]",SXGX.tsv
+company for,2,166,"[141, 166]",SXGX.tsv
+tell you,2,326,"[141, 228, 262, 326]",SXGX.tsv
+of your,2,283,"[143, 283]",SXGX.tsv
+all of,2,195,"[151, 195]",SXGX.tsv
+remind,1,285,"[151, 285, 323]",SXGX.tsv
+and you,2,153,"[30, 153, 195, 289, 402]",SXGX.tsv
+air,1,203,"[153, 203]",SXGX.tsv
+there for,2,491,"[153, 491]",SXGX.tsv
+and they,2,195,"[157, 195, 323, 434, 436]",SXGX.tsv
+increment,1,165,"[164, 165]",SXGX.tsv
+to have that,3,205,"[172, 205]",SXGX.tsv
+removal,1,178,"[175, 178]",SXGX.tsv
+it to,2,195,"[180, 195]",SXGX.tsv
+store it,2,203,"[180, 203]",SXGX.tsv
+a van,2,184,"[30, 184]",SXGX.tsv
+van,1,184,"[30, 44, 184, 186]",SXGX.tsv
+to hire,2,188,"[184, 186, 188, 275]",SXGX.tsv
+how much,2,238,"[184, 238, 326]",SXGX.tsv
+hire,1,278,"[184, 186, 275, 278]",SXGX.tsv
+a hundred and fifty,4,186,"[164, 186]",SXGX.tsv
+hundred and fifty,3,186,"[185, 186]",SXGX.tsv
+and store,2,203,"[186, 203]",SXGX.tsv
+not to,2,240,"[186, 240]",SXGX.tsv
+if we,2,224,"[166, 224]",SXGX.tsv
+a lot of,3,224,"[193, 224, 450]",SXGX.tsv
+take the,2,224,"[205, 224, 507]",SXGX.tsv
+okay,1,228,"[30, 228, 288, 351]",SXGX.tsv
+price,1,183,"[166, 173, 183, 228, 427]",SXGX.tsv
+high,1,239,"[30, 239]",SXGX.tsv
+i'm just,2,239,"[164, 239]",SXGX.tsv
+six nine nine,3,428,"[239, 427, 428]",SXGX.tsv
+to use,2,254,"[30, 254]",SXGX.tsv
+leave,1,258,"[256, 258, 262]",SXGX.tsv
+that's where,2,262,"[261, 262]",SXGX.tsv
+know that's,2,514,"[262, 514]",SXGX.tsv
+to a,2,340,"[277, 340]",SXGX.tsv
+send,1,284,"[197, 284]",SXGX.tsv
+square,1,285,"[284, 285]",SXGX.tsv
+north,1,286,"[114, 286]",SXGX.tsv
+north shropshire,2,425,"[286, 425]",SXGX.tsv
+a51,1,306,"[303, 305, 306, 307, 309, 315, 317, 321, 388, 391, 396, 397, 404, 406, 428, 441]",SXGX.tsv
+i'm not sure,3,326,"[303, 326, 514]",SXGX.tsv
+tell me,2,305,"[300, 305]",SXGX.tsv
+on the a51,3,391,"[305, 309, 317, 388, 391, 396, 441]",SXGX.tsv
+the a51,2,397,"[305, 307, 309, 315, 317, 321, 388, 396, 397, 404, 406, 441]",SXGX.tsv
+wonder,1,430,"[319, 430]",SXGX.tsv
+our house,2,334,"[323, 334]",SXGX.tsv
+you need a road,4,341,"[340, 341]",SXGX.tsv
+brook,1,367,"[365, 367, 368]",SXGX.tsv
+interest,1,388,"[359, 388]",SXGX.tsv
+you get,2,402,"[264, 266, 402, 452]",SXGX.tsv
+show,1,410,"[402, 410, 463, 491]",SXGX.tsv
+it's on the a51,4,406,"[391, 406]",SXGX.tsv
+please,1,411,"[30, 411]",SXGX.tsv
+turn,1,411,"[246, 411, 542]",SXGX.tsv
+make,1,183,"[30, 183, 424, 426, 427, 430, 466]",SXGX.tsv
+they just,2,491,"[436, 491]",SXGX.tsv
+another,1,441,"[440, 441]",SXGX.tsv
+whether,1,467,"[430, 467]",SXGX.tsv
+of that,2,470,"[323, 470]",SXGX.tsv
+the bed,2,477,"[471, 476, 477]",SXGX.tsv
+the opposite end of the,5,477,"[476, 477]",SXGX.tsv
+where you,2,485,"[261, 485]",SXGX.tsv
+how how,2,492,"[326, 492]",SXGX.tsv
+rest,1,500,"[205, 500]",SXGX.tsv
+al,1,509,"[283, 509]",SXGX.tsv
+be your,2,283,"[2, 18, 283]",SXGX.tsv
+what do you,3,171,"[6, 171]",SXGX.tsv
+where be,2,300,"[11, 300]",SXGX.tsv
+what do,2,171,"[14, 60, 171, 324]",SXGX.tsv
+hear this theory,3,24,"[22, 24]",SXGX.tsv
+actually,1,240,"[24, 33, 240, 311, 326]",SXGX.tsv
+actually see,2,311,"[24, 311]",SXGX.tsv
+for a,2,164,"[33, 164, 243]",SXGX.tsv
+move the,2,471,"[37, 471, 476]",SXGX.tsv
+piano be,2,48,"[30, 48]",SXGX.tsv
+the big,2,214,"[48, 214]",SXGX.tsv
+the big one,3,214,"[52, 214]",SXGX.tsv
+with the grand,3,57,"[56, 57]",SXGX.tsv
+hide,1,57,"[56, 57]",SXGX.tsv
+one that,2,359,"[77, 359]",SXGX.tsv
+use the,2,89,"[30, 89]",SXGX.tsv
+you want,2,195,"[89, 195, 541]",SXGX.tsv
+don't have,2,188,"[97, 188]",SXGX.tsv
+about that,2,469,"[107, 469]",SXGX.tsv
+well yeah,2,514,"[107, 292, 514]",SXGX.tsv
+with the,2,113,"[57, 113, 120, 136, 255]",SXGX.tsv
+address,1,116,"[114, 116]",SXGX.tsv
+have you have,3,264,"[120, 264]",SXGX.tsv
+do you,2,171,"[126, 171, 206, 258, 342, 495]",SXGX.tsv
+find,1,264,"[136, 263, 264, 266, 323, 376, 378]",SXGX.tsv
+everywhere,1,457,"[136, 457]",SXGX.tsv
+they come,2,471,"[136, 386, 471, 476]",SXGX.tsv
+part,1,162,"[119, 162]",SXGX.tsv
+do it separately,3,168,"[167, 168]",SXGX.tsv
+wise,1,169,"[30, 169]",SXGX.tsv
+do you think,3,179,"[171, 179]",SXGX.tsv
+what you,2,195,"[183, 195, 221, 253, 379]",SXGX.tsv
+five hundred,2,199,"[183, 199]",SXGX.tsv
+i know what you mean,5,379,"[183, 221, 379]",SXGX.tsv
+if they,2,202,"[166, 201, 202]",SXGX.tsv
+get a,2,204,"[166, 204, 469]",SXGX.tsv
+book,1,206,"[30, 206]",SXGX.tsv
+coffee table,2,210,"[209, 210]",SXGX.tsv
+bring the big,3,214,"[210, 214]",SXGX.tsv
+bring,1,281,"[210, 281]",SXGX.tsv
+main,1,304,"[212, 304]",SXGX.tsv
+man,1,225,"[30, 225]",SXGX.tsv
+a paddock,2,240,"[231, 240]",SXGX.tsv
+pub,1,238,"[236, 238]",SXGX.tsv
+a field,2,243,"[242, 243, 244]",SXGX.tsv
+don't have to,3,247,"[188, 247]",SXGX.tsv
+horse,1,247,"[232, 243, 247, 281, 282]",SXGX.tsv
+a horse,2,247,"[243, 247]",SXGX.tsv
+six ninety nine,3,250,"[248, 250]",SXGX.tsv
+i would,2,255,"[203, 240, 255]",SXGX.tsv
+you leave it,3,261,"[258, 261]",SXGX.tsv
+they don't,2,308,"[188, 308, 448]",SXGX.tsv
+on the road,3,331,"[320, 331]",SXGX.tsv
+the road,2,356,"[320, 356, 435]",SXGX.tsv
+that i,2,330,"[144, 330]",SXGX.tsv
+road noise,2,342,"[331, 342, 348, 356]",SXGX.tsv
+a66,1,347,"[346, 347]",SXGX.tsv
+it's on a,3,348,"[304, 348]",SXGX.tsv
+disturb,1,361,"[358, 361]",SXGX.tsv
+babbler,1,371,"[369, 371]",SXGX.tsv
+close to,2,373,"[13, 373]",SXGX.tsv
+the sea,2,377,"[373, 377]",SXGX.tsv
+noise,1,378,"[331, 356, 378]",SXGX.tsv
+and it's,2,386,"[164, 386]",SXGX.tsv
+strong,1,386,"[331, 386]",SXGX.tsv
+the weir,2,386,"[385, 386]",SXGX.tsv
+that what,2,412,"[359, 412]",SXGX.tsv
+it make,2,430,"[426, 430]",SXGX.tsv
+that much,2,442,"[430, 442]",SXGX.tsv
+low fly beam,3,451,"[450, 451]",SXGX.tsv
+my head,2,455,"[452, 455]",SXGX.tsv
+yeah it's,2,488,"[359, 488]",SXGX.tsv
+well it's,2,493,"[114, 493]",SXGX.tsv
+it it's,2,493,"[193, 493]",SXGX.tsv
+of the room,3,493,"[476, 493]",SXGX.tsv
+part of,2,528,"[119, 528]",SXGX.tsv
+well no,2,528,"[173, 528]",SXGX.tsv
+the bedroom,2,530,"[311, 530]",SXGX.tsv
+white,1,534,"[44, 534, 536]",SXGX.tsv
+window,1,536,"[311, 536]",SXGX.tsv
+order,1,546,"[340, 546]",SXGX.tsv

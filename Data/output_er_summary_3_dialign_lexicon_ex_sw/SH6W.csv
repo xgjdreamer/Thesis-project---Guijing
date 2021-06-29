@@ -1,0 +1,144 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+pokémon,1,2,"[1, 2, 8]",SH6W.tsv
+play,1,4,"[1, 4, 5, 7, 8, 11, 14, 22]",SH6W.tsv
+use to play,3,5,"[4, 5]",SH6W.tsv
+kind of game,3,5,"[4, 5]",SH6W.tsv
+a different,2,5,"[4, 5]",SH6W.tsv
+game,1,5,"[4, 5, 22]",SH6W.tsv
+different,1,8,"[4, 8, 103, 129]",SH6W.tsv
+kind of,2,22,"[4, 22, 59, 60, 98, 117, 143, 147, 153]",SH6W.tsv
+be it,2,105,"[4, 105]",SH6W.tsv
+yeah,1,12,"[9, 12, 18, 22, 24, 29, 36, 45, 46, 62, 64, 79, 112, 117, 125, 139, 143, 149, 157, 165, 181, 190, 192, 194, 196]",SH6W.tsv
+play with,2,14,"[11, 14]",SH6W.tsv
+people,1,16,"[11, 16, 18, 115]",SH6W.tsv
+do you,2,58,"[11, 15, 58, 61, 67, 85, 87, 88, 95, 104, 107, 123, 144]",SH6W.tsv
+okay,1,76,"[13, 19, 37, 44, 57, 76, 81, 138, 139, 140, 156, 169, 173, 176, 180, 197]",SH6W.tsv
+know,1,15,"[5, 12, 15, 18, 24, 32, 42, 51, 58, 64, 94, 95, 96, 102, 107, 109, 130, 180, 190]",SH6W.tsv
+don't know,2,15,"[12, 15, 24, 42, 180]",SH6W.tsv
+skype,1,24,"[15, 24]",SH6W.tsv
+you don't,2,60,"[15, 60, 71, 111, 152, 169]",SH6W.tsv
+when you,2,95,"[15, 95, 101, 110, 152]",SH6W.tsv
+good,1,25,"[8, 25, 36, 97, 99, 106, 152]",SH6W.tsv
+go,1,26,"[22, 26, 27, 28, 30, 49, 70, 80, 101, 104, 106, 115, 136, 152]",SH6W.tsv
+go out,2,27,"[26, 27, 152]",SH6W.tsv
+maybe,1,35,"[26, 35, 77, 103]",SH6W.tsv
+today,1,47,"[26, 47, 52, 77, 83]",SH6W.tsv
+could,1,99,"[26, 99]",SH6W.tsv
+we be,2,28,"[22, 28]",SH6W.tsv
+gonna go,2,70,"[28, 70]",SH6W.tsv
+think we,2,103,"[28, 103, 104]",SH6W.tsv
+gonna,1,114,"[28, 114, 123, 157, 158]",SH6W.tsv
+be gonna,2,158,"[28, 158]",SH6W.tsv
+i think,2,165,"[28, 165, 168]",SH6W.tsv
+that i know,3,32,"[18, 32]",SH6W.tsv
+i know,2,32,"[18, 32, 64, 109, 130, 190]",SH6W.tsv
+that i,2,32,"[24, 32]",SH6W.tsv
+would you,2,128,"[32, 128]",SH6W.tsv
+look,1,126,"[40, 61, 115, 126, 127, 133, 139, 150, 152, 153, 158, 188]",SH6W.tsv
+know what,2,42,"[5, 42, 58, 96, 107]",SH6W.tsv
+sorry,1,91,"[42, 91]",SH6W.tsv
+say,1,95,"[42, 95, 96, 99, 100, 102, 157, 158]",SH6W.tsv
+really,1,44,"[8, 44, 49, 72, 102, 110, 124, 139]",SH6W.tsv
+birthday,1,44,"[41, 43, 44, 45]",SH6W.tsv
+though,1,58,"[44, 58, 80, 94, 153]",SH6W.tsv
+not really,2,72,"[44, 72]",SH6W.tsv
+it's not,2,126,"[44, 126]",SH6W.tsv
+but you,2,46,"[8, 46, 139]",SH6W.tsv
+'s,1,46,"[18, 22, 46, 47]",SH6W.tsv
+yeah but,2,46,"[45, 46, 112, 125]",SH6W.tsv
+give,1,47,"[46, 47]",SH6W.tsv
+put,1,70,"[46, 70, 136, 137]",SH6W.tsv
+if it's,2,112,"[46, 112]",SH6W.tsv
+right,1,128,"[46, 128, 195, 197]",SH6W.tsv
+that's,1,97,"[49, 97, 130, 132, 134, 147, 153, 196]",SH6W.tsv
+i don't know,3,51,"[12, 24, 51, 180]",SH6W.tsv
+i don't,2,51,"[24, 51, 115, 169, 180]",SH6W.tsv
+practise,1,52,"[51, 52, 56, 58, 87]",SH6W.tsv
+your guitar,2,60,"[51, 60]",SH6W.tsv
+i didn't,2,58,"[53, 58, 106]",SH6W.tsv
+think,1,103,"[61, 75, 103, 104, 165, 168]",SH6W.tsv
+of this,2,67,"[5, 67]",SH6W.tsv
+do you want,3,88,"[67, 85, 87, 88, 95]",SH6W.tsv
+want,1,88,"[67, 71, 85, 87, 88, 89, 93, 95, 99, 101, 102, 111, 136, 169, 177]",SH6W.tsv
+you want,2,136,"[67, 85, 87, 136, 169]",SH6W.tsv
+chip,1,74,"[71, 74]",SH6W.tsv
+get,1,77,"[7, 77, 82, 104, 135, 159, 161, 168, 169, 188, 189, 194]",SH6W.tsv
+come,1,78,"[7, 18, 78, 113, 186]",SH6W.tsv
+you can,2,80,"[8, 80, 137]",SH6W.tsv
+yet,1,80,"[52, 80]",SH6W.tsv
+let,1,128,"[80, 128]",SH6W.tsv
+cos,1,82,"[38, 41, 43, 82, 101, 117, 123, 127, 139, 147, 168, 196]",SH6W.tsv
+change,1,83,"[82, 83]",SH6W.tsv
+point,1,130,"[92, 130, 168]",SH6W.tsv
+juice,1,94,"[88, 93, 94, 95, 96]",SH6W.tsv
+he know juice,3,95,"[94, 95]",SH6W.tsv
+mean,1,96,"[5, 96, 118, 143, 144]",SH6W.tsv
+and he,2,96,"[22, 96]",SH6W.tsv
+he know,2,96,"[95, 96]",SH6W.tsv
+mummy,1,100,"[88, 99, 100, 101]",SH6W.tsv
+say mummy,2,100,"[99, 100]",SH6W.tsv
+when he want,3,102,"[99, 101, 102]",SH6W.tsv
+things,1,104,"[8, 43, 104]",SH6W.tsv
+small,1,105,"[104, 105]",SH6W.tsv
+if i,2,106,"[43, 106]",SH6W.tsv
+wear,1,110,"[106, 110, 123, 124, 128, 129, 131, 139, 147, 152, 153, 169, 177, 182]",SH6W.tsv
+skinny jeans,2,108,"[107, 108, 111, 112, 115, 116, 119]",SH6W.tsv
+jeans,1,118,"[108, 111, 115, 118, 119]",SH6W.tsv
+like,1,113,"[5, 12, 16, 18, 20, 38, 41, 43, 45, 60, 113, 114, 115, 123, 124, 126, 127, 139, 147, 150, 151, 153, 175, 189, 191]",SH6W.tsv
+they're,1,113,"[16, 110, 113, 114, 124, 143, 150, 151, 168]",SH6W.tsv
+one,1,113,"[22, 41, 43, 113, 188, 195]",SH6W.tsv
+they're just,2,114,"[113, 114]",SH6W.tsv
+then it's,2,115,"[38, 41, 115]",SH6W.tsv
+it just,2,115,"[62, 115, 139]",SH6W.tsv
+hang off their arse,4,116,"[115, 116]",SH6W.tsv
+around,1,148,"[115, 139, 141, 148]",SH6W.tsv
+just look,2,150,"[115, 139, 150]",SH6W.tsv
+weird,1,151,"[115, 151]",SH6W.tsv
+jeans hang,2,119,"[116, 119]",SH6W.tsv
+what do you,3,123,"[88, 123, 144]",SH6W.tsv
+like wear,2,124,"[123, 124]",SH6W.tsv
+bad,1,127,"[126, 127, 188]",SH6W.tsv
+he be,2,129,"[22, 129]",SH6W.tsv
+wear tracksuit bottom,3,129,"[124, 128, 129, 152]",SH6W.tsv
+tracksuit,1,142,"[129, 142, 152]",SH6W.tsv
+he's,1,189,"[129, 189, 194]",SH6W.tsv
+can't,1,135,"[107, 135, 139]",SH6W.tsv
+slippers,1,165,"[135, 159, 165, 168, 169, 177, 178]",SH6W.tsv
+even,1,168,"[135, 168]",SH6W.tsv
+put them on,3,137,"[136, 137]",SH6W.tsv
+house,1,139,"[18, 22, 139]",SH6W.tsv
+wear them,2,139,"[110, 139, 153, 182]",SH6W.tsv
+they just,2,139,"[114, 139]",SH6W.tsv
+there's,1,141,"[8, 141]",SH6W.tsv
+tracksuit brigade,2,142,"[141, 142]",SH6W.tsv
+yeah i,2,149,"[12, 24, 149, 165, 190]",SH6W.tsv
+round,1,149,"[18, 22, 149]",SH6W.tsv
+our estate,2,149,"[148, 149]",SH6W.tsv
+when you go,3,152,"[101, 152]",SH6W.tsv
+which be,2,153,"[8, 153]",SH6W.tsv
+make,1,153,"[8, 60, 62, 153, 196]",SH6W.tsv
+just kind of,3,153,"[22, 153]",SH6W.tsv
+be kind of,3,153,"[22, 153]",SH6W.tsv
+true,1,153,"[134, 153]",SH6W.tsv
+gonna say,2,158,"[157, 158]",SH6W.tsv
+and i,2,169,"[7, 169]",SH6W.tsv
+new,1,169,"[7, 169]",SH6W.tsv
+i'll,1,169,"[47, 169, 179, 182]",SH6W.tsv
+you wear,2,169,"[110, 169]",SH6W.tsv
+ones,1,169,"[150, 169]",SH6W.tsv
+new slippers,2,169,"[165, 168, 169]",SH6W.tsv
+pikachu,1,178,"[169, 178]",SH6W.tsv
+next,1,171,"[35, 43, 171]",SH6W.tsv
+time,1,175,"[22, 103, 175, 177]",SH6W.tsv
+the time,2,175,"[101, 175, 177]",SH6W.tsv
+all the time,3,182,"[175, 177, 182]",SH6W.tsv
+if you,2,177,"[5, 43, 136, 177]",SH6W.tsv
+i just,2,177,"[83, 177]",SH6W.tsv
+be there,2,183,"[22, 183]",SH6W.tsv
+no way,2,188,"[162, 164, 167, 184, 187, 188]",SH6W.tsv
+big,1,194,"[41, 43, 194]",SH6W.tsv
+he's get,2,194,"[189, 194]",SH6W.tsv
+curl,1,194,"[189, 194]",SH6W.tsv
+finger,1,196,"[58, 196]",SH6W.tsv
+yummy,1,34,"[33, 34, 49, 50, 51, 65, 66]",SH6W.tsv
+yummy yummy,2,65,"[49, 65]",SH6W.tsv

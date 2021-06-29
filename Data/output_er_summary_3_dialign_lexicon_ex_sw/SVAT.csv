@@ -1,0 +1,127 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+juice,1,1,"[0, 1, 3, 5, 6, 7, 8, 9, 10, 11, 13, 73, 88, 104, 105, 106, 109]",SVAT.tsv
+i want juice,3,5,"[0, 5, 7, 104]",SVAT.tsv
+want,1,95,"[0, 17, 93, 95, 101, 104, 119, 132, 141, 223]",SVAT.tsv
+one,1,148,"[30, 47, 110, 148, 149, 154, 155, 173, 178]",SVAT.tsv
+look,1,56,"[55, 56, 96, 99, 170, 172, 196, 198, 202, 214]",SVAT.tsv
+flower,1,94,"[90, 94, 99, 100, 102, 103, 106, 107]",SVAT.tsv
+a i,2,163,"[112, 163]",SVAT.tsv
+woah,1,117,"[32, 117, 118]",SVAT.tsv
+yummy,1,209,"[143, 208, 209, 210]",SVAT.tsv
+two,1,159,"[122, 158, 159, 160, 162]",SVAT.tsv
+hello,1,166,"[165, 166, 188, 190, 203]",SVAT.tsv
+yuck,1,169,"[168, 169, 173, 174, 175, 176, 177, 215, 216]",SVAT.tsv
+suppose,1,187,"[156, 187]",SVAT.tsv
+three,1,195,"[192, 195, 197, 198, 199, 200]",SVAT.tsv
+bee,1,195,"[194, 195]",SVAT.tsv
+i want,2,7,"[0, 7, 104]",SVAT.tsv
+so i,2,58,"[0, 58, 88]",SVAT.tsv
+well,1,42,"[2, 15, 17, 42, 106, 140, 146, 178, 184]",SVAT.tsv
+get,1,34,"[4, 34, 47, 62, 67, 69, 109, 110, 112, 114, 121, 136, 138, 167]",SVAT.tsv
+like,1,32,"[12, 21, 25, 32, 41, 42, 44, 47, 50, 52, 54, 56, 73, 109, 110, 122, 141, 142, 176, 178, 202, 220]",SVAT.tsv
+okay,1,15,"[14, 15, 19, 20, 22, 46, 48, 53, 62, 71, 121, 136, 137, 147, 225]",SVAT.tsv
+milk,1,15,"[14, 15]",SVAT.tsv
+smell,1,16,"[15, 16, 17, 21, 23, 25, 26, 27, 30, 32, 34, 39, 41]",SVAT.tsv
+cos,1,48,"[15, 47, 48, 121, 122, 187]",SVAT.tsv
+you can,2,52,"[15, 23, 39, 47, 52]",SVAT.tsv
+do it,2,178,"[15, 21, 178]",SVAT.tsv
+do you,2,26,"[17, 26, 27, 29, 49, 51, 73, 78, 93, 95, 120, 130, 133, 134, 141, 223]",SVAT.tsv
+to smell,2,34,"[17, 34]",SVAT.tsv
+do you want,3,95,"[17, 95, 141]",SVAT.tsv
+you know,2,26,"[21, 26, 27, 33, 37, 110, 120, 136, 220]",SVAT.tsv
+know,1,42,"[21, 27, 33, 37, 42, 58, 73, 87, 107, 110, 119, 120, 136, 185, 198, 220]",SVAT.tsv
+bite,1,101,"[21, 72, 101, 113]",SVAT.tsv
+something,1,36,"[23, 36, 41, 88, 109, 136, 198]",SVAT.tsv
+good,1,42,"[23, 25, 42, 85, 140, 223]",SVAT.tsv
+eat,1,214,"[23, 143, 164, 214, 217]",SVAT.tsv
+trust,1,25,"[24, 25]",SVAT.tsv
+it's good,2,85,"[25, 85]",SVAT.tsv
+can't,1,27,"[24, 27]",SVAT.tsv
+do you know,3,27,"[26, 27]",SVAT.tsv
+can't smell,2,27,"[26, 27]",SVAT.tsv
+oh yeah,2,32,"[27, 32, 171]",SVAT.tsv
+yeah,1,32,"[27, 32, 73, 109, 136, 140, 147, 171, 204, 206]",SVAT.tsv
+actually,1,56,"[27, 56, 120]",SVAT.tsv
+there's,1,106,"[27, 106, 122, 146, 189, 191]",SVAT.tsv
+do you know that,4,120,"[27, 120]",SVAT.tsv
+have to,2,34,"[33, 34, 45, 67, 69]",SVAT.tsv
+think,1,34,"[33, 34, 47, 60, 78, 85, 88, 103, 112, 122, 124, 167, 217]",SVAT.tsv
+things,1,42,"[33, 42, 52, 56]",SVAT.tsv
+i think,2,88,"[33, 47, 88, 112, 122, 167]",SVAT.tsv
+to have,2,120,"[33, 45, 120]",SVAT.tsv
+sure,1,173,"[33, 138, 173]",SVAT.tsv
+really,1,35,"[32, 35, 108, 112, 119, 133]",SVAT.tsv
+best,1,39,"[14, 39]",SVAT.tsv
+it's the,2,48,"[39, 48]",SVAT.tsv
+a kid,2,41,"[34, 41]",SVAT.tsv
+or something,2,41,"[36, 41, 109]",SVAT.tsv
+kind of,2,42,"[41, 42, 136]",SVAT.tsv
+might,1,42,"[41, 42, 52, 88, 113]",SVAT.tsv
+summer,1,48,"[41, 48]",SVAT.tsv
+you like,2,73,"[41, 73, 110]",SVAT.tsv
+kid,1,120,"[41, 120, 136]",SVAT.tsv
+go,1,45,"[32, 45, 48, 52, 66, 110, 121, 164, 187, 217, 222]",SVAT.tsv
+play,1,45,"[42, 44, 45, 48, 51]",SVAT.tsv
+game,1,45,"[42, 45, 48, 51, 52]",SVAT.tsv
+go to,2,48,"[45, 48, 66, 164, 217]",SVAT.tsv
+play game,2,48,"[45, 48]",SVAT.tsv
+one of,2,47,"[30, 47, 110]",SVAT.tsv
+be like,2,47,"[32, 47, 110]",SVAT.tsv
+but i,2,47,"[42, 47]",SVAT.tsv
+of those,2,56,"[47, 56]",SVAT.tsv
+just get,2,110,"[47, 110]",SVAT.tsv
+like that,2,110,"[47, 110]",SVAT.tsv
+dad,1,50,"[49, 50, 52, 110, 132, 138, 139, 142]",SVAT.tsv
+trunks,1,73,"[55, 73]",SVAT.tsv
+be you,2,75,"[60, 75, 187]",SVAT.tsv
+have to get,3,62,"[34, 62, 67, 69, 109]",SVAT.tsv
+to get,2,110,"[62, 109, 110]",SVAT.tsv
+drink,1,110,"[64, 110, 134, 135, 136, 142]",SVAT.tsv
+spaghetti,1,142,"[66, 114, 142, 164, 205, 206]",SVAT.tsv
+can you,2,72,"[32, 72]",SVAT.tsv
+talk,1,72,"[32, 72]",SVAT.tsv
+you just,2,72,"[34, 72]",SVAT.tsv
+for a,2,124,"[72, 124, 138]",SVAT.tsv
+what's,1,78,"[75, 78, 80, 82, 84]",SVAT.tsv
+don't think,2,85,"[78, 85, 88]",SVAT.tsv
+what's up,2,88,"[78, 80, 82, 84, 88]",SVAT.tsv
+say,1,88,"[78, 88, 119, 134, 173, 176, 178, 179, 180, 184, 185, 186, 198]",SVAT.tsv
+think he's,2,167,"[78, 167]",SVAT.tsv
+he's,1,184,"[78, 119, 184, 220]",SVAT.tsv
+i don't,2,87,"[24, 48, 58, 85, 87, 88, 103, 119, 133, 198]",SVAT.tsv
+i don't know,3,87,"[58, 87, 119, 198]",SVAT.tsv
+do you want some chicken,5,95,"[93, 95]",SVAT.tsv
+chicken,1,101,"[93, 101]",SVAT.tsv
+i don't think,3,103,"[85, 88, 103]",SVAT.tsv
+though,1,107,"[32, 107]",SVAT.tsv
+elderflower,1,110,"[107, 109, 110, 112]",SVAT.tsv
+know that,2,120,"[107, 120]",SVAT.tsv
+yeah i,2,109,"[73, 109]",SVAT.tsv
+think it's,2,112,"[85, 112, 124]",SVAT.tsv
+get a,2,112,"[110, 112]",SVAT.tsv
+be a,2,113,"[34, 113]",SVAT.tsv
+erm i,2,119,"[30, 56, 119, 122, 136]",SVAT.tsv
+he just,2,119,"[110, 119, 142, 178]",SVAT.tsv
+of the,2,121,"[30, 52, 121]",SVAT.tsv
+the the,2,121,"[110, 121]",SVAT.tsv
+hate,1,128,"[127, 128]",SVAT.tsv
+hate it,2,129,"[128, 129]",SVAT.tsv
+i've,1,130,"[48, 50, 130]",SVAT.tsv
+never,1,130,"[88, 130, 139, 184]",SVAT.tsv
+shandy,1,130,"[120, 122, 127, 130, 131]",SVAT.tsv
+give,1,131,"[130, 131, 132]",SVAT.tsv
+i've never,2,135,"[130, 135]",SVAT.tsv
+you want,2,132,"[95, 132]",SVAT.tsv
+drink red bull,3,135,"[134, 135]",SVAT.tsv
+red bull,2,139,"[134, 139]",SVAT.tsv
+people,1,136,"[26, 136]",SVAT.tsv
+know you,2,136,"[110, 136, 185]",SVAT.tsv
+he do say,3,179,"[178, 179]",SVAT.tsv
+he do,2,179,"[178, 179, 181, 183]",SVAT.tsv
+he say,2,185,"[184, 185, 186]",SVAT.tsv
+he be,2,217,"[32, 34, 217]",SVAT.tsv
+top,1,217,"[56, 217]",SVAT.tsv
+think he,2,217,"[88, 217]",SVAT.tsv
+do you want some,4,223,"[95, 223]",SVAT.tsv
+bite of,2,223,"[101, 223]",SVAT.tsv
+erm the,2,227,"[44, 227]",SVAT.tsv

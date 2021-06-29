@@ -1,0 +1,300 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+that be,2,13,"[0, 13, 61, 63, 93, 194]",SF7M.tsv
+things,1,84,"[0, 84, 101, 102, 210, 290]",SF7M.tsv
+see,1,109,"[0, 43, 109, 275, 314]",SF7M.tsv
+a bite,2,5,"[2, 5, 8, 275]",SF7M.tsv
+take them off,3,6,"[5, 6]",SF7M.tsv
+yeah,1,30,"[8, 30, 31, 34, 35, 37, 38, 40, 41, 43, 50, 55, 58, 79, 86, 87, 94, 112, 114, 125, 130, 158, 162, 166, 169, 202, 210, 211, 216, 258, 288, 295, 301, 305, 307, 323, 325]",SF7M.tsv
+little,1,10,"[1, 3, 10, 18, 126, 143, 213]",SF7M.tsv
+we be,2,10,"[5, 10, 31, 133]",SF7M.tsv
+gonna,1,147,"[10, 96, 100, 101, 147, 149, 154, 158, 206, 216, 239, 266, 277, 281, 294, 298]",SF7M.tsv
+little bunny,2,213,"[10, 213]",SF7M.tsv
+bunnies,1,13,"[1, 3, 13, 16, 17, 46]",SF7M.tsv
+do pink bunnies,3,17,"[16, 17]",SF7M.tsv
+we do,2,17,"[16, 17, 29, 32, 33, 210]",SF7M.tsv
+pink,1,20,"[16, 17, 20, 46]",SF7M.tsv
+mm hm,2,21,"[9, 21, 23, 66, 124, 214, 318, 319, 326]",SF7M.tsv
+rabbit,1,29,"[28, 29]",SF7M.tsv
+eat,1,32,"[27, 28, 31, 32, 35, 106, 268, 325]",SF7M.tsv
+eat them,2,32,"[31, 32, 268, 325]",SF7M.tsv
+that's,1,35,"[22, 35, 53, 157, 254, 300, 304, 306, 314]",SF7M.tsv
+something,1,35,"[22, 35, 41, 62, 268]",SF7M.tsv
+i'm,1,41,"[35, 41, 97, 101, 108, 118, 151, 158, 201, 211, 262, 266, 298, 307, 311, 314, 315, 318]",SF7M.tsv
+that's what,2,53,"[35, 53, 157, 300]",SF7M.tsv
+make,1,35,"[13, 31, 35, 100, 151, 152, 154]",SF7M.tsv
+take,1,36,"[5, 6, 36, 40, 127]",SF7M.tsv
+definitely,1,74,"[40, 73, 74, 75]",SF7M.tsv
+where's the pizza,3,42,"[41, 42]",SF7M.tsv
+in your,2,218,"[42, 218, 220, 222]",SF7M.tsv
+cos,1,43,"[41, 43, 51, 96, 100, 109, 157, 194, 201, 209, 228, 237, 289, 300]",SF7M.tsv
+know,1,61,"[43, 61, 71, 83, 84, 100, 132, 171, 194, 241, 245, 262, 268, 298]",SF7M.tsv
+marshmallow,1,46,"[43, 46, 73, 75, 76]",SF7M.tsv
+cos i,2,109,"[43, 109, 228]",SF7M.tsv
+much,1,134,"[43, 134, 136, 138, 312]",SF7M.tsv
+properly,1,50,"[49, 50, 51]",SF7M.tsv
+and they,2,56,"[24, 46, 56, 163]",SF7M.tsv
+be like,2,46,"[24, 46, 48, 51, 56, 96, 185]",SF7M.tsv
+like,1,55,"[24, 37, 41, 53, 55, 56, 62, 68, 84, 85, 96, 154, 158, 159, 160, 162, 163, 164, 166, 168, 171, 183, 185, 192, 200, 233, 236, 298, 305]",SF7M.tsv
+they be,2,56,"[46, 48, 51, 56, 68, 104]",SF7M.tsv
+top,1,209,"[56, 209]",SF7M.tsv
+big,1,62,"[48, 62, 64, 113, 161]",SF7M.tsv
+like a,2,158,"[62, 85, 158, 166, 183, 185, 200]",SF7M.tsv
+it in,2,70,"[39, 70, 127, 129]",SF7M.tsv
+it be,2,73,"[44, 46, 60, 73, 75, 78, 133, 185, 194, 257, 258, 262, 275]",SF7M.tsv
+it be definitely marshmallow,4,75,"[73, 75]",SF7M.tsv
+fuzz,1,80,"[79, 80, 81, 82]",SF7M.tsv
+out of fuzz,3,81,"[80, 81]",SF7M.tsv
+what's,1,95,"[82, 95, 196]",SF7M.tsv
+get,1,90,"[14, 18, 39, 60, 90, 101, 109, 110, 120, 121, 123, 158, 160, 162, 164, 171, 201, 203, 211, 214, 221, 243, 255, 275, 277, 279, 281, 283, 322, 325]",SF7M.tsv
+think,1,90,"[36, 41, 59, 61, 78, 90, 104, 133, 157, 214, 237, 298, 303, 305, 306, 307, 308, 312, 326]",SF7M.tsv
+i don't,2,90,"[71, 90, 152, 264, 268, 296, 298, 306, 312]",SF7M.tsv
+time,1,93,"[65, 93, 150, 257, 277, 297]",SF7M.tsv
+a pound shop,3,93,"[72, 93, 95]",SF7M.tsv
+be like oh,3,96,"[24, 96]",SF7M.tsv
+need,1,96,"[28, 96]",SF7M.tsv
+they have,2,96,"[55, 57, 58, 96, 132, 168]",SF7M.tsv
+god,1,98,"[96, 98]",SF7M.tsv
+oh my,2,117,"[96, 117]",SF7M.tsv
+that you,2,100,"[5, 100, 210]",SF7M.tsv
+you know,2,100,"[61, 83, 84, 100, 132, 171, 241, 245, 298]",SF7M.tsv
+get some,2,120,"[101, 120, 214, 322]",SF7M.tsv
+i'm gonna get,3,158,"[101, 158]",SF7M.tsv
+do a,2,105,"[18, 102, 105, 214]",SF7M.tsv
+could,1,105,"[13, 18, 24, 105, 214, 221, 223, 226, 261]",SF7M.tsv
+need to eat,3,106,"[28, 106]",SF7M.tsv
+to eat,2,28,"[27, 28, 31, 106, 325]",SF7M.tsv
+one,1,110,"[13, 18, 110, 159, 240]",SF7M.tsv
+class,1,110,"[109, 110, 262]",SF7M.tsv
+we can,2,112,"[39, 112, 203]",SF7M.tsv
+purple hair,2,114,"[113, 114]",SF7M.tsv
+hair,1,151,"[113, 114, 127, 151, 157, 161, 171, 173, 176, 178, 181, 183]",SF7M.tsv
+purple,1,116,"[113, 114, 116, 118, 119, 121, 126, 225]",SF7M.tsv
+i've get,2,121,"[18, 121, 281, 283]",SF7M.tsv
+black,1,121,"[20, 121, 123, 126]",SF7M.tsv
+i'll,1,121,"[109, 121, 227, 238, 277, 326, 327]",SF7M.tsv
+i've,1,267,"[18, 121, 267, 281, 283, 313]",SF7M.tsv
+in the,2,129,"[22, 36, 129, 131, 214, 219, 261, 270, 272, 274, 285]",SF7M.tsv
+it look,2,129,"[44, 129]",SF7M.tsv
+look,1,51,"[27, 44, 51, 53, 76, 129, 154, 208, 214, 250]",SF7M.tsv
+i can't wait,3,129,"[109, 129]",SF7M.tsv
+to see,2,129,"[109, 129, 314]",SF7M.tsv
+bright,1,129,"[113, 129]",SF7M.tsv
+pound shop,2,131,"[72, 95, 131]",SF7M.tsv
+how much be this,4,134,"[131, 132, 134, 136, 138]",SF7M.tsv
+and do you know what,5,132,"[61, 132]",SF7M.tsv
+how much be this how much be this,8,134,"[132, 134]",SF7M.tsv
+be a,2,133,"[5, 78, 133, 157, 159]",SF7M.tsv
+need to,2,133,"[28, 133, 201, 216, 279, 290, 292]",SF7M.tsv
+i think,2,133,"[36, 61, 78, 104, 133, 157, 214, 237, 303, 305, 306, 307, 312]",SF7M.tsv
+a pound,2,133,"[72, 95, 133]",SF7M.tsv
+go to,2,133,"[31, 97, 102, 104, 133, 151, 208, 266, 283, 293]",SF7M.tsv
+go,1,201,"[31, 97, 102, 104, 133, 201, 208, 209, 210, 211, 235, 266, 277, 283, 293, 298]",SF7M.tsv
+say it be,3,185,"[133, 185, 257, 258, 262]",SF7M.tsv
+say,1,133,"[76, 133, 170, 179, 181, 182, 185, 191, 194, 257, 258, 262, 266, 271, 314]",SF7M.tsv
+hm,1,137,"[9, 137, 316, 319, 326]",SF7M.tsv
+have these bowl for years,5,140,"[135, 140]",SF7M.tsv
+we've,1,140,"[135, 140, 142, 145, 148, 201, 203, 255]",SF7M.tsv
+these bowl,2,140,"[139, 140]",SF7M.tsv
+for years,2,140,"[135, 139, 140, 145, 148]",SF7M.tsv
+we've have,2,142,"[140, 142, 145, 148]",SF7M.tsv
+wanna,1,154,"[41, 154]",SF7M.tsv
+change my,2,154,"[151, 154]",SF7M.tsv
+change,1,154,"[147, 149, 151, 154]",SF7M.tsv
+a punk,2,156,"[155, 156, 157, 159]",SF7M.tsv
+enough,1,267,"[157, 267]",SF7M.tsv
+punk,1,163,"[155, 156, 159, 163]",SF7M.tsv
+yeah and,2,169,"[31, 37, 55, 125, 162, 169, 210]",SF7M.tsv
+like that,2,171,"[41, 48, 171]",SF7M.tsv
+do you know,3,171,"[61, 171]",SF7M.tsv
+your hair,2,171,"[151, 171, 176]",SF7M.tsv
+hair like,2,183,"[171, 183]",SF7M.tsv
+load,1,173,"[57, 173]",SF7M.tsv
+hurt,1,175,"[174, 175]",SF7M.tsv
+no it,2,251,"[175, 251, 259]",SF7M.tsv
+do you,2,182,"[61, 132, 171, 182, 194, 229, 231, 268, 269, 302]",SF7M.tsv
+you say,2,182,"[170, 179, 181, 182, 191, 194, 258]",SF7M.tsv
+a porcupine,2,186,"[166, 167, 185, 186]",SF7M.tsv
+cute,1,188,"[18, 188]",SF7M.tsv
+okay,1,205,"[199, 205, 207, 238, 239, 273, 294, 315]",SF7M.tsv
+cos i'm,2,201,"[41, 201]",SF7M.tsv
+get to,2,325,"[201, 281, 283, 325]",SF7M.tsv
+i can't,2,206,"[109, 206]",SF7M.tsv
+shop,1,208,"[72, 95, 208]",SF7M.tsv
+for the,2,208,"[15, 208, 324, 325]",SF7M.tsv
+yeah and you can,4,210,"[37, 210]",SF7M.tsv
+around,1,210,"[168, 210]",SF7M.tsv
+go over the top,4,210,"[209, 210]",SF7M.tsv
+start,1,250,"[210, 250, 251, 252]",SF7M.tsv
+could do,2,214,"[18, 214]",SF7M.tsv
+i get,2,221,"[14, 109, 221]",SF7M.tsv
+if i,2,221,"[109, 221, 262]",SF7M.tsv
+bedroom,1,225,"[218, 220, 222, 224, 225]",SF7M.tsv
+actually,1,226,"[5, 16, 59, 226, 268, 277, 323]",SF7M.tsv
+gosh,1,235,"[117, 235]",SF7M.tsv
+have you,2,243,"[142, 145, 148, 243]",SF7M.tsv
+days,1,246,"[243, 246, 254, 260, 262]",SF7M.tsv
+can you,2,243,"[179, 181, 243, 269, 270, 321, 322]",SF7M.tsv
+six,1,247,"[244, 246, 247, 249, 250]",SF7M.tsv
+there's,1,255,"[22, 168, 255]",SF7M.tsv
+and then,2,255,"[39, 164, 166, 168, 255, 277, 281, 303]",SF7M.tsv
+no it's,2,261,"[198, 261]",SF7M.tsv
+nine,1,262,"[251, 258, 262]",SF7M.tsv
+have enough,2,268,"[267, 268]",SF7M.tsv
+harry potter jack in the box,6,274,"[270, 272, 274]",SF7M.tsv
+oh it be,3,275,"[44, 275]",SF7M.tsv
+i'll be,2,277,"[109, 277]",SF7M.tsv
+when we,2,279,"[5, 31, 279]",SF7M.tsv
+just like,2,298,"[41, 236, 298]",SF7M.tsv
+somebody,1,298,"[160, 298]",SF7M.tsv
+you do,2,300,"[153, 293, 300]",SF7M.tsv
+you can,2,303,"[37, 303]",SF7M.tsv
+years,1,303,"[135, 139, 145, 148, 303]",SF7M.tsv
+it's not,2,303,"[198, 289, 303]",SF7M.tsv
+it's like,2,305,"[166, 200, 305]",SF7M.tsv
+for a,2,316,"[15, 59, 213, 316]",SF7M.tsv
+some cupcakes and brownies,4,322,"[321, 322]",SF7M.tsv
+for the grow up,4,325,"[324, 325]",SF7M.tsv
+the grow up,3,325,"[324, 325]",SF7M.tsv
+kind of,2,60,"[0, 60, 62, 67, 303]",SF7M.tsv
+bunny,1,13,"[10, 13, 213]",SF7M.tsv
+what be,2,159,"[10, 43, 96, 154, 159, 206]",SF7M.tsv
+toy,1,12,"[11, 12]",SF7M.tsv
+be make,2,35,"[13, 35]",SF7M.tsv
+lovely,1,35,"[27, 35, 275]",SF7M.tsv
+if you,2,36,"[35, 36, 126]",SF7M.tsv
+well,1,123,"[35, 88, 96, 103, 121, 123, 210, 216, 233, 237, 262, 290, 300, 312, 314]",SF7M.tsv
+to be,2,299,"[35, 133, 296, 299, 302]",SF7M.tsv
+take a photograph,3,40,"[36, 40]",SF7M.tsv
+photograph,1,40,"[36, 40]",SF7M.tsv
+of it,2,43,"[36, 43, 298]",SF7M.tsv
+talk,1,45,"[43, 45]",SF7M.tsv
+really,1,55,"[43, 55, 115, 127, 129, 178, 235, 237, 268, 296, 298, 318]",SF7M.tsv
+you talk,2,107,"[43, 107]",SF7M.tsv
+yeah but i,3,301,"[43, 301]",SF7M.tsv
+properly form,2,51,"[49, 51]",SF7M.tsv
+and they be like,4,56,"[46, 56]",SF7M.tsv
+they be like,3,56,"[48, 51, 56]",SF7M.tsv
+sugar,1,58,"[56, 58, 60, 64, 70]",SF7M.tsv
+of sugar,2,62,"[58, 62, 64]",SF7M.tsv
+kind of sugar,3,62,"[60, 62]",SF7M.tsv
+be that,2,62,"[60, 62, 107]",SF7M.tsv
+and it,2,76,"[73, 76, 260]",SF7M.tsv
+out of,2,80,"[13, 80, 81]",SF7M.tsv
+i be,2,293,"[96, 214, 293, 312]",SF7M.tsv
+you be,2,311,"[96, 143, 235, 311]",SF7M.tsv
+to do,2,102,"[101, 102, 104, 201, 290]",SF7M.tsv
+today,1,244,"[101, 114, 244]",SF7M.tsv
+they're,1,103,"[102, 103]",SF7M.tsv
+do them for,3,104,"[103, 104]",SF7M.tsv
+do them,2,104,"[103, 104]",SF7M.tsv
+yes,1,195,"[105, 121, 195, 208, 234, 300, 309, 310, 326]",SF7M.tsv
+you've get,2,123,"[110, 123]",SF7M.tsv
+yeah i,2,307,"[114, 307]",SF7M.tsv
+wear purple,2,119,"[118, 119]",SF7M.tsv
+purple gloves,2,121,"[119, 121]",SF7M.tsv
+wear,1,121,"[119, 121]",SF7M.tsv
+and it's,2,127,"[123, 127]",SF7M.tsv
+but i,2,301,"[127, 301]",SF7M.tsv
+wait,1,152,"[109, 129, 152, 159, 254]",SF7M.tsv
+it's a,2,133,"[72, 133]",SF7M.tsv
+it be a,3,133,"[78, 133]",SF7M.tsv
+you don't,2,299,"[133, 237, 299]",SF7M.tsv
+we have,2,140,"[27, 140]",SF7M.tsv
+bowl,1,147,"[135, 139, 140, 147]",SF7M.tsv
+look at,2,154,"[76, 154, 208]",SF7M.tsv
+what what,2,159,"[154, 159, 274, 297]",SF7M.tsv
+crazy,1,157,"[102, 157]",SF7M.tsv
+be a punk,3,159,"[157, 159]",SF7M.tsv
+what will,2,297,"[157, 297]",SF7M.tsv
+spiky hair,2,181,"[161, 181]",SF7M.tsv
+you get,2,171,"[60, 171, 243, 322]",SF7M.tsv
+how you,2,171,"[107, 171]",SF7M.tsv
+put,1,173,"[13, 173, 210, 221, 223, 226, 239, 261, 302]",SF7M.tsv
+load of,2,173,"[58, 173]",SF7M.tsv
+no no,2,215,"[175, 215]",SF7M.tsv
+porcupine,1,193,"[166, 186, 193]",SF7M.tsv
+a porky pine,3,188,"[187, 188, 190]",SF7M.tsv
+add,1,194,"[126, 194]",SF7M.tsv
+column addition,2,196,"[195, 196]",SF7M.tsv
+column,1,197,"[196, 197]",SF7M.tsv
+right,1,265,"[201, 229, 265]",SF7M.tsv
+weekend,1,254,"[203, 214, 254, 265, 266]",SF7M.tsv
+remember,1,215,"[206, 215]",SF7M.tsv
+be we,2,265,"[206, 265]",SF7M.tsv
+easter,1,208,"[13, 208, 210, 243, 266]",SF7M.tsv
+and we,2,208,"[31, 208]",SF7M.tsv
+egg,1,212,"[13, 212]",SF7M.tsv
+giant,1,212,"[46, 212]",SF7M.tsv
+i could,2,214,"[13, 214, 221]",SF7M.tsv
+look at the,3,214,"[76, 214]",SF7M.tsv
+at the,2,214,"[76, 214, 235]",SF7M.tsv
+kitchen,1,219,"[214, 219]",SF7M.tsv
+be do,2,301,"[214, 301]",SF7M.tsv
+i could put,3,223,"[13, 223, 226]",SF7M.tsv
+toast,1,236,"[231, 233, 236, 238]",SF7M.tsv
+slice,1,240,"[231, 240]",SF7M.tsv
+don't have,2,233,"[152, 233, 299]",SF7M.tsv
+spicy prawn,2,233,"[232, 233]",SF7M.tsv
+have to,2,239,"[27, 239, 266, 299, 303]",SF7M.tsv
+school days,2,254,"[243, 254]",SF7M.tsv
+but we've,2,255,"[145, 255]",SF7M.tsv
+so it's,2,263,"[259, 263]",SF7M.tsv
+monday,1,262,"[250, 262]",SF7M.tsv
+last,1,297,"[262, 266, 297]",SF7M.tsv
+you have,2,264,"[197, 264]",SF7M.tsv
+ask,1,268,"[99, 268]",SF7M.tsv
+because you're,2,297,"[268, 297]",SF7M.tsv
+never,1,313,"[268, 313]",SF7M.tsv
+though,1,275,"[102, 275]",SF7M.tsv
+get a,2,275,"[123, 275]",SF7M.tsv
+be on,2,277,"[48, 277]",SF7M.tsv
+if we're gonna,3,277,"[147, 277]",SF7M.tsv
+we're gonna,2,277,"[149, 277]",SF7M.tsv
+we're,1,277,"[215, 277]",SF7M.tsv
+school,1,279,"[254, 279]",SF7M.tsv
+asap,1,284,"[279, 284, 286]",SF7M.tsv
+a a,2,285,"[13, 285]",SF7M.tsv
+secretly marry,2,294,"[293, 294]",SF7M.tsv
+marry,1,299,"[294, 296, 299]",SF7M.tsv
+a lot of,3,298,"[102, 298]",SF7M.tsv
+where you,2,298,"[197, 298]",SF7M.tsv
+scar of,2,298,"[297, 298]",SF7M.tsv
+happen,1,298,"[297, 298]",SF7M.tsv
+choose to be with,4,299,"[298, 299]",SF7M.tsv
+person,1,299,"[298, 299]",SF7M.tsv
+i might,2,301,"[298, 301, 302]",SF7M.tsv
+differently,1,301,"[298, 301]",SF7M.tsv
+to be with,3,302,"[298, 302, 306]",SF7M.tsv
+promise,1,302,"[300, 302, 318]",SF7M.tsv
+forever,1,303,"[299, 303]",SF7M.tsv
+it's quite,2,305,"[69, 305]",SF7M.tsv
+quite,1,307,"[305, 307]",SF7M.tsv
+no i,2,306,"[236, 306, 312]",SF7M.tsv
+to be with that person,5,306,"[299, 306]",SF7M.tsv
+quite clever,2,307,"[306, 307, 308]",SF7M.tsv
+better at handwrite,3,312,"[311, 312]",SF7M.tsv
+handwrite,1,312,"[311, 312, 315, 317]",SF7M.tsv
+whiteboard,1,313,"[312, 313]",SF7M.tsv
+write,1,313,"[312, 313, 314]",SF7M.tsv
+better,1,315,"[312, 315, 317]",SF7M.tsv
+because it's,2,314,"[72, 314]",SF7M.tsv
+i'm quite,2,314,"[307, 314]",SF7M.tsv
+tuesday,1,318,"[250, 318]",SF7M.tsv
+seven,1,318,"[250, 318]",SF7M.tsv
+find,1,25,"[5, 25]",SF7M.tsv
+a little,2,126,"[18, 126, 213]",SF7M.tsv
+look so,2,44,"[27, 44]",SF7M.tsv
+face,1,282,"[53, 282]",SF7M.tsv
+they have load,3,58,"[57, 58]",SF7M.tsv
+what i,2,61,"[25, 61]",SF7M.tsv
+like they,2,68,"[55, 68]",SF7M.tsv
+i cos,2,289,"[109, 289]",SF7M.tsv
+we've have you,3,148,"[142, 148]",SF7M.tsv
+we've have you for years,5,148,"[145, 148]",SF7M.tsv
+make up,2,152,"[151, 152]",SF7M.tsv
+like a porcupine,3,185,"[166, 185]",SF7M.tsv
+a pork,2,190,"[189, 190]",SF7M.tsv
+i just,2,236,"[211, 236]",SF7M.tsv
+it start at,3,251,"[250, 251, 252]",SF7M.tsv
+mum,1,270,"[265, 270]",SF7M.tsv
+to eat them,3,325,"[31, 325]",SF7M.tsv

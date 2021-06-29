@@ -1,0 +1,658 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+they might,2,584,"[0, 584]",SCZZ.tsv
+probably,1,621,"[0, 403, 432, 621, 624, 643]",SCZZ.tsv
+like,1,31,"[2, 29, 31, 34, 35, 40, 42, 48, 89, 93, 137, 147, 151, 161, 163, 172, 176, 180, 182, 186, 188, 190, 192, 194, 196, 198, 202, 204, 225, 236, 237, 239, 241, 242, 243, 244, 252, 259, 263, 272, 290, 306, 350, 385, 399, 409, 415, 432, 435, 437, 440, 441, 442, 488, 492, 498, 541, 564, 569, 571, 572, 582, 592, 596, 599, 600, 609, 611, 612, 613, 619, 624, 627, 640, 642, 643, 645, 653, 657, 659, 663, 667, 682, 688, 691, 698, 701, 705, 707, 709, 711, 713, 715, 717, 719]",SCZZ.tsv
+say,1,31,"[2, 31, 54, 92, 212, 259, 284, 285, 304, 449, 451, 521, 523, 600, 611, 622, 633, 635, 638, 640, 642, 643, 663]",SCZZ.tsv
+right,1,143,"[2, 64, 143, 247, 258, 419, 570, 600, 614, 624, 652, 656]",SCZZ.tsv
+cos,1,127,"[2, 6, 127, 143, 144, 147, 154, 196, 215, 259, 304, 329, 371, 373, 409, 442, 527, 574, 600, 605, 608, 620, 648, 653, 670]",SCZZ.tsv
+would,1,206,"[2, 95, 206, 424, 581, 592, 593, 601, 602, 608, 622, 655, 705, 711, 713]",SCZZ.tsv
+anything,1,65,"[4, 65, 204, 642, 645]",SCZZ.tsv
+i don't,2,134,"[4, 71, 134, 154, 194, 231, 346, 356, 418, 431, 482, 527, 544, 568, 585, 597, 620, 635, 640, 648]",SCZZ.tsv
+number,1,242,"[4, 154, 242, 243]",SCZZ.tsv
+think,1,135,"[4, 12, 14, 62, 91, 135, 137, 146, 165, 166, 170, 176, 194, 212, 259, 284, 285, 302, 396, 432, 498, 506, 510, 523, 567, 597, 622, 635, 648, 681, 719]",SCZZ.tsv
+case,1,419,"[4, 419, 432]",SCZZ.tsv
+can't,1,65,"[6, 34, 62, 65, 68, 99, 101, 103, 159, 188, 196, 217, 259, 294, 355, 362, 365, 380, 448, 467, 469, 474, 477, 532, 582, 618]",SCZZ.tsv
+give,1,280,"[6, 40, 280, 536, 541, 543, 553, 554, 559, 611]",SCZZ.tsv
+money,1,394,"[6, 394, 395, 648]",SCZZ.tsv
+sound,1,242,"[14, 242, 244, 304, 578, 600, 635]",SCZZ.tsv
+i think that,3,284,"[14, 284]",SCZZ.tsv
+i think,2,135,"[14, 62, 135, 137, 166, 170, 176, 212, 284, 285, 302, 396, 506, 510, 523, 567, 635, 648, 681, 719]",SCZZ.tsv
+good,1,81,"[14, 57, 73, 81, 119, 228, 265, 396, 606]",SCZZ.tsv
+it could be,3,17,"[16, 17]",SCZZ.tsv
+could,1,442,"[17, 442, 600]",SCZZ.tsv
+i just,2,19,"[9, 19, 103, 132, 352, 392, 618, 640, 642, 664]",SCZZ.tsv
+see,1,69,"[19, 69, 156, 318, 342, 346, 369, 442, 545, 635]",SCZZ.tsv
+game,1,210,"[19, 49, 209, 210, 229, 237, 241, 244, 341, 354, 418, 480, 481]",SCZZ.tsv
+things,1,240,"[19, 240, 640, 667]",SCZZ.tsv
+this game,2,341,"[19, 341, 354, 418, 480]",SCZZ.tsv
+tomorrow,1,582,"[24, 269, 461, 582]",SCZZ.tsv
+yeah,1,29,"[1, 3, 29, 33, 36, 39, 43, 45, 58, 83, 88, 91, 99, 109, 114, 118, 119, 124, 130, 135, 137, 139, 143, 144, 151, 152, 155, 164, 177, 179, 184, 186, 243, 248, 255, 259, 260, 297, 301, 306, 332, 380, 407, 408, 410, 490, 493, 497, 519, 561, 586, 593, 602, 607, 616, 619, 623, 624, 638, 644, 645, 647, 660, 661, 665, 671, 674, 678, 689, 694, 700, 704, 708, 717]",SCZZ.tsv
+something,1,37,"[29, 37, 137, 157, 178, 180, 239, 241, 399, 604, 611, 613, 635, 642, 648, 663]",SCZZ.tsv
+like that,2,204,"[29, 48, 93, 204, 241, 244, 306, 350, 399, 619]",SCZZ.tsv
+be like,2,34,"[31, 34, 137, 243, 259, 385, 592, 611, 653, 691, 698, 701]",SCZZ.tsv
+that be,2,81,"[34, 36, 81, 107, 108, 136, 142, 180, 362, 529, 602, 606]",SCZZ.tsv
+be not,2,419,"[34, 419, 437, 639]",SCZZ.tsv
+one,1,38,"[8, 38, 58, 83, 113, 119, 124, 142, 186, 188, 215, 217, 246, 259, 306, 317, 396, 409, 469, 530, 535, 546, 598, 640, 651, 653, 655]",SCZZ.tsv
+i'll,1,282,"[38, 282, 467, 469, 527, 635, 642, 648]",SCZZ.tsv
+one of,2,186,"[38, 186, 306]",SCZZ.tsv
+of my,2,691,"[38, 691, 701]",SCZZ.tsv
+hair,1,257,"[40, 257, 695, 698]",SCZZ.tsv
+do my,2,266,"[40, 44, 266, 312, 657]",SCZZ.tsv
+get,1,42,"[8, 9, 42, 48, 68, 111, 126, 137, 153, 154, 160, 172, 182, 186, 188, 196, 204, 216, 236, 239, 250, 265, 299, 304, 306, 381, 392, 442, 461, 467, 470, 544, 560, 564, 582, 600, 601, 605, 609, 624, 640, 642, 643, 645, 646, 648, 650, 655, 663, 664, 667, 675, 682, 695, 698, 713]",SCZZ.tsv
+i get,2,153,"[42, 137, 153, 250, 304, 392, 640, 646, 648, 655, 675]",SCZZ.tsv
+bite,1,184,"[42, 44, 157, 184, 306, 373, 430, 452, 499, 500, 618, 635, 637, 679]",SCZZ.tsv
+a bite,2,373,"[42, 44, 157, 373, 430, 452, 499, 500, 618, 635, 637, 679]",SCZZ.tsv
+get it,2,467,"[42, 137, 467, 564]",SCZZ.tsv
+go,1,48,"[30, 48, 78, 108, 159, 172, 180, 188, 204, 220, 247, 380, 415, 420, 430, 452, 458, 461, 499, 500, 504, 506, 511, 518, 534, 555, 583]",SCZZ.tsv
+i could,2,442,"[48, 442]",SCZZ.tsv
+what's,1,49,"[5, 49, 122, 140, 326, 327, 375, 384, 426, 552, 583]",SCZZ.tsv
+word,1,50,"[49, 50, 51, 108, 253, 257, 272, 311, 377, 385, 425, 426, 427, 434, 437, 439, 512, 521, 522, 600, 601, 605, 609, 613]",SCZZ.tsv
+word up,2,51,"[50, 51, 272, 385]",SCZZ.tsv
+carrot,1,53,"[52, 53, 54]",SCZZ.tsv
+no i,2,101,"[54, 101, 204, 278, 284, 350, 352, 599]",SCZZ.tsv
+i say,2,304,"[54, 304, 643]",SCZZ.tsv
+i'm,1,57,"[8, 57, 74, 126, 127, 217, 227, 229, 230, 258, 259, 263, 272, 273, 297, 307, 311, 403, 452, 474, 498, 499, 518, 527, 590, 618, 619, 698, 701]",SCZZ.tsv
+can't believe i,3,103,"[62, 103]",SCZZ.tsv
+it be,2,64,"[18, 64, 97, 113, 135, 137, 209, 243, 357, 396, 419, 454, 460, 507, 565, 567, 639, 651, 653]",SCZZ.tsv
+be that,2,128,"[64, 95, 128, 241, 243, 245, 253, 334, 425, 490]",SCZZ.tsv
+isn't it,2,134,"[64, 134, 146, 148, 679]",SCZZ.tsv
+know,1,127,"[71, 93, 127, 132, 134, 150, 154, 157, 196, 198, 231, 234, 249, 259, 299, 317, 388, 415, 418, 421, 431, 470, 473, 529, 537, 542, 543, 568, 574, 599, 614, 618, 624, 635, 650, 663, 670, 682]",SCZZ.tsv
+i don't know,3,134,"[71, 134, 154, 231, 418, 431, 635]",SCZZ.tsv
+horseshoe,1,79,"[65, 79]",SCZZ.tsv
+do it,2,103,"[79, 103, 143, 282, 355, 376, 380, 394, 418, 419, 511, 525, 526, 527, 581, 582]",SCZZ.tsv
+well,1,79,"[8, 79, 127, 134, 137, 211, 238, 253, 286, 330, 385, 423, 529, 582, 585, 618, 679, 698, 700]",SCZZ.tsv
+you've do,2,360,"[79, 360]",SCZZ.tsv
+rubber,1,99,"[87, 99, 100]",SCZZ.tsv
+think that,2,284,"[91, 259, 284]",SCZZ.tsv
+ball,1,306,"[91, 306]",SCZZ.tsv
+i be,2,91,"[58, 91, 137, 138, 214, 250, 259, 460, 530, 581]",SCZZ.tsv
+in like,2,93,"[35, 93, 409, 440, 624]",SCZZ.tsv
+as in,2,257,"[93, 252, 257, 440, 706]",SCZZ.tsv
+i mean,2,184,"[93, 184, 200, 204, 304, 618, 709]",SCZZ.tsv
+bore,1,304,"[93, 304, 518]",SCZZ.tsv
+mean,1,131,"[93, 131, 184, 200, 204, 271, 304, 350, 352, 419, 440, 444, 618, 709]",SCZZ.tsv
+that but,2,95,"[88, 95]",SCZZ.tsv
+toe,1,97,"[95, 97, 98, 100]",SCZZ.tsv
+it would,2,593,"[95, 592, 593]",SCZZ.tsv
+yes,1,126,"[96, 126, 127, 254, 257, 322, 378]",SCZZ.tsv
+that doesn't,2,306,"[102, 306]",SCZZ.tsv
+make sense,2,306,"[102, 259, 306, 390]",SCZZ.tsv
+make,1,180,"[102, 180, 243, 259, 306, 390, 392, 399, 452, 469, 476, 578, 715]",SCZZ.tsv
+muffin,1,106,"[105, 106]",SCZZ.tsv
+it's not,2,108,"[63, 65, 108, 215, 259, 340, 376, 419, 439, 454, 640, 657, 682]",SCZZ.tsv
+similar,1,111,"[108, 111]",SCZZ.tsv
+word that,2,311,"[108, 311]",SCZZ.tsv
+even,1,537,"[108, 537, 568, 601, 609, 613, 682, 691, 705]",SCZZ.tsv
+okay,1,110,"[81, 110, 211, 258, 324, 337, 354, 357, 365, 386, 499, 570, 573, 576, 600]",SCZZ.tsv
+we've,1,114,"[83, 114, 265]",SCZZ.tsv
+already,1,246,"[114, 246, 307]",SCZZ.tsv
+oh yeah,2,119,"[83, 99, 118, 119, 124, 144, 380, 665, 694, 708]",SCZZ.tsv
+cloud,1,119,"[117, 119, 134]",SCZZ.tsv
+good one,2,396,"[119, 396]",SCZZ.tsv
+feline,1,144,"[141, 144, 146]",SCZZ.tsv
+female,1,147,"[146, 147]",SCZZ.tsv
+cat,1,147,"[146, 147]",SCZZ.tsv
+it's just,2,270,"[146, 270, 272, 293, 613]",SCZZ.tsv
+be a,2,311,"[146, 311, 396, 424, 434, 522, 565, 655, 705, 709]",SCZZ.tsv
+i use,2,330,"[146, 330]",SCZZ.tsv
+use,1,330,"[146, 237, 330, 331, 527, 544, 664]",SCZZ.tsv
+i use to,3,664,"[146, 664]",SCZZ.tsv
+wanna,1,154,"[9, 154, 203, 204, 359, 527, 544, 620]",SCZZ.tsv
+friends,1,154,"[31, 154, 475]",SCZZ.tsv
+that's,1,154,"[80, 111, 143, 154, 173, 184, 185, 215, 228, 259, 305, 321, 330, 333, 364, 366, 369, 390, 400, 427, 452, 460, 463, 472, 504, 510, 536, 546, 548, 572, 574, 578, 605, 621, 624, 626, 630, 648, 653, 663, 692, 698, 700, 714]",SCZZ.tsv
+there's,1,154,"[90, 92, 154, 165, 190, 314, 611, 618, 669]",SCZZ.tsv
+quite,1,272,"[154, 272]",SCZZ.tsv
+a lot,2,190,"[154, 165, 190, 476, 605, 611]",SCZZ.tsv
+always,1,624,"[154, 624, 627, 669]",SCZZ.tsv
+but i,2,157,"[65, 67, 134, 157, 202, 362, 466, 620, 635, 643, 709]",SCZZ.tsv
+i didn't,2,350,"[157, 350]",SCZZ.tsv
+in a,2,204,"[157, 204, 247, 595]",SCZZ.tsv
+i can't,2,159,"[65, 68, 99, 101, 103, 159, 217, 294, 355, 362, 365, 448, 469, 474, 477, 532, 582]",SCZZ.tsv
+i can't believe,3,159,"[103, 159, 477]",SCZZ.tsv
+back,1,274,"[159, 274, 276, 280, 392, 615, 633]",SCZZ.tsv
+to the,2,172,"[159, 172, 188, 306, 698]",SCZZ.tsv
+have to,2,196,"[159, 172, 196, 243, 442, 536, 642]",SCZZ.tsv
+crazy,1,160,"[159, 160, 173, 506, 600]",SCZZ.tsv
+back to,2,615,"[159, 615]",SCZZ.tsv
+fuck,1,161,"[63, 124, 161, 380, 537, 551]",SCZZ.tsv
+i wonder,2,208,"[161, 208, 299]",SCZZ.tsv
+they be,2,645,"[161, 645]",SCZZ.tsv
+but like,2,599,"[163, 599]",SCZZ.tsv
+pretty,1,182,"[167, 182, 192, 247, 705, 706, 707]",SCZZ.tsv
+wow,1,195,"[169, 183, 195, 696]",SCZZ.tsv
+really,1,171,"[113, 138, 145, 153, 171, 180, 184, 197, 241, 244, 301, 304, 359, 379, 396, 400, 409, 460, 464, 567, 618, 630, 648, 651, 692, 696, 702, 705, 709]",SCZZ.tsv
+god,1,213,"[189, 213, 233, 236, 240, 321, 414, 460, 471, 476, 477, 514, 548, 557, 628, 692]",SCZZ.tsv
+oh my god,3,233,"[189, 233, 240, 460, 471, 476, 514, 548, 628, 692]",SCZZ.tsv
+my god,2,236,"[189, 236, 514, 548, 628, 692]",SCZZ.tsv
+shit,1,201,"[101, 124, 162, 184, 196, 200, 201, 312, 361, 397, 421, 422]",SCZZ.tsv
+it's a,2,201,"[134, 201, 265, 383]",SCZZ.tsv
+life,1,201,"[196, 200, 201, 240, 250, 347]",SCZZ.tsv
+basically,1,201,"[162, 180, 182, 186, 196, 201, 410]",SCZZ.tsv
+i do,2,207,"[76, 207, 215, 286, 471, 626]",SCZZ.tsv
+ah dear,2,207,"[97, 207, 292]",SCZZ.tsv
+first,1,209,"[97, 99, 209, 461, 567]",SCZZ.tsv
+online game,2,210,"[209, 210]",SCZZ.tsv
+we're,1,210,"[209, 210]",SCZZ.tsv
+online,1,210,"[209, 210]",SCZZ.tsv
+and now,2,442,"[209, 442]",SCZZ.tsv
+phone,1,273,"[212, 273, 274, 276, 280]",SCZZ.tsv
+i think that say,4,284,"[212, 284]",SCZZ.tsv
+wolf,1,215,"[214, 215]",SCZZ.tsv
+there we go,3,220,"[78, 220, 380, 458]",SCZZ.tsv
+still,1,229,"[81, 229, 271, 370, 373, 380, 419, 537, 601]",SCZZ.tsv
+ah i,2,294,"[250, 294, 392, 564, 618]",SCZZ.tsv
+bold,1,252,"[251, 252, 254]",SCZZ.tsv
+yeah i,2,58,"[1, 58, 88, 99, 135, 137, 259, 645, 661]",SCZZ.tsv
+one that's,2,259,"[215, 259]",SCZZ.tsv
+do you,2,259,"[241, 259, 268, 334, 470, 481, 622, 663, 688]",SCZZ.tsv
+i'm just,2,272,"[259, 272, 311, 701]",SCZZ.tsv
+that make sense,3,390,"[259, 390]",SCZZ.tsv
+point,1,336,"[188, 259, 336, 424, 527, 606]",SCZZ.tsv
+gonna,1,263,"[124, 263, 376, 425, 527, 639]",SCZZ.tsv
+do this,2,263,"[217, 246, 263, 294, 540]",SCZZ.tsv
+to be,2,263,"[172, 263, 295, 419, 460, 636]",SCZZ.tsv
+i'm gonna,2,527,"[263, 527]",SCZZ.tsv
+not get,2,265,"[111, 265]",SCZZ.tsv
+essay,1,267,"[266, 267, 271, 272, 273, 275, 442]",SCZZ.tsv
+poot,1,288,"[284, 285, 287, 288, 290, 291, 365, 415, 416, 417, 502, 503]",SCZZ.tsv
+read,1,293,"[115, 293, 477]",SCZZ.tsv
+funny,1,293,"[270, 272, 293, 403, 463]",SCZZ.tsv
+much,1,182,"[126, 182, 192, 206, 247, 299, 395, 476, 618, 620]",SCZZ.tsv
+with the,2,299,"[147, 188, 299, 653]",SCZZ.tsv
+siri,1,302,"[299, 302]",SCZZ.tsv
+i actually,2,354,"[299, 354]",SCZZ.tsv
+siri voice,2,303,"[302, 303]",SCZZ.tsv
+voice,1,303,"[302, 303, 352]",SCZZ.tsv
+confuse,1,307,"[126, 138, 307, 530]",SCZZ.tsv
+this one,2,317,"[8, 83, 113, 124, 217, 246, 317]",SCZZ.tsv
+be it,2,317,"[221, 317, 338, 388, 460, 495, 638]",SCZZ.tsv
+oh god,2,414,"[321, 414, 460, 477]",SCZZ.tsv
+four,1,327,"[241, 242, 243, 327, 329, 653]",SCZZ.tsv
+be the,2,327,"[248, 327, 413, 567, 587]",SCZZ.tsv
+brain score,2,327,"[326, 327]",SCZZ.tsv
+the star,2,328,"[327, 328]",SCZZ.tsv
+hundred,1,330,"[327, 329, 330, 609, 613]",SCZZ.tsv
+start,1,329,"[111, 258, 271, 329]",SCZZ.tsv
+i've,1,329,"[126, 156, 246, 312, 316, 329, 373, 381, 418, 461, 544, 546, 582, 657, 667]",SCZZ.tsv
+thirty,1,329,"[241, 242, 329, 535]",SCZZ.tsv
+hundred and,2,330,"[329, 330]",SCZZ.tsv
+use hint,2,331,"[330, 331]",SCZZ.tsv
+hint,1,336,"[330, 331, 334, 336, 527, 528, 541, 543]",SCZZ.tsv
+thing,1,334,"[192, 204, 328, 334, 385, 657]",SCZZ.tsv
+many,1,442,"[334, 442, 544]",SCZZ.tsv
+stop,1,365,"[246, 365, 499]",SCZZ.tsv
+okay i,2,365,"[354, 357, 365, 499]",SCZZ.tsv
+catch,1,368,"[367, 368, 369, 377]",SCZZ.tsv
+wrong,1,375,"[103, 375]",SCZZ.tsv
+wrong now,2,418,"[375, 418]",SCZZ.tsv
+that make,2,399,"[390, 399]",SCZZ.tsv
+dear,1,401,"[97, 292, 401]",SCZZ.tsv
+me too,2,689,"[403, 689, 690, 698]",SCZZ.tsv
+in like a,3,409,"[35, 409, 440]",SCZZ.tsv
+this be,2,409,"[103, 124, 153, 409, 530]",SCZZ.tsv
+upset,1,409,"[392, 409]",SCZZ.tsv
+a really,2,409,"[396, 409, 651, 705, 709]",SCZZ.tsv
+like a,2,182,"[35, 182, 192, 385, 409, 440, 441, 569, 653]",SCZZ.tsv
+oh no,2,411,"[284, 405, 411]",SCZZ.tsv
+let,1,415,"[69, 318, 374, 376, 415, 600]",SCZZ.tsv
+someone,1,415,"[170, 217, 348, 415]",SCZZ.tsv
+change,1,415,"[18, 302, 415, 417]",SCZZ.tsv
+i have,2,442,"[417, 442, 476, 643]",SCZZ.tsv
+everyone's,1,421,"[326, 421]",SCZZ.tsv
+i know,2,421,"[127, 150, 234, 388, 421, 473, 529, 542, 543, 574, 599, 618, 624]",SCZZ.tsv
+immerse in their own shit,5,422,"[421, 422]",SCZZ.tsv
+it but,2,424,"[134, 424]",SCZZ.tsv
+a word,2,426,"[253, 425, 426, 427, 434, 437, 439, 522]",SCZZ.tsv
+brain,1,336,"[326, 327, 336, 430, 558]",SCZZ.tsv
+go a bite,3,499,"[430, 499]",SCZZ.tsv
+be your,2,684,"[430, 684]",SCZZ.tsv
+of the,2,432,"[413, 432, 682]",SCZZ.tsv
+'s,1,432,"[419, 432, 518]",SCZZ.tsv
+think like,2,432,"[176, 432, 498]",SCZZ.tsv
+stair,1,434,"[433, 434]",SCZZ.tsv
+sit,1,436,"[282, 436]",SCZZ.tsv
+flood,1,440,"[435, 437, 439, 440, 441, 442, 443, 444, 445, 446, 447]",SCZZ.tsv
+like a flood,3,441,"[440, 441]",SCZZ.tsv
+never,1,449,"[244, 442, 449, 451, 650, 663]",SCZZ.tsv
+twist,1,458,"[457, 458]",SCZZ.tsv
+i've get,2,461,"[126, 461, 582, 667]",SCZZ.tsv
+post,1,461,"[405, 461]",SCZZ.tsv
+get my,2,650,"[461, 650, 675]",SCZZ.tsv
+need,1,499,"[464, 499]",SCZZ.tsv
+i need,2,499,"[466, 499]",SCZZ.tsv
+know what,2,470,"[198, 470, 543, 568, 650, 663]",SCZZ.tsv
+that's what,2,510,"[472, 504, 510, 626, 663, 698]",SCZZ.tsv
+smash,1,473,"[126, 473]",SCZZ.tsv
+write,1,473,"[272, 273, 405, 442, 473, 601, 609, 613]",SCZZ.tsv
+and i,2,473,"[137, 166, 200, 202, 204, 442, 473, 529, 544, 594]",SCZZ.tsv
+and i know,3,529,"[473, 529]",SCZZ.tsv
+know it,2,537,"[127, 473, 537]",SCZZ.tsv
+big,1,474,"[242, 474, 640]",SCZZ.tsv
+come,1,474,"[275, 279, 311, 474]",SCZZ.tsv
+god i,2,477,"[471, 477]",SCZZ.tsv
+oh oh,2,479,"[425, 479]",SCZZ.tsv
+cola,1,491,"[484, 486, 489, 491]",SCZZ.tsv
+pair,1,495,"[35, 495]",SCZZ.tsv
+what be,2,495,"[241, 311, 419, 425, 452, 490, 495, 568]",SCZZ.tsv
+straw,1,497,"[496, 497, 498]",SCZZ.tsv
+you be,2,500,"[233, 500]",SCZZ.tsv
+be go,2,500,"[452, 500, 506]",SCZZ.tsv
+go a bite mad,4,500,"[499, 500]",SCZZ.tsv
+but it,2,507,"[88, 99, 507, 567]",SCZZ.tsv
+it's so,2,650,"[507, 650]",SCZZ.tsv
+what do,2,511,"[76, 131, 394, 511, 663]",SCZZ.tsv
+i'm so,2,518,"[74, 227, 518]",SCZZ.tsv
+tire and,2,518,"[304, 518]",SCZZ.tsv
+now we,2,526,"[63, 526]",SCZZ.tsv
+cannae do it,3,526,"[525, 526]",SCZZ.tsv
+no erm,2,554,"[341, 554]",SCZZ.tsv
+give up,2,554,"[553, 554]",SCZZ.tsv
+sense,1,559,"[306, 390, 559]",SCZZ.tsv
+instead,1,560,"[272, 560]",SCZZ.tsv
+you get,2,564,"[236, 239, 306, 564, 600, 663]",SCZZ.tsv
+don't even know,3,568,"[537, 568]",SCZZ.tsv
+cool,1,572,"[153, 572, 656, 692, 697]",SCZZ.tsv
+be you do,3,579,"[419, 579]",SCZZ.tsv
+be you,2,579,"[30, 419, 579, 581]",SCZZ.tsv
+do it tomorrow,3,582,"[581, 582]",SCZZ.tsv
+want,1,585,"[295, 392, 585]",SCZZ.tsv
+i don't want,3,585,"[356, 585]",SCZZ.tsv
+don't want,2,585,"[356, 585]",SCZZ.tsv
+well i,2,585,"[582, 585, 618]",SCZZ.tsv
+happen,1,632,"[583, 585, 632, 698]",SCZZ.tsv
+it won't,2,587,"[69, 587, 588]",SCZZ.tsv
+ha,1,600,"[78, 600]",SCZZ.tsv
+when you,2,600,"[196, 236, 241, 306, 437, 600]",SCZZ.tsv
+two,1,600,"[241, 242, 243, 311, 600, 601]",SCZZ.tsv
+you don't,2,600,"[182, 186, 465, 536, 600]",SCZZ.tsv
+you just,2,600,"[467, 600]",SCZZ.tsv
+kick,1,600,"[584, 597, 599, 600]",SCZZ.tsv
+be kick out,3,600,"[597, 599, 600]",SCZZ.tsv
+mm mm,2,610,"[47, 85, 610, 614, 658]",SCZZ.tsv
+it in,2,612,"[103, 612, 624]",SCZZ.tsv
+that's really,2,630,"[400, 630, 692]",SCZZ.tsv
+say that,2,633,"[92, 633, 635]",SCZZ.tsv
+work,1,635,"[63, 88, 99, 124, 190, 196, 221, 556, 635]",SCZZ.tsv
+just do,2,635,"[103, 635]",SCZZ.tsv
+but i don't know,4,635,"[134, 635]",SCZZ.tsv
+might,1,204,"[0, 204, 584, 635]",SCZZ.tsv
+what happen,2,635,"[632, 635, 698]",SCZZ.tsv
+buy,1,639,"[402, 639, 648, 661, 681, 682]",SCZZ.tsv
+it be not,3,639,"[419, 639]",SCZZ.tsv
+be i gonna,3,639,"[425, 639]",SCZZ.tsv
+year,1,639,"[442, 639, 642, 645]",SCZZ.tsv
+be i,2,639,"[460, 639]",SCZZ.tsv
+afford to,2,645,"[639, 645]",SCZZ.tsv
+dunno,1,200,"[25, 200, 357, 580, 618, 640]",SCZZ.tsv
+i dunno,2,640,"[37, 200, 217, 335, 357, 618, 640]",SCZZ.tsv
+parent,1,670,"[640, 642, 643, 670, 684]",SCZZ.tsv
+be just,2,642,"[147, 460, 642]",SCZZ.tsv
+literally,1,642,"[231, 272, 642, 691]",SCZZ.tsv
+just like,2,627,"[435, 627, 642, 645, 701]",SCZZ.tsv
+just get,2,605,"[467, 605, 642, 664]",SCZZ.tsv
+be just like,3,645,"[642, 645]",SCZZ.tsv
+i just get,3,664,"[642, 664]",SCZZ.tsv
+say about,2,663,"[31, 663]",SCZZ.tsv
+or a,2,663,"[35, 663]",SCZZ.tsv
+i'd,1,204,"[97, 99, 204, 244, 567, 643, 663]",SCZZ.tsv
+to like,2,663,"[137, 188, 236, 237, 663]",SCZZ.tsv
+you say,2,663,"[523, 622, 663]",SCZZ.tsv
+never know what to,4,663,"[650, 663]",SCZZ.tsv
+dads,1,663,"[650, 663]",SCZZ.tsv
+don't know,2,670,"[134, 231, 418, 431, 670]",SCZZ.tsv
+christmas,1,651,"[467, 651, 657, 681, 715]",SCZZ.tsv
+my dad,2,681,"[648, 650, 667, 675, 680, 681, 682, 700, 701, 705]",SCZZ.tsv
+look,1,390,"[192, 198, 390, 437, 441, 442, 611, 688, 705, 711]",SCZZ.tsv
+you look,2,437,"[198, 437, 688]",SCZZ.tsv
+look like,2,441,"[198, 441, 442, 688, 705, 711]",SCZZ.tsv
+dad,1,688,"[650, 680, 681, 688, 698, 700, 701, 705]",SCZZ.tsv
+pretty child,2,707,"[706, 707]",SCZZ.tsv
+like they,2,188,"[2, 188, 196]",SCZZ.tsv
+i don't think,3,194,"[4, 194, 597]",SCZZ.tsv
+it'll,1,605,"[4, 605]",SCZZ.tsv
+they can't,2,188,"[6, 188]",SCZZ.tsv
+cos they,2,371,"[6, 371]",SCZZ.tsv
+all the,2,715,"[6, 415, 715]",SCZZ.tsv
+hitler,1,18,"[14, 17, 18]",SCZZ.tsv
+that sound,2,244,"[14, 244]",SCZZ.tsv
+wear,1,41,"[24, 38, 41, 48]",SCZZ.tsv
+sorry,1,534,"[26, 70, 116, 475, 534]",SCZZ.tsv
+can't be,2,618,"[34, 259, 618]",SCZZ.tsv
+be my,2,691,"[36, 691, 700]",SCZZ.tsv
+nice,1,648,"[38, 44, 575, 648, 651, 703, 714]",SCZZ.tsv
+us,1,648,"[40, 642, 648]",SCZZ.tsv
+i get it,3,137,"[42, 137]",SCZZ.tsv
+have it,2,719,"[42, 719]",SCZZ.tsv
+and then,2,44,"[18, 44, 192, 200, 241, 243, 473, 648]",SCZZ.tsv
+put,1,243,"[44, 243, 359, 624, 627, 717]",SCZZ.tsv
+a bite of,3,618,"[44, 618]",SCZZ.tsv
+nice and then,3,648,"[44, 648]",SCZZ.tsv
+get a,2,160,"[48, 154, 160, 239, 470]",SCZZ.tsv
+what's that,2,140,"[49, 140]",SCZZ.tsv
+good at,2,81,"[57, 81]",SCZZ.tsv
+you know,2,196,"[93, 196, 259, 299, 317, 415, 470, 614]",SCZZ.tsv
+would be,2,206,"[95, 206, 424, 592, 655, 711]",SCZZ.tsv
+that go,2,534,"[108, 534]",SCZZ.tsv
+it's not even,3,682,"[108, 682]",SCZZ.tsv
+together,1,700,"[108, 700]",SCZZ.tsv
+dark cloud,2,119,"[117, 119]",SCZZ.tsv
+of us,2,648,"[123, 648]",SCZZ.tsv
+be one,2,530,"[142, 530]",SCZZ.tsv
+cos you,2,196,"[144, 196, 608]",SCZZ.tsv
+you have,2,196,"[144, 196, 243, 334, 399, 536]",SCZZ.tsv
+be in,2,172,"[154, 172]",SCZZ.tsv
+wanna be,2,620,"[154, 620]",SCZZ.tsv
+bring,1,157,"[20, 157, 277, 279, 281]",SCZZ.tsv
+maybe,1,200,"[157, 200, 204, 635]",SCZZ.tsv
+china,1,166,"[159, 166]",SCZZ.tsv
+they have to,3,172,"[159, 172]",SCZZ.tsv
+to pass or,3,172,"[159, 172]",SCZZ.tsv
+they have,2,174,"[159, 174, 176, 194, 196, 719]",SCZZ.tsv
+they can't go,3,188,"[159, 188]",SCZZ.tsv
+though,1,373,"[161, 373, 399, 642]",SCZZ.tsv
+people,1,172,"[165, 172, 188, 475, 624, 719]",SCZZ.tsv
+if you,2,182,"[165, 182, 186, 239, 399, 600, 601, 609, 611, 627, 719]",SCZZ.tsv
+there's a lot of,4,190,"[165, 190]",SCZZ.tsv
+a lot of,3,611,"[165, 611]",SCZZ.tsv
+there's a,2,618,"[165, 618]",SCZZ.tsv
+you think,2,622,"[165, 622]",SCZZ.tsv
+horrible,1,185,"[166, 185]",SCZZ.tsv
+oh my,2,231,"[189, 231, 233, 240, 460, 471, 476, 514, 548, 628, 692]",SCZZ.tsv
+wouldn't ever,2,203,"[202, 203]",SCZZ.tsv
+live,1,204,"[203, 204]",SCZZ.tsv
+on this,2,209,"[8, 209, 259]",SCZZ.tsv
+hook,1,369,"[209, 369]",SCZZ.tsv
+that say,2,611,"[212, 284, 611]",SCZZ.tsv
+dry cactus,2,224,"[222, 224]",SCZZ.tsv
+dry,1,224,"[222, 224]",SCZZ.tsv
+you're a,2,228,"[196, 200, 228, 642]",SCZZ.tsv
+a snail,2,228,"[227, 228]",SCZZ.tsv
+on the,2,373,"[229, 373]",SCZZ.tsv
+get stick on,3,250,"[8, 250]",SCZZ.tsv
+stick,1,648,"[250, 648]",SCZZ.tsv
+yeah i be,3,259,"[58, 259]",SCZZ.tsv
+i be like,3,259,"[137, 259]",SCZZ.tsv
+the point,2,259,"[188, 259]",SCZZ.tsv
+i i,2,259,"[202, 204, 259, 346, 643]",SCZZ.tsv
+cold,1,373,"[259, 373]",SCZZ.tsv
+that's the,2,574,"[259, 574]",SCZZ.tsv
+of a,2,609,"[259, 609, 611]",SCZZ.tsv
+and a,2,648,"[259, 648]",SCZZ.tsv
+exams,1,265,"[172, 188, 265]",SCZZ.tsv
+job,1,265,"[180, 196, 265]",SCZZ.tsv
+your essay,2,273,"[267, 273]",SCZZ.tsv
+three,1,237,"[180, 186, 237, 269, 609]",SCZZ.tsv
+just so,2,293,"[198, 293]",SCZZ.tsv
+actually,1,299,"[58, 299, 354, 651, 698]",SCZZ.tsv
+how much,2,618,"[299, 618]",SCZZ.tsv
+it's really,2,301,"[180, 301]",SCZZ.tsv
+which be,2,327,"[184, 327, 703]",SCZZ.tsv
+score,1,327,"[239, 326, 327, 605]",SCZZ.tsv
+so far,2,329,"[75, 329]",SCZZ.tsv
+have be,2,334,"[290, 334]",SCZZ.tsv
+word to,2,609,"[377, 609]",SCZZ.tsv
+find,1,651,"[403, 651, 653]",SCZZ.tsv
+she hat it,3,406,"[404, 406]",SCZZ.tsv
+like this,2,624,"[409, 624, 691]",SCZZ.tsv
+it go,2,415,"[247, 415, 511]",SCZZ.tsv
+everything,1,417,"[202, 417, 682, 715]",SCZZ.tsv
+that would be,3,424,"[206, 424]",SCZZ.tsv
+would be a,3,655,"[424, 655]",SCZZ.tsv
+you mean,2,440,"[271, 440]",SCZZ.tsv
+before i,2,624,"[461, 624]",SCZZ.tsv
+i've get my,3,667,"[461, 667]",SCZZ.tsv
+i really,2,464,"[359, 379, 464, 567]",SCZZ.tsv
+forty,1,466,"[170, 466, 468, 640, 687]",SCZZ.tsv
+print,1,653,"[470, 653]",SCZZ.tsv
+we should,2,719,"[472, 719]",SCZZ.tsv
+i know it,3,473,"[127, 473]",SCZZ.tsv
+on it,2,653,"[473, 653]",SCZZ.tsv
+i'm a,2,474,"[127, 227, 230, 258, 297, 474]",SCZZ.tsv
+proud,1,711,"[474, 711]",SCZZ.tsv
+he's,1,653,"[477, 653, 709]",SCZZ.tsv
+drink,1,497,"[492, 497]",SCZZ.tsv
+go to,2,504,"[172, 180, 188, 504, 518, 583]",SCZZ.tsv
+i find,2,651,"[504, 651, 653]",SCZZ.tsv
+but it be,3,567,"[507, 567]",SCZZ.tsv
+you give,2,611,"[554, 611]",SCZZ.tsv
+jumper,1,564,"[41, 564]",SCZZ.tsv
+like you,2,564,"[196, 564, 663]",SCZZ.tsv
+it from,2,564,"[281, 564]",SCZZ.tsv
+i wouldn't,2,581,"[200, 202, 204, 581, 640, 705]",SCZZ.tsv
+if i,2,643,"[581, 643]",SCZZ.tsv
+i would,2,705,"[581, 705, 711, 713]",SCZZ.tsv
+to happen then,3,585,"[583, 585]",SCZZ.tsv
+to happen,2,585,"[583, 585]",SCZZ.tsv
+seriously,1,592,"[300, 592]",SCZZ.tsv
+two thousand word,3,601,"[600, 601]",SCZZ.tsv
+thousand,1,601,"[600, 601]",SCZZ.tsv
+thousand word,2,605,"[600, 605, 609]",SCZZ.tsv
+a thousand,2,605,"[600, 605, 609]",SCZZ.tsv
+get like,2,609,"[600, 609]",SCZZ.tsv
+now but,2,709,"[600, 709]",SCZZ.tsv
+you would,2,602,"[601, 602, 608]",SCZZ.tsv
+it's like,2,612,"[194, 225, 385, 569, 612, 642, 682]",SCZZ.tsv
+hand,1,624,"[612, 624]",SCZZ.tsv
+every,1,619,"[170, 619]",SCZZ.tsv
+every single,2,691,"[619, 691]",SCZZ.tsv
+be erm,2,635,"[137, 635]",SCZZ.tsv
+either,1,635,"[172, 532, 635, 657]",SCZZ.tsv
+but i don't,3,620,"[134, 620, 635]",SCZZ.tsv
+be able to,3,639,"[172, 639]",SCZZ.tsv
+family,1,639,"[204, 639, 715]",SCZZ.tsv
+present for my,3,643,"[639, 643]",SCZZ.tsv
+for my,2,643,"[639, 643, 648]",SCZZ.tsv
+present,1,651,"[639, 651]",SCZZ.tsv
+for like,2,640,"[204, 640]",SCZZ.tsv
+spend,1,640,"[347, 640]",SCZZ.tsv
+for them,2,640,"[373, 640]",SCZZ.tsv
+my parent,2,643,"[640, 642, 643]",SCZZ.tsv
+and my,2,687,"[640, 687]",SCZZ.tsv
+like my,2,705,"[640, 642, 705]",SCZZ.tsv
+don't get,2,642,"[182, 186, 642]",SCZZ.tsv
+say like,2,643,"[642, 643]",SCZZ.tsv
+like literally,2,691,"[642, 691]",SCZZ.tsv
+for a,2,663,"[196, 530, 663]",SCZZ.tsv
+i'd never,2,663,"[244, 663]",SCZZ.tsv
+know how to,3,670,"[618, 670, 682]",SCZZ.tsv
+how to,2,670,"[618, 670]",SCZZ.tsv
+sock,1,674,"[673, 674, 675]",SCZZ.tsv
+buy my dad,3,681,"[648, 681]",SCZZ.tsv
+my mum,2,681,"[648, 657, 661, 681, 693]",SCZZ.tsv
+at christmas,2,681,"[657, 681]",SCZZ.tsv
+buy my,2,681,"[661, 681]",SCZZ.tsv
+my mum buy my dad,5,682,"[681, 682]",SCZZ.tsv
+underwear,1,682,"[681, 682]",SCZZ.tsv
+you look like,3,688,"[198, 688]",SCZZ.tsv
+mum,1,688,"[648, 657, 661, 682, 688, 693]",SCZZ.tsv
+really cool,2,692,"[153, 692]",SCZZ.tsv
+child,1,706,"[182, 706, 707]",SCZZ.tsv
+pretty boy,2,706,"[705, 706]",SCZZ.tsv
+boy,1,706,"[705, 706]",SCZZ.tsv
+kid,1,710,"[172, 710]",SCZZ.tsv
+should be,2,718,"[717, 718]",SCZZ.tsv
+pageants,1,718,"[717, 718]",SCZZ.tsv
+illegal,1,719,"[718, 719]",SCZZ.tsv
+something like that,3,241,"[29, 241, 399]",SCZZ.tsv
+and then put,3,243,"[44, 243]",SCZZ.tsv
+that game,2,241,"[49, 241, 481]",SCZZ.tsv
+use to,2,237,"[146, 237, 664]",SCZZ.tsv
+get a new,3,239,"[154, 239]",SCZZ.tsv
+new,1,239,"[154, 239, 545]",SCZZ.tsv
+that number,2,243,"[154, 243]",SCZZ.tsv
+or something,2,239,"[157, 239, 635, 663]",SCZZ.tsv
+move,1,243,"[157, 243]",SCZZ.tsv
+three o'clock,2,269,"[237, 269]",SCZZ.tsv
+that do,2,299,"[241, 299]",SCZZ.tsv
+god that's,2,548,"[321, 548]",SCZZ.tsv
+the brain,2,336,"[327, 336]",SCZZ.tsv
+high,1,474,"[239, 474]",SCZZ.tsv
+give you,2,543,"[541, 543, 559]",SCZZ.tsv
+don't give,2,554,"[536, 554]",SCZZ.tsv
+right okay,2,570,"[258, 570, 600]",SCZZ.tsv
+you do,2,419,"[241, 419, 579]",SCZZ.tsv
+it won't be,3,588,"[587, 588]",SCZZ.tsv
+if you get,3,600,"[239, 600]",SCZZ.tsv
+person,1,640,"[237, 640]",SCZZ.tsv
+something like,2,642,"[241, 642]",SCZZ.tsv
+oh my god that's,4,692,"[548, 692]",SCZZ.tsv
+don't wanna,2,620,"[9, 620]",SCZZ.tsv
+judge,1,618,"[31, 618]",SCZZ.tsv
+dress,1,682,"[31, 35, 682]",SCZZ.tsv
+hell,1,137,"[63, 128, 137, 372, 611]",SCZZ.tsv
+try,1,172,"[63, 88, 172, 221, 289, 290, 425, 452, 460, 532, 613, 719]",SCZZ.tsv
+but i can't,3,362,"[65, 362]",SCZZ.tsv
+definitely,1,363,"[65, 363, 611, 700]",SCZZ.tsv
+can't get,2,196,"[68, 196]",SCZZ.tsv
+have this,2,137,"[83, 113, 137, 379]",SCZZ.tsv
+leave,1,247,"[86, 247]",SCZZ.tsv
+i try,2,532,"[88, 532]",SCZZ.tsv
+i can't do,3,294,"[99, 217, 294, 355, 448, 582]",SCZZ.tsv
+be so,2,103,"[18, 103, 682]",SCZZ.tsv
+in the,2,168,"[103, 168, 172, 336, 347, 379, 413, 574]",SCZZ.tsv
+so i,2,567,"[103, 567, 655, 698]",SCZZ.tsv
+be really,2,138,"[113, 138, 153]",SCZZ.tsv
+hard,1,283,"[113, 283]",SCZZ.tsv
+and it be,3,651,"[113, 651, 653]",SCZZ.tsv
+and it,2,698,"[113, 698]",SCZZ.tsv
+top,1,172,"[115, 172, 664]",SCZZ.tsv
+thank you,2,576,"[126, 392, 576]",SCZZ.tsv
+nimbus,1,129,"[128, 129, 130, 131]",SCZZ.tsv
+what the hell,3,137,"[128, 137]",SCZZ.tsv
+what the,2,137,"[128, 137, 484]",SCZZ.tsv
+well it's,2,385,"[134, 385]",SCZZ.tsv
+type,1,385,"[134, 385]",SCZZ.tsv
+age,1,192,"[143, 192, 233, 362]",SCZZ.tsv
+yeah that's,2,624,"[143, 624]",SCZZ.tsv
+cos i,2,648,"[143, 215, 442, 648]",SCZZ.tsv
+there be,2,208,"[180, 188, 208, 240, 719]",SCZZ.tsv
+i do that,3,286,"[215, 286, 471]",SCZZ.tsv
+that one,2,655,"[215, 655]",SCZZ.tsv
+i can't do this,4,294,"[217, 294]",SCZZ.tsv
+i dunno what,3,357,"[217, 357]",SCZZ.tsv
+oh be it,3,638,"[221, 638]",SCZZ.tsv
+five,1,233,"[225, 233, 336, 535, 609, 613]",SCZZ.tsv
+get to like,3,236,"[137, 236]",SCZZ.tsv
+get to,2,236,"[153, 172, 236, 306]",SCZZ.tsv
+like erm,2,242,"[190, 204, 242, 653, 667]",SCZZ.tsv
+sixteen,1,719,"[241, 242, 719]",SCZZ.tsv
+crap,1,605,"[245, 605]",SCZZ.tsv
+they're,1,257,"[172, 190, 192, 257, 373, 719]",SCZZ.tsv
+play,1,272,"[241, 244, 272, 392, 418, 419, 499]",SCZZ.tsv
+laptop,1,282,"[277, 279, 281, 282]",SCZZ.tsv
+front of,2,657,"[282, 657]",SCZZ.tsv
+i think it,3,285,"[135, 137, 285]",SCZZ.tsv
+it say,2,638,"[285, 638]",SCZZ.tsv
+oh i,2,420,"[295, 394, 420, 476, 523]",SCZZ.tsv
+sound really,2,304,"[244, 304]",SCZZ.tsv
+cos i get,3,648,"[304, 648]",SCZZ.tsv
+different,1,653,"[304, 653]",SCZZ.tsv
+get to the,3,306,"[172, 306]",SCZZ.tsv
+they don't,2,306,"[192, 306]",SCZZ.tsv
+mine,1,646,"[306, 645, 646, 698]",SCZZ.tsv
+i've do my,3,657,"[312, 657]",SCZZ.tsv
+i've do,2,657,"[312, 316, 418, 657]",SCZZ.tsv
+ow i,2,456,"[320, 456]",SCZZ.tsv
+a hundred,2,609,"[330, 609]",SCZZ.tsv
+nine,1,393,"[330, 393, 395, 638, 687]",SCZZ.tsv
+fifty,1,685,"[330, 685, 700]",SCZZ.tsv
+erm er,2,341,"[186, 200, 341]",SCZZ.tsv
+hate,1,379,"[341, 354, 379, 418, 476, 480]",SCZZ.tsv
+i hate,2,456,"[341, 354, 418, 456, 476, 480]",SCZZ.tsv
+er i,2,691,"[341, 691]",SCZZ.tsv
+room,1,348,"[281, 348, 595, 611]",SCZZ.tsv
+mean i,2,352,"[200, 352]",SCZZ.tsv
+close,1,565,"[354, 565]",SCZZ.tsv
+level,1,360,"[289, 360]",SCZZ.tsv
+still not,2,370,"[81, 370]",SCZZ.tsv
+you still,2,370,"[271, 370]",SCZZ.tsv
+do that,2,370,"[286, 370]",SCZZ.tsv
+fuzzy,1,390,"[387, 389, 390]",SCZZ.tsv
+feel,1,392,"[373, 392, 402, 582, 624, 705]",SCZZ.tsv
+rop,1,392,"[385, 392, 394]",SCZZ.tsv
+i think it be,4,396,"[135, 137, 396]",SCZZ.tsv
+it be a,3,565,"[396, 565]",SCZZ.tsv
+be a really,3,705,"[396, 705, 709]",SCZZ.tsv
+really bad,2,618,"[400, 618]",SCZZ.tsv
+bad,1,638,"[400, 402, 638, 705]",SCZZ.tsv
+i feel,2,402,"[373, 402, 582]",SCZZ.tsv
+bad at,2,618,"[402, 618]",SCZZ.tsv
+feel bad,2,705,"[402, 705]",SCZZ.tsv
+about it,2,405,"[138, 405, 460]",SCZZ.tsv
+no she,2,405,"[404, 405]",SCZZ.tsv
+write a,2,609,"[405, 609]",SCZZ.tsv
+time,1,530,"[413, 442, 530, 532, 567, 582, 651]",SCZZ.tsv
+it i,2,418,"[127, 418]",SCZZ.tsv
+obviously,1,574,"[418, 574, 653]",SCZZ.tsv
+try to,2,425,"[172, 289, 290, 425, 452, 460, 719]",SCZZ.tsv
+oh be,2,638,"[425, 638]",SCZZ.tsv
+that's not,2,427,"[369, 427]",SCZZ.tsv
+look at,2,611,"[437, 611]",SCZZ.tsv
+word it's,2,613,"[437, 613]",SCZZ.tsv
+like the,2,442,"[202, 442, 492, 701]",SCZZ.tsv
+just look,2,611,"[442, 611]",SCZZ.tsv
+of these,2,448,"[186, 448]",SCZZ.tsv
+so much,2,620,"[476, 620]",SCZZ.tsv
+but i'm,2,527,"[227, 527, 618]",SCZZ.tsv
+it anyway,2,618,"[527, 618]",SCZZ.tsv
+i don't wanna,3,544,"[527, 544, 620]",SCZZ.tsv
+slot,1,532,"[531, 532]",SCZZ.tsv
+minutes,1,636,"[535, 636, 638]",SCZZ.tsv
+all that,2,556,"[184, 556]",SCZZ.tsv
+i can't do it,4,582,"[355, 582]",SCZZ.tsv
+that's probably,2,624,"[621, 624]",SCZZ.tsv
+pasta,1,637,"[618, 637]",SCZZ.tsv
+to get,2,645,"[172, 609, 645, 650, 664]",SCZZ.tsv
+get mine,2,646,"[645, 646]",SCZZ.tsv
+get my dad,3,667,"[650, 667, 675]",SCZZ.tsv
+get him,2,664,"[655, 664, 682]",SCZZ.tsv
+set,1,669,"[653, 669]",SCZZ.tsv
+box set,2,669,"[667, 669]",SCZZ.tsv
+box,1,669,"[667, 669]",SCZZ.tsv
+old,1,684,"[192, 684]",SCZZ.tsv
+he be,2,705,"[701, 705, 709]",SCZZ.tsv
+don't wanna get,3,544,"[9, 544]",SCZZ.tsv
+away,1,563,"[86, 233, 563]",SCZZ.tsv
+better,1,541,"[97, 99, 392, 460, 541]",SCZZ.tsv
+five by five it's,4,233,"[225, 233]",SCZZ.tsv
+can you,2,251,"[233, 251]",SCZZ.tsv
+two four eight sixteen thirty two,6,242,"[241, 242]",SCZZ.tsv
+two four,2,242,"[241, 242]",SCZZ.tsv
+eight sixteen,2,242,"[241, 242]",SCZZ.tsv
+four eight,2,242,"[241, 242]",SCZZ.tsv
+b o l d,4,254,"[253, 254]",SCZZ.tsv
+l d,2,256,"[254, 256]",SCZZ.tsv
+b,1,256,"[254, 256]",SCZZ.tsv
+letter,1,311,"[225, 311]",SCZZ.tsv
+cost,1,394,"[336, 393, 394]",SCZZ.tsv
+forget,1,397,"[394, 397, 452]",SCZZ.tsv
+play it,2,418,"[241, 418]",SCZZ.tsv
+be that a word,4,425,"[253, 425]",SCZZ.tsv
+all i,2,442,"[346, 442]",SCZZ.tsv
+to make,2,452,"[243, 452]",SCZZ.tsv
+keep,1,452,"[243, 452]",SCZZ.tsv
+o l,2,488,"[253, 488]",SCZZ.tsv
+l,1,488,"[256, 488]",SCZZ.tsv
+what be that,3,490,"[241, 490]",SCZZ.tsv
+a hint,2,527,"[336, 527]",SCZZ.tsv
+twenty five,2,535,"[225, 336, 535]",SCZZ.tsv
+seventy,1,535,"[393, 395, 535]",SCZZ.tsv
+at all,2,346,"[81, 346]",SCZZ.tsv
+do like,2,241,"[137, 241]",SCZZ.tsv
+to do,2,397,"[137, 397]",SCZZ.tsv
+kind of,2,237,"[184, 192, 204, 237, 391]",SCZZ.tsv
+have a,2,237,"[194, 237, 363, 711]",SCZZ.tsv
+you have to,3,243,"[196, 243, 536]",SCZZ.tsv
+and the,2,243,"[202, 243, 691, 700]",SCZZ.tsv
+no i'm,2,590,"[227, 590]",SCZZ.tsv
+that that,2,244,"[241, 244]",SCZZ.tsv
+up to,2,247,"[237, 247]",SCZZ.tsv
+to have,2,290,"[237, 290]",SCZZ.tsv
+walk,1,567,"[28, 567]",SCZZ.tsv
+like three,2,609,"[237, 609]",SCZZ.tsv
+you put,2,627,"[243, 627]",SCZZ.tsv
+without,1,629,"[587, 629]",SCZZ.tsv
+it be like,3,653,"[243, 653]",SCZZ.tsv
+doesn't know,2,682,"[249, 682]",SCZZ.tsv
+black,1,695,"[336, 695, 698]",SCZZ.tsv
+to have a,3,711,"[237, 711]",SCZZ.tsv

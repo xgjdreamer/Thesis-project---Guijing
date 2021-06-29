@@ -1,0 +1,333 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+please,1,28,"[0, 28, 264]",SBNC.tsv
+guy,1,124,"[3, 124, 128, 148, 150]",SBNC.tsv
+do you,2,41,"[3, 16, 34, 36, 41, 45, 182, 263, 278, 282, 312]",SBNC.tsv
+be she,2,236,"[8, 10, 12, 18, 236]",SBNC.tsv
+she be,2,13,"[10, 13, 104]",SBNC.tsv
+class,1,56,"[12, 56]",SBNC.tsv
+in the,2,108,"[12, 25, 49, 108, 124, 127, 150, 282, 312, 330]",SBNC.tsv
+think,1,16,"[15, 16, 33, 47, 81, 83, 97, 104, 107, 128, 137, 143, 195, 200, 215, 263, 289, 290, 292, 294, 295, 296, 312, 331]",SBNC.tsv
+do you think,3,263,"[16, 263, 312]",SBNC.tsv
+next,1,193,"[20, 193]",SBNC.tsv
+be look,2,231,"[20, 231]",SBNC.tsv
+who be,2,236,"[20, 236]",SBNC.tsv
+look after,2,231,"[21, 231]",SBNC.tsv
+okay,1,321,"[21, 82, 121, 137, 171, 190, 226, 234, 286, 321, 329, 345, 354]",SBNC.tsv
+alright,1,329,"[21, 202, 224, 329]",SBNC.tsv
+go,1,23,"[15, 23, 29, 30, 43, 45, 49, 54, 85, 102, 106, 147, 150, 197, 202, 204, 222, 239, 246, 249, 251, 253, 266, 288, 352, 355]",SBNC.tsv
+go to,2,43,"[23, 29, 43, 45, 49, 54, 106, 147, 150, 197, 202, 204, 222, 239, 246, 249, 251, 253, 266, 288, 355]",SBNC.tsv
+mum,1,45,"[23, 45, 75, 152, 159, 197, 223, 331, 355]",SBNC.tsv
+away,1,189,"[23, 133, 189]",SBNC.tsv
+they're,1,197,"[23, 197, 212]",SBNC.tsv
+should be,2,231,"[23, 231]",SBNC.tsv
+could,1,143,"[23, 143, 194, 289, 307, 338, 347]",SBNC.tsv
+we could,2,347,"[23, 347]",SBNC.tsv
+get to,2,56,"[25, 56, 234]",SBNC.tsv
+get,1,62,"[25, 56, 62, 85, 96, 106, 107, 114, 127, 135, 147, 174, 190, 191, 196, 197, 198, 202, 234, 315, 330, 337]",SBNC.tsv
+car,1,87,"[25, 87, 156]",SBNC.tsv
+i've,1,159,"[25, 97, 137, 159, 169]",SBNC.tsv
+with the,2,174,"[25, 146, 156, 174]",SBNC.tsv
+the s,2,272,"[25, 272, 281, 294, 295, 298]",SBNC.tsv
+erm a,2,52,"[29, 52]",SBNC.tsv
+back,1,56,"[32, 56, 202]",SBNC.tsv
+like,1,31,"[30, 31, 34, 49, 50, 65, 66, 78, 80, 81, 86, 89, 90, 91, 135, 169, 174, 187, 206, 207, 218, 255, 330]",SBNC.tsv
+the first,2,124,"[34, 124, 127]",SBNC.tsv
+first,1,177,"[34, 177]",SBNC.tsv
+of the,2,209,"[34, 49, 209, 291, 315]",SBNC.tsv
+read,1,56,"[36, 56, 288, 291, 293]",SBNC.tsv
+remember,1,37,"[36, 37, 113, 145, 240, 242, 243, 245, 251, 282, 285, 287]",SBNC.tsv
+it be,2,36,"[35, 36, 128, 170, 219, 257, 259, 271, 293, 294, 295, 296, 298]",SBNC.tsv
+a long,2,170,"[36, 170, 187]",SBNC.tsv
+long time,2,170,"[36, 170, 187]",SBNC.tsv
+long,1,170,"[36, 170, 172, 187, 204, 332]",SBNC.tsv
+time,1,174,"[36, 158, 174, 187]",SBNC.tsv
+a long time,3,187,"[36, 187]",SBNC.tsv
+much of,2,209,"[36, 209]",SBNC.tsv
+want to,2,44,"[15, 41, 44, 45, 56, 98, 106, 132, 150, 172, 174, 315, 343]",SBNC.tsv
+don't want,2,320,"[44, 320]",SBNC.tsv
+i'm not,2,77,"[46, 77, 197, 202]",SBNC.tsv
+i'm,1,144,"[46, 77, 144, 197, 202, 229, 234, 288, 298]",SBNC.tsv
+somebody,1,85,"[49, 85]",SBNC.tsv
+film,1,124,"[49, 63, 65, 80, 97, 124, 127, 146, 150]",SBNC.tsv
+that's,1,96,"[49, 57, 96, 174, 184, 188, 230, 232, 268, 271, 308, 332]",SBNC.tsv
+who's,1,98,"[51, 98, 123]",SBNC.tsv
+the plot,2,57,"[39, 41, 45, 47, 57]",SBNC.tsv
+chipmunks,1,127,"[63, 107, 127, 150]",SBNC.tsv
+something,1,159,"[65, 150, 159, 294]",SBNC.tsv
+or something,2,294,"[65, 294]",SBNC.tsv
+the fourth,2,69,"[68, 69]",SBNC.tsv
+have you,2,79,"[70, 72, 79, 209, 322, 324]",SBNC.tsv
+see,1,72,"[15, 56, 72, 74, 79, 97, 128, 137, 148, 149, 150, 242, 244, 278, 282, 289, 330]",SBNC.tsv
+have you see,3,79,"[72, 79]",SBNC.tsv
+three,1,174,"[72, 174]",SBNC.tsv
+look,1,231,"[78, 80, 231, 288, 330]",SBNC.tsv
+kind of,2,80,"[26, 59, 80, 135, 266]",SBNC.tsv
+i don't know,3,80,"[19, 76, 80, 128, 156, 165]",SBNC.tsv
+to be,2,174,"[80, 174, 206, 270, 355]",SBNC.tsv
+fall,1,187,"[80, 187, 328]",SBNC.tsv
+i don't,2,76,"[22, 76, 80, 128, 137, 156, 165, 195, 240, 320]",SBNC.tsv
+chipwrecked,1,92,"[79, 92]",SBNC.tsv
+girl,1,98,"[92, 98, 100]",SBNC.tsv
+the girl chipmunks,3,127,"[92, 127]",SBNC.tsv
+i think,2,97,"[15, 33, 81, 83, 97, 200, 289, 290, 292, 294, 295, 296]",SBNC.tsv
+one,1,97,"[54, 97, 137, 140, 143, 190, 191, 193, 277, 281, 289, 306, 331, 348, 355]",SBNC.tsv
+oh i,2,240,"[97, 128, 240, 252]",SBNC.tsv
+a girl,2,99,"[98, 99, 100]",SBNC.tsv
+a girl human,3,100,"[99, 100]",SBNC.tsv
+chipmunk,1,106,"[99, 106]",SBNC.tsv
+the treasure,2,107,"[98, 106, 107]",SBNC.tsv
+to get,2,107,"[106, 107, 147, 196, 202, 315]",SBNC.tsv
+get the,2,127,"[107, 127]",SBNC.tsv
+dave,1,109,"[85, 109, 114, 144]",SBNC.tsv
+all of,2,109,"[91, 109, 291]",SBNC.tsv
+on the,2,118,"[86, 112, 118, 150, 187, 206]",SBNC.tsv
+on the island,3,118,"[112, 118]",SBNC.tsv
+ian,1,123,"[122, 123, 128, 140]",SBNC.tsv
+see it,2,128,"[56, 128, 149]",SBNC.tsv
+oh i don't,3,240,"[128, 240]",SBNC.tsv
+i i,2,261,"[128, 261, 330]",SBNC.tsv
+might,1,265,"[15, 128, 148, 150, 265, 269, 313, 339]",SBNC.tsv
+it be the,3,259,"[128, 257, 259, 294, 295, 296, 298]",SBNC.tsv
+but he,2,133,"[59, 133]",SBNC.tsv
+he tempt them,3,134,"[133, 134]",SBNC.tsv
+and they,2,135,"[56, 85, 135, 144]",SBNC.tsv
+see that,2,137,"[79, 137, 278, 289]",SBNC.tsv
+it's out now,3,146,"[64, 146]",SBNC.tsv
+be a,2,170,"[146, 158, 170, 299, 330]",SBNC.tsv
+to see it,3,148,"[56, 148, 149]",SBNC.tsv
+to see,2,150,"[56, 149, 150, 244, 330]",SBNC.tsv
+ones,1,150,"[127, 150, 291, 349, 351, 353]",SBNC.tsv
+but i,2,163,"[150, 163]",SBNC.tsv
+have a,2,174,"[150, 174, 201, 282, 289, 344]",SBNC.tsv
+they'll have,2,189,"[150, 189]",SBNC.tsv
+they'll,1,189,"[150, 189, 228]",SBNC.tsv
+do that,2,225,"[150, 152, 190, 225, 330]",SBNC.tsv
+be there,2,229,"[150, 229, 271]",SBNC.tsv
+go to the,3,249,"[150, 249, 251]",SBNC.tsv
+to the,2,249,"[150, 154, 249, 251]",SBNC.tsv
+cos,1,150,"[45, 108, 150, 205, 212, 265, 352]",SBNC.tsv
+want,1,320,"[15, 41, 45, 132, 150, 315, 320, 342, 343]",SBNC.tsv
+and there's,2,152,"[30, 138, 152]",SBNC.tsv
+there's,1,152,"[30, 138, 140, 152, 187, 208, 210, 266, 270, 271, 331, 336]",SBNC.tsv
+really,1,152,"[11, 22, 33, 35, 54, 96, 98, 132, 152, 219, 271, 288]",SBNC.tsv
+he's,1,152,"[54, 86, 152]",SBNC.tsv
+about it,2,152,"[59, 152, 159]",SBNC.tsv
+the pancake,2,174,"[152, 154, 158, 174, 201]",SBNC.tsv
+race,1,153,"[152, 153, 174]",SBNC.tsv
+win,1,174,"[152, 174, 179]",SBNC.tsv
+never be,2,187,"[152, 187]",SBNC.tsv
+pancake,1,187,"[152, 154, 158, 184, 187, 189, 201]",SBNC.tsv
+be really,2,152,"[35, 152, 219]",SBNC.tsv
+actually,1,221,"[152, 221]",SBNC.tsv
+know,1,80,"[22, 41, 76, 80, 128, 154, 156, 165, 266, 271, 344]",SBNC.tsv
+toss,1,174,"[154, 158, 174, 187]",SBNC.tsv
+so i,2,156,"[47, 156]",SBNC.tsv
+this be,2,156,"[45, 91, 156, 168, 211, 213]",SBNC.tsv
+pancakes,1,172,"[156, 172]",SBNC.tsv
+run,1,174,"[156, 174]",SBNC.tsv
+have to run,3,189,"[156, 189]",SBNC.tsv
+you have,2,201,"[156, 158, 201, 209, 322]",SBNC.tsv
+have to,2,194,"[156, 158, 189, 194, 196, 221, 339]",SBNC.tsv
+toss the pancake,3,174,"[158, 174]",SBNC.tsv
+pancake and,2,174,"[158, 174, 187]",SBNC.tsv
+must,1,174,"[158, 174, 180, 187]",SBNC.tsv
+a pancake,2,187,"[158, 187]",SBNC.tsv
+what's,1,164,"[39, 153, 164]",SBNC.tsv
+it's a,2,166,"[165, 166, 271, 352]",SBNC.tsv
+country in,2,168,"[165, 168]",SBNC.tsv
+england,1,168,"[165, 167, 168]",SBNC.tsv
+be the,2,216,"[128, 168, 216, 257, 259, 284, 294, 295, 296, 298]",SBNC.tsv
+never,1,187,"[152, 169, 187, 254]",SBNC.tsv
+hear,1,159,"[45, 62, 159, 172, 173, 267]",SBNC.tsv
+when she hear the church bell,6,173,"[172, 173]",SBNC.tsv
+love,1,225,"[176, 225]",SBNC.tsv
+yeah,1,178,"[7, 17, 35, 58, 69, 71, 73, 136, 147, 157, 178, 181, 189, 199, 214, 217, 219, 223, 235, 238, 267, 268, 283, 290, 295, 305, 306]",SBNC.tsv
+be in,2,180,"[159, 180, 206]",SBNC.tsv
+learn,1,182,"[159, 182]",SBNC.tsv
+cool,1,184,"[33, 184]",SBNC.tsv
+story,1,184,"[54, 184]",SBNC.tsv
+they only get one chance,5,191,"[190, 191]",SBNC.tsv
+the next,2,193,"[190, 193]",SBNC.tsv
+make,1,195,"[172, 195, 339, 342, 343, 345, 347, 355]",SBNC.tsv
+try,1,198,"[110, 124, 198]",SBNC.tsv
+marry,1,196,"[187, 196, 198]",SBNC.tsv
+get marry,2,198,"[196, 197, 198]",SBNC.tsv
+erm i,2,200,"[19, 22, 145, 200, 330]",SBNC.tsv
+late,1,202,"[174, 202]",SBNC.tsv
+it's the,2,208,"[66, 208]",SBNC.tsv
+and then,2,208,"[127, 208, 288, 293, 299, 307]",SBNC.tsv
+much,1,212,"[209, 212, 336]",SBNC.tsv
+and she,2,239,"[106, 187, 239, 248, 288]",SBNC.tsv
+we go to the,4,249,"[246, 249, 251]",SBNC.tsv
+we go,2,249,"[246, 249, 253]",SBNC.tsv
+cut,1,248,"[26, 28, 248]",SBNC.tsv
+we go to the cock inn,6,253,"[249, 251, 253]",SBNC.tsv
+inn,1,256,"[249, 251, 253, 255, 256, 257, 259, 271, 272, 273, 275, 299, 308]",SBNC.tsv
+i like,2,255,"[30, 255]",SBNC.tsv
+say,1,257,"[30, 43, 45, 61, 83, 140, 197, 257, 259, 268, 269, 270, 288, 335]",SBNC.tsv
+the rooster inn,3,257,"[256, 257, 259]",SBNC.tsv
+rooster,1,258,"[257, 258, 259]",SBNC.tsv
+and a,2,264,"[98, 264]",SBNC.tsv
+there's a,2,266,"[30, 266]",SBNC.tsv
+mean,1,266,"[98, 174, 225, 266, 270]",SBNC.tsv
+people,1,266,"[265, 266]",SBNC.tsv
+thing,1,268,"[187, 268, 332]",SBNC.tsv
+another,1,270,"[187, 270]",SBNC.tsv
+that's why,2,271,"[174, 271]",SBNC.tsv
+if it,2,271,"[187, 271, 338]",SBNC.tsv
+it be really,3,271,"[35, 219, 271]",SBNC.tsv
+call,1,271,"[261, 271]",SBNC.tsv
+or the,2,273,"[272, 273, 274, 275, 277, 281, 307]",SBNC.tsv
+it do,2,282,"[187, 282]",SBNC.tsv
+word,1,282,"[277, 282, 284, 289, 294, 295, 298]",SBNC.tsv
+loud,1,288,"[219, 288]",SBNC.tsv
+of them,2,289,"[91, 289]",SBNC.tsv
+over and,2,289,"[187, 289]",SBNC.tsv
+i could,2,338,"[143, 289, 338]",SBNC.tsv
+i be,2,293,"[43, 45, 159, 293]",SBNC.tsv
+wait,1,293,"[209, 293]",SBNC.tsv
+for you,2,345,"[293, 345]",SBNC.tsv
+i think it,3,290,"[83, 290, 292, 294, 295, 296]",SBNC.tsv
+i think it be the s word,7,295,"[294, 295]",SBNC.tsv
+no it be,3,298,"[170, 298]",SBNC.tsv
+it be the s word,5,298,"[294, 298]",SBNC.tsv
+i just,2,315,"[61, 215, 315]",SBNC.tsv
+want to get,3,315,"[106, 315]",SBNC.tsv
+have you have,3,322,"[209, 322]",SBNC.tsv
+book,1,330,"[54, 330]",SBNC.tsv
+recipe,1,343,"[330, 343]",SBNC.tsv
+cake,1,332,"[331, 332, 339, 342, 346, 355]",SBNC.tsv
+no i,2,336,"[215, 336]",SBNC.tsv
+i didn't,2,336,"[60, 225, 336]",SBNC.tsv
+make cupcakes,2,345,"[339, 345]",SBNC.tsv
+cupcakes,1,345,"[339, 344, 345]",SBNC.tsv
+brownies,1,342,"[340, 341, 342, 343]",SBNC.tsv
+if i,2,344,"[225, 344]",SBNC.tsv
+sound,1,348,"[91, 348]",SBNC.tsv
+crazy,1,352,"[104, 352]",SBNC.tsv
+good,1,354,"[35, 263, 354]",SBNC.tsv
+be we,2,316,"[0, 32, 316]",SBNC.tsv
+today,1,81,"[3, 81, 83]",SBNC.tsv
+what the,2,41,"[6, 41]",SBNC.tsv
+oh do you,3,41,"[16, 41]",SBNC.tsv
+school,1,18,"[15, 18, 154, 182]",SBNC.tsv
+to go,2,23,"[15, 23, 150, 204]",SBNC.tsv
+we're go to,3,147,"[23, 29, 147, 150]",SBNC.tsv
+you like,2,34,"[31, 34, 218]",SBNC.tsv
+tell,1,45,"[40, 42, 45, 49, 255]",SBNC.tsv
+the end,2,299,"[49, 299, 304]",SBNC.tsv
+bite,1,57,"[5, 57, 188]",SBNC.tsv
+plot,1,39,"[37, 39, 45, 47, 57]",SBNC.tsv
+well,1,147,"[57, 146, 147, 148, 150, 152, 220, 266, 268, 273, 288, 326, 339, 342]",SBNC.tsv
+different,1,194,"[57, 194]",SBNC.tsv
+fourth,1,68,"[67, 68, 69]",SBNC.tsv
+i see,2,242,"[74, 242]",SBNC.tsv
+like it,2,78,"[31, 78]",SBNC.tsv
+i would,2,80,"[45, 80, 252, 254, 330]",SBNC.tsv
+would,1,196,"[80, 195, 196, 198, 301, 312, 330]",SBNC.tsv
+meet,1,92,"[5, 11, 92, 234]",SBNC.tsv
+when they,2,96,"[92, 96]",SBNC.tsv
+they get,2,114,"[96, 114]",SBNC.tsv
+do they,2,114,"[113, 114]",SBNC.tsv
+island,1,112,"[96, 112, 118]",SBNC.tsv
+might have,2,128,"[15, 128]",SBNC.tsv
+they can,2,135,"[108, 135]",SBNC.tsv
+rule,1,140,"[135, 140, 143]",SBNC.tsv
+no rule,2,142,"[135, 142]",SBNC.tsv
+yes,1,137,"[45, 137, 173, 241, 253, 264, 312, 318, 344, 356]",SBNC.tsv
+two,1,355,"[137, 208, 210, 212, 355]",SBNC.tsv
+but they,2,144,"[96, 144, 332]",SBNC.tsv
+best,1,216,"[144, 216]",SBNC.tsv
+it's out,2,81,"[64, 81, 146]",SBNC.tsv
+price,1,213,"[146, 213]",SBNC.tsv
+a little bite,3,150,"[5, 150]",SBNC.tsv
+want to go,3,150,"[15, 150]",SBNC.tsv
+we're,1,150,"[147, 150]",SBNC.tsv
+probably,1,150,"[149, 150, 207]",SBNC.tsv
+er and,2,307,"[150, 307]",SBNC.tsv
+the school,2,154,"[15, 154]",SBNC.tsv
+be not,2,156,"[62, 156]",SBNC.tsv
+hear the,2,172,"[45, 172, 173]",SBNC.tsv
+town,1,194,"[180, 194]",SBNC.tsv
+chance,1,190,"[62, 190, 191]",SBNC.tsv
+or do they,3,190,"[113, 190]",SBNC.tsv
+what if,2,227,"[190, 227, 233]",SBNC.tsv
+but the,2,267,"[190, 267, 270]",SBNC.tsv
+move to a different town,5,195,"[194, 195]",SBNC.tsv
+they would,2,196,"[195, 196, 198, 312]",SBNC.tsv
+move to,2,196,"[195, 196]",SBNC.tsv
+maybe,1,198,"[17, 198]",SBNC.tsv
+still,1,205,"[198, 205]",SBNC.tsv
+sure,1,202,"[9, 77, 202, 298]",SBNC.tsv
+i'm not sure,3,202,"[77, 202]",SBNC.tsv
+go to get,3,202,"[147, 202]",SBNC.tsv
+i'd,1,206,"[149, 206]",SBNC.tsv
+there's only,2,208,"[140, 208]",SBNC.tsv
+be you go to,4,355,"[222, 355]",SBNC.tsv
+oh the,2,257,"[45, 257]",SBNC.tsv
+say it be the,4,259,"[257, 259]",SBNC.tsv
+say it,2,269,"[257, 269, 270]",SBNC.tsv
+you say,2,335,"[257, 335]",SBNC.tsv
+to know,2,266,"[41, 266]",SBNC.tsv
+yeah but,2,268,"[147, 267, 268]",SBNC.tsv
+the teacher,2,268,"[267, 268]",SBNC.tsv
+poster,1,287,"[282, 287]",SBNC.tsv
+she say,2,288,"[45, 259, 288]",SBNC.tsv
+and i could,3,289,"[143, 289]",SBNC.tsv
+and i,2,289,"[143, 289, 293]",SBNC.tsv
+and then you,3,299,"[293, 299]",SBNC.tsv
+i think it be the,5,296,"[294, 295, 296]",SBNC.tsv
+lot of,2,312,"[143, 312, 352]",SBNC.tsv
+bake bean,2,314,"[312, 314]",SBNC.tsv
+bean,1,355,"[312, 355]",SBNC.tsv
+if you,2,317,"[201, 317]",SBNC.tsv
+see if,2,330,"[15, 330]",SBNC.tsv
+there be,2,330,"[142, 330]",SBNC.tsv
+if there be a,4,330,"[299, 330]",SBNC.tsv
+bake,1,330,"[314, 330]",SBNC.tsv
+little,1,332,"[5, 332]",SBNC.tsv
+symbols,1,333,"[332, 333, 335]",SBNC.tsv
+you want,2,342,"[41, 45, 342]",SBNC.tsv
+make the,2,355,"[342, 355]",SBNC.tsv
+yes i,2,344,"[45, 344, 356]",SBNC.tsv
+help,1,356,"[355, 356]",SBNC.tsv
+i can't,2,287,"[26, 287]",SBNC.tsv
+i think it's,3,81,"[33, 81]",SBNC.tsv
+what's the,2,153,"[39, 153]",SBNC.tsv
+the plot be,3,47,"[41, 47]",SBNC.tsv
+plot be,2,47,"[45, 47]",SBNC.tsv
+it's like,2,90,"[50, 66, 89, 90]",SBNC.tsv
+spoil,1,60,"[54, 59, 60, 62]",SBNC.tsv
+didn't get,2,62,"[56, 62]",SBNC.tsv
+he just,2,132,"[59, 132]",SBNC.tsv
+be i,2,203,"[61, 203]",SBNC.tsv
+and the,2,269,"[87, 174, 269]",SBNC.tsv
+she want to,3,98,"[15, 45, 98, 106]",SBNC.tsv
+to find,2,110,"[98, 106, 110]",SBNC.tsv
+think she,2,104,"[15, 104]",SBNC.tsv
+get a,2,106,"[62, 106, 174]",SBNC.tsv
+to get it,3,147,"[106, 147]",SBNC.tsv
+no they,2,196,"[112, 196, 197]",SBNC.tsv
+try to,2,124,"[110, 124]",SBNC.tsv
+capture the,2,127,"[126, 127]",SBNC.tsv
+capture,1,127,"[126, 127]",SBNC.tsv
+second,1,211,"[127, 211, 213]",SBNC.tsv
+rich and,2,134,"[132, 134]",SBNC.tsv
+i can't remember,3,287,"[145, 285, 287]",SBNC.tsv
+oh mum,2,159,"[75, 159]",SBNC.tsv
+be no,2,170,"[142, 170]",SBNC.tsv
+woman,1,307,"[172, 307]",SBNC.tsv
+if she,2,187,"[15, 45, 187]",SBNC.tsv
+and if she,3,187,"[45, 187]",SBNC.tsv
+catch,1,201,"[187, 201]",SBNC.tsv
+the the,2,267,"[193, 267, 311]",SBNC.tsv
+go to say,3,197,"[43, 45, 197]",SBNC.tsv
+ill,1,229,"[227, 229]",SBNC.tsv
+i remember,2,243,"[37, 243, 245]",SBNC.tsv
+cos then,2,265,"[205, 265]",SBNC.tsv
+or the s,3,281,"[272, 281]",SBNC.tsv
+the man,2,309,"[307, 309, 310, 311]",SBNC.tsv
+fart,1,311,"[275, 299, 303, 305, 311]",SBNC.tsv
+the man fart,3,311,"[310, 311]",SBNC.tsv
+erm if,2,338,"[48, 338]",SBNC.tsv
+i'll,1,345,"[242, 337, 345]",SBNC.tsv

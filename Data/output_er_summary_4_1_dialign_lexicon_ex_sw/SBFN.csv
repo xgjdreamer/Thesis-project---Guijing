@@ -1,0 +1,560 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+yeah,1,27,"[0, 27, 29, 33, 35, 39, 48, 54, 58, 62, 78, 79, 85, 87, 90, 95, 111, 113, 116, 117, 121, 128, 129, 130, 131, 135, 142, 149, 151, 183, 184, 208, 209, 211, 212, 216, 221, 237, 245, 246, 248, 254, 261, 263, 265, 268, 274, 275, 276, 282, 291, 305, 325, 335, 339, 341, 350, 351, 357, 370, 379, 388, 395, 397, 404, 405, 413, 419, 425, 438, 440, 443, 448, 467, 484, 498, 501, 514, 533, 537, 548, 553, 562, 569, 582, 589, 593, 595, 602, 616, 617, 630, 641, 654, 665, 686, 688, 692, 695, 709, 712, 716, 717, 725, 726, 727]",SBFN.tsv
+and what,2,44,"[0, 44]",SBFN.tsv
+okay,1,46,"[0, 46, 119, 360]",SBFN.tsv
+it be,2,51,"[0, 51, 56, 57, 59, 102, 103, 104, 118, 168, 200, 221, 230, 236, 293, 310, 394, 437, 446, 452, 453, 472, 477, 487, 496, 507, 599, 622, 629, 656, 677, 685, 688, 699, 730]",SBFN.tsv
+put,1,184,"[0, 184, 227, 299, 394, 396, 431]",SBFN.tsv
+in the,2,73,"[0, 59, 73, 192, 202, 258, 308, 428, 433, 453, 513, 549, 550, 551, 601, 633, 668, 680, 704, 708, 710, 711, 712, 716]",SBFN.tsv
+what you,2,77,"[0, 77, 200]",SBFN.tsv
+gonna,1,200,"[0, 200, 202, 394, 688]",SBFN.tsv
+do you,2,74,"[0, 74, 99, 204, 220, 302, 307, 413, 425, 491, 502, 700, 702, 729]",SBFN.tsv
+yeah it be,3,221,"[0, 221]",SBFN.tsv
+the middle,2,376,"[0, 376]",SBFN.tsv
+want to,2,122,"[0, 122, 415, 631, 687]",SBFN.tsv
+be and,2,417,"[0, 385, 417]",SBFN.tsv
+okay so,2,419,"[0, 419]",SBFN.tsv
+whatever,1,472,"[0, 472, 487]",SBFN.tsv
+i'm,1,479,"[0, 479, 508, 651, 652, 666, 670]",SBFN.tsv
+it in the,3,551,"[0, 551]",SBFN.tsv
+if you,2,77,"[2, 77, 200, 697]",SBFN.tsv
+right,1,21,"[7, 9, 15, 17, 19, 21, 31, 52, 101, 109, 112, 119, 141, 163, 182, 207, 209, 215, 272, 273, 356, 362, 381, 503, 567, 570, 578, 589, 590, 592, 598, 600, 630, 719, 723]",SBFN.tsv
+oh right,2,21,"[15, 17, 21, 163, 209, 273, 356, 570, 578, 589, 719]",SBFN.tsv
+one,1,145,"[20, 122, 145, 168, 170, 204, 236, 259, 274, 415, 457, 460, 465, 487, 512, 656, 701]",SBFN.tsv
+one of,2,168,"[145, 168, 274, 656]",SBFN.tsv
+what be,2,272,"[188, 272, 346, 409]",SBFN.tsv
+name,1,188,"[106, 188, 346, 409, 426]",SBFN.tsv
+yeah yeah,2,209,"[135, 151, 184, 209, 245, 246, 268, 484, 593, 665]",SBFN.tsv
+right yeah,2,630,"[209, 589, 630]",SBFN.tsv
+to rent,2,223,"[202, 223]",SBFN.tsv
+be to rent,3,224,"[223, 224]",SBFN.tsv
+this be,2,223,"[61, 223, 281, 433]",SBFN.tsv
+to buy,2,223,"[45, 122, 223, 281, 394]",SBFN.tsv
+rent,1,202,"[32, 53, 202, 223, 224, 281]",SBFN.tsv
+buy,1,223,"[10, 30, 34, 36, 41, 45, 49, 122, 136, 223, 281, 293, 394]",SBFN.tsv
+to do,2,226,"[221, 226, 706]",SBFN.tsv
+do that,2,233,"[226, 233, 433, 495]",SBFN.tsv
+and you,2,377,"[226, 377, 403, 532, 576, 624]",SBFN.tsv
+yeah yeah yeah,3,245,"[184, 245, 593]",SBFN.tsv
+yes,1,251,"[14, 23, 70, 115, 178, 205, 207, 244, 250, 251, 252, 287, 332, 333, 336, 338, 351, 393, 406, 585, 591, 620, 681]",SBFN.tsv
+move,1,182,"[8, 26, 99, 100, 136, 144, 148, 168, 172, 181, 182, 279, 307, 413]",SBFN.tsv
+isn't it,2,294,"[38, 125, 276, 294, 506, 584]",SBFN.tsv
+live,1,294,"[80, 122, 138, 184, 202, 294, 295, 316, 337, 342, 380, 394, 398, 415, 419, 517, 520, 522, 579, 688]",SBFN.tsv
+and that's,2,294,"[80, 89, 197, 294, 386]",SBFN.tsv
+that's,1,117,"[80, 89, 117, 162, 181, 197, 231, 272, 294, 295, 304, 386, 419, 531, 533, 535, 697, 726]",SBFN.tsv
+that's where the live now,5,295,"[294, 295]",SBFN.tsv
+know,1,313,"[68, 106, 150, 155, 200, 204, 236, 313, 315, 376, 378, 394, 398, 423, 425, 437, 502, 511, 531, 548, 581, 615, 624, 673, 677, 687, 688, 702, 723]",SBFN.tsv
+i know,2,315,"[155, 315, 378, 548]",SBFN.tsv
+go,1,337,"[25, 41, 71, 73, 102, 108, 150, 184, 204, 236, 238, 247, 249, 259, 267, 299, 337, 348, 394, 398, 401, 408, 413, 425, 459, 563, 569, 575, 603, 611, 615, 624, 635, 646, 652, 666, 670, 671, 676, 677, 679, 682, 688, 699, 704, 720]",SBFN.tsv
+and they,2,337,"[169, 204, 337, 439, 677]",SBFN.tsv
+go down,2,337,"[247, 337, 671]",SBFN.tsv
+to live,2,337,"[80, 316, 337]",SBFN.tsv
+god,1,345,"[171, 345, 379, 476, 667, 685]",SBFN.tsv
+young,1,352,"[202, 352]",SBFN.tsv
+boys,1,352,"[274, 349, 352, 415]",SBFN.tsv
+when they,2,441,"[352, 441]",SBFN.tsv
+do they,2,373,"[355, 373]",SBFN.tsv
+come to,2,359,"[1, 91, 259, 359]",SBFN.tsv
+come,1,51,"[1, 51, 55, 59, 71, 73, 83, 91, 114, 122, 175, 180, 184, 222, 259, 308, 359, 370, 371, 376, 382, 385, 394, 398, 410, 413, 463, 528, 560, 575, 633, 668, 716]",SBFN.tsv
+us,1,359,"[259, 359, 398, 520, 624, 626, 668]",SBFN.tsv
+it'll come,2,371,"[359, 371]",SBFN.tsv
+bite,1,378,"[99, 127, 154, 194, 378, 633, 660, 662]",SBFN.tsv
+be when,2,378,"[175, 180, 378]",SBFN.tsv
+cottage,1,378,"[285, 293, 378]",SBFN.tsv
+know the,2,378,"[376, 378, 398, 615, 673]",SBFN.tsv
+history,1,378,"[92, 376, 378]",SBFN.tsv
+oh i,2,378,"[106, 378, 674]",SBFN.tsv
+next,1,83,"[25, 83, 134, 374, 380, 668, 671, 677, 680]",SBFN.tsv
+house,1,380,"[34, 41, 106, 120, 148, 187, 360, 373, 380, 394, 402, 419, 460, 478]",SBFN.tsv
+it up,2,380,"[197, 380]",SBFN.tsv
+be we,2,380,"[202, 236, 380, 392]",SBFN.tsv
+do it,2,380,"[221, 380]",SBFN.tsv
+house and,2,380,"[373, 380]",SBFN.tsv
+next door,2,380,"[374, 380, 680]",SBFN.tsv
+be do,2,380,"[132, 380, 392]",SBFN.tsv
+i come,2,382,"[51, 55, 59, 91, 175, 180, 382]",SBFN.tsv
+and i,2,382,"[20, 74, 184, 382, 398, 417]",SBFN.tsv
+home,1,196,"[99, 196, 376, 385, 450]",SBFN.tsv
+i'd,1,385,"[55, 197, 385]",SBFN.tsv
+we be,2,385,"[148, 202, 236, 384, 385, 392, 494, 687, 688, 703, 704]",SBFN.tsv
+come home,2,385,"[376, 385]",SBFN.tsv
+have a,2,184,"[71, 126, 184, 204, 259, 387, 394, 433, 502, 603, 660, 697]",SBFN.tsv
+to have a,3,394,"[387, 394]",SBFN.tsv
+to have,2,452,"[387, 394, 452, 544]",SBFN.tsv
+that be,2,391,"[51, 224, 256, 391, 417, 469, 472, 527, 592, 723]",SBFN.tsv
+be there,2,404,"[310, 403, 404, 541, 558]",SBFN.tsv
+well,1,407,"[1, 6, 14, 51, 63, 71, 74, 100, 118, 182, 199, 307, 308, 392, 403, 407, 431, 448, 472, 513, 516, 523, 538, 565, 627, 633, 644, 645, 666, 687, 688, 697, 703, 717, 721]",SBFN.tsv
+of course,2,437,"[407, 437, 452, 688]",SBFN.tsv
+course,1,407,"[73, 407, 437, 452, 596, 618, 652, 688]",SBFN.tsv
+really,1,427,"[96, 127, 236, 427, 429, 461, 515, 601, 603, 622, 643, 653, 688, 718]",SBFN.tsv
+sound proof,2,437,"[436, 437]",SBFN.tsv
+sound,1,608,"[436, 608]",SBFN.tsv
+so you,2,478,"[159, 175, 302, 478, 486]",SBFN.tsv
+get,1,478,"[67, 73, 132, 170, 184, 202, 221, 249, 258, 259, 260, 349, 423, 445, 478, 517, 601, 603, 624, 626, 631, 635, 658, 688, 690, 697, 707, 708]",SBFN.tsv
+fancy,1,478,"[376, 478]",SBFN.tsv
+would,1,433,"[59, 172, 235, 261, 390, 433, 439, 472, 478, 592, 615]",SBFN.tsv
+big,1,478,"[73, 463, 478]",SBFN.tsv
+build,1,480,"[104, 118, 120, 168, 299, 302, 419, 455, 460, 480]",SBFN.tsv
+sort of,2,486,"[80, 258, 267, 486, 487, 597, 699]",SBFN.tsv
+could,1,259,"[67, 132, 259, 299, 486, 487, 511, 552, 553, 554, 593, 611, 687]",SBFN.tsv
+sort,1,486,"[258, 259, 486, 487, 626, 699]",SBFN.tsv
+things,1,486,"[413, 486]",SBFN.tsv
+you could,2,487,"[486, 487, 511, 611]",SBFN.tsv
+where be,2,495,"[11, 202, 400, 495]",SBFN.tsv
+you do,2,495,"[302, 304, 373, 495, 569]",SBFN.tsv
+be you,2,495,"[159, 394, 495, 497, 556, 581, 687, 713, 723]",SBFN.tsv
+i be,2,499,"[8, 36, 55, 63, 66, 184, 453, 499, 516, 519, 525, 558, 577, 644]",SBFN.tsv
+be at,2,499,"[184, 360, 373, 494, 496, 499, 519, 525]",SBFN.tsv
+cos,1,499,"[122, 266, 373, 394, 453, 455, 487, 499, 512, 560, 563, 611, 622, 631, 714]",SBFN.tsv
+cos i,2,499,"[455, 499]",SBFN.tsv
+and then,2,501,"[8, 10, 26, 73, 122, 132, 142, 202, 259, 415, 431, 457, 460, 501, 567, 599, 699]",SBFN.tsv
+time,1,515,"[148, 202, 298, 512, 515, 569, 581, 652, 697]",SBFN.tsv
+a lot of,3,515,"[221, 285, 286, 439, 515]",SBFN.tsv
+in and,2,517,"[159, 184, 517]",SBFN.tsv
+live in,2,316,"[80, 138, 316, 394, 517, 522, 579]",SBFN.tsv
+years,1,53,"[3, 4, 8, 53, 96, 134, 146, 232, 390, 417, 523, 547, 622]",SBFN.tsv
+three years,2,523,"[53, 232, 523]",SBFN.tsv
+three,1,232,"[146, 232, 349, 523, 558, 569]",SBFN.tsv
+well i,2,523,"[516, 523, 644]",SBFN.tsv
+along,1,528,"[43, 73, 487, 528]",SBFN.tsv
+be a,2,552,"[22, 30, 36, 56, 104, 168, 330, 453, 460, 463, 472, 477, 552, 687, 699]",SBFN.tsv
+could have,2,552,"[511, 552, 553, 554]",SBFN.tsv
+what year,2,556,"[44, 556]",SBFN.tsv
+what year be,3,556,"[50, 556]",SBFN.tsv
+year be,2,556,"[202, 556]",SBFN.tsv
+seventy to seventy three,4,569,"[558, 569]",SBFN.tsv
+it come,2,560,"[398, 560]",SBFN.tsv
+come under,2,560,"[463, 560]",SBFN.tsv
+university,1,567,"[560, 567, 703, 704]",SBFN.tsv
+go and,2,563,"[71, 184, 267, 563]",SBFN.tsv
+break,1,563,"[448, 563]",SBFN.tsv
+sister,1,563,"[535, 538, 563]",SBFN.tsv
+train there,2,567,"[563, 567, 587]",SBFN.tsv
+train,1,563,"[525, 563, 567, 576, 577, 587]",SBFN.tsv
+in law,2,588,"[563, 588]",SBFN.tsv
+circle,1,569,"[568, 569]",SBFN.tsv
+world,1,574,"[278, 573, 574, 685]",SBFN.tsv
+small world,2,574,"[573, 574]",SBFN.tsv
+still,1,481,"[428, 481, 483, 502, 503, 584, 677, 682]",SBFN.tsv
+sixty,1,659,"[51, 136, 137, 175, 176, 557, 659, 714, 716, 720, 722]",SBFN.tsv
+probably,1,659,"[417, 659]",SBFN.tsv
+a bite,2,154,"[127, 154, 633, 660, 662]",SBFN.tsv
+no cos,2,714,"[394, 714]",SBFN.tsv
+seven,1,714,"[132, 419, 420, 714, 716]",SBFN.tsv
+go to,2,720,"[25, 394, 569, 603, 611, 635, 670, 699, 720]",SBFN.tsv
+first,1,720,"[99, 184, 503, 658, 699, 720]",SBFN.tsv
+till,1,720,"[299, 720]",SBFN.tsv
+sixty nine,2,722,"[136, 175, 557, 722]",SBFN.tsv
+think,1,202,"[8, 36, 53, 55, 59, 63, 74, 102, 132, 202, 281, 288, 374, 413, 453, 463, 514, 519, 588, 644, 683, 699, 722, 730]",SBFN.tsv
+i think,2,722,"[8, 53, 55, 59, 63, 102, 132, 288, 413, 514, 519, 588, 644, 699, 722]",SBFN.tsv
+nine,1,175,"[142, 160, 175, 503, 557, 722]",SBFN.tsv
+in the middle,3,59,"[0, 59]",SBFN.tsv
+you be,2,159,"[0, 159, 226, 307, 380, 383, 403]",SBFN.tsv
+erm so,2,585,"[0, 585]",SBFN.tsv
+yeah it,2,593,"[0, 221, 593]",SBFN.tsv
+good,1,98,"[96, 98, 304, 430, 601, 624]",SBFN.tsv
+oh right yeah,3,589,"[209, 589]",SBFN.tsv
+it wasn't,2,223,"[57, 223]",SBFN.tsv
+you move,2,279,"[99, 148, 181, 279, 307]",SBFN.tsv
+where the,2,294,"[22, 294, 295]",SBFN.tsv
+i don't,2,730,"[313, 730]",SBFN.tsv
+wife,1,334,"[83, 334, 528, 529]",SBFN.tsv
+they go,2,337,"[102, 337]",SBFN.tsv
+oh god,2,685,"[345, 685]",SBFN.tsv
+remember,1,352,"[102, 106, 352, 730]",SBFN.tsv
+they be,2,677,"[352, 677]",SBFN.tsv
+to us,2,668,"[359, 668]",SBFN.tsv
+forget,1,656,"[378, 656]",SBFN.tsv
+and so,2,380,"[89, 169, 380]",SBFN.tsv
+mother,1,380,"[162, 380]",SBFN.tsv
+while you,2,380,"[172, 380]",SBFN.tsv
+so be,2,642,"[380, 642, 713]",SBFN.tsv
+door,1,687,"[374, 380, 680, 687]",SBFN.tsv
+be his,2,670,"[409, 670]",SBFN.tsv
+that in,2,478,"[136, 478]",SBFN.tsv
+a lot,2,221,"[59, 221, 285, 286, 439, 515, 703]",SBFN.tsv
+spend,1,515,"[132, 515, 523]",SBFN.tsv
+i live in,3,579,"[517, 579]",SBFN.tsv
+your wife,2,528,"[83, 528]",SBFN.tsv
+be it,2,536,"[103, 481, 512, 536]",SBFN.tsv
+yeah i,2,548,"[39, 548]",SBFN.tsv
+have be,2,390,"[122, 390, 442, 552, 553, 554, 660]",SBFN.tsv
+story,1,552,"[162, 531, 533, 535, 552]",SBFN.tsv
+year,1,556,"[44, 50, 202, 527, 556, 656, 660]",SBFN.tsv
+then it,2,599,"[560, 599]",SBFN.tsv
+it still,2,584,"[481, 584]",SBFN.tsv
+a bite of,3,662,"[633, 662]",SBFN.tsv
+a bite of an affair,5,662,"[660, 662]",SBFN.tsv
+very good,2,304,"[98, 304]",SBFN.tsv
+and you be,3,403,"[226, 403]",SBFN.tsv
+you wouldn't,2,478,"[233, 478]",SBFN.tsv
+you would,2,478,"[261, 478]",SBFN.tsv
+i be at,3,519,"[499, 519, 525]",SBFN.tsv
+could have be,3,553,"[552, 553, 554]",SBFN.tsv
+seventy,1,715,"[558, 569, 715]",SBFN.tsv
+piece,1,563,"[92, 563]",SBFN.tsv
+greece,1,720,"[713, 720]",SBFN.tsv
+say,1,37,"[1, 37, 67, 71, 74, 172, 184, 202, 221, 285, 286, 374, 376, 394, 398, 413, 415, 417, 419, 624, 627, 633, 649, 666, 668, 688, 697, 715]",SBFN.tsv
+that you,2,80,"[1, 80, 569]",SBFN.tsv
+well you,2,627,"[1, 627]",SBFN.tsv
+years ago,2,4,"[3, 4, 8, 390]",SBFN.tsv
+start,1,6,"[5, 6, 122, 369, 448]",SBFN.tsv
+practice,1,14,"[11, 14, 74]",SBFN.tsv
+be the,2,118,"[11, 118, 256, 262, 263, 272, 469, 596, 656, 685]",SBFN.tsv
+dental,1,704,"[11, 704]",SBFN.tsv
+to the,2,26,"[25, 26, 73, 184, 204, 206, 258]",SBFN.tsv
+bank,1,26,"[25, 26]",SBFN.tsv
+use to,2,68,"[25, 68, 194, 256, 316, 452, 544, 607, 609, 611]",SBFN.tsv
+to go,2,267,"[25, 259, 267, 615]",SBFN.tsv
+to go to,3,603,"[25, 603]",SBFN.tsv
+use to go to,4,611,"[25, 611]",SBFN.tsv
+next to,2,668,"[25, 668]",SBFN.tsv
+always,1,75,"[38, 75, 192, 607, 609, 696]",SBFN.tsv
+it be a,3,104,"[56, 104, 168, 453, 472, 477]",SBFN.tsv
+and it's,2,633,"[69, 633]",SBFN.tsv
+it's all,2,86,"[74, 86]",SBFN.tsv
+interest,1,88,"[55, 59, 88, 162, 489, 506, 603, 622]",SBFN.tsv
+drive,1,107,"[71, 73, 107]",SBFN.tsv
+like,1,127,"[77, 80, 127, 152, 172, 200, 283, 422, 423, 452, 457, 483, 611, 664]",SBFN.tsv
+in sixty,2,137,"[136, 137]",SBFN.tsv
+thank,1,142,"[139, 142, 146, 610]",SBFN.tsv
+which be,2,175,"[20, 47, 175, 180, 185, 219]",SBFN.tsv
+when i come,3,175,"[51, 55, 175, 180]",SBFN.tsv
+come here,2,175,"[122, 175]",SBFN.tsv
+in nineteen sixty nine,4,175,"[136, 175]",SBFN.tsv
+move to,2,182,"[8, 144, 182, 307]",SBFN.tsv
+i i,2,182,"[67, 182, 519, 567, 577]",SBFN.tsv
+actually,1,353,"[182, 353, 441, 460, 487, 666, 700, 702]",SBFN.tsv
+well actually,2,666,"[182, 666]",SBFN.tsv
+so i,2,184,"[59, 97, 184, 419, 463, 567, 587]",SBFN.tsv
+find,1,184,"[67, 184, 466]",SBFN.tsv
+go and have a,4,184,"[71, 184]",SBFN.tsv
+i have,2,184,"[74, 184]",SBFN.tsv
+come and,2,184,"[83, 184, 222, 398]",SBFN.tsv
+i have a,3,184,"[126, 184]",SBFN.tsv
+and the,2,184,"[132, 184, 274, 302, 376, 426, 472, 658]",SBFN.tsv
+the erm,2,184,"[162, 184]",SBFN.tsv
+at the,2,581,"[184, 202, 285, 567, 581, 690, 693]",SBFN.tsv
+people,1,631,"[184, 631, 648]",SBFN.tsv
+school,1,704,"[184, 192, 196, 221, 285, 704]",SBFN.tsv
+be in,2,185,"[8, 91, 159, 185, 274, 433, 516, 535, 668]",SBFN.tsv
+and we,2,192,"[71, 122, 192, 217, 221, 222, 224, 232, 298, 299, 460, 463, 611, 676, 677, 687, 697]",SBFN.tsv
+what we'd,2,676,"[192, 676]",SBFN.tsv
+on the,2,194,"[73, 112, 122, 148, 194, 210, 211, 213, 215, 227, 285, 299, 428, 472, 687, 703]",SBFN.tsv
+side,1,194,"[112, 194, 259, 299, 688]",SBFN.tsv
+that's what,2,197,"[89, 197]",SBFN.tsv
+up and,2,660,"[197, 463, 660]",SBFN.tsv
+well it's,2,199,"[74, 199]",SBFN.tsv
+you know,2,200,"[68, 106, 150, 200, 204, 236, 376, 394, 398, 423, 425, 437, 502, 511, 531, 581, 615, 624, 673, 677, 687, 688, 702, 723]",SBFN.tsv
+if you like what you,5,200,"[77, 200]",SBFN.tsv
+like what you,3,200,"[77, 200]",SBFN.tsv
+you know you,3,200,"[150, 200, 511]",SBFN.tsv
+you like,2,200,"[172, 200]",SBFN.tsv
+you have,2,627,"[200, 627]",SBFN.tsv
+you you,2,302,"[200, 221, 302, 576, 627, 629]",SBFN.tsv
+alright,1,668,"[200, 668]",SBFN.tsv
+and then we,3,202,"[8, 10, 26, 202]",SBFN.tsv
+then we,2,202,"[8, 10, 26, 73, 122, 202]",SBFN.tsv
+be be,2,202,"[14, 202, 670]",SBFN.tsv
+two,1,202,"[14, 53, 55, 63, 122, 202, 417, 597, 699]",SBFN.tsv
+be so,2,202,"[157, 202, 472]",SBFN.tsv
+at the time,3,581,"[202, 581]",SBFN.tsv
+stay,1,585,"[202, 232, 585]",SBFN.tsv
+for a,2,624,"[202, 392, 624]",SBFN.tsv
+we get,2,635,"[202, 260, 635, 658]",SBFN.tsv
+the time,2,652,"[202, 652]",SBFN.tsv
+marry,1,660,"[202, 660]",SBFN.tsv
+and it,2,665,"[202, 230, 425, 665, 688]",SBFN.tsv
+stick,1,688,"[202, 688]",SBFN.tsv
+farm,1,204,"[10, 36, 122, 181, 204, 274]",SBFN.tsv
+top,1,204,"[18, 28, 73, 204]",SBFN.tsv
+in this,2,204,"[80, 204, 688]",SBFN.tsv
+area,1,204,"[80, 204, 601]",SBFN.tsv
+they have,2,605,"[204, 474, 605]",SBFN.tsv
+the top,2,206,"[18, 28, 73, 206, 238, 431]",SBFN.tsv
+onto the,2,206,"[73, 206, 238]",SBFN.tsv
+bend,1,210,"[207, 210]",SBFN.tsv
+there's a,2,213,"[108, 213, 376, 696]",SBFN.tsv
+farmhouse,1,213,"[132, 213]",SBFN.tsv
+on the leave,3,213,"[211, 213]",SBFN.tsv
+there's,1,696,"[213, 376, 415, 693, 696]",SBFN.tsv
+leave,1,699,"[213, 259, 441, 699]",SBFN.tsv
+on the right,3,215,"[112, 215]",SBFN.tsv
+have the,2,217,"[45, 217, 415]",SBFN.tsv
+we have,2,217,"[122, 217, 259, 597, 697]",SBFN.tsv
+and we have,3,697,"[217, 697]",SBFN.tsv
+anyway,1,221,"[37, 63, 65, 71, 108, 221, 356, 357, 371, 535, 633, 663, 665, 671, 717, 723]",SBFN.tsv
+we do,2,221,"[89, 172, 221, 699, 708]",SBFN.tsv
+work,1,271,"[221, 271, 285, 286, 460, 535, 624]",SBFN.tsv
+do a,2,633,"[221, 376, 633]",SBFN.tsv
+kid,1,660,"[221, 394, 452, 660]",SBFN.tsv
+it it,2,665,"[221, 665]",SBFN.tsv
+me and,2,222,"[96, 222]",SBFN.tsv
+back,1,227,"[73, 83, 114, 227, 299, 342, 371, 381, 398, 401, 410, 463, 629, 633]",SBFN.tsv
+we pay,2,227,"[132, 227]",SBFN.tsv
+for it,2,227,"[132, 227, 651]",SBFN.tsv
+pay,1,627,"[227, 627]",SBFN.tsv
+and it be,3,688,"[230, 688]",SBFN.tsv
+no we,2,597,"[236, 394, 597]",SBFN.tsv
+be really,2,601,"[236, 601]",SBFN.tsv
+morning,1,671,"[236, 671, 677]",SBFN.tsv
+the other,2,688,"[236, 274, 688]",SBFN.tsv
+you go,2,238,"[108, 238, 247, 249, 394]",SBFN.tsv
+the bottom,2,247,"[20, 247]",SBFN.tsv
+up to,2,249,"[26, 73, 249]",SBFN.tsv
+travel,1,271,"[256, 271]",SBFN.tsv
+the only,2,646,"[256, 646, 656]",SBFN.tsv
+there be,2,258,"[14, 22, 59, 106, 258, 310, 312, 316, 354, 453, 457, 460, 463, 503, 538, 673, 687]",SBFN.tsv
+get in the,3,258,"[73, 258]",SBFN.tsv
+tank,1,676,"[258, 676, 677]",SBFN.tsv
+get in,2,688,"[258, 688]",SBFN.tsv
+run,1,259,"[14, 18, 20, 259, 274]",SBFN.tsv
+the field,2,259,"[45, 259]",SBFN.tsv
+for the,2,259,"[55, 168, 259, 474, 639, 640]",SBFN.tsv
+out the,2,259,"[59, 259]",SBFN.tsv
+drink,1,259,"[68, 259, 605]",SBFN.tsv
+and have a,3,259,"[71, 259]",SBFN.tsv
+so we,2,259,"[71, 136, 138, 172, 259, 293, 415, 544, 547, 618, 688, 708]",SBFN.tsv
+away and,2,259,"[124, 259]",SBFN.tsv
+push,1,259,"[169, 259]",SBFN.tsv
+the leave,2,259,"[211, 259]",SBFN.tsv
+have to go,3,267,"[259, 267]",SBFN.tsv
+to stay,2,585,"[259, 585]",SBFN.tsv
+have to,2,605,"[259, 394, 396, 605, 627]",SBFN.tsv
+with us,2,624,"[259, 398, 624]",SBFN.tsv
+away,1,624,"[259, 439, 624]",SBFN.tsv
+through the,2,348,"[259, 348, 676]",SBFN.tsv
+we could,2,687,"[259, 299, 687]",SBFN.tsv
+to it,2,260,"[134, 260]",SBFN.tsv
+days,1,262,"[68, 122, 148, 152, 262, 263, 472, 599, 624, 638, 699]",SBFN.tsv
+he he do,3,265,"[41, 265]",SBFN.tsv
+he he,2,603,"[265, 603]",SBFN.tsv
+he do,2,666,"[265, 268, 588, 666]",SBFN.tsv
+yeah it's,2,268,"[131, 268]",SBFN.tsv
+nice,1,268,"[92, 198, 268]",SBFN.tsv
+and his,2,272,"[271, 272]",SBFN.tsv
+daughter,1,272,"[271, 272]",SBFN.tsv
+manager,1,697,"[272, 697]",SBFN.tsv
+run the,2,274,"[18, 20, 274]",SBFN.tsv
+of the,2,274,"[80, 106, 162, 168, 274, 299, 376, 415, 428, 431, 453, 455, 656, 685, 688]",SBFN.tsv
+one be,2,274,"[122, 274]",SBFN.tsv
+one of the,3,274,"[168, 274, 656]",SBFN.tsv
+yeah erm,2,595,"[274, 595]",SBFN.tsv
+old,1,278,"[122, 132, 278]",SBFN.tsv
+think it's,2,281,"[102, 281, 463]",SBFN.tsv
+price,1,283,"[41, 283, 639, 640]",SBFN.tsv
+on it,2,285,"[59, 285, 286]",SBFN.tsv
+look,1,285,"[59, 71, 172, 285, 392, 394, 677]",SBFN.tsv
+i've,1,285,"[63, 285, 633]",SBFN.tsv
+he say,2,285,"[67, 71, 74, 285, 624, 627, 633, 666, 688, 697]",SBFN.tsv
+but he,2,285,"[94, 285, 687]",SBFN.tsv
+work do,2,624,"[285, 286, 624]",SBFN.tsv
+somebody,1,286,"[49, 286]",SBFN.tsv
+to me,2,286,"[96, 286]",SBFN.tsv
+we buy,2,293,"[10, 136, 293]",SBFN.tsv
+it be just,3,293,"[57, 293]",SBFN.tsv
+four,1,298,"[51, 132, 146, 176, 298, 660]",SBFN.tsv
+we we,2,299,"[100, 299, 544, 665]",SBFN.tsv
+as we,2,583,"[299, 583]",SBFN.tsv
+we'd,1,676,"[299, 394, 396, 676]",SBFN.tsv
+the other side,3,688,"[299, 688]",SBFN.tsv
+far,1,688,"[299, 688]",SBFN.tsv
+we couldn't,2,708,"[299, 460, 708]",SBFN.tsv
+thing,1,308,"[59, 308, 392, 453, 599, 666, 706]",SBFN.tsv
+erm it be,3,622,"[310, 622]",SBFN.tsv
+to live in,3,316,"[80, 316]",SBFN.tsv
+no no,2,323,"[26, 323, 482]",SBFN.tsv
+he be,2,330,"[30, 94, 169, 330, 668, 682, 687]",SBFN.tsv
+he be a,3,687,"[330, 687]",SBFN.tsv
+right anyway,2,723,"[356, 723]",SBFN.tsv
+in a,2,371,"[55, 170, 371, 394]",SBFN.tsv
+come back,2,371,"[73, 83, 114, 371, 410, 633]",SBFN.tsv
+never,1,373,"[30, 32, 74, 373, 441]",SBFN.tsv
+as you,2,373,"[108, 373]",SBFN.tsv
+meet,1,491,"[373, 386, 491, 529, 532, 533, 603, 648]",SBFN.tsv
+cos they,2,631,"[373, 631]",SBFN.tsv
+up for,2,642,"[374, 642, 651]",SBFN.tsv
+quite,1,376,"[55, 376, 535, 553, 622, 633, 688, 699]",SBFN.tsv
+the middle of,3,376,"[59, 376]",SBFN.tsv
+the rest,2,376,"[132, 376]",SBFN.tsv
+you know the,3,615,"[376, 398, 615, 673]",SBFN.tsv
+night,1,658,"[376, 658]",SBFN.tsv
+the night,2,668,"[376, 668]",SBFN.tsv
+so the,2,697,"[376, 697]",SBFN.tsv
+round the,2,381,"[71, 381]",SBFN.tsv
+absolutely,1,381,"[252, 381, 576]",SBFN.tsv
+round,1,622,"[381, 394, 622]",SBFN.tsv
+how i,2,386,"[91, 386]",SBFN.tsv
+that's how,2,726,"[386, 726]",SBFN.tsv
+thing be,2,392,"[59, 392]",SBFN.tsv
+look at,2,392,"[71, 392]",SBFN.tsv
+say no,2,394,"[37, 394, 398]",SBFN.tsv
+see,1,394,"[67, 75, 394, 674, 677, 706]",SBFN.tsv
+have a look,3,394,"[71, 394]",SBFN.tsv
+we can't,2,394,"[75, 394]",SBFN.tsv
+can't,1,394,"[102, 106, 394, 652, 730]",SBFN.tsv
+we've,1,394,"[157, 394]",SBFN.tsv
+new,1,394,"[168, 394]",SBFN.tsv
+do the,2,394,"[302, 394, 706]",SBFN.tsv
+can't no,2,730,"[394, 730]",SBFN.tsv
+the er,2,398,"[26, 110, 398, 656]",SBFN.tsv
+go back,2,398,"[73, 398, 401]",SBFN.tsv
+i say,2,398,"[74, 398, 419]",SBFN.tsv
+i mean,2,398,"[148, 398, 615]",SBFN.tsv
+no i,2,577,"[398, 577, 652, 730]",SBFN.tsv
+say come,2,668,"[398, 668]",SBFN.tsv
+phone,1,462,"[408, 413, 462]",SBFN.tsv
+it i think,3,413,"[132, 413]",SBFN.tsv
+blimey,1,458,"[413, 458, 614]",SBFN.tsv
+great,1,669,"[413, 669]",SBFN.tsv
+go in,2,704,"[413, 704]",SBFN.tsv
+but the,2,415,"[59, 415, 452, 463, 511, 683]",SBFN.tsv
+we do and,3,415,"[89, 415]",SBFN.tsv
+whole,1,415,"[108, 415, 419]",SBFN.tsv
+convert,1,415,"[132, 415, 419, 450]",SBFN.tsv
+so we do,3,415,"[172, 415, 708]",SBFN.tsv
+do and,2,624,"[415, 624]",SBFN.tsv
+you can,2,627,"[415, 627, 629, 688, 697]",SBFN.tsv
+can have,2,638,"[415, 638]",SBFN.tsv
+we do and then,4,699,"[415, 699]",SBFN.tsv
+months,1,417,"[6, 8, 122, 142, 160, 417]",SBFN.tsv
+and i say,3,417,"[74, 417]",SBFN.tsv
+i do,2,601,"[419, 567, 601]",SBFN.tsv
+can you,2,629,"[419, 629]",SBFN.tsv
+room,1,453,"[419, 420, 453, 457, 460, 668, 671]",SBFN.tsv
+that's fine,2,697,"[419, 697]",SBFN.tsv
+there and,2,425,"[59, 168, 425, 452, 567]",SBFN.tsv
+you know i,3,425,"[68, 425]",SBFN.tsv
+change,1,425,"[75, 425, 484]",SBFN.tsv
+from the,2,425,"[100, 425]",SBFN.tsv
+that the,2,688,"[425, 688]",SBFN.tsv
+the name,2,426,"[106, 426]",SBFN.tsv
+be still,2,677,"[428, 677]",SBFN.tsv
+floor,1,431,"[28, 431, 474]",SBFN.tsv
+they'd,1,431,"[168, 431, 688]",SBFN.tsv
+concrete,1,447,"[431, 441, 447]",SBFN.tsv
+be in the,3,668,"[433, 668]",SBFN.tsv
+make,1,439,"[148, 439]",SBFN.tsv
+make a,2,439,"[377, 439]",SBFN.tsv
+take,1,441,"[59, 96, 100, 146, 441, 624, 656, 673, 701]",SBFN.tsv
+but they,2,441,"[168, 441]",SBFN.tsv
+take the,2,652,"[441, 652]",SBFN.tsv
+well yeah,2,688,"[448, 688]",SBFN.tsv
+there be a,3,453,"[22, 453, 460, 463, 687]",SBFN.tsv
+when i,2,453,"[51, 55, 175, 180, 453, 519, 529]",SBFN.tsv
+think it,2,453,"[59, 453]",SBFN.tsv
+the room,2,668,"[453, 457, 460, 668]",SBFN.tsv
+think it be,3,730,"[453, 730]",SBFN.tsv
+and there be,3,457,"[59, 457]",SBFN.tsv
+half,1,457,"[67, 457, 460, 465]",SBFN.tsv
+and he,2,460,"[32, 36, 45, 67, 71, 73, 74, 96, 460, 603, 633, 660, 661, 666, 668]",SBFN.tsv
+his house,2,460,"[34, 460]",SBFN.tsv
+he saw,2,460,"[41, 460]",SBFN.tsv
+golf,1,460,"[73, 460]",SBFN.tsv
+saw,1,460,"[77, 132, 460]",SBFN.tsv
+and there be this,4,463,"[59, 463]",SBFN.tsv
+it's come,2,463,"[370, 463]",SBFN.tsv
+it back,2,629,"[463, 629]",SBFN.tsv
+there be this,3,673,"[463, 673]",SBFN.tsv
+the same,2,472,"[14, 118, 131, 472, 569, 596, 639, 640]",SBFN.tsv
+it would,2,472,"[59, 472]",SBFN.tsv
+in those days,3,472,"[68, 122, 148, 472, 599, 624]",SBFN.tsv
+in those,2,472,"[68, 472]",SBFN.tsv
+walk,1,472,"[73, 472, 487, 688]",SBFN.tsv
+you couldn't,2,472,"[150, 472, 487, 707]",SBFN.tsv
+because the,2,699,"[472, 699]",SBFN.tsv
+i'm not,2,652,"[479, 508, 651, 652]",SBFN.tsv
+oh yeah,2,484,"[395, 440, 484]",SBFN.tsv
+but you,2,627,"[487, 627, 707]",SBFN.tsv
+become,1,494,"[102, 165, 494]",SBFN.tsv
+i be in,3,516,"[8, 516]",SBFN.tsv
+must have,2,520,"[442, 520]",SBFN.tsv
+we live,2,522,"[122, 522]",SBFN.tsv
+we live in,3,522,"[138, 522]",SBFN.tsv
+you meet,2,532,"[491, 532]",SBFN.tsv
+well there be,3,538,"[14, 538]",SBFN.tsv
+another,1,538,"[73, 122, 170, 531, 533, 535, 538]",SBFN.tsv
+catch,1,549,"[168, 549, 550]",SBFN.tsv
+the end,2,685,"[549, 550, 551, 685]",SBFN.tsv
+you make,2,551,"[148, 377, 551]",SBFN.tsv
+six,1,557,"[8, 142, 557, 638]",SBFN.tsv
+erm because i,3,567,"[55, 567]",SBFN.tsv
+i train,2,577,"[567, 577]",SBFN.tsv
+so i train there,4,587,"[567, 587]",SBFN.tsv
+lecture,1,597,"[567, 597, 708]",SBFN.tsv
+the university,2,703,"[567, 703, 704]",SBFN.tsv
+train in,2,577,"[576, 577]",SBFN.tsv
+er i,2,588,"[102, 132, 588]",SBFN.tsv
+that right,2,590,"[207, 590]",SBFN.tsv
+it's the same,3,596,"[131, 596]",SBFN.tsv
+for dentistry,2,596,"[581, 596]",SBFN.tsv
+orthodontics,1,597,"[596, 597]",SBFN.tsv
+the taxman,2,628,"[615, 628]",SBFN.tsv
+for the same price,4,640,"[639, 640]",SBFN.tsv
+i can't,2,651,"[102, 106, 651, 652, 730]",SBFN.tsv
+it i,2,651,"[132, 651]",SBFN.tsv
+nurse,1,664,"[162, 172, 664]",SBFN.tsv
+like that,2,664,"[483, 664]",SBFN.tsv
+he nurse her through her finals,6,664,"[661, 664]",SBFN.tsv
+the bedroom next,3,680,"[668, 680]",SBFN.tsv
+be still go,3,682,"[677, 682]",SBFN.tsv
+of a,2,693,"[59, 693]",SBFN.tsv
+the bar,2,693,"[688, 693]",SBFN.tsv
+with no beer,3,694,"[693, 694]",SBFN.tsv
+crikey,1,698,"[473, 488, 698]",SBFN.tsv
+get there,2,707,"[658, 707]",SBFN.tsv
+couldn't get,2,707,"[688, 690, 707]",SBFN.tsv
+couldn't get there,3,708,"[707, 708]",SBFN.tsv
+the hotel,2,711,"[611, 688, 697, 699, 711]",SBFN.tsv
+hotel,1,711,"[688, 711]",SBFN.tsv
+in the hotel,3,712,"[711, 712]",SBFN.tsv
+you say,2,715,"[1, 715]",SBFN.tsv
+be that,2,103,"[50, 103, 400, 590]",SBFN.tsv
+oh my,2,171,"[60, 171]",SBFN.tsv
+déjà vu,2,193,"[62, 193]",SBFN.tsv
+gosh,1,229,"[76, 93, 229]",SBFN.tsv
+it's a,2,289,"[127, 289]",SBFN.tsv
+thank you,2,610,"[139, 610]",SBFN.tsv
+those be the days,4,263,"[262, 263]",SBFN.tsv
+it's a challenge,3,290,"[289, 290]",SBFN.tsv
+the plan,2,305,"[302, 305, 453]",SBFN.tsv
+oh my god,3,379,"[171, 379, 667]",SBFN.tsv
+i meet,2,529,"[386, 529, 533]",SBFN.tsv
+and how long,3,417,"[159, 417]",SBFN.tsv
+plan and,2,419,"[302, 419]",SBFN.tsv
+forty seven room,3,420,"[419, 420]",SBFN.tsv
+use to have,3,544,"[452, 544]",SBFN.tsv
+the build,2,455,"[302, 455, 460]",SBFN.tsv
+five,1,547,"[457, 487, 547]",SBFN.tsv
+up in,2,550,"[463, 550]",SBFN.tsv
+and that be,3,527,"[469, 527]",SBFN.tsv
+college,1,525,"[492, 494, 496, 525, 532, 533, 535, 538, 567, 569]",SBFN.tsv
+at college,2,533,"[492, 494, 496, 533]",SBFN.tsv
+college in,2,525,"[496, 525]",SBFN.tsv
+meet her at college,4,533,"[532, 533]",SBFN.tsv
+sister college,2,538,"[535, 538]",SBFN.tsv
+catch up in the end,5,550,"[549, 550]",SBFN.tsv
+in the end,3,551,"[550, 551]",SBFN.tsv
+miss,1,561,"[99, 547, 561]",SBFN.tsv
+because i,2,519,"[55, 519, 567]",SBFN.tsv
+and my,2,569,"[531, 569]",SBFN.tsv
+in for,2,159,"[8, 159]",SBFN.tsv
+but anyway,2,535,"[37, 535, 663]",SBFN.tsv
+go through,2,348,"[71, 348]",SBFN.tsv
+around,1,575,"[73, 172, 575]",SBFN.tsv
+today,1,233,"[75, 77, 233]",SBFN.tsv
+yeah and,2,537,"[87, 142, 537]",SBFN.tsv
+move into,2,100,"[99, 100]",SBFN.tsv
+estate,1,108,"[103, 108]",SBFN.tsv
+here then,2,122,"[103, 122]",SBFN.tsv
+would you,2,235,"[172, 235]",SBFN.tsv
+you move into,3,181,"[99, 181]",SBFN.tsv
+cor,1,275,"[233, 275]",SBFN.tsv
+when do you move,4,307,"[99, 307]",SBFN.tsv
+bloody hell,2,442,"[422, 442]",SBFN.tsv
+i i be,3,577,"[519, 577]",SBFN.tsv
+we use to,3,611,"[544, 611]",SBFN.tsv
+be all,2,629,"[527, 629, 688]",SBFN.tsv
+er when,2,656,"[99, 656]",SBFN.tsv
+go through the,3,676,"[348, 676]",SBFN.tsv
+might,1,688,"[99, 688]",SBFN.tsv
+yeah but,2,692,"[533, 692]",SBFN.tsv

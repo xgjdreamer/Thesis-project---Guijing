@@ -1,0 +1,82 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+one,1,17,"[1, 5, 17, 29, 32, 34, 36, 114]",SPC7.tsv
+ten,1,17,"[5, 17, 85]",SPC7.tsv
+four,1,18,"[1, 5, 7, 18]",SPC7.tsv
+two,1,18,"[1, 5, 18]",SPC7.tsv
+twenty,1,18,"[5, 18]",SPC7.tsv
+know,1,94,"[65, 94, 146, 150, 164]",SPC7.tsv
+do you,2,22,"[0, 2, 22, 42, 84, 88, 90, 151]",SPC7.tsv
+try,1,29,"[2, 29, 38, 140]",SPC7.tsv
+that's,1,11,"[4, 11, 34, 129, 155, 161]",SPC7.tsv
+nice,1,58,"[4, 58, 82, 101, 161]",SPC7.tsv
+yeah,1,31,"[10, 31, 33, 48, 55, 63, 71, 87, 100, 139, 151]",SPC7.tsv
+bite,1,29,"[15, 29, 34, 40, 49, 80, 85, 126, 151]",SPC7.tsv
+well,1,75,"[15, 75]",SPC7.tsv
+thing,1,17,"[14, 17]",SPC7.tsv
+windows,1,17,"[14, 17, 18, 85]",SPC7.tsv
+be that,2,34,"[17, 34, 114, 138]",SPC7.tsv
+like,1,29,"[17, 29, 34, 38, 50, 53, 57, 98, 127, 142]",SPC7.tsv
+good,1,155,"[17, 155]",SPC7.tsv
+really,1,58,"[18, 58, 127]",SPC7.tsv
+something,1,58,"[18, 58]",SPC7.tsv
+he say,2,155,"[18, 155]",SPC7.tsv
+gonna be,2,164,"[18, 164]",SPC7.tsv
+gonna,1,164,"[18, 164]",SPC7.tsv
+discuss,1,45,"[42, 45, 47]",SPC7.tsv
+a bite,2,49,"[34, 40, 49, 80, 85, 126, 151]",SPC7.tsv
+be a,2,137,"[49, 137]",SPC7.tsv
+you do,2,54,"[22, 54, 79, 84]",SPC7.tsv
+suppose,1,64,"[56, 64]",SPC7.tsv
+get,1,70,"[29, 38, 47, 70, 94, 127, 140, 162]",SPC7.tsv
+with the,2,85,"[32, 85]",SPC7.tsv
+computer,1,85,"[66, 85, 126]",SPC7.tsv
+have to,2,103,"[91, 103, 140]",SPC7.tsv
+go,1,92,"[71, 73, 77, 88, 90, 92, 95, 96, 103, 105, 126, 131, 135]",SPC7.tsv
+if you,2,94,"[9, 94, 111]",SPC7.tsv
+you know,2,150,"[94, 150]",SPC7.tsv
+walk,1,99,"[86, 99]",SPC7.tsv
+say,1,129,"[18, 99, 129, 155]",SPC7.tsv
+i don't,2,107,"[47, 65, 107]",SPC7.tsv
+come,1,93,"[86, 93, 107]",SPC7.tsv
+apple,1,119,"[111, 118, 119]",SPC7.tsv
+play,1,151,"[29, 32, 151]",SPC7.tsv
+b,1,160,"[156, 160]",SPC7.tsv
+not very nice,3,161,"[82, 161]",SPC7.tsv
+like that,2,50,"[38, 50]",SPC7.tsv
+mess,1,85,"[26, 85]",SPC7.tsv
+a bite and,3,85,"[40, 85]",SPC7.tsv
+the computer,2,126,"[85, 126]",SPC7.tsv
+talk,1,91,"[40, 91]",SPC7.tsv
+around,1,92,"[26, 92, 99, 132]",SPC7.tsv
+what i,2,129,"[94, 129]",SPC7.tsv
+when you,2,95,"[93, 95]",SPC7.tsv
+back,1,99,"[93, 99]",SPC7.tsv
+back to,2,131,"[99, 131]",SPC7.tsv
+come back,2,107,"[93, 107]",SPC7.tsv
+i'm,1,112,"[109, 112]",SPC7.tsv
+okay,1,124,"[83, 104, 106, 108, 110, 112, 124]",SPC7.tsv
+goodness,1,130,"[129, 130]",SPC7.tsv
+bore and,2,138,"[29, 138]",SPC7.tsv
+you didn't,2,141,"[96, 141]",SPC7.tsv
+tell,1,142,"[141, 142]",SPC7.tsv
+i know,2,164,"[146, 164]",SPC7.tsv
+thank you,2,102,"[6, 102, 112]",SPC7.tsv
+be it,2,40,"[12, 40]",SPC7.tsv
+what do you do,4,84,"[22, 84]",SPC7.tsv
+plushies,1,28,"[26, 28, 29]",SPC7.tsv
+soccer,1,30,"[29, 30]",SPC7.tsv
+toy,1,32,"[29, 32]",SPC7.tsv
+be you,2,79,"[51, 79]",SPC7.tsv
+use,1,60,"[53, 60]",SPC7.tsv
+time,1,131,"[71, 73, 75, 131]",SPC7.tsv
+of the,2,73,"[29, 73]",SPC7.tsv
+bite of,2,80,"[29, 80]",SPC7.tsv
+for a,2,86,"[40, 86]",SPC7.tsv
+you might,2,142,"[86, 142]",SPC7.tsv
+that be,2,114,"[40, 114]",SPC7.tsv
+leave,1,144,"[118, 144]",SPC7.tsv
+god's sake,2,129,"[127, 129]",SPC7.tsv
+sake,1,129,"[127, 129]",SPC7.tsv
+it's like,2,142,"[127, 142]",SPC7.tsv
+and we,2,133,"[38, 133]",SPC7.tsv
+and get,2,140,"[29, 140]",SPC7.tsv

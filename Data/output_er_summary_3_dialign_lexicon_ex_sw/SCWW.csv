@@ -1,0 +1,483 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+yeah,1,5,"[0, 5, 14, 16, 30, 34, 39, 42, 46, 48, 53, 66, 71, 73, 77, 81, 84, 90, 91, 92, 103, 117, 121, 138, 140, 148, 149, 150, 153, 158, 161, 165, 166, 178, 190, 207, 210, 212, 215, 223, 225, 227, 228, 229, 234, 249, 258, 259, 273, 276, 277, 279, 280, 284, 287, 300, 308, 309, 311, 313, 318, 319, 326, 351, 354, 360, 364, 378, 387, 388, 390, 395, 396, 406, 436, 441, 444, 454]",SCWW.tsv
+go,1,41,"[0, 41, 48, 69, 75, 84, 91, 103, 122, 140, 145, 146, 157, 175, 211, 213, 252, 286, 291, 312, 355, 359, 385, 408, 417, 435]",SCWW.tsv
+that's,1,44,"[0, 16, 34, 44, 48, 86, 123, 177, 196, 250, 252, 254, 256, 263, 304, 323, 324, 336, 348, 378, 381, 391, 395, 397, 402, 406, 411, 430, 444]",SCWW.tsv
+em,1,4,"[3, 4, 22, 39, 48, 55, 71, 87, 91, 93, 101, 145, 161, 167, 205, 206, 211, 213, 236, 281, 285, 314, 325, 327, 331, 333, 353, 365, 385, 387, 399, 403, 445, 456, 457]",SCWW.tsv
+on the,2,246,"[4, 16, 18, 34, 246, 249, 343, 353, 407, 426]",SCWW.tsv
+that on,2,432,"[4, 432, 461]",SCWW.tsv
+put,1,116,"[6, 8, 16, 24, 116, 125, 156, 164, 166, 240, 299, 353, 359, 366, 369, 372, 386, 389, 398, 399, 408, 410, 420]",SCWW.tsv
+yes,1,105,"[10, 54, 105, 124, 184, 201, 221, 231, 246, 261, 262, 457]",SCWW.tsv
+everything's,1,224,"[14, 224]",SCWW.tsv
+chicken,1,16,"[1, 16, 22, 164]",SCWW.tsv
+get,1,16,"[3, 16, 31, 47, 131, 139, 146, 161, 188, 199, 200, 206, 211, 213, 223, 242, 247, 266, 269, 289, 294, 297, 300, 325, 363, 368, 369, 387, 388, 391, 397, 414, 429, 444]",SCWW.tsv
+i'll,1,17,"[16, 17, 39, 75, 77, 84, 85, 116, 153, 156, 166, 206, 209, 211, 216, 318, 345, 368, 389, 421, 463, 465, 466]",SCWW.tsv
+put the,2,116,"[16, 116, 164, 166, 240, 299, 369, 399, 420]",SCWW.tsv
+oh that's,2,123,"[16, 123, 196, 397]",SCWW.tsv
+ooh,1,123,"[16, 94, 123, 143, 175, 242, 255, 373]",SCWW.tsv
+first,1,230,"[16, 161, 227, 230, 233, 369, 370]",SCWW.tsv
+look,1,214,"[16, 214, 241, 433]",SCWW.tsv
+get that,2,242,"[16, 161, 242, 444]",SCWW.tsv
+i put,2,366,"[16, 366, 398]",SCWW.tsv
+that doesn't,2,388,"[16, 388]",SCWW.tsv
+them on the,3,353,"[18, 343, 353]",SCWW.tsv
+wash,1,199,"[22, 199, 391]",SCWW.tsv
+bowl,1,256,"[22, 256, 257, 313, 314, 317, 410]",SCWW.tsv
+do you want,3,24,"[11, 24, 33, 115, 183, 186, 263, 270, 315, 318, 404, 444, 446]",SCWW.tsv
+want,1,25,"[11, 24, 25, 78, 164, 167, 172, 183, 186, 197, 239, 256, 259, 263, 270, 308, 315, 318, 404, 444, 446]",SCWW.tsv
+do you want to,4,33,"[24, 33, 115, 263, 270, 318, 446]",SCWW.tsv
+do you,2,98,"[11, 24, 33, 60, 98, 152, 176, 191, 200, 263, 266, 270, 276, 286, 308, 315, 318, 385, 400, 404, 438, 444, 446]",SCWW.tsv
+want to,2,167,"[24, 33, 164, 167, 172, 259, 263, 270, 308, 318, 446]",SCWW.tsv
+you want,2,197,"[11, 24, 33, 197, 239, 256, 263, 270, 315, 318, 404, 444, 446]",SCWW.tsv
+good,1,26,"[1, 26, 87, 92, 117, 123, 139, 203, 214, 220, 223, 263, 324, 355, 378, 385, 395]",SCWW.tsv
+i'm,1,44,"[26, 34, 44, 88, 92, 98, 117, 127, 142, 143, 154, 167, 175, 198, 208, 336, 360, 391, 401, 443]",SCWW.tsv
+thank you,2,181,"[26, 181, 258, 412]",SCWW.tsv
+tomorrow,1,28,"[27, 28, 137]",SCWW.tsv
+might,1,30,"[11, 30, 82, 150, 167, 206, 230, 242, 243, 278, 325, 346, 355, 363, 418, 429, 454, 458]",SCWW.tsv
+kind of,2,35,"[30, 35, 154]",SCWW.tsv
+for a,2,205,"[30, 205]",SCWW.tsv
+well,1,34,"[3, 34, 45, 59, 63, 64, 72, 91, 99, 117, 122, 127, 128, 139, 144, 145, 151, 161, 165, 173, 194, 197, 266, 268, 274, 278, 292, 336, 359, 363, 375, 393, 435, 441, 444, 458]",SCWW.tsv
+like,1,34,"[27, 34, 99, 100, 103, 133, 148, 167, 211, 220, 230, 310, 359, 398, 400, 415, 455]",SCWW.tsv
+back,1,34,"[31, 34]",SCWW.tsv
+he be,2,34,"[33, 34, 154, 161, 451]",SCWW.tsv
+be back,2,34,"[33, 34]",SCWW.tsv
+thing,1,63,"[34, 63, 116, 209, 252]",SCWW.tsv
+yeah well,2,117,"[34, 117, 165, 441]",SCWW.tsv
+to be,2,198,"[34, 198, 211, 224, 455]",SCWW.tsv
+today,1,206,"[34, 206]",SCWW.tsv
+that's the,2,323,"[34, 323, 381, 391, 397, 411, 430]",SCWW.tsv
+ring,1,145,"[36, 38, 145, 146, 161, 170, 209]",SCWW.tsv
+okay,1,40,"[3, 21, 40, 49, 232, 445, 451]",SCWW.tsv
+hmm,1,96,"[57, 96, 128, 143, 155, 158, 160, 166, 240, 383, 413]",SCWW.tsv
+tiger,1,61,"[60, 61, 64, 67, 68, 69]",SCWW.tsv
+have a,2,64,"[58, 64, 67, 69, 137, 231, 245, 308, 319, 340, 346]",SCWW.tsv
+a little,2,167,"[58, 64, 167, 256, 297, 299, 330, 433]",SCWW.tsv
+if you,2,64,"[44, 64, 71, 75, 97, 197, 220, 223, 239]",SCWW.tsv
+go to have,3,69,"[41, 69]",SCWW.tsv
+to have,2,69,"[41, 63, 69, 290, 308, 340]",SCWW.tsv
+go to,2,103,"[41, 69, 75, 103, 122, 140, 146, 175, 213, 312, 408]",SCWW.tsv
+one,1,71,"[11, 44, 71, 74, 75, 77, 86, 93, 139, 156, 161, 216, 227, 233, 269, 278, 294, 300, 315, 318, 325, 333, 357, 395, 418, 420, 428, 435, 443]",SCWW.tsv
+there's,1,71,"[59, 61, 71, 86, 109, 261, 272, 317, 336, 357, 372, 433, 435]",SCWW.tsv
+em so,2,325,"[71, 325]",SCWW.tsv
+could,1,73,"[29, 44, 73, 144, 172, 238, 242, 275, 276, 336, 395]",SCWW.tsv
+i could,2,242,"[73, 242, 336]",SCWW.tsv
+say,1,75,"[25, 75, 78, 103, 104, 105, 107, 108, 127, 139, 140, 149, 152, 161, 237, 310, 324, 385, 392, 398, 454]",SCWW.tsv
+i be,2,75,"[29, 75, 81, 91, 127, 140, 141, 175, 206, 385, 454]",SCWW.tsv
+have half of one,4,75,"[74, 75, 77]",SCWW.tsv
+to say,2,149,"[75, 103, 140, 149, 152]",SCWW.tsv
+yeah i'll,2,153,"[77, 153, 318]",SCWW.tsv
+have the,2,79,"[63, 79, 80, 333, 408]",SCWW.tsv
+you can have,3,79,"[74, 79, 80]",SCWW.tsv
+half,1,79,"[74, 79]",SCWW.tsv
+you can,2,97,"[74, 79, 97, 197, 223, 237, 239, 256, 287, 334, 372, 437]",SCWW.tsv
+i don't,2,115,"[79, 115, 117, 146, 154, 161, 263, 289, 297, 340, 344, 357, 402, 415]",SCWW.tsv
+wine,1,81,"[39, 43, 44, 80, 81, 82, 84, 85, 186, 187, 194]",SCWW.tsv
+i be gonna,3,127,"[81, 127]",SCWW.tsv
+gonna,1,127,"[81, 127, 137, 175, 256, 271, 360, 392, 454]",SCWW.tsv
+gonna have,2,137,"[81, 137]",SCWW.tsv
+be gonna,2,360,"[81, 360, 454]",SCWW.tsv
+em it's,2,206,"[87, 206]",SCWW.tsv
+it be,2,196,"[87, 161, 196, 234, 385]",SCWW.tsv
+for your,2,274,"[87, 274]",SCWW.tsv
+word,1,92,"[56, 91, 92, 308, 340]",SCWW.tsv
+scrabble,1,92,"[89, 91, 92]",SCWW.tsv
+i'm not sure,3,92,"[44, 92, 127, 198, 401]",SCWW.tsv
+not sure,2,167,"[44, 92, 167]",SCWW.tsv
+sure,1,92,"[88, 92, 103, 127, 167, 198, 336, 390, 401]",SCWW.tsv
+i'm not,2,175,"[92, 127, 175, 198, 360, 401]",SCWW.tsv
+yeah good,2,395,"[92, 395]",SCWW.tsv
+i i'm,2,443,"[92, 443]",SCWW.tsv
+would you like,3,100,"[27, 99, 100, 103]",SCWW.tsv
+right,1,100,"[56, 100, 102, 152, 219, 249, 295, 304, 369, 402, 403, 434, 441]",SCWW.tsv
+would,1,76,"[27, 76, 85, 98, 99, 100, 103, 147, 213, 445]",SCWW.tsv
+you say,2,104,"[25, 78, 103, 104, 310]",SCWW.tsv
+actually,1,108,"[11, 82, 108, 123, 236, 351, 372, 392, 418, 435]",SCWW.tsv
+buy,1,119,"[78, 93, 98, 115, 117, 119, 238]",SCWW.tsv
+months,1,120,"[119, 120, 301]",SCWW.tsv
+last,1,139,"[119, 139]",SCWW.tsv
+never,1,167,"[121, 167, 207, 320, 322]",SCWW.tsv
+cook,1,126,"[125, 126, 129, 131, 139, 164, 167, 278, 284]",SCWW.tsv
+have be,2,130,"[126, 130, 359]",SCWW.tsv
+yet,1,136,"[31, 135, 136]",SCWW.tsv
+quite,1,142,"[74, 120, 139, 142, 304, 334, 348, 388]",SCWW.tsv
+with that,2,167,"[142, 167]",SCWW.tsv
+please,1,142,"[117, 142, 319]",SCWW.tsv
+we could,2,144,"[29, 144]",SCWW.tsv
+gammon,1,144,"[143, 144]",SCWW.tsv
+know,1,146,"[3, 146, 154, 161, 226, 263, 275, 297, 310, 340, 344, 352, 402, 428, 437]",SCWW.tsv
+i don't know if,4,402,"[146, 154, 161, 402]",SCWW.tsv
+yeah but,2,149,"[148, 149, 234]",SCWW.tsv
+leave,1,173,"[148, 173, 250, 284, 461]",SCWW.tsv
+but i,2,222,"[148, 161, 220, 222, 223, 270]",SCWW.tsv
+at work,2,325,"[148, 324, 325, 336]",SCWW.tsv
+work,1,360,"[148, 166, 324, 360, 364, 388, 402]",SCWW.tsv
+email,1,150,"[149, 150, 151, 152, 153]",SCWW.tsv
+something,1,152,"[29, 152, 325, 346, 362]",SCWW.tsv
+be a,2,152,"[37, 43, 48, 53, 62, 152, 154, 231, 255, 330, 350, 458]",SCWW.tsv
+email to say,3,152,"[149, 152]",SCWW.tsv
+i've,1,167,"[152, 167, 306, 398, 441]",SCWW.tsv
+sorry,1,154,"[7, 9, 98, 154, 208, 321, 373, 416]",SCWW.tsv
+sorry i,2,208,"[154, 208]",SCWW.tsv
+let's,1,157,"[143, 145, 157, 173, 386]",SCWW.tsv
+what's,1,159,"[1, 19, 145, 159, 195, 315, 338, 414]",SCWW.tsv
+weird,1,159,"[158, 159]",SCWW.tsv
+there be,2,161,"[29, 48, 161, 187, 220, 233, 272, 333, 350]",SCWW.tsv
+well i,2,161,"[91, 117, 127, 151, 161, 266, 278]",SCWW.tsv
+night,1,161,"[137, 161]",SCWW.tsv
+say that,2,161,"[103, 139, 161, 392]",SCWW.tsv
+he'd,1,161,"[149, 161]",SCWW.tsv
+if it's,2,198,"[161, 198, 343]",SCWW.tsv
+didn't get,2,206,"[161, 206]",SCWW.tsv
+the first,2,230,"[161, 230]",SCWW.tsv
+remember,1,241,"[161, 241]",SCWW.tsv
+em but,2,325,"[161, 325]",SCWW.tsv
+and there,2,333,"[161, 333]",SCWW.tsv
+get the,2,388,"[161, 223, 369, 387, 388]",SCWW.tsv
+didn't want,2,164,"[25, 78, 164]",SCWW.tsv
+cook so,2,167,"[164, 167]",SCWW.tsv
+vegetables,1,167,"[164, 167, 350]",SCWW.tsv
+oh yeah,2,166,"[53, 103, 138, 166, 276, 308, 390]",SCWW.tsv
+really,1,166,"[123, 166, 220, 222, 271, 289, 356, 388, 399]",SCWW.tsv
+doesn't really work,3,388,"[166, 388]",SCWW.tsv
+alright,1,168,"[46, 96, 167, 168, 196, 363, 379, 380]",SCWW.tsv
+be you,2,170,"[9, 67, 80, 170, 408]",SCWW.tsv
+see,1,172,"[25, 91, 97, 172, 194, 266, 297, 398, 400, 411]",SCWW.tsv
+come,1,249,"[172, 249, 283, 350, 395]",SCWW.tsv
+enough,1,258,"[174, 229, 258, 336, 418]",SCWW.tsv
+bite,1,176,"[47, 62, 167, 176, 193, 199, 362, 435, 458]",SCWW.tsv
+oh i,2,242,"[176, 242]",SCWW.tsv
+ridiculous,1,193,"[188, 193, 194]",SCWW.tsv
+all the,2,200,"[50, 200, 308, 395]",SCWW.tsv
+guacamole,1,203,"[202, 203]",SCWW.tsv
+recommend,1,204,"[198, 204]",SCWW.tsv
+give,1,209,"[33, 177, 209, 258, 333, 336]",SCWW.tsv
+find out,2,209,"[145, 209, 342, 385]",SCWW.tsv
+sort of,2,310,"[209, 310, 325]",SCWW.tsv
+em i'll,2,211,"[39, 211]",SCWW.tsv
+it up,2,211,"[45, 211]",SCWW.tsv
+i'll just,2,211,"[116, 153, 211, 216, 368, 389]",SCWW.tsv
+probably,1,211,"[199, 211, 213, 305, 376, 460]",SCWW.tsv
+would be,2,213,"[85, 147, 213, 445]",SCWW.tsv
+it if,2,216,"[197, 216]",SCWW.tsv
+do it,2,277,"[216, 276, 277, 466]",SCWW.tsv
+really good,2,220,"[123, 220]",SCWW.tsv
+like the,2,230,"[220, 230]",SCWW.tsv
+get a,2,223,"[47, 199, 223, 247, 297, 414]",SCWW.tsv
+seem,1,290,"[223, 290]",SCWW.tsv
+oh no,2,329,"[223, 329, 399]",SCWW.tsv
+i think,2,227,"[29, 35, 62, 103, 116, 188, 196, 208, 222, 227, 240, 257, 320, 362, 376, 384, 395, 429, 444]",SCWW.tsv
+think,1,227,"[62, 89, 103, 116, 143, 188, 196, 208, 222, 227, 240, 241, 257, 276, 320, 362, 376, 384, 395, 397, 419, 429, 443, 444]",SCWW.tsv
+of the,2,283,"[227, 283, 292, 303, 350, 357]",SCWW.tsv
+yeah yeah,2,229,"[39, 103, 229]",SCWW.tsv
+colour screen,2,231,"[230, 231, 233]",SCWW.tsv
+mine,1,231,"[230, 231, 233, 236, 238, 325]",SCWW.tsv
+colour,1,234,"[231, 233, 234]",SCWW.tsv
+maybe,1,233,"[29, 143, 145, 233, 366]",SCWW.tsv
+bring,1,233,"[45, 97, 233]",SCWW.tsv
+be the,2,233,"[91, 125, 165, 217, 230, 233, 382]",SCWW.tsv
+time,1,233,"[141, 222, 233, 238, 308, 336]",SCWW.tsv
+no no,2,233,"[171, 233, 235, 249, 394]",SCWW.tsv
+be the first,3,233,"[230, 233]",SCWW.tsv
+mine be the,3,233,"[230, 233]",SCWW.tsv
+the mini,2,234,"[233, 234, 238]",SCWW.tsv
+the same time as the mini,6,238,"[233, 238]",SCWW.tsv
+mini,1,241,"[233, 241]",SCWW.tsv
+the same,2,388,"[233, 388, 400]",SCWW.tsv
+with a,2,414,"[233, 414]",SCWW.tsv
+think about,2,397,"[240, 397]",SCWW.tsv
+you might,2,243,"[206, 230, 243]",SCWW.tsv
+might snaffle,2,243,"[242, 243]",SCWW.tsv
+snaffle,1,319,"[243, 319, 322]",SCWW.tsv
+some cheese,2,245,"[244, 245]",SCWW.tsv
+a grater,2,247,"[245, 247, 255]",SCWW.tsv
+grater,1,355,"[245, 247, 255, 355, 363, 368]",SCWW.tsv
+cheese,1,361,"[244, 245, 361, 384, 386, 391, 404, 405, 406, 407]",SCWW.tsv
+in here,2,248,"[19, 248]",SCWW.tsv
+in in,2,292,"[248, 292]",SCWW.tsv
+it in,2,279,"[257, 279]",SCWW.tsv
+in a,2,312,"[257, 312, 464]",SCWW.tsv
+we'll,1,257,"[91, 257, 268, 424, 426]",SCWW.tsv
+yeah it's,2,277,"[259, 277]",SCWW.tsv
+in the,2,261,"[37, 61, 115, 116, 224, 261, 276, 278, 279, 301, 353, 400, 435]",SCWW.tsv
+there's a,2,261,"[59, 109, 261, 317, 357, 433]",SCWW.tsv
+a microwave,2,261,"[260, 261]",SCWW.tsv
+microwave,1,265,"[260, 261, 265, 275, 279, 343, 353, 431, 437]",SCWW.tsv
+you want to,3,263,"[33, 115, 263]",SCWW.tsv
+wrap,1,263,"[258, 263, 271, 275, 398, 399, 437]",SCWW.tsv
+the wrap,2,399,"[263, 399]",SCWW.tsv
+i don't know,3,297,"[146, 154, 161, 263, 297, 340, 344, 402]",SCWW.tsv
+pack,1,266,"[113, 266, 267, 269, 270]",SCWW.tsv
+both pack,2,267,"[266, 267]",SCWW.tsv
+we get,2,269,"[266, 269, 325]",SCWW.tsv
+need,1,268,"[199, 267, 268, 391, 392, 429]",SCWW.tsv
+keep,1,270,"[153, 167, 270, 448]",SCWW.tsv
+use,1,270,"[177, 191, 224, 270, 392]",SCWW.tsv
+we've,1,270,"[188, 247, 270, 297, 300, 306, 441]",SCWW.tsv
+guess,1,441,"[270, 286, 441]",SCWW.tsv
+full,1,441,"[270, 441]",SCWW.tsv
+you could,2,276,"[44, 238, 275, 276, 395]",SCWW.tsv
+it in the,3,279,"[276, 279]",SCWW.tsv
+you think,2,419,"[276, 419]",SCWW.tsv
+yeah you,2,280,"[279, 280, 287]",SCWW.tsv
+to cook,2,284,"[167, 284]",SCWW.tsv
+leave that,2,284,"[173, 284, 461]",SCWW.tsv
+be this,2,286,"[23, 286, 324, 355]",SCWW.tsv
+serious,1,286,"[53, 286]",SCWW.tsv
+recycle,1,290,"[286, 290, 294, 297, 303]",SCWW.tsv
+plastic,1,305,"[288, 305]",SCWW.tsv
+it's just,2,293,"[132, 175, 293, 362, 394, 441]",SCWW.tsv
+one of,2,93,"[11, 93, 300, 315, 318, 357]",SCWW.tsv
+we've get,2,300,"[188, 247, 297, 300]",SCWW.tsv
+right that's,2,402,"[304, 402]",SCWW.tsv
+have one of,3,318,"[11, 318]",SCWW.tsv
+grate,1,318,"[256, 318, 372, 384, 399]",SCWW.tsv
+i'd,1,320,"[167, 320, 322]",SCWW.tsv
+apparently,1,324,"[86, 109, 324, 437]",SCWW.tsv
+that's the badger,3,324,"[323, 324, 381, 391, 397, 430]",SCWW.tsv
+bad,1,332,"[11, 332]",SCWW.tsv
+which be,2,334,"[165, 205, 333, 334]",SCWW.tsv
+make,1,334,"[258, 290, 334, 391, 438]",SCWW.tsv
+solve any engineer problem,4,334,"[333, 334]",SCWW.tsv
+or not,2,339,"[29, 58, 339]",SCWW.tsv
+plat,1,353,"[339, 353, 456]",SCWW.tsv
+stick,1,343,"[17, 252, 343]",SCWW.tsv
+the microwave,2,343,"[279, 343, 353, 431]",SCWW.tsv
+try,1,345,"[291, 342, 345]",SCWW.tsv
+it'll,1,356,"[167, 356, 402]",SCWW.tsv
+pop,1,369,"[279, 369, 424, 426]",SCWW.tsv
+still,1,371,"[141, 371, 413]",SCWW.tsv
+this be,2,376,"[41, 43, 53, 360, 364, 376, 384]",SCWW.tsv
+far off,2,376,"[290, 376]",SCWW.tsv
+far,1,395,"[376, 395]",SCWW.tsv
+break,1,380,"[222, 312, 380]",SCWW.tsv
+the badger,2,382,"[323, 381, 382, 391, 397, 430]",SCWW.tsv
+ever,1,385,"[224, 226, 385]",SCWW.tsv
+the em,2,385,"[325, 385, 387]",SCWW.tsv
+em i,2,385,"[333, 385, 399]",SCWW.tsv
+be too,2,385,"[384, 385]",SCWW.tsv
+spice on,2,388,"[387, 388]",SCWW.tsv
+need to,2,392,"[391, 392]",SCWW.tsv
+no it's,2,394,"[111, 394]",SCWW.tsv
+have to,2,398,"[63, 80, 306, 340, 398]",SCWW.tsv
+put that,2,398,"[125, 398, 410]",SCWW.tsv
+it's like,2,398,"[133, 398]",SCWW.tsv
+put them,2,398,"[353, 398]",SCWW.tsv
+wrap in,2,399,"[398, 399]",SCWW.tsv
+can't,1,399,"[398, 399]",SCWW.tsv
+room,1,400,"[45, 400]",SCWW.tsv
+cos,1,400,"[47, 141, 153, 167, 199, 230, 241, 325, 400]",SCWW.tsv
+feet,1,409,"[408, 409, 412, 413, 414, 415]",SCWW.tsv
+problem,1,411,"[333, 411]",SCWW.tsv
+off oh,2,421,"[11, 421]",SCWW.tsv
+turn,1,441,"[421, 441, 442, 446, 450, 455, 463, 465]",SCWW.tsv
+be eh,2,423,"[43, 206, 333, 423]",SCWW.tsv
+i might,2,429,"[11, 82, 242, 278, 355, 429]",SCWW.tsv
+hang on,2,429,"[236, 429, 466]",SCWW.tsv
+get through,2,429,"[269, 429]",SCWW.tsv
+you make,2,438,"[258, 438]",SCWW.tsv
+power,1,440,"[439, 440, 441]",SCWW.tsv
+as well,2,444,"[45, 444]",SCWW.tsv
+you get,2,444,"[47, 444]",SCWW.tsv
+fine,1,444,"[167, 177, 355, 443, 444, 447, 452]",SCWW.tsv
+i think that's,3,444,"[395, 444]",SCWW.tsv
+be fine,2,452,"[167, 443, 452]",SCWW.tsv
+i be gonna say,4,454,"[127, 454]",SCWW.tsv
+long,1,459,"[3, 217, 459]",SCWW.tsv
+on there,2,459,"[145, 432, 459]",SCWW.tsv
+that's it,2,252,"[0, 252, 254]",SCWW.tsv
+to put it,3,408,"[6, 8, 24, 408]",SCWW.tsv
+put it on,3,408,"[16, 408]",SCWW.tsv
+on the top,3,246,"[18, 246, 249]",SCWW.tsv
+top,1,299,"[18, 299]",SCWW.tsv
+mam do,2,91,"[22, 91]",SCWW.tsv
+mam,1,91,"[22, 91, 237, 340, 352, 449, 453]",SCWW.tsv
+big,1,348,"[22, 233, 348, 369, 435]",SCWW.tsv
+be nice,2,85,"[30, 85]",SCWW.tsv
+might be,2,278,"[30, 278, 418, 458]",SCWW.tsv
+worry,1,132,"[34, 132, 161]",SCWW.tsv
+mean to,2,177,"[34, 177, 211]",SCWW.tsv
+a tiger,2,67,"[60, 67]",SCWW.tsv
+have a little,3,64,"[58, 64]",SCWW.tsv
+you have a,3,67,"[64, 67]",SCWW.tsv
+you have,2,80,"[64, 75, 80, 286]",SCWW.tsv
+little,1,252,"[64, 167, 252, 330]",SCWW.tsv
+a big,2,348,"[64, 348, 435]",SCWW.tsv
+have a tiger,3,69,"[67, 69]",SCWW.tsv
+to have a,3,308,"[69, 308, 340]",SCWW.tsv
+so yeah,2,71,"[48, 71, 308]",SCWW.tsv
+there's one there,3,435,"[71, 435]",SCWW.tsv
+one there,2,435,"[71, 435]",SCWW.tsv
+i yeah,2,91,"[73, 91]",SCWW.tsv
+finish it off,3,76,"[75, 76]",SCWW.tsv
+be go to say,4,103,"[75, 103, 140]",SCWW.tsv
+finish,1,175,"[75, 175]",SCWW.tsv
+have some,2,85,"[81, 85]",SCWW.tsv
+wanna,1,93,"[92, 93, 191, 266]",SCWW.tsv
+relief,1,100,"[99, 100, 107, 122]",SCWW.tsv
+chip,1,357,"[119, 357, 433, 435]",SCWW.tsv
+oh well,2,128,"[122, 128, 359, 375]",SCWW.tsv
+nice,1,144,"[85, 144, 202]",SCWW.tsv
+well we,2,363,"[144, 363]",SCWW.tsv
+i i,2,146,"[91, 146, 209]",SCWW.tsv
+it go,2,146,"[91, 146]",SCWW.tsv
+and then,2,146,"[107, 146, 266]",SCWW.tsv
+phone,1,306,"[146, 148, 306]",SCWW.tsv
+mean,1,177,"[148, 161, 177, 266, 270, 398, 400]",SCWW.tsv
+happen,1,308,"[148, 308]",SCWW.tsv
+might have,2,346,"[150, 346]",SCWW.tsv
+though,1,408,"[150, 408]",SCWW.tsv
+oh right,2,219,"[152, 219, 295]",SCWW.tsv
+anyway,1,156,"[48, 156]",SCWW.tsv
+put this on,3,372,"[156, 372]",SCWW.tsv
+one that,2,161,"[44, 161]",SCWW.tsv
+and i,2,161,"[103, 105, 161]",SCWW.tsv
+i didn't,2,275,"[161, 164, 275]",SCWW.tsv
+the the,2,301,"[161, 301]",SCWW.tsv
+the vegetables,2,350,"[164, 350]",SCWW.tsv
+to put,2,408,"[164, 408]",SCWW.tsv
+what be you,3,170,"[80, 170]",SCWW.tsv
+what be,2,170,"[112, 170]",SCWW.tsv
+see if,2,172,"[97, 172]",SCWW.tsv
+ask,1,176,"[99, 176]",SCWW.tsv
+a a,2,297,"[176, 297, 313]",SCWW.tsv
+to get,2,200,"[199, 200, 213, 429]",SCWW.tsv
+bits,1,264,"[200, 264]",SCWW.tsv
+manage to,2,303,"[200, 303]",SCWW.tsv
+sort,1,209,"[91, 209, 310, 325]",SCWW.tsv
+you go,2,359,"[213, 359, 417]",SCWW.tsv
+away,1,301,"[216, 301, 359]",SCWW.tsv
+if you can,3,223,"[97, 223]",SCWW.tsv
+ones,1,306,"[227, 306, 369]",SCWW.tsv
+big one,2,435,"[233, 435]",SCWW.tsv
+do we,2,291,"[245, 291]",SCWW.tsv
+we have,2,291,"[245, 291, 363, 398]",SCWW.tsv
+eh do,2,346,"[245, 346]",SCWW.tsv
+have it,2,257,"[80, 257, 380]",SCWW.tsv
+a bowl,2,313,"[257, 313, 314]",SCWW.tsv
+isn't there,2,350,"[261, 350]",SCWW.tsv
+see how,2,266,"[91, 266]",SCWW.tsv
+yeah do you,3,308,"[276, 308]",SCWW.tsv
+you you,2,280,"[80, 280]",SCWW.tsv
+go there,2,286,"[48, 286]",SCWW.tsv
+they're,1,296,"[99, 246, 296, 335, 400]",SCWW.tsv
+one of those,3,315,"[300, 315, 318]",SCWW.tsv
+sling,1,302,"[301, 302]",SCWW.tsv
+wow,1,304,"[91, 304]",SCWW.tsv
+that's quite,2,348,"[304, 348]",SCWW.tsv
+i'll have,2,318,"[84, 85, 318]",SCWW.tsv
+someone,1,324,"[76, 324]",SCWW.tsv
+be be,2,337,"[48, 337, 361]",SCWW.tsv
+manage,1,369,"[303, 369]",SCWW.tsv
+they'll be,2,371,"[52, 371]",SCWW.tsv
+be go,2,385,"[103, 385]",SCWW.tsv
+out the,2,385,"[350, 385]",SCWW.tsv
+should i,2,387,"[58, 387, 398]",SCWW.tsv
+yeah em,2,387,"[91, 387]",SCWW.tsv
+yeah sure,2,390,"[103, 390]",SCWW.tsv
+use it,2,392,"[177, 392]",SCWW.tsv
+you're gonna,2,392,"[256, 392]",SCWW.tsv
+they're not,2,400,"[335, 400]",SCWW.tsv
+that that,2,406,"[177, 406]",SCWW.tsv
+that cheese,2,406,"[404, 406, 407]",SCWW.tsv
+it off,2,421,"[76, 421, 442, 446, 450, 463, 465]",SCWW.tsv
+that's fine,2,444,"[177, 444]",SCWW.tsv
+you not,2,449,"[308, 449]",SCWW.tsv
+not be,2,454,"[453, 454]",SCWW.tsv
+conversation,1,462,"[454, 462]",SCWW.tsv
+food,1,459,"[196, 459]",SCWW.tsv
+the food,2,459,"[256, 459]",SCWW.tsv
+sit on,2,459,"[299, 459]",SCWW.tsv
+what's that,2,195,"[1, 195, 315, 338]",SCWW.tsv
+that oh,2,359,"[1, 242, 359, 397]",SCWW.tsv
+just have,2,80,"[11, 80, 346]",SCWW.tsv
+actually i might just have,5,82,"[11, 82]",SCWW.tsv
+the mushroom,2,350,"[17, 350]",SCWW.tsv
+say you,2,237,"[25, 78, 237]",SCWW.tsv
+game,1,91,"[27, 91]",SCWW.tsv
+else,1,76,"[29, 76]",SCWW.tsv
+have get,2,297,"[31, 297, 325, 363]",SCWW.tsv
+to give,2,177,"[33, 177]",SCWW.tsv
+even,1,256,"[33, 256]",SCWW.tsv
+call,1,297,"[33, 297, 313]",SCWW.tsv
+breathe,1,44,"[39, 44]",SCWW.tsv
+the wine,2,80,"[39, 80]",SCWW.tsv
+we're,1,271,"[41, 137, 139, 271, 297]",SCWW.tsv
+a wine,2,44,"[43, 44]",SCWW.tsv
+red,1,85,"[45, 85, 186]",SCWW.tsv
+a bite,2,62,"[47, 62, 199, 362, 435, 458]",SCWW.tsv
+get a bite of,4,199,"[47, 199]",SCWW.tsv
+a bite of,3,435,"[47, 435]",SCWW.tsv
+the right,2,249,"[56, 249]",SCWW.tsv
+another,1,363,"[61, 137, 331, 333, 363, 368]",SCWW.tsv
+have to have,3,340,"[63, 340]",SCWW.tsv
+you don't,2,408,"[63, 408]",SCWW.tsv
+well it's,2,122,"[72, 122, 165, 393]",SCWW.tsv
+so you,2,103,"[74, 103]",SCWW.tsv
+we be,2,408,"[89, 408]",SCWW.tsv
+mistakenly buy a scratch card,5,98,"[93, 98]",SCWW.tsv
+scratch,1,98,"[95, 98]",SCWW.tsv
+twenty,1,113,"[112, 113]",SCWW.tsv
+in the bin,3,116,"[115, 116]",SCWW.tsv
+bin,1,297,"[116, 294, 297, 301, 312]",SCWW.tsv
+i'll just put,3,389,"[116, 389]",SCWW.tsv
+that in,2,125,"[115, 125]",SCWW.tsv
+meat cook,2,129,"[125, 129]",SCWW.tsv
+you put,2,420,"[125, 420]",SCWW.tsv
+hand,1,249,"[139, 249, 391]",SCWW.tsv
+period,1,217,"[141, 217, 222]",SCWW.tsv
+a text,2,145,"[48, 145]",SCWW.tsv
+go on,2,145,"[84, 145]",SCWW.tsv
+that would be,3,147,"[85, 147]",SCWW.tsv
+that would,2,147,"[103, 147]",SCWW.tsv
+it's a,2,153,"[109, 153, 206]",SCWW.tsv
+the difference,2,165,"[44, 165]",SCWW.tsv
+you just,2,167,"[80, 167, 279]",SCWW.tsv
+fine you,2,177,"[167, 177]",SCWW.tsv
+it a,2,313,"[167, 313]",SCWW.tsv
+oh dear,2,179,"[132, 179, 205]",SCWW.tsv
+red wine,2,187,"[85, 187]",SCWW.tsv
+glass,1,187,"[183, 186, 187, 188, 194, 357]",SCWW.tsv
+red wine glass,3,187,"[186, 187]",SCWW.tsv
+wine glass,2,194,"[186, 194]",SCWW.tsv
+if you want,3,239,"[197, 239]",SCWW.tsv
+eat,1,271,"[197, 271, 274]",SCWW.tsv
+i'm not sure if,4,198,"[44, 198]",SCWW.tsv
+however,1,256,"[198, 256]",SCWW.tsv
+i think it,3,208,"[196, 208]",SCWW.tsv
+you know,2,437,"[226, 310, 437]",SCWW.tsv
+new,1,306,"[230, 306]",SCWW.tsv
+ooh i,2,242,"[175, 242]",SCWW.tsv
+wrap be,2,271,"[258, 271]",SCWW.tsv
+fourteen,1,272,"[271, 272]",SCWW.tsv
+best,1,291,"[277, 291, 395]",SCWW.tsv
+two,1,306,"[279, 292, 294, 306, 331, 333, 435, 441]",SCWW.tsv
+just pop,2,426,"[279, 426]",SCWW.tsv
+recycle bin,2,297,"[294, 297]",SCWW.tsv
+operatives,1,310,"[301, 308, 310, 313]",SCWW.tsv
+empty,1,312,"[175, 303, 312]",SCWW.tsv
+i have,2,319,"[44, 58, 319, 327, 333, 408]",SCWW.tsv
+i have a,3,319,"[58, 319]",SCWW.tsv
+me to,2,404,"[319, 404]",SCWW.tsv
+that we,2,325,"[50, 299, 325]",SCWW.tsv
+ten,1,325,"[109, 325]",SCWW.tsv
+a lot of,3,325,"[283, 325, 336, 350]",SCWW.tsv
+eh i,2,327,"[278, 289, 327]",SCWW.tsv
+with your,2,333,"[308, 333]",SCWW.tsv
+i have the,3,408,"[333, 408]",SCWW.tsv
+much,1,336,"[62, 256, 336, 366]",SCWW.tsv
+i'm sure,2,336,"[88, 336]",SCWW.tsv
+they be,2,351,"[313, 351]",SCWW.tsv
+mushroom,1,351,"[350, 351]",SCWW.tsv
+just put,2,389,"[353, 389]",SCWW.tsv
+i might just,3,355,"[82, 355]",SCWW.tsv
+too much,2,366,"[62, 366]",SCWW.tsv
+cheese be,2,384,"[361, 384]",SCWW.tsv
+on that,2,388,"[278, 388]",SCWW.tsv
+they've,1,391,"[303, 391]",SCWW.tsv
+be it,2,393,"[112, 313, 361, 393, 462]",SCWW.tsv
+come out,2,395,"[283, 350, 395]",SCWW.tsv
+gotta,1,435,"[397, 435]",SCWW.tsv
+into the,2,410,"[372, 410]",SCWW.tsv
+wrong,1,414,"[278, 414]",SCWW.tsv
+we'll just pop,3,426,"[424, 426]",SCWW.tsv
+that one,2,443,"[278, 443]",SCWW.tsv
+on i'll,2,466,"[84, 466]",SCWW.tsv

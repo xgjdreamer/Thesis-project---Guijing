@@ -1,0 +1,440 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+bikeability,1,6,"[0, 6, 105, 112, 115]",SBKH.tsv
+go to,2,8,"[0, 8, 41, 96, 105, 180, 405]",SBKH.tsv
+go,1,27,"[0, 8, 27, 28, 37, 39, 41, 43, 53, 77, 81, 91, 96, 100, 105, 115, 116, 117, 118, 125, 156, 180, 215, 238, 286, 341, 405, 409]",SBKH.tsv
+you go,2,105,"[0, 28, 96, 100, 105, 117, 118, 409]",SBKH.tsv
+be you,2,133,"[0, 119, 133, 206, 224, 228, 245, 421]",SBKH.tsv
+any more,2,334,"[0, 9, 334]",SBKH.tsv
+to be,2,148,"[0, 148, 305, 339, 393]",SBKH.tsv
+yeah,1,4,"[1, 4, 6, 17, 34, 47, 51, 53, 70, 71, 83, 87, 89, 95, 97, 102, 131, 155, 160, 182, 188, 197, 216, 237, 238, 248, 254, 282, 284, 307, 315, 316, 322, 331, 335, 338, 341, 351, 369, 373, 379, 392, 410, 441, 442, 451, 453, 454]",SBKH.tsv
+i be,2,89,"[7, 9, 89, 118, 142, 281, 402, 449]",SBKH.tsv
+on the,2,43,"[7, 28, 43, 48, 53, 77, 95, 187, 270, 332]",SBKH.tsv
+that's,1,70,"[7, 70, 72, 73, 75, 147, 297, 329, 330, 339, 409, 428, 455]",SBKH.tsv
+but that's,2,455,"[7, 339, 455]",SBKH.tsv
+gonna,1,60,"[9, 60, 87, 156, 161, 165, 205, 274, 276, 281, 288, 290, 297, 339, 380, 382, 423, 428, 429]",SBKH.tsv
+get,1,15,"[9, 15, 16, 26, 27, 93, 138, 148, 183, 189, 193, 198, 220, 227, 260, 300, 339, 340, 344, 391, 421, 437, 455, 459, 460, 464]",SBKH.tsv
+be gonna,2,87,"[9, 87, 281]",SBKH.tsv
+but i,2,351,"[9, 351, 411, 428, 461]",SBKH.tsv
+if be,2,435,"[9, 435]",SBKH.tsv
+good,1,11,"[10, 11, 76, 205, 256]",SBKH.tsv
+bike,1,12,"[11, 12, 13, 28, 29, 37, 43, 48, 57, 63, 66, 68, 70, 71, 75, 76, 77]",SBKH.tsv
+like,1,13,"[10, 13, 24, 27, 31, 53, 63, 72, 107, 109, 111, 162, 189, 191, 192, 193, 196, 225, 288, 290, 297, 321, 324, 332, 340, 360, 365, 388, 389, 391, 392, 393, 395, 409, 411, 419, 425, 435, 462]",SBKH.tsv
+one,1,37,"[13, 30, 37, 45, 50, 52, 63, 64, 65, 69, 72, 74, 80, 81, 99, 142, 167, 214, 237, 262, 264, 348]",SBKH.tsv
+where you,2,53,"[13, 53, 63, 117, 118]",SBKH.tsv
+never,1,164,"[13, 164, 198, 284, 350]",SBKH.tsv
+on a,2,142,"[13, 18, 142, 189, 190, 260]",SBKH.tsv
+what's,1,221,"[13, 24, 221]",SBKH.tsv
+i've,1,455,"[13, 455]",SBKH.tsv
+in the,2,53,"[20, 46, 52, 53, 63, 69, 89, 94, 98, 109, 117, 142, 148, 149, 161, 189, 307, 308, 314, 334, 369, 387, 464]",SBKH.tsv
+be in,2,165,"[20, 89, 94, 98, 161, 165, 208, 218, 349, 350, 382, 412, 439]",SBKH.tsv
+cos,1,53,"[20, 53, 79, 87, 89, 94, 271, 272, 297, 305, 306, 329, 334, 340, 348, 422, 425, 464]",SBKH.tsv
+to it,2,118,"[26, 27, 118]",SBKH.tsv
+use to,2,330,"[26, 27, 330, 404, 425]",SBKH.tsv
+do you,2,89,"[26, 28, 57, 89, 100, 102, 105, 132, 174, 207, 211, 242, 352, 354, 360, 391, 401, 403]",SBKH.tsv
+go on,2,37,"[28, 37, 39, 41, 43, 53, 77, 81]",SBKH.tsv
+that be,2,64,"[30, 64, 65, 66, 68, 71, 118, 268, 270, 297, 376, 452]",SBKH.tsv
+when you're,2,212,"[32, 212, 214, 240, 409]",SBKH.tsv
+and the,2,44,"[43, 44, 45, 53, 297]",SBKH.tsv
+you do,2,46,"[6, 46, 102, 119, 162, 245, 282, 307, 310, 336]",SBKH.tsv
+do it,2,46,"[8, 46, 141, 245, 310, 316]",SBKH.tsv
+well,1,46,"[8, 15, 46, 49, 65, 76, 103, 113, 116, 142, 209, 212, 217, 223, 225, 272, 293, 339, 348, 352, 388, 419, 436, 446, 449, 464]",SBKH.tsv
+school,1,334,"[46, 170, 300, 334, 339, 341, 348, 382, 405, 417]",SBKH.tsv
+as well,2,388,"[46, 339, 348, 388, 446, 449]",SBKH.tsv
+around,1,109,"[48, 88, 109, 135, 300]",SBKH.tsv
+be the,2,64,"[50, 63, 64, 65, 66, 68, 71, 142, 223, 224, 365]",SBKH.tsv
+sit in,2,71,"[52, 69, 71]",SBKH.tsv
+front,1,52,"[15, 45, 52, 53, 63, 69, 71]",SBKH.tsv
+sit,1,113,"[52, 53, 69, 113, 332]",SBKH.tsv
+and then,2,63,"[53, 63, 77, 82, 87, 96, 107, 111, 148, 274, 295, 297, 382, 409]",SBKH.tsv
+kind of,2,187,"[63, 84, 187]",SBKH.tsv
+when you,2,65,"[31, 65, 96, 104, 218, 225, 236, 300, 408]",SBKH.tsv
+that be the,3,65,"[64, 65, 66, 68, 71]",SBKH.tsv
+see,1,195,"[65, 195, 298, 308, 405, 435]",SBKH.tsv
+you be,2,208,"[65, 94, 208, 210, 218, 225, 425]",SBKH.tsv
+one when,2,214,"[65, 214]",SBKH.tsv
+when you be,3,225,"[65, 218, 225]",SBKH.tsv
+thing,1,72,"[53, 72, 142, 187, 409]",SBKH.tsv
+like with,2,189,"[72, 189]",SBKH.tsv
+that's not,2,297,"[72, 297]",SBKH.tsv
+two,1,76,"[15, 76, 246, 251, 252, 346, 348]",SBKH.tsv
+music,1,85,"[80, 82, 84, 85, 378, 379]",SBKH.tsv
+start,1,212,"[82, 212, 234, 337, 417]",SBKH.tsv
+random,1,86,"[85, 86]",SBKH.tsv
+playground,1,105,"[94, 105, 150, 152, 153, 156, 161, 189, 307]",SBKH.tsv
+you be in,3,208,"[94, 208, 218]",SBKH.tsv
+and then when,3,148,"[96, 148, 295, 382]",SBKH.tsv
+nobody,1,334,"[96, 334]",SBKH.tsv
+class,1,96,"[91, 96, 105, 439]",SBKH.tsv
+the classroom,2,109,"[100, 109, 116, 117, 180]",SBKH.tsv
+on your,2,271,"[100, 271]",SBKH.tsv
+think,1,104,"[8, 104, 117, 180, 198, 267, 272, 365, 378, 388, 391, 425, 427, 428, 429, 435, 440, 449]",SBKH.tsv
+like and,2,109,"[107, 109, 196]",SBKH.tsv
+have just,2,113,"[108, 113, 117]",SBKH.tsv
+you could,2,113,"[112, 113, 325, 383]",SBKH.tsv
+say,1,113,"[105, 112, 113, 243, 245, 246, 266, 279, 281, 282, 284, 343, 344, 418]",SBKH.tsv
+well you,2,212,"[113, 212, 419, 436]",SBKH.tsv
+could,1,332,"[113, 117, 325, 327, 332, 334, 383, 435]",SBKH.tsv
+to do,2,115,"[8, 115, 198, 220, 321, 330, 334, 340, 348, 365, 461, 464]",SBKH.tsv
+i didn't know where,4,117,"[115, 116, 117, 118]",SBKH.tsv
+sorry i didn't know where you go,7,118,"[117, 118]",SBKH.tsv
+pe,1,118,"[117, 118, 119, 128, 129, 130, 142]",SBKH.tsv
+if it,2,341,"[117, 341]",SBKH.tsv
+might,1,180,"[117, 180, 183, 198, 300, 348, 351, 419, 423]",SBKH.tsv
+think about,2,449,"[117, 449]",SBKH.tsv
+do in,2,142,"[119, 142, 307, 330, 365]",SBKH.tsv
+at the,2,119,"[45, 119, 209, 274, 337, 365, 382, 409]",SBKH.tsv
+they do,2,141,"[140, 141, 369, 373, 379]",SBKH.tsv
+mean,1,147,"[25, 142, 147, 168, 173, 207, 211, 274, 309, 340, 394, 400]",SBKH.tsv
+isn't it,2,412,"[147, 329, 377, 412, 452, 464]",SBKH.tsv
+use,1,149,"[27, 149, 330]",SBKH.tsv
+still,1,152,"[8, 152, 409]",SBKH.tsv
+really,1,157,"[5, 49, 53, 89, 118, 142, 146, 157, 170, 189, 191, 272, 390, 427]",SBKH.tsv
+september,1,160,"[159, 160, 272, 286, 287]",SBKH.tsv
+you're gonna,2,161,"[156, 161, 165, 339, 429]",SBKH.tsv
+gonna be,2,161,"[87, 161, 165, 205, 274, 276, 288, 290, 382, 423, 429]",SBKH.tsv
+gonna be in,3,382,"[161, 165, 382]",SBKH.tsv
+you're gonna be,3,429,"[161, 165, 429]",SBKH.tsv
+in year five,3,165,"[6, 165, 199]",SBKH.tsv
+year,1,167,"[6, 165, 167, 199, 200, 202, 206, 208, 214, 215, 216, 218, 223, 224, 225, 235, 240, 246, 249, 250, 251, 252, 257, 269, 270, 271, 272, 274, 282, 284, 409, 412]",SBKH.tsv
+five,1,204,"[6, 165, 199, 204, 214, 237]",SBKH.tsv
+be in year,3,412,"[165, 218, 412]",SBKH.tsv
+nearly,1,173,"[168, 173, 175, 205]",SBKH.tsv
+do with,2,173,"[170, 173]",SBKH.tsv
+yes,1,179,"[3, 179, 181, 232, 236, 247, 260, 262, 420, 464]",SBKH.tsv
+day,1,181,"[142, 181, 297, 325, 337, 339, 341]",SBKH.tsv
+wait,1,341,"[186, 226, 341, 412]",SBKH.tsv
+friday,1,190,"[10, 189, 190, 192]",SBKH.tsv
+on a friday,3,190,"[189, 190]",SBKH.tsv
+a friday,2,190,"[189, 190]",SBKH.tsv
+particular,1,193,"[192, 193]",SBKH.tsv
+every,1,284,"[192, 284]",SBKH.tsv
+okay,1,194,"[21, 194, 217, 260, 294, 304, 364, 458]",SBKH.tsv
+oh what,2,196,"[118, 196]",SBKH.tsv
+ten,1,204,"[199, 204, 257, 272, 278, 295, 308, 317, 344, 346, 435]",SBKH.tsv
+you'll be,2,271,"[199, 271, 409, 419, 436]",SBKH.tsv
+year and,2,284,"[199, 274, 284]",SBKH.tsv
+in year,2,99,"[6, 99, 142, 165, 199, 218, 249, 412]",SBKH.tsv
+sorry,1,201,"[118, 201, 294]",SBKH.tsv
+you're not,2,205,"[10, 205, 423]",SBKH.tsv
+fifteen,1,205,"[200, 202, 204, 205, 216]",SBKH.tsv
+not gonna,2,297,"[205, 297, 423]",SBKH.tsv
+years,1,227,"[209, 227, 228, 238, 262, 278, 281, 295, 308]",SBKH.tsv
+thirty nine,2,229,"[209, 229, 260]",SBKH.tsv
+nine,1,235,"[209, 229, 235, 255, 257, 260, 269, 409]",SBKH.tsv
+thirty,1,265,"[209, 222, 260, 265, 346]",SBKH.tsv
+only go,2,215,"[37, 41, 215]",SBKH.tsv
+year thirteen,2,225,"[215, 218, 225]",SBKH.tsv
+well i,2,217,"[8, 103, 116, 217, 352]",SBKH.tsv
+eighteen,1,219,"[218, 219, 221, 225, 240, 260]",SBKH.tsv
+you be eighteen,3,225,"[218, 225]",SBKH.tsv
+know,1,115,"[2, 60, 62, 87, 89, 105, 110, 115, 116, 117, 118, 174, 220, 236, 240, 245, 263, 289, 358, 402, 436]",SBKH.tsv
+get to,2,220,"[93, 189, 193, 198, 220, 260, 300, 464]",SBKH.tsv
+add,1,221,"[220, 221, 225, 227, 228, 242]",SBKH.tsv
+i don't,2,220,"[2, 220, 245, 263, 297, 358, 422, 424, 428]",SBKH.tsv
+so i,2,220,"[43, 91, 220, 318, 341]",SBKH.tsv
+six,1,222,"[6, 167, 222, 223, 224, 227, 246]",SBKH.tsv
+would,1,224,"[208, 210, 223, 224, 258, 318, 321, 323, 333, 352, 365, 388]",SBKH.tsv
+twenty six would be the year,6,224,"[223, 224]",SBKH.tsv
+twenty six,2,227,"[224, 227]",SBKH.tsv
+twenty,1,233,"[224, 233, 235, 262, 264, 269, 339]",SBKH.tsv
+eat,1,226,"[120, 226]",SBKH.tsv
+three,1,228,"[41, 223, 227, 228, 250, 251, 317, 344, 346, 435, 464]",SBKH.tsv
+add three years,3,228,"[227, 228]",SBKH.tsv
+yeah yeah,2,284,"[238, 284]",SBKH.tsv
+need to,2,401,"[238, 256, 401, 403]",SBKH.tsv
+year be,2,240,"[206, 240]",SBKH.tsv
+be year thirteen,3,240,"[225, 240]",SBKH.tsv
+be year,2,271,"[240, 270, 271]",SBKH.tsv
+thirteen,1,242,"[225, 242, 264]",SBKH.tsv
+you say,2,279,"[245, 266, 279, 281, 284, 343]",SBKH.tsv
+turn,1,247,"[87, 247, 281, 413, 414, 415]",SBKH.tsv
+seven,1,247,"[246, 247, 409, 412, 430]",SBKH.tsv
+yes you,2,420,"[247, 420]",SBKH.tsv
+four,1,249,"[39, 212, 234, 249, 257, 265, 270, 417]",SBKH.tsv
+year two,2,251,"[246, 251, 252]",SBKH.tsv
+work,1,258,"[176, 258, 464]",SBKH.tsv
+to get,2,260,"[227, 260, 339, 391]",SBKH.tsv
+thirty four,2,270,"[265, 270]",SBKH.tsv
+and i,2,272,"[87, 91, 105, 118, 142, 148, 272, 378, 435]",SBKH.tsv
+ten and,2,272,"[204, 257, 272]",SBKH.tsv
+eight,1,272,"[233, 253, 272, 281, 339]",SBKH.tsv
+which be,2,272,"[45, 53, 142, 272, 339, 345, 348, 399]",SBKH.tsv
+i'm,1,274,"[173, 175, 243, 246, 274, 286, 288, 290, 295, 297, 306, 332, 334, 341, 380, 382, 409, 436]",SBKH.tsv
+the year,2,274,"[223, 274]",SBKH.tsv
+gonna be forty and have an enormous party,8,276,"[274, 276]",SBKH.tsv
+i'm gonna be,3,288,"[274, 288, 290]",SBKH.tsv
+i mean,2,274,"[25, 274, 309, 394]",SBKH.tsv
+end,1,311,"[274, 311, 316, 341]",SBKH.tsv
+forty,1,347,"[274, 347]",SBKH.tsv
+i'm gonna,2,380,"[274, 380, 382]",SBKH.tsv
+yeah you do,3,282,"[6, 282]",SBKH.tsv
+say that,2,282,"[279, 281, 282]",SBKH.tsv
+say that every year,4,284,"[282, 284]",SBKH.tsv
+yeah you,2,284,"[282, 284]",SBKH.tsv
+your birthday,2,289,"[271, 285, 289]",SBKH.tsv
+birthday,1,285,"[284, 285, 289, 297]",SBKH.tsv
+act,1,372,"[300, 372]",SBKH.tsv
+cos you'll,2,305,"[271, 305]",SBKH.tsv
+yeah but,2,307,"[216, 307, 351]",SBKH.tsv
+you in,2,308,"[206, 308]",SBKH.tsv
+as if,2,308,"[286, 288, 290, 308]",SBKH.tsv
+ten years,2,308,"[278, 295, 308]",SBKH.tsv
+college,1,311,"[308, 310, 311, 337, 365, 405, 409]",SBKH.tsv
+at home,2,341,"[310, 340, 341]",SBKH.tsv
+have some,2,353,"[312, 352, 353, 357, 359]",SBKH.tsv
+it end at,3,341,"[316, 341]",SBKH.tsv
+end at,2,341,"[316, 341]",SBKH.tsv
+it do,2,343,"[316, 343]",SBKH.tsv
+you can,2,319,"[10, 319, 348, 460]",SBKH.tsv
+walk,1,319,"[112, 319, 348]",SBKH.tsv
+actually,1,319,"[91, 93, 189, 319, 377]",SBKH.tsv
+would you,2,321,"[208, 210, 321]",SBKH.tsv
+you like,2,321,"[290, 321]",SBKH.tsv
+would be,2,323,"[223, 323, 333]",SBKH.tsv
+sweet,1,362,"[323, 362, 364]",SBKH.tsv
+be lovely,2,429,"[323, 429, 436]",SBKH.tsv
+that every,2,325,"[284, 325]",SBKH.tsv
+could be,2,334,"[327, 334]",SBKH.tsv
+that's what,2,330,"[329, 330]",SBKH.tsv
+'s,1,330,"[329, 330, 435, 436, 452]",SBKH.tsv
+sister,1,330,"[329, 330, 436, 443, 444, 452]",SBKH.tsv
+lovely,1,429,"[333, 387, 390, 398, 429, 436]",SBKH.tsv
+earlier,1,347,"[337, 347]",SBKH.tsv
+we be still,3,339,"[8, 339]",SBKH.tsv
+we be,2,142,"[8, 118, 142, 339]",SBKH.tsv
+eight twenty,2,339,"[233, 339]",SBKH.tsv
+the school,2,339,"[334, 339, 382]",SBKH.tsv
+school day,2,341,"[339, 341]",SBKH.tsv
+a very,2,341,"[339, 341, 402, 419, 422]",SBKH.tsv
+in a,2,339,"[135, 339, 382]",SBKH.tsv
+time,1,340,"[129, 340, 435]",SBKH.tsv
+no i,2,344,"[293, 306, 344, 352]",SBKH.tsv
+finish,1,344,"[293, 344, 346, 437, 457, 458]",SBKH.tsv
+lunchtime,1,344,"[341, 344, 348]",SBKH.tsv
+say it,2,344,"[343, 344]",SBKH.tsv
+forty minutes earlier,3,347,"[346, 347]",SBKH.tsv
+minutes,1,347,"[346, 347]",SBKH.tsv
+you can do,3,348,"[10, 348]",SBKH.tsv
+be as,2,393,"[348, 393]",SBKH.tsv
+young,1,350,"[189, 350]",SBKH.tsv
+be in detention,3,350,"[349, 350]",SBKH.tsv
+i would,2,352,"[318, 352, 388]",SBKH.tsv
+don't like,2,360,"[297, 360]",SBKH.tsv
+to do in,3,365,"[330, 365]",SBKH.tsv
+swim,1,369,"[368, 369]",SBKH.tsv
+it's a,2,377,"[189, 377, 382]",SBKH.tsv
+it's not,2,377,"[286, 288, 290, 377]",SBKH.tsv
+run,1,385,"[112, 135, 385, 396]",SBKH.tsv
+gorgeous,1,389,"[387, 389]",SBKH.tsv
+she's like,2,393,"[392, 393]",SBKH.tsv
+kind,1,394,"[187, 394]",SBKH.tsv
+also,1,396,"[182, 396, 430, 452, 464]",SBKH.tsv
+be a,2,402,"[297, 402, 419, 423]",SBKH.tsv
+kind of thing,3,409,"[187, 409]",SBKH.tsv
+be like,2,409,"[53, 225, 288, 290, 324, 409, 411, 419, 425, 435]",SBKH.tsv
+mum,1,409,"[166, 171, 177, 178, 241, 409]",SBKH.tsv
+if i'm,2,409,"[286, 288, 290, 409]",SBKH.tsv
+like that's,2,409,"[297, 409]",SBKH.tsv
+teenager,1,429,"[419, 423, 429]",SBKH.tsv
+i think,2,425,"[8, 180, 198, 267, 378, 388, 391, 425, 427, 429, 435, 440]",SBKH.tsv
+happen,1,428,"[284, 428]",SBKH.tsv
+gonna happen,2,428,"[297, 428]",SBKH.tsv
+so it's,2,430,"[227, 430]",SBKH.tsv
+impossible,1,430,"[297, 430]",SBKH.tsv
+you need to,3,434,"[401, 403, 434]",SBKH.tsv
+older,1,436,"[271, 436, 444, 452]",SBKH.tsv
+she'll be,2,436,"[435, 436]",SBKH.tsv
+watch,1,462,"[403, 462]",SBKH.tsv
+please,1,464,"[303, 437, 464]",SBKH.tsv
+thank you,2,464,"[355, 464]",SBKH.tsv
+try,1,464,"[393, 464]",SBKH.tsv
+i've get,2,464,"[455, 464]",SBKH.tsv
+you go to,3,105,"[0, 105]",SBKH.tsv
+be do,2,142,"[0, 142]",SBKH.tsv
+they be,2,89,"[7, 89, 142]",SBKH.tsv
+term,1,129,"[9, 129, 369, 417]",SBKH.tsv
+it be,2,23,"[11, 23, 49, 79, 81, 87, 89, 142, 260]",SBKH.tsv
+pedal,1,15,"[13, 15, 53, 82]",SBKH.tsv
+the one,2,45,"[13, 30, 45, 52, 63, 69, 72, 74]",SBKH.tsv
+be on,2,53,"[13, 30, 53, 65]",SBKH.tsv
+like that,2,391,"[13, 63, 391, 392, 425]",SBKH.tsv
+you've get,2,16,"[15, 16, 27, 220, 340]",SBKH.tsv
+joysticks,1,16,"[15, 16]",SBKH.tsv
+cool,1,25,"[16, 25, 305]",SBKH.tsv
+be in the,3,89,"[20, 89, 161]",SBKH.tsv
+steer,1,24,"[15, 24]",SBKH.tsv
+quite,1,26,"[25, 26, 49, 79, 81, 89, 339]",SBKH.tsv
+you get use to it quite easily,7,27,"[26, 27]",SBKH.tsv
+easily,1,391,"[26, 391]",SBKH.tsv
+down bike,2,28,"[12, 28, 77]",SBKH.tsv
+low down,2,28,"[17, 28]",SBKH.tsv
+low down bike,3,29,"[28, 29]",SBKH.tsv
+go on the,3,43,"[28, 43, 53, 77]",SBKH.tsv
+before you,2,162,"[46, 162]",SBKH.tsv
+the family bike,3,48,"[43, 48, 68, 75]",SBKH.tsv
+push,1,89,"[48, 89, 94]",SBKH.tsv
+the family,2,50,"[43, 50, 75]",SBKH.tsv
+there be,2,50,"[49, 50, 76, 96, 142, 348, 400]",SBKH.tsv
+all peddle,2,53,"[50, 52, 53]",SBKH.tsv
+be the family,3,68,"[50, 68]",SBKH.tsv
+the front,2,52,"[45, 52, 63, 69]",SBKH.tsv
+sit in the front,4,53,"[52, 53, 69]",SBKH.tsv
+on that,2,81,"[57, 81]",SBKH.tsv
+bike and,2,63,"[43, 63]",SBKH.tsv
+in the front,3,63,"[53, 63]",SBKH.tsv
+no no,2,239,"[63, 239, 270, 438]",SBKH.tsv
+the other,2,461,"[65, 461]",SBKH.tsv
+place,1,69,"[41, 69]",SBKH.tsv
+have a,2,69,"[49, 69, 434]",SBKH.tsv
+the same,2,72,"[64, 66, 72, 161]",SBKH.tsv
+well there be,3,76,"[49, 76, 142]",SBKH.tsv
+right,1,273,"[76, 78, 213, 217, 260, 273, 352]",SBKH.tsv
+you pedal and,3,82,"[53, 82]",SBKH.tsv
+be it,2,407,"[84, 86, 407, 438]",SBKH.tsv
+though,1,86,"[62, 86, 127]",SBKH.tsv
+fun,1,86,"[81, 86]",SBKH.tsv
+scarf,1,88,"[87, 88]",SBKH.tsv
+be in the office cos,5,94,"[89, 94]",SBKH.tsv
+to the,2,96,"[87, 96, 100, 105]",SBKH.tsv
+the office,2,96,"[89, 96]",SBKH.tsv
+back,1,96,"[91, 96]",SBKH.tsv
+you go to the,4,105,"[96, 105]",SBKH.tsv
+go to the,3,180,"[96, 180]",SBKH.tsv
+person,1,98,"[49, 87, 98, 99, 390]",SBKH.tsv
+the person,2,98,"[87, 98]",SBKH.tsv
+take,1,98,"[87, 93, 98]",SBKH.tsv
+be in the office,4,98,"[89, 98]",SBKH.tsv
+in the office,3,98,"[89, 98]",SBKH.tsv
+person in,2,99,"[98, 99]",SBKH.tsv
+do the,2,121,"[98, 115, 121, 125, 217, 388, 461]",SBKH.tsv
+go back,2,100,"[91, 100]",SBKH.tsv
+to the classroom,3,180,"[100, 180]",SBKH.tsv
+to go,2,115,"[27, 115, 116, 238]",SBKH.tsv
+i didn't,2,115,"[79, 110, 115, 117, 118]",SBKH.tsv
+know where,2,115,"[105, 115, 117, 118]",SBKH.tsv
+want to,2,115,"[110, 115, 305, 348, 391, 422, 461]",SBKH.tsv
+i didn't know where to go,6,116,"[115, 116]",SBKH.tsv
+you want to,3,391,"[115, 391]",SBKH.tsv
+want,1,418,"[115, 305, 348, 352, 354, 418, 422, 461]",SBKH.tsv
+want to do the,4,461,"[115, 461]",SBKH.tsv
+of the,2,117,"[45, 99, 117, 238, 274, 365]",SBKH.tsv
+book,1,388,"[117, 385, 388, 391]",SBKH.tsv
+read,1,391,"[117, 385, 391]",SBKH.tsv
+hate,1,132,"[129, 132]",SBKH.tsv
+hot,1,138,"[135, 138]",SBKH.tsv
+throw,1,143,"[142, 143, 146]",SBKH.tsv
+do that,2,198,"[181, 198, 270, 307, 325, 348, 383]",SBKH.tsv
+might get,2,198,"[183, 198]",SBKH.tsv
+stuff,1,461,"[196, 307, 340, 461]",SBKH.tsv
+bite,1,205,"[125, 205, 300, 308, 339, 434]",SBKH.tsv
+they don't,2,418,"[209, 418]",SBKH.tsv
+don't know,2,220,"[2, 220, 263]",SBKH.tsv
+to do that,3,220,"[198, 220, 321]",SBKH.tsv
+know that,2,240,"[60, 87, 240]",SBKH.tsv
+i don't know,3,245,"[2, 245, 263, 358]",SBKH.tsv
+know what,2,245,"[89, 174, 245]",SBKH.tsv
+year four,2,257,"[249, 257]",SBKH.tsv
+year three,2,251,"[250, 251]",SBKH.tsv
+have no idea,3,258,"[91, 258]",SBKH.tsv
+hard,1,391,"[268, 270, 391]",SBKH.tsv
+remember,1,272,"[89, 272]",SBKH.tsv
+it's all,2,272,"[129, 272]",SBKH.tsv
+of course,2,280,"[144, 280]",SBKH.tsv
+you know,2,289,"[62, 89, 105, 110, 174, 289, 402, 436]",SBKH.tsv
+you get,2,300,"[27, 300, 421]",SBKH.tsv
+be when,2,300,"[142, 300]",SBKH.tsv
+if you,2,307,"[105, 307, 310, 391, 409, 460]",SBKH.tsv
+then he,2,308,"[87, 308]",SBKH.tsv
+at college,2,405,"[310, 405]",SBKH.tsv
+be very,2,399,"[323, 358, 399]",SBKH.tsv
+have to,2,337,"[27, 91, 93, 148, 337, 339]",SBKH.tsv
+a lot,2,337,"[49, 139, 337]",SBKH.tsv
+it's quite,2,339,"[25, 339]",SBKH.tsv
+they have a,3,339,"[49, 339]",SBKH.tsv
+which be when we,4,339,"[142, 339]",SBKH.tsv
+have to be,3,339,"[148, 339]",SBKH.tsv
+when we,2,339,"[148, 339]",SBKH.tsv
+be there,2,397,"[339, 397, 399]",SBKH.tsv
+it doesn't,2,342,"[27, 342]",SBKH.tsv
+i say,2,344,"[105, 344]",SBKH.tsv
+lot of,2,348,"[49, 348, 371, 379]",SBKH.tsv
+lot,1,348,"[49, 139, 348, 371, 379]",SBKH.tsv
+to and,2,348,"[87, 348]",SBKH.tsv
+people,1,348,"[89, 142, 348, 456]",SBKH.tsv
+one of,2,348,"[99, 348]",SBKH.tsv
+there's,1,348,"[105, 348, 383, 464]",SBKH.tsv
+be one,2,348,"[142, 348]",SBKH.tsv
+club,1,388,"[348, 365, 385, 388]",SBKH.tsv
+enough,1,433,"[348, 433]",SBKH.tsv
+want to do,3,461,"[348, 461]",SBKH.tsv
+do you want,3,391,"[352, 354, 391]",SBKH.tsv
+sugar,1,367,"[360, 367]",SBKH.tsv
+leave,1,363,"[91, 363]",SBKH.tsv
+in term,2,365,"[129, 365]",SBKH.tsv
+would like,2,388,"[365, 388]",SBKH.tsv
+dance,1,371,"[121, 370, 371]",SBKH.tsv
+book club,2,388,"[385, 388]",SBKH.tsv
+there be some,3,400,"[142, 400]",SBKH.tsv
+strict,1,400,"[399, 400]",SBKH.tsv
+teachers,1,400,"[399, 400]",SBKH.tsv
+very strict,2,402,"[399, 402]",SBKH.tsv
+and you're,2,409,"[17, 409]",SBKH.tsv
+if you go,3,409,"[105, 409]",SBKH.tsv
+there and,2,409,"[105, 409]",SBKH.tsv
+eleven turn twelve,3,414,"[413, 414]",SBKH.tsv
+turn twelve,2,415,"[414, 415]",SBKH.tsv
+imagine,1,419,"[135, 419]",SBKH.tsv
+bad,1,423,"[422, 423]",SBKH.tsv
+to that,2,425,"[41, 425]",SBKH.tsv
+we're,1,425,"[53, 121, 123, 125, 425]",SBKH.tsv
+to have,2,434,"[93, 434]",SBKH.tsv
+have enough,2,434,"[433, 434]",SBKH.tsv
+get down,2,460,"[437, 459, 460]",SBKH.tsv
+thank,1,355,"[105, 355, 464]",SBKH.tsv
+keep,1,464,"[142, 464]",SBKH.tsv
+do like,2,162,"[10, 109, 162]",SBKH.tsv
+have i,2,431,"[14, 431, 433]",SBKH.tsv
+lie down,2,31,"[12, 31, 77]",SBKH.tsv
+and do,2,89,"[33, 89, 109]",SBKH.tsv
+i only go on,4,41,"[37, 41]",SBKH.tsv
+in front,2,71,"[15, 71]",SBKH.tsv
+you sit in,3,71,"[53, 71]",SBKH.tsv
+the bike,2,71,"[70, 71]",SBKH.tsv
+you and,2,109,"[15, 109]",SBKH.tsv
+and when,2,112,"[91, 112]",SBKH.tsv
+bikeability and,2,112,"[105, 112]",SBKH.tsv
+be really,2,118,"[49, 89, 118, 142]",SBKH.tsv
+be and,2,118,"[105, 118]",SBKH.tsv
+and i be,3,142,"[118, 142]",SBKH.tsv
+look,1,391,"[118, 391]",SBKH.tsv
+little,1,151,"[45, 125, 151, 153, 391]",SBKH.tsv
+into the,2,156,"[91, 156]",SBKH.tsv
+the big playground,3,156,"[105, 156, 189]",SBKH.tsv
+go into,2,156,"[125, 156]",SBKH.tsv
+although,1,162,"[156, 162]",SBKH.tsv
+yeah and,2,182,"[17, 53, 182]",SBKH.tsv
+and they,2,193,"[49, 142, 193]",SBKH.tsv
+reception,1,234,"[212, 234, 330]",SBKH.tsv
+year one,2,214,"[99, 142, 214]",SBKH.tsv
+well erm,2,225,"[15, 225]",SBKH.tsv
+because you're,2,229,"[87, 229]",SBKH.tsv
+erm year two,3,252,"[246, 252]",SBKH.tsv
+erm year,2,257,"[252, 257]",SBKH.tsv
+erm i,2,267,"[81, 267]",SBKH.tsv
+all the,2,271,"[89, 271]",SBKH.tsv
+when i,2,281,"[91, 281, 405]",SBKH.tsv
+years old,2,281,"[278, 281]",SBKH.tsv
+yet,1,284,"[125, 284, 355]",SBKH.tsv
+the sixth of september,4,287,"[286, 287]",SBKH.tsv
+you it's,2,290,"[25, 290]",SBKH.tsv
+ten years old,3,295,"[278, 295]",SBKH.tsv
+then i,2,297,"[77, 297]",SBKH.tsv
+tell,1,334,"[105, 334]",SBKH.tsv
+i'm not,2,334,"[306, 334]",SBKH.tsv
+long,1,407,"[341, 407]",SBKH.tsv
+i'll be,2,349,"[180, 302, 324, 349]",SBKH.tsv
+i might,2,351,"[180, 198, 351]",SBKH.tsv
+who do you need to,5,403,"[401, 403]",SBKH.tsv
+how long,2,412,"[407, 412]",SBKH.tsv
+i think if,3,435,"[391, 435]",SBKH.tsv
+my class,2,439,"[105, 439]",SBKH.tsv

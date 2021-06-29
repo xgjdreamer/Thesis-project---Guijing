@@ -1,0 +1,162 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker1,Expression_uttered_position_speaker2,file,speaker1,speaker2
+they want to,3,1,"[0, 57, 59, 67]",[1],S4ZT.tsv,S0262,S0261
+want to,2,1,"[0, 2, 57, 67, 96]","[1, 95]",S4ZT.tsv,S0262,S0261
+go,1,15,"[0, 8, 36, 55, 61, 67, 96]","[15, 72]",S4ZT.tsv,S0262,S0261
+you know,2,29,"[0, 8, 36, 63, 81, 96]","[29, 74, 86, 95, 76, 78]",S4ZT.tsv,S0262,S0261
+to learn,2,29,[0],[29],S4ZT.tsv,S0262,S0261
+whatever,1,31,"[0, 61, 89, 96]","[31, 74, 60, 78]",S4ZT.tsv,S0262,S0261
+and do,2,56,[0],[56],S4ZT.tsv,S0262,S0261
+or whatever,2,60,[0],[60],S4ZT.tsv,S0262,S0261
+you know they,3,76,[0],[76],S4ZT.tsv,S0262,S0261
+or whatever you know,4,78,[0],[78],S4ZT.tsv,S0262,S0261
+they want,2,95,"[0, 2, 57, 59, 67]",[95],S4ZT.tsv,S0262,S0261
+want,1,95,"[0, 2, 8, 57, 59, 67, 96]",[95],S4ZT.tsv,S0262,S0261
+they want to change,4,2,[2],[1],S4ZT.tsv,S0262,S0261
+change,1,9,"[2, 83]","[9, 74]",S4ZT.tsv,S0262,S0261
+to change,2,27,"[2, 83]",[27],S4ZT.tsv,S0262,S0261
+environment,1,95,[4],[95],S4ZT.tsv,S0262,S0261
+at the,2,13,[6],"[13, 17]",S4ZT.tsv,S0262,S0261
+work,1,8,"[8, 87, 96]","[3, 29, 56, 60, 68, 74, 95]",S4ZT.tsv,S0262,S0261
+yeah,1,8,"[8, 20, 22, 26, 28, 36, 46, 49, 55, 69, 75, 89, 94, 96]","[5, 9, 43, 47, 52, 58, 88, 93]",S4ZT.tsv,S0262,S0261
+out the,2,15,[8],[15],S4ZT.tsv,S0262,S0261
+you've get,2,17,[8],"[17, 86]",S4ZT.tsv,S0262,S0261
+get,1,21,"[8, 67, 81, 89, 96, 98]","[21, 23, 29, 74, 86]",S4ZT.tsv,S0262,S0261
+that's,1,29,"[8, 55, 63, 89]","[29, 80, 86, 88, 95]",S4ZT.tsv,S0262,S0261
+people,1,68,"[8, 36, 65, 67, 73, 79, 81, 96]","[68, 72, 74, 95]",S4ZT.tsv,S0262,S0261
+you want,2,95,[8],[95],S4ZT.tsv,S0262,S0261
+be we're,2,10,[10],[9],S4ZT.tsv,S0262,S0261
+we're,1,19,"[10, 12, 89]",[19],S4ZT.tsv,S0262,S0261
+in the middle of,4,12,[12],[9],S4ZT.tsv,S0262,S0261
+in the middle of it,5,19,[12],"[19, 27]",S4ZT.tsv,S0262,S0261
+of it,2,21,[12],[21],S4ZT.tsv,S0262,S0261
+in the,2,27,"[12, 36, 96]",[27],S4ZT.tsv,S0262,S0261
+right,1,64,"[12, 14, 16, 24, 44]","[64, 86, 88]",S4ZT.tsv,S0262,S0261
+look,1,24,[24],[23],S4ZT.tsv,S0262,S0261
+you have,2,86,[28],[86],S4ZT.tsv,S0262,S0261
+one,1,36,"[36, 81, 96]",[9],S4ZT.tsv,S0262,S0261
+what you're,2,36,"[36, 89]",[13],S4ZT.tsv,S0262,S0261
+actually,1,36,"[36, 57, 59, 67, 81, 96]","[17, 23]",S4ZT.tsv,S0262,S0261
+two,1,36,"[36, 83, 96]",[17],S4ZT.tsv,S0262,S0261
+the way that,3,36,[36],[23],S4ZT.tsv,S0262,S0261
+and the,2,36,[36],[23],S4ZT.tsv,S0262,S0261
+things,1,36,[36],"[23, 29, 95]",S4ZT.tsv,S0262,S0261
+try to,2,36,"[36, 55, 81, 96]","[27, 29]",S4ZT.tsv,S0262,S0261
+there be,2,36,[36],"[29, 74]",S4ZT.tsv,S0262,S0261
+that you,2,36,"[36, 81]","[29, 95]",S4ZT.tsv,S0262,S0261
+try,1,36,"[36, 55, 81, 96]",[29],S4ZT.tsv,S0262,S0261
+well,1,39,"[36, 69, 89, 98]","[39, 68, 72, 86, 97]",S4ZT.tsv,S0262,S0261
+i i think,3,68,[36],"[68, 86, 90]",S4ZT.tsv,S0262,S0261
+say,1,68,"[36, 96]","[68, 95]",S4ZT.tsv,S0262,S0261
+think,1,68,"[36, 65, 83, 87, 89]","[68, 86, 90]",S4ZT.tsv,S0262,S0261
+people who,2,72,"[36, 65, 67, 73]","[72, 74]",S4ZT.tsv,S0262,S0261
+of those,2,74,[36],[74],S4ZT.tsv,S0262,S0261
+be that,2,86,"[36, 65, 89, 96]",[86],S4ZT.tsv,S0262,S0261
+of erm,2,86,[38],[86],S4ZT.tsv,S0262,S0261
+mechanical,1,40,[40],[39],S4ZT.tsv,S0262,S0261
+know,1,44,"[44, 61, 81]","[29, 74, 76, 78, 86, 95]",S4ZT.tsv,S0262,S0261
+engineer,1,44,"[44, 87, 96]",[41],S4ZT.tsv,S0262,S0261
+career,1,74,"[48, 83, 89]",[74],S4ZT.tsv,S0262,S0261
+do it,2,91,"[48, 51, 87, 96]",[91],S4ZT.tsv,S0262,S0261
+time,1,51,"[51, 83]",[7],S4ZT.tsv,S0262,S0261
+idea,1,74,"[51, 96]",[74],S4ZT.tsv,S0262,S0261
+family,1,86,[51],[86],S4ZT.tsv,S0262,S0261
+thing,1,55,"[55, 67]","[9, 68, 74]",S4ZT.tsv,S0262,S0261
+they didn't,2,59,[59],[56],S4ZT.tsv,S0262,S0261
+do that,2,74,"[59, 67, 83]",[74],S4ZT.tsv,S0262,S0261
+to do,2,91,"[59, 83]","[91, 95]",S4ZT.tsv,S0262,S0261
+want to do,3,95,[59],[95],S4ZT.tsv,S0262,S0261
+be do,2,61,[61],[23],S4ZT.tsv,S0262,S0261
+something,1,61,"[61, 83, 89]","[35, 74]",S4ZT.tsv,S0262,S0261
+he be,2,61,[61],[39],S4ZT.tsv,S0262,S0261
+quite,1,95,"[61, 89]",[95],S4ZT.tsv,S0262,S0261
+i mean,2,63,"[63, 75, 96]","[9, 29, 97]",S4ZT.tsv,S0262,S0261
+be a,2,63,"[63, 96]","[39, 41, 60]",S4ZT.tsv,S0262,S0261
+always,1,95,[63],[95],S4ZT.tsv,S0262,S0261
+be be,2,65,"[65, 89]","[9, 90]",S4ZT.tsv,S0262,S0261
+who be,2,65,"[65, 67]",[17],S4ZT.tsv,S0262,S0261
+like,1,65,"[65, 67, 71, 73, 75, 96]","[23, 29]",S4ZT.tsv,S0262,S0261
+so the,2,65,[65],[27],S4ZT.tsv,S0262,S0261
+be in,2,65,"[65, 67]",[27],S4ZT.tsv,S0262,S0261
+like that,2,65,"[65, 96]",[29],S4ZT.tsv,S0262,S0261
+in their,2,65,"[65, 67]",[56],S4ZT.tsv,S0262,S0261
+be people who be,4,74,[65],[74],S4ZT.tsv,S0262,S0261
+they're,1,67,"[67, 96]","[1, 68, 74]",S4ZT.tsv,S0262,S0261
+need to,2,67,"[67, 89]","[3, 29]",S4ZT.tsv,S0262,S0261
+to be,2,67,"[67, 92, 96]","[3, 23, 90, 95]",S4ZT.tsv,S0262,S0261
+cos,1,67,"[67, 89]",[3],S4ZT.tsv,S0262,S0261
+probably,1,67,[67],"[9, 27]",S4ZT.tsv,S0262,S0261
+to be do,3,67,[67],[23],S4ZT.tsv,S0262,S0261
+job for the,3,67,[67],[23],S4ZT.tsv,S0262,S0261
+life,1,67,"[67, 83, 87]","[23, 74]",S4ZT.tsv,S0262,S0261
+i'm,1,67,"[67, 81, 85, 89, 96, 98]",[27],S4ZT.tsv,S0262,S0261
+job,1,67,[67],"[56, 68]",S4ZT.tsv,S0262,S0261
+that they,2,68,[67],[68],S4ZT.tsv,S0262,S0261
+people who be,3,74,[67],[74],S4ZT.tsv,S0262,S0261
+to the,2,76,"[67, 96]",[76],S4ZT.tsv,S0262,S0261
+us,1,71,[71],[23],S4ZT.tsv,S0262,S0261
+example,1,71,"[71, 81, 83]","[27, 74, 80]",S4ZT.tsv,S0262,S0261
+an example,2,74,"[71, 81]","[74, 80]",S4ZT.tsv,S0262,S0261
+lot of,2,73,[73],"[23, 74]",S4ZT.tsv,S0262,S0261
+lot of people,3,73,[73],[68],S4ZT.tsv,S0262,S0261
+lot of people who,4,73,[73],[72],S4ZT.tsv,S0262,S0261
+be people,2,79,[79],[74],S4ZT.tsv,S0262,S0261
+ones,1,81,[81],[17],S4ZT.tsv,S0262,S0261
+miles,1,81,[81],[17],S4ZT.tsv,S0262,S0261
+some of,2,81,[81],"[23, 29, 86]",S4ZT.tsv,S0262,S0261
+i'm try to,3,81,[81],[27],S4ZT.tsv,S0262,S0261
+and that,2,81,"[81, 96]","[27, 56, 74]",S4ZT.tsv,S0262,S0261
+that you've,2,81,[81],[29],S4ZT.tsv,S0262,S0261
+of people,2,81,[81],"[68, 72]",S4ZT.tsv,S0262,S0261
+to make,2,95,[81],[95],S4ZT.tsv,S0262,S0261
+have in,2,83,[83],[29],S4ZT.tsv,S0262,S0261
+could,1,83,[83],[74],S4ZT.tsv,S0262,S0261
+talk about,2,85,"[85, 89, 96]",[13],S4ZT.tsv,S0262,S0261
+out for,2,87,[87],[3],S4ZT.tsv,S0262,S0261
+as a,2,87,[87],[9],S4ZT.tsv,S0262,S0261
+of your life,3,87,[87],[23],S4ZT.tsv,S0262,S0261
+for the,2,87,[87],[23],S4ZT.tsv,S0262,S0261
+bring,1,87,[87],[27],S4ZT.tsv,S0262,S0261
+work as a,3,87,[87],[74],S4ZT.tsv,S0262,S0261
+bring in money day in day out,7,87,[87],[86],S4ZT.tsv,S0262,S0261
+a family to,3,87,[87],[86],S4ZT.tsv,S0262,S0261
+money,1,87,"[87, 89]",[86],S4ZT.tsv,S0262,S0261
+so i,2,89,"[89, 98]",[9],S4ZT.tsv,S0262,S0261
+generic,1,89,[89],[13],S4ZT.tsv,S0262,S0261
+fact,1,89,[89],[27],S4ZT.tsv,S0262,S0261
+reason,1,89,[89],"[27, 86]",S4ZT.tsv,S0262,S0261
+i think,2,89,"[89, 96]","[68, 86, 90]",S4ZT.tsv,S0262,S0261
+come from,2,89,[89],[74],S4ZT.tsv,S0262,S0261
+along,1,89,[89],[74],S4ZT.tsv,S0262,S0261
+a family,2,89,[89],[86],S4ZT.tsv,S0262,S0261
+drive,1,90,[89],[90],S4ZT.tsv,S0262,S0261
+you the,2,95,[89],[95],S4ZT.tsv,S0262,S0261
+do you,2,95,[89],[95],S4ZT.tsv,S0262,S0261
+this be,2,95,[89],[95],S4ZT.tsv,S0262,S0261
+make,1,95,[89],[95],S4ZT.tsv,S0262,S0261
+to be your own,4,92,[92],[90],S4ZT.tsv,S0262,S0261
+talk,1,96,[96],[13],S4ZT.tsv,S0262,S0261
+get the,2,96,[96],"[17, 21]",S4ZT.tsv,S0262,S0261
+the way,2,96,[96],[23],S4ZT.tsv,S0262,S0261
+if you,2,96,[96],"[23, 86]",S4ZT.tsv,S0262,S0261
+of the,2,96,[96],"[23, 76, 86]",S4ZT.tsv,S0262,S0261
+sometimes,1,96,[96],[23],S4ZT.tsv,S0262,S0261
+it be,2,96,[96],[27],S4ZT.tsv,S0262,S0261
+i've,1,96,[96],[27],S4ZT.tsv,S0262,S0261
+world,1,96,[96],[27],S4ZT.tsv,S0262,S0261
+what i,2,96,[96],[29],S4ZT.tsv,S0262,S0261
+place,1,96,[96],[29],S4ZT.tsv,S0262,S0261
+wanna,1,96,[96],[56],S4ZT.tsv,S0262,S0261
+gonna be,2,96,[96],[60],S4ZT.tsv,S0262,S0261
+gonna,1,96,[96],[60],S4ZT.tsv,S0262,S0261
+their own,2,96,[96],"[68, 72, 74]",S4ZT.tsv,S0262,S0261
+use,1,96,[96],[74],S4ZT.tsv,S0262,S0261
+it you know,3,96,[96],"[76, 86]",S4ZT.tsv,S0262,S0261
+would,1,96,[96],"[76, 95]",S4ZT.tsv,S0262,S0261
+have to,2,96,[96],[86],S4ZT.tsv,S0262,S0261
+be your own,3,96,[96],[90],S4ZT.tsv,S0262,S0261
+boss,1,96,[96],[90],S4ZT.tsv,S0262,S0261
+the driver be,3,96,[96],[95],S4ZT.tsv,S0262,S0261
+or you,2,96,[96],[95],S4ZT.tsv,S0262,S0261
+it's it's,2,96,[96],[95],S4ZT.tsv,S0262,S0261
+another,1,96,[96],[95],S4ZT.tsv,S0262,S0261
+can't,1,98,[98],[95],S4ZT.tsv,S0262,S0261

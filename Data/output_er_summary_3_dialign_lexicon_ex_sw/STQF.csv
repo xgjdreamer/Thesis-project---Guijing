@@ -1,0 +1,397 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+personal shop,2,1,"[0, 1, 5, 57, 226]",STQF.tsv
+this be,2,5,"[0, 5, 13, 21, 117, 118, 160, 264, 277, 278, 281]",STQF.tsv
+go,1,5,"[0, 5, 11, 13, 21, 22, 27, 30, 38, 57, 58, 60, 62, 64, 73, 76, 84, 87, 98, 115, 122, 143, 148, 175, 179, 190, 236, 242, 247, 249, 256, 281, 284, 294, 297, 305, 318, 328]",STQF.tsv
+experience,1,5,"[0, 5, 21, 57]",STQF.tsv
+i think,2,11,"[0, 11, 22, 34, 37, 58, 62, 64, 78, 87, 98, 102, 113, 115, 122, 169, 242, 260, 261, 266, 287, 295, 332]",STQF.tsv
+us,1,11,"[0, 11, 60, 233]",STQF.tsv
+be go to,3,13,"[0, 13, 21, 22, 60, 76, 143, 148, 249, 284, 305]",STQF.tsv
+shop,1,13,"[0, 13, 17, 57, 226, 252]",STQF.tsv
+personal,1,15,"[0, 15, 57, 60, 226]",STQF.tsv
+think,1,22,"[0, 11, 22, 34, 58, 62, 64, 78, 87, 98, 102, 110, 113, 115, 122, 160, 169, 183, 197, 227, 229, 242, 260, 261, 266, 281, 287, 295, 300, 304, 311, 328, 330, 332]",STQF.tsv
+sure,1,34,"[0, 34]",STQF.tsv
+you be,2,40,"[0, 40, 151, 227]",STQF.tsv
+okay so,2,46,"[0, 46]",STQF.tsv
+okay,1,46,"[0, 46, 70]",STQF.tsv
+so you,2,54,"[0, 54, 115, 151, 179]",STQF.tsv
+that's,1,18,"[0, 18, 27, 30, 56, 64, 90, 102, 146, 197, 229, 233, 280, 284, 286, 289, 308, 319, 327]",STQF.tsv
+go to,2,27,"[0, 13, 22, 27, 60, 62, 76, 84, 98, 143, 148, 236, 242, 247, 249, 256, 281, 284, 294, 305, 328]",STQF.tsv
+make,1,216,"[0, 214, 216, 218, 240, 289, 306, 316]",STQF.tsv
+be i,2,281,"[0, 281]",STQF.tsv
+sister in law,3,7,"[6, 7]",STQF.tsv
+in law,2,94,"[6, 94]",STQF.tsv
+right,1,46,"[8, 10, 46, 86, 95, 97, 101, 268, 300, 323, 331]",STQF.tsv
+oh right,2,46,"[10, 46, 101, 268, 300, 323]",STQF.tsv
+i haven't,2,16,"[5, 16]",STQF.tsv
+no no,2,64,"[16, 64]",STQF.tsv
+no i,2,141,"[16, 141, 205, 237, 328, 330]",STQF.tsv
+yes,1,51,"[1, 4, 14, 23, 35, 37, 39, 41, 50, 51, 57, 58, 61, 63, 67, 76, 78, 84, 97, 103, 120, 123, 126, 127, 130, 179, 190, 195, 225, 228, 234, 262, 269, 272, 275, 282, 285, 286, 292, 307, 312, 321, 323]",STQF.tsv
+yes yes,2,51,"[35, 41, 51, 57, 63, 103, 123, 130, 190, 195, 228, 234, 282, 285, 286, 292, 323]",STQF.tsv
+yeah,1,53,"[7, 26, 38, 40, 41, 53, 54, 55, 56, 69, 72, 78, 79, 106, 107, 119, 120, 121, 127, 137, 149, 156, 159, 178, 179, 215, 222, 233, 237, 238, 250, 258, 262, 266, 269, 271, 278, 279, 288, 294, 300, 301, 305, 307, 313, 315, 320, 326, 331, 332]",STQF.tsv
+personal shop experience,3,57,"[5, 57]",STQF.tsv
+back to,2,57,"[50, 57]",STQF.tsv
+go back to,3,73,"[57, 73]",STQF.tsv
+back,1,179,"[57, 179, 229, 260]",STQF.tsv
+mm mm,2,57,"[43, 57, 144, 167, 207, 238, 255, 317]",STQF.tsv
+i just,2,65,"[3, 60, 64, 65, 102, 229, 237]",STQF.tsv
+want,1,65,"[3, 13, 22, 62, 65, 73, 102, 110, 229, 281, 289, 316]",STQF.tsv
+do you,2,65,"[44, 46, 49, 65, 89, 104, 132, 140, 163, 171, 174, 204, 230, 301, 316]",STQF.tsv
+like,1,65,"[52, 62, 64, 65, 78, 82, 98, 104, 122, 124, 171, 185, 240, 304]",STQF.tsv
+tea or,2,65,"[60, 65]",STQF.tsv
+something,1,65,"[60, 65, 113, 239, 308]",STQF.tsv
+you like,2,65,"[62, 65]",STQF.tsv
+or something,2,65,"[64, 65]",STQF.tsv
+builder's tea,2,66,"[65, 66]",STQF.tsv
+can i,2,84,"[65, 84, 92]",STQF.tsv
+that be,2,70,"[13, 40, 60, 64, 70, 92, 125, 126, 143, 249, 287, 294]",STQF.tsv
+put,1,70,"[64, 70, 92, 112, 237]",STQF.tsv
+in that,2,149,"[70, 149, 227, 233]",STQF.tsv
+dress,1,72,"[5, 17, 18, 22, 62, 64, 72, 73, 84, 85, 87, 88, 98, 102, 104, 131, 136, 265, 266, 274]",STQF.tsv
+so the,2,72,"[11, 72]",STQF.tsv
+yeah so,2,72,"[54, 72, 294]",STQF.tsv
+so the next dress,4,73,"[72, 73]",STQF.tsv
+i be,2,76,"[11, 50, 76, 102, 143, 148, 205, 207, 261, 281, 290, 300, 305]",STQF.tsv
+be go to say,4,76,"[13, 76]",STQF.tsv
+say,1,76,"[13, 40, 58, 60, 62, 64, 76, 78, 84, 89, 92, 102, 197, 264, 274, 328]",STQF.tsv
+i be go to,4,143,"[76, 143, 148, 305]",STQF.tsv
+you say,2,89,"[60, 89]",STQF.tsv
+much,1,281,"[89, 252, 281, 305]",STQF.tsv
+how much,2,305,"[89, 305]",STQF.tsv
+jumpsuit,1,93,"[92, 93, 143, 233]",STQF.tsv
+well,1,110,"[1, 18, 22, 32, 38, 47, 50, 58, 64, 80, 87, 106, 110, 140, 153, 162, 175, 205, 220, 243, 246, 256, 260, 264, 265, 266, 268, 287, 293, 305, 319, 320]",STQF.tsv
+it wasn't,2,110,"[13, 110, 117, 128]",STQF.tsv
+i want,2,110,"[13, 22, 62, 102, 110, 229, 289]",STQF.tsv
+i'd,1,110,"[13, 15, 22, 110, 131, 261, 304]",STQF.tsv
+and think oh,3,110,"[62, 110]",STQF.tsv
+look,1,110,"[64, 78, 85, 110, 131, 158, 160, 233, 274, 329]",STQF.tsv
+i'd have,2,110,"[78, 110, 131, 304]",STQF.tsv
+it's just,2,112,"[62, 112, 259]",STQF.tsv
+just she,2,112,"[64, 112]",STQF.tsv
+put it on,3,112,"[92, 112]",STQF.tsv
+me and,2,112,"[92, 112]",STQF.tsv
+i don't,2,114,"[3, 13, 60, 114, 122, 131, 175, 183, 305, 328, 330]",STQF.tsv
+know,1,114,"[5, 11, 22, 32, 38, 40, 43, 52, 54, 56, 60, 64, 105, 113, 114, 115, 118, 121, 122, 131, 163, 166, 175, 179, 188, 193, 194, 214, 227, 233, 237, 240, 242, 249, 258, 260, 266, 274, 281, 284, 305]",STQF.tsv
+i don't know,3,114,"[60, 114, 131, 305]",STQF.tsv
+colour,1,125,"[13, 62, 64, 105, 113, 115, 125, 126, 128, 296, 298]",STQF.tsv
+one,1,125,"[18, 27, 34, 64, 73, 78, 92, 121, 122, 125, 160, 233, 274, 284, 301, 302, 322]",STQF.tsv
+that the,2,125,"[82, 125]",STQF.tsv
+that be that,3,143,"[125, 143]",STQF.tsv
+be that,2,125,"[27, 77, 125, 143, 227, 294, 298]",STQF.tsv
+the one,2,233,"[125, 233, 274]",STQF.tsv
+get,1,128,"[1, 5, 18, 33, 56, 106, 128, 140, 143, 160, 179, 190, 193, 233, 237, 239, 260, 281, 297]",STQF.tsv
+really,1,128,"[3, 5, 11, 22, 42, 50, 58, 60, 73, 117, 126, 128, 198, 199, 201, 206, 210, 233, 241, 242, 244, 281, 284, 298, 307, 328]",STQF.tsv
+to get,2,128,"[5, 33, 128, 143]",STQF.tsv
+cos,1,128,"[5, 38, 41, 128, 148, 155, 233, 240, 247, 260, 290, 292, 298, 307]",STQF.tsv
+it be really,3,128,"[11, 128]",STQF.tsv
+it be,2,128,"[38, 62, 64, 82, 85, 98, 109, 117, 128, 129, 233, 242, 260, 271, 281, 295, 300, 309, 313]",STQF.tsv
+and it,2,128,"[100, 128, 242]",STQF.tsv
+it isn't,2,128,"[127, 128]",STQF.tsv
+shoe,1,132,"[128, 132, 136, 140, 141, 143, 148, 197, 259, 260, 298, 324]",STQF.tsv
+shoe that,2,143,"[128, 143]",STQF.tsv
+difficult,1,179,"[128, 179]",STQF.tsv
+cos it be,3,233,"[128, 233]",STQF.tsv
+a dress,2,131,"[5, 85, 131, 274]",STQF.tsv
+it's not,2,147,"[131, 147]",STQF.tsv
+and a half,3,133,"[5, 133]",STQF.tsv
+and a,2,133,"[64, 133, 260, 324]",STQF.tsv
+seven,1,133,"[84, 133]",STQF.tsv
+half,1,137,"[5, 137]",STQF.tsv
+they be,2,137,"[77, 78, 137, 252, 265, 266, 284, 313]",STQF.tsv
+and i,2,139,"[5, 11, 13, 22, 38, 62, 64, 73, 87, 92, 102, 122, 139, 160, 242, 252]",STQF.tsv
+two,1,139,"[13, 25, 75, 84, 139]",STQF.tsv
+days,1,139,"[52, 139]",STQF.tsv
+buy,1,139,"[64, 87, 98, 102, 139, 233, 266, 268, 328]",STQF.tsv
+i buy,2,139,"[102, 139]",STQF.tsv
+not easy,2,147,"[146, 147]",STQF.tsv
+cos i,2,148,"[5, 148, 260]",STQF.tsv
+in the,2,148,"[102, 148, 151, 153, 261]",STQF.tsv
+walk,1,148,"[141, 148]",STQF.tsv
+as well,2,153,"[140, 153, 260, 265, 268, 287]",STQF.tsv
+yeah mm,2,159,"[149, 159, 238, 278]",STQF.tsv
+don't know,2,163,"[60, 163, 305]",STQF.tsv
+wear,1,163,"[62, 64, 87, 94, 96, 102, 105, 158, 163, 175, 181, 185, 193, 197, 229, 236, 249, 256, 266, 284]",STQF.tsv
+heel,1,158,"[141, 158, 163, 181, 190]",STQF.tsv
+high,1,158,"[143, 158, 163, 166, 181]",STQF.tsv
+you don't,2,301,"[163, 301]",STQF.tsv
+clothe,1,170,"[60, 90, 170]",STQF.tsv
+casual,1,171,"[170, 171]",STQF.tsv
+what do you,3,174,"[171, 174, 204]",STQF.tsv
+mean,1,174,"[18, 43, 105, 152, 158, 174, 175, 181, 256, 270, 304, 312, 328]",STQF.tsv
+trainers,1,175,"[174, 175]",STQF.tsv
+people,1,193,"[96, 115, 158, 193, 194, 230, 240, 249, 290]",STQF.tsv
+things,1,193,"[27, 104, 193]",STQF.tsv
+stilettos,1,193,"[166, 190, 193]",STQF.tsv
+our age,2,193,"[188, 193]",STQF.tsv
+bunions,1,194,"[193, 194]",STQF.tsv
+have get,2,233,"[193, 233, 260]",STQF.tsv
+know what,2,284,"[193, 240, 284]",STQF.tsv
+many,1,193,"[183, 193, 284]",STQF.tsv
+work,1,204,"[102, 105, 158, 204]",STQF.tsv
+in your,2,204,"[169, 204]",STQF.tsv
+erm your,2,204,"[179, 204]",STQF.tsv
+be you,2,208,"[38, 40, 208, 236]",STQF.tsv
+gosh,1,253,"[212, 253]",STQF.tsv
+know you,2,214,"[52, 214]",STQF.tsv
+children,1,214,"[169, 214]",STQF.tsv
+decisions,1,218,"[214, 218]",STQF.tsv
+wow,1,251,"[214, 251, 253]",STQF.tsv
+bite,1,226,"[60, 102, 226, 233, 290, 316]",STQF.tsv
+sort of,2,230,"[3, 102, 105, 166, 230, 254, 261, 274, 294, 304, 311, 312]",STQF.tsv
+you have,2,230,"[34, 40, 60, 151, 230]",STQF.tsv
+would you,2,230,"[62, 230, 242]",STQF.tsv
+would,1,71,"[62, 64, 71, 96, 102, 105, 230, 233, 242, 294, 297, 309, 328]",STQF.tsv
+other people,2,230,"[96, 230]",STQF.tsv
+sort of erm,3,230,"[166, 230]",STQF.tsv
+threaten,1,231,"[230, 231]",STQF.tsv
+you find,2,274,"[230, 274]",STQF.tsv
+find,1,284,"[230, 284]",STQF.tsv
+discomforting,1,233,"[232, 233]",STQF.tsv
+anything,1,236,"[60, 73, 219, 236, 237, 328]",STQF.tsv
+to wear,2,236,"[102, 158, 229, 236]",STQF.tsv
+you go to,3,281,"[236, 281]",STQF.tsv
+you know,2,242,"[5, 11, 38, 40, 52, 54, 56, 60, 105, 113, 115, 118, 121, 122, 166, 175, 179, 188, 227, 237, 242, 249, 258, 260, 266, 274, 281, 284]",STQF.tsv
+really nice,2,242,"[11, 117, 126, 242]",STQF.tsv
+and eh,2,242,"[60, 73, 242]",STQF.tsv
+and i think,3,242,"[64, 102, 122, 242]",STQF.tsv
+nice,1,260,"[126, 242, 260, 274]",STQF.tsv
+house,1,281,"[242, 281]",STQF.tsv
+do it,2,245,"[22, 58, 62, 245]",STQF.tsv
+she be,2,245,"[32, 40, 62, 87, 245, 252]",STQF.tsv
+time,1,245,"[54, 179, 233, 245, 252, 328]",STQF.tsv
+for me,2,245,"[64, 82, 92, 245, 256]",STQF.tsv
+it's the,2,245,"[169, 245]",STQF.tsv
+in a,2,247,"[13, 60, 64, 85, 122, 247, 312]",STQF.tsv
+way,1,247,"[56, 233, 247]",STQF.tsv
+kind,1,247,"[64, 247]",STQF.tsv
+you can,2,247,"[84, 247, 306, 316]",STQF.tsv
+kind of,2,295,"[247, 295]",STQF.tsv
+come,1,21,"[5, 21, 29, 46, 48, 50, 56, 60, 92, 227, 229, 233, 249]",STQF.tsv
+that be go to,4,249,"[13, 60, 249]",STQF.tsv
+to be,2,34,"[21, 27, 34, 87, 249, 274, 284, 294]",STQF.tsv
+come in and,3,249,"[60, 249]",STQF.tsv
+go to be,3,62,"[21, 27, 62, 84, 249, 256, 284, 294]",STQF.tsv
+away,1,249,"[62, 64, 92, 227, 229, 249]",STQF.tsv
+there be,2,249,"[21, 64, 73, 197, 249]",STQF.tsv
+to be wear,3,249,"[87, 249]",STQF.tsv
+she'll,1,249,"[87, 249, 328]",STQF.tsv
+be wear,2,249,"[87, 94, 249, 266, 284]",STQF.tsv
+show,1,249,"[102, 249, 284]",STQF.tsv
+take,1,249,"[141, 149, 249, 261]",STQF.tsv
+go to be wear,4,256,"[249, 256]",STQF.tsv
+stuff,1,266,"[249, 266]",STQF.tsv
+be go to be,4,249,"[21, 249, 284]",STQF.tsv
+and erm,2,252,"[3, 38, 52, 84, 252, 261, 328]",STQF.tsv
+and and,2,252,"[5, 252]",STQF.tsv
+or whatever,2,252,"[13, 64, 252]",STQF.tsv
+out for,2,252,"[34, 252]",STQF.tsv
+erm and,2,252,"[32, 38, 60, 87, 252]",STQF.tsv
+whatever,1,252,"[64, 252]",STQF.tsv
+as much,2,281,"[252, 281]",STQF.tsv
+she's she's,2,254,"[9, 254]",STQF.tsv
+person,1,254,"[62, 254]",STQF.tsv
+off the,2,254,"[92, 254]",STQF.tsv
+you're just,2,254,"[169, 254]",STQF.tsv
+for the,2,295,"[254, 295]",STQF.tsv
+so if,2,297,"[254, 297]",STQF.tsv
+so it's,2,259,"[62, 259]",STQF.tsv
+just shoe,2,260,"[259, 260]",STQF.tsv
+a jacket,2,263,"[64, 260, 261, 263, 324]",STQF.tsv
+do they,2,263,"[216, 263]",STQF.tsv
+be be,2,265,"[50, 265]",STQF.tsv
+they be be dress,4,266,"[265, 266]",STQF.tsv
+three,1,268,"[11, 100, 209, 233, 264, 268, 274]",STQF.tsv
+the other,2,268,"[75, 268, 281]",STQF.tsv
+i didn't,2,205,"[141, 205, 233, 261, 268, 281]",STQF.tsv
+i didn't realise,3,268,"[261, 268]",STQF.tsv
+this be john lewis,4,278,"[277, 278]",STQF.tsv
+john lewis,2,281,"[277, 281]",STQF.tsv
+actually,1,280,"[7, 13, 18, 41, 50, 54, 78, 85, 98, 113, 115, 117, 118, 124, 143, 179, 188, 229, 233, 280, 305, 313, 328]",STQF.tsv
+be my,2,287,"[5, 84, 287]",STQF.tsv
+what colour,2,296,"[62, 296]",STQF.tsv
+bright colour,2,298,"[13, 298]",STQF.tsv
+and then,2,298,"[13, 50, 56, 90, 122, 220, 298]",STQF.tsv
+could,1,298,"[60, 141, 284, 298, 302, 303, 304]",STQF.tsv
+bright,1,298,"[64, 298]",STQF.tsv
+pair of shoe,3,298,"[143, 298]",STQF.tsv
+think it be,3,300,"[11, 300]",STQF.tsv
+black,1,300,"[62, 64, 73, 84, 87, 100, 266, 297, 299, 300, 301]",STQF.tsv
+think it,2,300,"[64, 300, 332]",STQF.tsv
+i be think,3,300,"[281, 300]",STQF.tsv
+quite,1,302,"[27, 38, 102, 302, 319]",STQF.tsv
+but you,2,302,"[118, 121, 151, 302, 316]",STQF.tsv
+think it's,2,304,"[22, 115, 304]",STQF.tsv
+to have,2,304,"[58, 87, 143, 233, 260, 304]",STQF.tsv
+like the,2,304,"[78, 304]",STQF.tsv
+wide,1,304,"[96, 304]",STQF.tsv
+do a,2,304,"[102, 304]",STQF.tsv
+i could,2,304,"[141, 304]",STQF.tsv
+i mean,2,304,"[18, 43, 105, 152, 158, 175, 181, 256, 304, 312, 328]",STQF.tsv
+they're,1,306,"[166, 216, 284, 306]",STQF.tsv
+probably,1,306,"[227, 229, 301, 306]",STQF.tsv
+i'm,1,311,"[5, 34, 62, 64, 73, 84, 85, 94, 98, 102, 136, 256, 311]",STQF.tsv
+around,1,311,"[52, 105, 141, 311]",STQF.tsv
+straight,1,311,"[62, 64, 92, 311]",STQF.tsv
+of a,2,311,"[102, 295, 311]",STQF.tsv
+satin,1,311,"[295, 311]",STQF.tsv
+can't,1,316,"[64, 316]",STQF.tsv
+a bite more,3,316,"[102, 316]",STQF.tsv
+a bite,2,316,"[102, 233, 316]",STQF.tsv
+have them,2,316,"[149, 316]",STQF.tsv
+can't you,2,316,"[260, 316]",STQF.tsv
+and go,2,318,"[305, 318]",STQF.tsv
+sort,1,325,"[3, 102, 105, 166, 261, 274, 294, 312, 325]",STQF.tsv
+that's a,2,327,"[64, 286, 327]",STQF.tsv
+another,1,327,"[64, 266, 281, 327]",STQF.tsv
+fine,1,90,"[71, 90, 92, 237, 327]",STQF.tsv
+huge,1,327,"[166, 327]",STQF.tsv
+i think it,3,332,"[11, 332]",STQF.tsv
+your experience,2,21,"[0, 21]",STQF.tsv
+as be,2,310,"[51, 310]",STQF.tsv
+yes yes yes,3,57,"[41, 57]",STQF.tsv
+builder's,1,67,"[65, 66, 67]",STQF.tsv
+sorry,1,217,"[72, 217, 300]",STQF.tsv
+greeny,1,108,"[105, 108]",STQF.tsv
+look at,2,158,"[110, 131, 158, 160]",STQF.tsv
+and think,2,160,"[62, 110, 160]",STQF.tsv
+it on,2,328,"[92, 112, 328, 330]",STQF.tsv
+get shoe,2,140,"[128, 140]",STQF.tsv
+isn't it,2,181,"[128, 181, 307]",STQF.tsv
+the shoe,2,197,"[148, 197]",STQF.tsv
+wear high heel,3,163,"[158, 163, 181]",STQF.tsv
+you wear,2,197,"[163, 197]",STQF.tsv
+flatties,1,177,"[172, 177]",STQF.tsv
+age,1,188,"[185, 188, 193]",STQF.tsv
+interest,1,204,"[21, 204]",STQF.tsv
+career,1,205,"[204, 205]",STQF.tsv
+finish,1,294,"[226, 294]",STQF.tsv
+at all,2,230,"[164, 219, 230]",STQF.tsv
+and be,2,236,"[43, 77, 236]",STQF.tsv
+very special,2,249,"[185, 249]",STQF.tsv
+and she'll,2,328,"[249, 328]",STQF.tsv
+just a,2,307,"[254, 307]",STQF.tsv
+a sort of,3,312,"[254, 311, 312]",STQF.tsv
+or be that,3,298,"[77, 298]",STQF.tsv
+pair,1,160,"[143, 160, 298]",STQF.tsv
+use to,2,304,"[158, 185, 304]",STQF.tsv
+pleat,1,309,"[307, 309, 310, 312, 318, 320]",STQF.tsv
+be pleat,2,310,"[309, 310]",STQF.tsv
+be they,2,314,"[77, 172, 314]",STQF.tsv
+be fine,2,327,"[71, 327]",STQF.tsv
+mm yeah,2,331,"[279, 294, 331]",STQF.tsv
+must,1,332,"[33, 332]",STQF.tsv
+twenty,1,332,"[209, 332]",STQF.tsv
+get marry in,3,33,"[1, 33]",STQF.tsv
+my daughter's,2,328,"[1, 328]",STQF.tsv
+of the,2,27,"[3, 27, 64, 122]",STQF.tsv
+thing,1,181,"[3, 5, 22, 64, 102, 181, 281, 322]",STQF.tsv
+i i,2,205,"[3, 78, 102, 122, 205, 227, 237]",STQF.tsv
+mother,1,330,"[3, 64, 94, 330]",STQF.tsv
+i've,1,18,"[5, 18, 37, 64, 160, 237, 320, 328]",STQF.tsv
+with my,2,41,"[5, 41]",STQF.tsv
+and i've,2,320,"[5, 320]",STQF.tsv
+'s,1,43,"[9, 34, 43]",STQF.tsv
+to do,2,197,"[11, 22, 78, 102, 197, 281]",STQF.tsv
+be in,2,27,"[13, 27, 43]",STQF.tsv
+lovely,1,91,"[13, 40, 64, 78, 91, 96]",STQF.tsv
+even,1,25,"[22, 25, 43, 62, 64, 256, 290, 295]",STQF.tsv
+a really,2,126,"[22, 126]",STQF.tsv
+it's a,2,181,"[22, 92, 115, 181]",STQF.tsv
+well i,2,205,"[22, 64, 80, 162, 175, 205, 305]",STQF.tsv
+good,1,328,"[22, 64, 73, 115, 134, 328]",STQF.tsv
+set,1,25,"[24, 25]",STQF.tsv
+but erm,2,27,"[24, 27, 54, 58, 62, 88, 102, 179, 276]",STQF.tsv
+one of,2,34,"[27, 34, 92, 121]",STQF.tsv
+be at,2,41,"[34, 41, 87, 207]",STQF.tsv
+of them,2,183,"[34, 92, 183]",STQF.tsv
+hear them,2,38,"[37, 38]",STQF.tsv
+yeah well,2,320,"[38, 106, 305, 320]",STQF.tsv
+be a,2,40,"[21, 32, 40, 60, 64, 73, 92, 117, 126, 205, 233, 266, 284, 290]",STQF.tsv
+be a server,3,40,"[32, 40]",STQF.tsv
+of course,2,40,"[33, 40, 50, 96]",STQF.tsv
+that be a,3,126,"[40, 126]",STQF.tsv
+with the,2,197,"[40, 197]",STQF.tsv
+to and,2,50,"[32, 50]",STQF.tsv
+parent,1,50,"[32, 50]",STQF.tsv
+move,1,50,"[32, 43, 50, 52, 54, 75, 84]",STQF.tsv
+school,1,52,"[41, 52, 54, 197]",STQF.tsv
+still,1,160,"[52, 102, 160, 166, 190, 227]",STQF.tsv
+move to,2,54,"[32, 54]",STQF.tsv
+and that's,2,56,"[18, 56, 64, 102, 229]",STQF.tsv
+that's where,2,56,"[30, 56, 284]",STQF.tsv
+family,1,56,"[30, 41, 56]",STQF.tsv
+live,1,56,"[32, 47, 56]",STQF.tsv
+get marry,2,56,"[33, 56]",STQF.tsv
+erm because,2,58,"[30, 58]",STQF.tsv
+have to,2,158,"[58, 87, 122, 143, 151, 158, 233, 260, 264]",STQF.tsv
+it i,2,181,"[58, 181, 229]",STQF.tsv
+as i say,3,328,"[58, 274, 328]",STQF.tsv
+try,1,328,"[60, 64, 84, 92, 274, 328, 330]",STQF.tsv
+wed,1,62,"[18, 21, 62, 266, 328]",STQF.tsv
+to me,2,62,"[21, 62]",STQF.tsv
+it's go to be,4,62,"[27, 62, 84]",STQF.tsv
+and she be,3,62,"[32, 62]",STQF.tsv
+be what,2,294,"[62, 94, 294]",STQF.tsv
+very good,2,328,"[62, 328]",STQF.tsv
+i say,2,328,"[62, 64, 84, 92, 328]",STQF.tsv
+but my,2,64,"[18, 64]",STQF.tsv
+so she,2,64,"[32, 64, 87]",STQF.tsv
+and she,2,64,"[32, 64]",STQF.tsv
+in fact,2,64,"[32, 64]",STQF.tsv
+would be,2,71,"[64, 71]",STQF.tsv
+i wear,2,105,"[64, 105]",STQF.tsv
+teal,1,105,"[64, 78, 105, 136]",STQF.tsv
+erm that,2,107,"[64, 107]",STQF.tsv
+be the,2,270,"[64, 264, 270, 274, 281]",STQF.tsv
+it as,2,310,"[64, 310]",STQF.tsv
+say no,2,328,"[64, 328]",STQF.tsv
+do anything,2,219,"[73, 219]",STQF.tsv
+yes i,2,312,"[78, 312]",STQF.tsv
+i still,2,160,"[80, 160]",STQF.tsv
+although,1,82,"[32, 82]",STQF.tsv
+erm i,2,84,"[18, 84, 102, 169, 205, 229, 231, 281]",STQF.tsv
+see,1,320,"[85, 320]",STQF.tsv
+thank you,2,103,"[90, 103]",STQF.tsv
+yep,1,94,"[91, 94, 229]",STQF.tsv
+that would be,3,96,"[71, 96]",STQF.tsv
+erm but,2,205,"[96, 117, 205, 261]",STQF.tsv
+go to buy,3,328,"[98, 328]",STQF.tsv
+so so,2,102,"[21, 102]",STQF.tsv
+i would,2,105,"[102, 105, 233, 297, 328]",STQF.tsv
+thing but,2,322,"[102, 322]",STQF.tsv
+so what,2,294,"[104, 294]",STQF.tsv
+be it,2,270,"[109, 270]",STQF.tsv
+to do with,3,197,"[113, 197]",STQF.tsv
+be a really nice,4,126,"[117, 126]",STQF.tsv
+it's one,2,322,"[121, 322]",STQF.tsv
+that i,2,122,"[105, 122, 233]",STQF.tsv
+actually i,2,328,"[124, 328]",STQF.tsv
+yes yeah,2,127,"[41, 120, 127, 179, 262, 269]",STQF.tsv
+oh no,2,330,"[134, 260, 330]",STQF.tsv
+that yeah,2,149,"[107, 149]",STQF.tsv
+don't wear,2,185,"[175, 185]",STQF.tsv
+erm well,2,205,"[175, 205]",STQF.tsv
+you get,2,179,"[140, 179]",STQF.tsv
+no not,2,231,"[164, 219, 231]",STQF.tsv
+that would,2,233,"[71, 233]",STQF.tsv
+not at,2,233,"[164, 219, 233]",STQF.tsv
+i wasn't,2,233,"[205, 233]",STQF.tsv
+to buy,2,328,"[233, 328]",STQF.tsv
+i've get,2,237,"[160, 237]",STQF.tsv
+flatten,1,238,"[237, 238]",STQF.tsv
+as i,2,328,"[237, 328]",STQF.tsv
+just get,2,239,"[18, 239]",STQF.tsv
+it's an,2,270,"[256, 270]",STQF.tsv
+be there,2,264,"[209, 264, 284]",STQF.tsv
+an hour,2,270,"[264, 270]",STQF.tsv
+hour,1,270,"[264, 270]",STQF.tsv
+wed and,2,266,"[18, 266, 328]",STQF.tsv
+those sort of,3,274,"[105, 274]",STQF.tsv
+as if,2,322,"[281, 322]",STQF.tsv
+to be a,3,284,"[21, 284]",STQF.tsv
+one of the,3,284,"[27, 284]",STQF.tsv
+i be a,3,290,"[205, 290]",STQF.tsv
+worry,1,290,"[286, 290]",STQF.tsv
+mm so,2,301,"[207, 301]",STQF.tsv
+mm that's,2,308,"[286, 308]",STQF.tsv
+i imagine,2,319,"[310, 319]",STQF.tsv
+mm i,2,324,"[43, 324]",STQF.tsv

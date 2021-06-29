@@ -1,0 +1,217 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+remember,1,1,"[0, 1, 6, 123]",S3CP.tsv
+i'll,1,69,"[0, 69, 85, 124, 158, 163, 169, 170, 204]",S3CP.tsv
+joke,1,4,"[1, 4]",S3CP.tsv
+simple,1,7,"[4, 7]",S3CP.tsv
+can't,1,61,"[6, 61, 89, 99, 118]",S3CP.tsv
+i can't,2,118,"[6, 99, 118]",S3CP.tsv
+the simple ones be,4,8,"[7, 8]",S3CP.tsv
+best,1,8,"[7, 8, 21]",S3CP.tsv
+get,1,15,"[10, 15, 21, 26, 30, 38, 45, 46, 47, 49, 61, 65, 70, 75, 77, 80, 84, 90, 91, 93, 98, 99, 106, 128, 129, 132, 138, 139, 150, 160, 174, 179, 196, 199, 204, 210, 214, 220]",S3CP.tsv
+do you,2,17,"[10, 17, 20, 21, 25, 36, 45, 120, 122, 141]",S3CP.tsv
+get your,2,75,"[10, 75, 77]",S3CP.tsv
+internet,1,98,"[10, 98, 99, 129, 140, 179, 185, 186]",S3CP.tsv
+how do you,3,141,"[10, 45, 141]",S3CP.tsv
+when you,2,145,"[10, 145]",S3CP.tsv
+yes,1,15,"[12, 15, 32, 62, 102, 121, 222]",S3CP.tsv
+do that,2,57,"[14, 18, 57, 74]",S3CP.tsv
+be the,2,18,"[7, 18, 77]",S3CP.tsv
+well,1,18,"[11, 18, 19, 22, 26, 36, 57, 65, 68, 73, 74, 79, 84, 85, 106, 133, 142, 144, 146, 158, 180, 181, 187, 198, 204]",S3CP.tsv
+go,1,18,"[11, 18, 65, 68, 69, 93, 94, 152, 154, 174, 179, 196, 197]",S3CP.tsv
+know what,2,21,"[18, 20, 21, 25, 61, 62, 104, 219]",S3CP.tsv
+know,1,33,"[18, 20, 22, 33, 34, 61, 62, 65, 103, 104, 138, 139, 158, 162, 183, 194, 206, 207, 219]",S3CP.tsv
+i don't,2,49,"[18, 20, 22, 26, 34, 49, 65, 67, 123, 194]",S3CP.tsv
+that be,2,54,"[18, 54]",S3CP.tsv
+problem,1,59,"[18, 59]",S3CP.tsv
+see,1,61,"[18, 61, 84, 158]",S3CP.tsv
+they do,2,139,"[18, 139, 221]",S3CP.tsv
+do you wanna,3,20,"[17, 20]",S3CP.tsv
+you wanna do,3,20,"[17, 20]",S3CP.tsv
+wanna,1,25,"[20, 25, 55, 129, 131]",S3CP.tsv
+i think,2,46,"[20, 46, 66, 73, 91, 107, 145, 201]",S3CP.tsv
+think,1,49,"[20, 49, 66, 67, 73, 84, 85, 91, 98, 107, 126, 145, 158, 201, 204, 210]",S3CP.tsv
+lot,1,79,"[20, 79, 196, 221]",S3CP.tsv
+what do you,3,120,"[20, 36, 120, 122]",S3CP.tsv
+say,1,51,"[20, 51, 56, 83, 139, 145, 212, 214]",S3CP.tsv
+what do,2,147,"[20, 36, 147]",S3CP.tsv
+be able to,3,22,"[17, 22, 87, 98, 103, 105, 106]",S3CP.tsv
+what i,2,25,"[22, 25, 61, 66, 138]",S3CP.tsv
+want to,2,35,"[22, 35, 73, 80, 87, 103, 138, 152]",S3CP.tsv
+want,1,91,"[22, 26, 34, 35, 73, 78, 80, 87, 91, 92, 103, 138, 152, 160, 169, 181]",S3CP.tsv
+to be able to,4,106,"[22, 87, 103, 106]",S3CP.tsv
+email,1,106,"[22, 106, 112, 129, 148, 150, 156, 186]",S3CP.tsv
+to be,2,157,"[22, 87, 103, 157]",S3CP.tsv
+get one,2,26,"[15, 21, 26, 91, 106, 196]",S3CP.tsv
+smartphone,1,26,"[25, 26]",S3CP.tsv
+sorry,1,39,"[26, 39, 42, 209]",S3CP.tsv
+as well,2,57,"[26, 57, 65, 79, 84, 144, 187]",S3CP.tsv
+no i,2,67,"[26, 67]",S3CP.tsv
+want a,2,91,"[26, 78, 91, 92]",S3CP.tsv
+one,1,92,"[15, 21, 26, 73, 91, 92, 106, 152, 179, 196, 197, 199]",S3CP.tsv
+good,1,30,"[1, 30, 67, 126, 140, 165, 221]",S3CP.tsv
+i'm get,2,30,"[21, 30]",S3CP.tsv
+i'm,1,30,"[21, 30, 65, 111, 117, 135, 138, 146, 148, 180, 209, 212, 214]",S3CP.tsv
+my life,2,49,"[30, 49]",S3CP.tsv
+time,1,49,"[30, 49, 97, 111, 164, 180]",S3CP.tsv
+gonna,1,51,"[30, 51, 65, 91, 139, 196]",S3CP.tsv
+yeah,1,34,"[1, 3, 5, 11, 15, 34, 42, 52, 56, 57, 91, 102, 104, 106, 110, 116, 119, 125, 130, 149, 151, 153, 155, 159, 161, 164, 173, 181, 182, 184, 198, 200, 203, 208, 212, 215, 216, 219]",S3CP.tsv
+yeah i,2,91,"[34, 91]",S3CP.tsv
+i know,2,104,"[34, 104, 138, 219]",S3CP.tsv
+yeah i know,3,219,"[34, 219]",S3CP.tsv
+use,1,36,"[35, 36]",S3CP.tsv
+apps,1,41,"[39, 41, 47, 77]",S3CP.tsv
+make,1,49,"[43, 49]",S3CP.tsv
+you get,2,45,"[15, 21, 45, 46, 75, 77, 106]",S3CP.tsv
+an app,2,45,"[42, 44, 45, 48, 49]",S3CP.tsv
+you get an,3,46,"[45, 46]",S3CP.tsv
+app,1,46,"[45, 46, 48, 77]",S3CP.tsv
+pay for an app,4,49,"[48, 49]",S3CP.tsv
+and you,2,49,"[48, 49, 218]",S3CP.tsv
+pay,1,49,"[48, 49]",S3CP.tsv
+right,1,70,"[50, 70, 72, 84, 103, 152]",S3CP.tsv
+alright,1,53,"[27, 53, 163, 168]",S3CP.tsv
+take,1,59,"[55, 59, 61, 99, 103, 115, 129, 158, 170, 174]",S3CP.tsv
+man,1,177,"[58, 177]",S3CP.tsv
+mean,1,62,"[25, 61, 62, 147, 196, 209, 219]",S3CP.tsv
+know what you mean,4,104,"[62, 104, 219]",S3CP.tsv
+what you,2,118,"[62, 104, 118, 181, 219]",S3CP.tsv
+you mean,2,141,"[62, 141]",S3CP.tsv
+a a,2,65,"[46, 65, 214]",S3CP.tsv
+i've,1,65,"[49, 59, 65, 93, 146, 150, 152, 160]",S3CP.tsv
+phone,1,65,"[57, 65, 70, 72]",S3CP.tsv
+camera,1,65,"[57, 65, 72]",S3CP.tsv
+i have,2,65,"[61, 65]",S3CP.tsv
+you've get,2,106,"[65, 106]",S3CP.tsv
+a bite,2,132,"[65, 132, 204, 209, 214]",S3CP.tsv
+download,1,73,"[46, 73, 87, 102]",S3CP.tsv
+book,1,75,"[73, 75, 87, 101, 129, 160, 183, 199]",S3CP.tsv
+one of,2,106,"[73, 106]",S3CP.tsv
+google,1,78,"[46, 77, 78]",S3CP.tsv
+to get,2,80,"[49, 80, 98, 138]",S3CP.tsv
+on the,2,80,"[57, 80]",S3CP.tsv
+the office,2,81,"[80, 81, 83]",S3CP.tsv
+but i,2,87,"[49, 87, 210, 214]",S3CP.tsv
+gotta,1,93,"[35, 93, 98, 187]",S3CP.tsv
+get it,2,93,"[38, 46, 93]",S3CP.tsv
+get internet,2,99,"[98, 99]",S3CP.tsv
+they're,1,101,"[1, 29, 49, 79, 101, 139, 196]",S3CP.tsv
+on it,2,101,"[17, 101, 220]",S3CP.tsv
+it if,2,101,"[46, 101]",S3CP.tsv
+like,1,103,"[1, 49, 81, 103, 109, 157, 173, 183, 185, 221]",S3CP.tsv
+you know,2,103,"[21, 25, 33, 61, 103, 139, 158, 162, 183, 206, 207]",S3CP.tsv
+things you,2,103,"[39, 103]",S3CP.tsv
+type,1,103,"[39, 103, 185, 187, 189, 190]",S3CP.tsv
+be able to print it,5,106,"[105, 106]",S3CP.tsv
+and then,2,106,"[105, 106]",S3CP.tsv
+print it,2,106,"[105, 106]",S3CP.tsv
+be you,2,109,"[11, 94, 109, 166]",S3CP.tsv
+i be,2,109,"[51, 84, 109, 139, 190]",S3CP.tsv
+cos,1,111,"[29, 33, 56, 61, 84, 111, 174, 196]",S3CP.tsv
+you can,2,51,"[39, 44, 49, 51, 57, 74, 84, 90, 113]",S3CP.tsv
+things,1,113,"[39, 103, 113, 126, 181]",S3CP.tsv
+be thick,2,136,"[117, 135, 136, 137, 139]",S3CP.tsv
+really,1,119,"[21, 39, 61, 112, 119, 196, 209]",S3CP.tsv
+learn,1,175,"[119, 175]",S3CP.tsv
+show you,2,124,"[106, 124]",S3CP.tsv
+i don't think,3,126,"[49, 67, 126, 210]",S3CP.tsv
+to be honest,3,157,"[126, 157]",S3CP.tsv
+do a,2,221,"[126, 221]",S3CP.tsv
+get a,2,128,"[46, 70, 128, 132, 179, 210, 220]",S3CP.tsv
+get a bite,3,132,"[128, 132]",S3CP.tsv
+play,1,131,"[120, 131]",S3CP.tsv
+might,1,133,"[25, 132, 133, 156]",S3CP.tsv
+candy crush saga,3,135,"[132, 135]",S3CP.tsv
+to get rid of,4,138,"[49, 138]",S3CP.tsv
+i i,2,138,"[49, 56, 138, 172]",S3CP.tsv
+thick,1,138,"[136, 137, 138, 139, 214]",S3CP.tsv
+as a,2,140,"[33, 140]",S3CP.tsv
+laptop,1,145,"[140, 145, 157]",S3CP.tsv
+slip in and out,4,145,"[142, 145, 147]",S3CP.tsv
+laptops,1,157,"[146, 157]",S3CP.tsv
+okay,1,148,"[27, 31, 88, 96, 148, 188]",S3CP.tsv
+five,1,156,"[49, 156, 160, 175, 179]",S3CP.tsv
+five minutes,2,175,"[156, 175, 179]",S3CP.tsv
+see what,2,158,"[61, 158]",S3CP.tsv
+it to,2,158,"[106, 112, 158]",S3CP.tsv
+put it,2,162,"[68, 69, 162]",S3CP.tsv
+if you,2,165,"[46, 91, 92, 106, 165, 169]",S3CP.tsv
+you want,2,92,"[35, 92, 169]",S3CP.tsv
+who's,1,205,"[176, 205]",S3CP.tsv
+that's,1,188,"[21, 86, 106, 116, 145, 188, 204, 212]",S3CP.tsv
+something,1,106,"[90, 106, 174, 189, 190]",S3CP.tsv
+type on,2,190,"[187, 190]",S3CP.tsv
+type on something,3,190,"[189, 190]",S3CP.tsv
+question,1,194,"[67, 194]",S3CP.tsv
+it be,2,195,"[35, 67, 106, 195, 204, 209]",S3CP.tsv
+bite,1,195,"[132, 195]",S3CP.tsv
+than that,2,221,"[90, 195, 221]",S3CP.tsv
+go for,2,197,"[196, 197]",S3CP.tsv
+you be,2,204,"[46, 91, 204]",S3CP.tsv
+probably,1,204,"[46, 91, 112, 196, 204]",S3CP.tsv
+you be there,3,204,"[118, 204]",S3CP.tsv
+i mean,2,209,"[25, 61, 209]",S3CP.tsv
+be it,2,209,"[189, 209]",S3CP.tsv
+and the,2,210,"[63, 210]",S3CP.tsv
+find,1,214,"[7, 59, 214]",S3CP.tsv
+four,1,214,"[49, 139, 214]",S3CP.tsv
+put,1,214,"[68, 69, 214, 220]",S3CP.tsv
+actually,1,220,"[56, 67, 220]",S3CP.tsv
+a lot,2,220,"[79, 196, 220, 221]",S3CP.tsv
+come,1,139,"[14, 139, 160, 197]",S3CP.tsv
+well you,2,74,"[18, 74]",S3CP.tsv
+want a if,3,92,"[26, 92]",S3CP.tsv
+get to,2,174,"[30, 65, 174, 179]",S3CP.tsv
+well what,2,181,"[36, 181]",S3CP.tsv
+buy,1,65,"[51, 65]",S3CP.tsv
+a phone,2,70,"[65, 70]",S3CP.tsv
+age,1,179,"[65, 179]",S3CP.tsv
+also,1,73,"[72, 73, 140, 160, 214]",S3CP.tsv
+no no,2,90,"[83, 90, 169]",S3CP.tsv
+still,1,99,"[74, 99, 101]",S3CP.tsv
+you know like,3,183,"[103, 183]",S3CP.tsv
+document,1,185,"[103, 185]",S3CP.tsv
+but be,2,109,"[66, 109]",S3CP.tsv
+but you can,3,113,"[90, 113]",S3CP.tsv
+the fear,2,139,"[138, 139]",S3CP.tsv
+if you want,3,169,"[92, 169]",S3CP.tsv
+tea,1,170,"[40, 170]",S3CP.tsv
+thing,1,179,"[170, 179]",S3CP.tsv
+internet and,2,186,"[185, 186]",S3CP.tsv
+smaller,1,190,"[74, 190, 195]",S3CP.tsv
+something smaller,2,190,"[90, 190]",S3CP.tsv
+on something,2,189,"[174, 189, 190]",S3CP.tsv
+fire,1,194,"[38, 40, 194]",S3CP.tsv
+smaller than that,3,195,"[90, 195]",S3CP.tsv
+but it,2,209,"[72, 209]",S3CP.tsv
+he's get,2,210,"[174, 210, 214]",S3CP.tsv
+he's,1,210,"[174, 179, 210, 214]",S3CP.tsv
+help,1,210,"[179, 210]",S3CP.tsv
+boundaries,1,212,"[211, 212]",S3CP.tsv
+i say,2,214,"[56, 214]",S3CP.tsv
+you could,2,218,"[70, 218]",S3CP.tsv
+from and,2,220,"[139, 220]",S3CP.tsv
+er well,2,74,"[11, 74]",S3CP.tsv
+it for,2,179,"[35, 179]",S3CP.tsv
+from the,2,46,"[38, 40, 46, 77]",S3CP.tsv
+tablet,1,174,"[46, 91, 174, 179]",S3CP.tsv
+keep,1,47,"[40, 47]",S3CP.tsv
+a camera,2,72,"[57, 72]",S3CP.tsv
+do that on,3,74,"[57, 74]",S3CP.tsv
+on a,2,74,"[57, 74]",S3CP.tsv
+screen,1,70,"[61, 70, 187]",S3CP.tsv
+camera's,1,66,"[63, 66]",S3CP.tsv
+put it on,3,69,"[68, 69]",S3CP.tsv
+you can get,3,90,"[84, 90]",S3CP.tsv
+be gonna,2,91,"[51, 91, 139]",S3CP.tsv
+as you,2,139,"[98, 139]",S3CP.tsv
+call,1,106,"[72, 106]",S3CP.tsv
+you need to,3,181,"[106, 181]",S3CP.tsv
+it's it's,2,139,"[116, 139]",S3CP.tsv
+it's not be thick,4,137,"[136, 137]",S3CP.tsv
+it's just,2,139,"[136, 139]",S3CP.tsv
+you say,2,145,"[139, 145]",S3CP.tsv
+do anything,2,173,"[171, 173]",S3CP.tsv
+in five minutes,3,179,"[175, 179]",S3CP.tsv
+teach,1,179,"[175, 179]",S3CP.tsv
+be they,2,202,"[193, 202]",S3CP.tsv
+and it's,2,196,"[72, 196]",S3CP.tsv

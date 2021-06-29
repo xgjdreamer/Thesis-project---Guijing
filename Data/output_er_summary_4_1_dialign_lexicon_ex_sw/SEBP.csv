@@ -1,0 +1,538 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+i'm,1,3,"[0, 3, 17, 33, 51, 133, 147, 154, 186, 193, 219, 220, 225, 288, 295, 306, 331]",SEBP.tsv
+all the,2,162,"[0, 162, 242, 351]",SEBP.tsv
+the erm,2,162,"[0, 162, 205]",SEBP.tsv
+stuff,1,162,"[0, 2, 162, 171, 209, 227, 240]",SEBP.tsv
+talk about,2,128,"[0, 128, 178, 186, 332]",SEBP.tsv
+and i,2,51,"[0, 51, 192, 219, 266, 298]",SEBP.tsv
+when i,2,313,"[0, 313]",SEBP.tsv
+in the,2,45,"[2, 45, 111, 158, 164, 240]",SEBP.tsv
+and it,2,54,"[2, 54, 176, 178]",SEBP.tsv
+and then,2,244,"[2, 111, 244, 305, 323]",SEBP.tsv
+go,1,33,"[4, 6, 9, 33, 93, 96, 151, 161, 168, 171, 186, 188, 193, 225, 255, 272, 275, 279, 281, 283, 286, 288, 295, 299, 312, 314, 321, 379, 380]",SEBP.tsv
+go to,2,6,"[4, 6, 9, 96, 151, 161, 272, 275, 281, 283, 295, 379, 380]",SEBP.tsv
+do you,2,162,"[5, 76, 142, 162, 338, 371]",SEBP.tsv
+want,1,148,"[5, 89, 142, 148, 150, 151, 162, 171, 176, 219, 240, 261, 264, 266, 320]",SEBP.tsv
+you go,2,93,"[9, 93]",SEBP.tsv
+fuck,1,18,"[14, 18, 22, 24, 32, 55, 61, 77, 82, 106, 126, 130, 132, 138, 155, 164, 181, 186, 213, 306, 309, 351, 352, 364]",SEBP.tsv
+what be,2,166,"[14, 52, 166, 314, 331, 353]",SEBP.tsv
+be do,2,192,"[14, 192, 241, 370]",SEBP.tsv
+do that,2,179,"[14, 96, 111, 132, 179, 181, 240, 277, 288, 343]",SEBP.tsv
+get,1,17,"[6, 8, 17, 40, 58, 60, 77, 81, 82, 96, 99, 102, 109, 111, 151, 156, 157, 161, 164, 168, 169, 171, 178, 188, 190, 192, 193, 201, 205, 219, 225, 267, 309, 320, 351, 364, 369, 377, 381, 382, 385]",SEBP.tsv
+know,1,111,"[6, 19, 111, 113, 147, 155, 158, 171, 174, 178, 183, 185, 191, 229, 232, 240, 241, 242, 261, 266, 278, 295, 314, 377]",SEBP.tsv
+i know,2,19,"[6, 19, 113, 155, 183]",SEBP.tsv
+help,1,178,"[21, 161, 169, 178, 181]",SEBP.tsv
+he's,1,40,"[27, 34, 36, 39, 40, 44, 46, 60, 65, 66, 70, 76, 78, 81, 82, 90, 96, 99, 237, 240, 248, 252, 255, 257, 267, 356, 362, 364, 374]",SEBP.tsv
+say,1,95,"[34, 95, 108, 123, 147, 149, 150, 154, 157, 186, 240, 260, 279, 290, 295, 297, 323, 353, 372]",SEBP.tsv
+what he's,2,248,"[34, 248, 252, 362]",SEBP.tsv
+look,1,43,"[34, 43, 48, 65, 83, 85, 90, 92, 94, 298, 316]",SEBP.tsv
+come,1,37,"[36, 37, 45, 51, 64, 65, 81, 166, 186, 222, 242]",SEBP.tsv
+alright,1,226,"[36, 226]",SEBP.tsv
+you don't,2,95,"[36, 95, 150, 152, 258, 288]",SEBP.tsv
+cos,1,63,"[38, 63, 178, 193, 215, 216, 218, 224, 230, 237, 245, 247, 260, 267, 286, 305, 327]",SEBP.tsv
+cos it's,2,230,"[38, 230]",SEBP.tsv
+it's a,2,69,"[38, 69, 149, 295, 305, 371]",SEBP.tsv
+like,1,45,"[41, 45, 51, 54, 55, 57, 66, 68, 73, 83, 107, 108, 133, 138, 145, 149, 151, 152, 156, 158, 161, 162, 164, 166, 171, 176, 178, 185, 186, 187, 189, 191, 192, 193, 201, 202, 209, 212, 215, 216, 219, 220, 222, 224, 233, 234, 238, 240, 242, 249, 252, 254, 256, 258, 260, 264, 269, 270, 272, 278, 279, 281, 284, 285, 286, 288, 302, 304, 306, 323, 331, 341, 343]",SEBP.tsv
+like you,2,258,"[41, 149, 258, 288]",SEBP.tsv
+yeah,1,48,"[1, 48, 51, 71, 72, 74, 87, 99, 100, 104, 113, 116, 126, 127, 134, 135, 137, 140, 142, 144, 145, 146, 151, 153, 158, 163, 172, 180, 182, 186, 188, 192, 197, 199, 201, 206, 214, 215, 217, 219, 221, 223, 224, 227, 233, 239, 240, 241, 250, 253, 256, 265, 271, 273, 275, 276, 278, 279, 280, 283, 284, 287, 293, 300, 303, 304, 306, 307, 308, 311, 318, 329, 330, 343, 348, 350, 359, 366, 371, 375, 378, 379]",SEBP.tsv
+be it,2,200,"[52, 200, 273]",SEBP.tsv
+it get,2,178,"[58, 178]",SEBP.tsv
+one,1,60,"[20, 60, 102, 104, 162, 164, 219, 224, 251, 272, 284, 294, 298, 305]",SEBP.tsv
+paedophile,1,40,"[20, 40, 64, 65, 83, 143, 147, 150, 151, 161, 164, 166, 272, 376]",SEBP.tsv
+a paedophile,2,83,"[64, 65, 83, 143, 147, 151, 161, 164, 166, 272, 376]",SEBP.tsv
+there's,1,108,"[64, 65, 108, 193, 270]",SEBP.tsv
+hamster,1,76,"[53, 69, 76, 77, 88, 103]",SEBP.tsv
+think,1,76,"[26, 40, 76, 127, 160, 178, 186, 202, 211, 222, 242, 256, 270, 274, 285, 296, 341, 371, 376]",SEBP.tsv
+oh my god,3,127,"[83, 127, 131, 132]",SEBP.tsv
+even,1,112,"[83, 86, 112, 164, 284, 295]",SEBP.tsv
+like a,2,83,"[68, 83, 178, 212]",SEBP.tsv
+you can,2,150,"[89, 150, 186, 191, 193, 232]",SEBP.tsv
+shit,1,96,"[45, 96, 101, 209, 210, 218, 309, 319]",SEBP.tsv
+be he,2,96,"[47, 96, 237, 279, 353]",SEBP.tsv
+back,1,98,"[81, 98, 168]",SEBP.tsv
+put,1,98,"[71, 98, 111, 138, 205, 227, 245, 258, 273, 285, 300, 302, 303, 369]",SEBP.tsv
+yeah but,2,142,"[104, 142, 145, 146, 186, 219, 221, 279, 300, 371]",SEBP.tsv
+do it,2,137,"[106, 137, 151, 157, 158, 192, 224, 245, 278, 283, 369]",SEBP.tsv
+i don't,2,185,"[106, 185, 219, 256, 279, 295, 296, 314, 351, 357]",SEBP.tsv
+money,1,244,"[106, 244, 245, 351]",SEBP.tsv
+but the,2,158,"[111, 145, 157, 158, 245, 254, 278]",SEBP.tsv
+make,1,158,"[111, 145, 158, 198, 201, 288, 289, 291, 306, 328]",SEBP.tsv
+they get,2,164,"[111, 151, 164, 168, 171, 381]",SEBP.tsv
+people,1,154,"[111, 154, 157, 161, 164, 176, 178, 201, 218, 245, 251, 270, 284]",SEBP.tsv
+they're,1,111,"[107, 111, 149, 151, 218, 267, 275, 278]",SEBP.tsv
+thing,1,284,"[111, 138, 145, 151, 186, 237, 245, 247, 284, 371]",SEBP.tsv
+on the,2,286,"[111, 286]",SEBP.tsv
+sense,1,309,"[111, 309]",SEBP.tsv
+sex,1,338,"[111, 338]",SEBP.tsv
+well,1,115,"[77, 108, 114, 115, 151, 157, 161, 166, 219, 237, 247, 294, 295, 369, 374, 377, 382]",SEBP.tsv
+as well,2,294,"[115, 151, 237, 247, 294, 382]",SEBP.tsv
+would,1,158,"[114, 117, 132, 151, 158, 181, 186, 222, 260, 261, 357]",SEBP.tsv
+please,1,292,"[120, 292]",SEBP.tsv
+of that,2,127,"[124, 127, 157, 161, 178, 184]",SEBP.tsv
+house,1,124,"[10, 124, 229, 294]",SEBP.tsv
+dad,1,143,"[51, 125, 143, 147, 150, 151, 155, 219, 260]",SEBP.tsv
+dad be,2,125,"[51, 125, 147, 260]",SEBP.tsv
+what the,2,158,"[130, 132, 158, 186, 269, 360]",SEBP.tsv
+six,1,219,"[130, 219]",SEBP.tsv
+law,1,174,"[136, 174]",SEBP.tsv
+the law,2,278,"[136, 278]",SEBP.tsv
+though,1,138,"[81, 131, 138, 149, 153, 178, 341]",SEBP.tsv
+he be,2,219,"[138, 219, 241, 264, 323, 365, 367, 370, 376]",SEBP.tsv
+like he,2,224,"[138, 224, 240]",SEBP.tsv
+for this,2,240,"[138, 240]",SEBP.tsv
+it on the,3,286,"[138, 286]",SEBP.tsv
+internet,1,286,"[138, 285, 286]",SEBP.tsv
+be to,2,288,"[138, 275, 285, 288]",SEBP.tsv
+put it,2,303,"[138, 245, 273, 285, 300, 302, 303]",SEBP.tsv
+i do,2,256,"[140, 256, 301]",SEBP.tsv
+that's,1,192,"[145, 192, 207, 209, 223, 255, 272, 290, 291, 296, 306]",SEBP.tsv
+choice,1,238,"[145, 151, 157, 238]",SEBP.tsv
+like that's not,3,272,"[145, 272]",SEBP.tsv
+that's not,2,296,"[145, 296]",SEBP.tsv
+to make,2,328,"[145, 328]",SEBP.tsv
+or like,2,156,"[149, 156]",SEBP.tsv
+be the,2,149,"[146, 149, 151, 158, 210, 223]",SEBP.tsv
+like i,2,149,"[51, 149, 192, 252, 260]",SEBP.tsv
+whatever,1,222,"[149, 193, 222, 229, 264, 270, 275, 279]",SEBP.tsv
+can't,1,149,"[108, 110, 149, 157, 244, 245, 314]",SEBP.tsv
+say like i,3,260,"[149, 260]",SEBP.tsv
+away,1,151,"[51, 62, 118, 151, 157]",SEBP.tsv
+a paedophile dad,3,151,"[143, 151]",SEBP.tsv
+my dad,2,151,"[147, 151, 219, 260]",SEBP.tsv
+grow up,2,151,"[147, 151, 272]",SEBP.tsv
+to ask,2,156,"[151, 156]",SEBP.tsv
+he do,2,162,"[151, 162, 164]",SEBP.tsv
+like they,2,164,"[151, 164]",SEBP.tsv
+have a,2,164,"[151, 164, 171, 191, 292]",SEBP.tsv
+it be,2,151,"[6, 26, 53, 54, 114, 146, 151, 164, 171, 176, 178, 193, 201, 202, 210, 240, 273, 275, 313, 341, 357]",SEBP.tsv
+them that,2,166,"[151, 166]",SEBP.tsv
+about it,2,178,"[151, 178, 193, 255]",SEBP.tsv
+talk,1,178,"[0, 151, 178, 186, 321, 327, 332]",SEBP.tsv
+yeah no,2,192,"[151, 192]",SEBP.tsv
+have that,2,219,"[151, 219]",SEBP.tsv
+take,1,151,"[47, 62, 151, 157, 224, 264]",SEBP.tsv
+either,1,228,"[151, 228]",SEBP.tsv
+no but,2,151,"[150, 151, 187, 189, 238, 285]",SEBP.tsv
+that be,2,151,"[49, 151, 154, 229, 238, 254, 278, 284, 285, 317, 340, 370]",SEBP.tsv
+and yeah,2,240,"[151, 240, 275]",SEBP.tsv
+but like,2,242,"[151, 187, 189, 242, 252]",SEBP.tsv
+don't have,2,151,"[95, 151, 258]",SEBP.tsv
+be able to,3,151,"[108, 137, 151, 260]",SEBP.tsv
+i would,2,260,"[151, 260]",SEBP.tsv
+i wouldn't want,3,151,"[148, 151, 264, 266]",SEBP.tsv
+be take,2,264,"[151, 157, 264]",SEBP.tsv
+to be,2,266,"[151, 266, 272, 275]",SEBP.tsv
+and the,2,270,"[151, 270, 277, 278]",SEBP.tsv
+hear,1,151,"[51, 151, 152, 310, 313]",SEBP.tsv
+no i,2,155,"[75, 155, 219, 228]",SEBP.tsv
+kill,1,155,"[118, 155, 286, 288]",SEBP.tsv
+the fact,2,158,"[155, 158, 254]",SEBP.tsv
+i know but,3,183,"[155, 183]",SEBP.tsv
+but it's,2,256,"[155, 186, 256]",SEBP.tsv
+they'll never get,3,157,"[156, 157]",SEBP.tsv
+closure,1,157,"[156, 157]",SEBP.tsv
+they'll,1,157,"[156, 157]",SEBP.tsv
+ask,1,157,"[63, 156, 157]",SEBP.tsv
+but the fact of the matter be,7,158,"[157, 158, 254]",SEBP.tsv
+reason,1,158,"[157, 158, 278]",SEBP.tsv
+of the,2,157,"[45, 157, 158, 176, 254, 267, 306]",SEBP.tsv
+exactly,1,160,"[157, 160, 192, 224, 270, 290, 370]",SEBP.tsv
+matter,1,288,"[157, 288]",SEBP.tsv
+be a paedophile,3,161,"[147, 161, 166, 376]",SEBP.tsv
+groom,1,168,"[110, 161, 168]",SEBP.tsv
+these people,2,178,"[161, 178]",SEBP.tsv
+be a,2,147,"[26, 114, 147, 161, 166, 171, 184, 193, 240, 260, 294, 376]",SEBP.tsv
+you're go to,3,272,"[161, 272]",SEBP.tsv
+they should,2,169,"[108, 169, 242]",SEBP.tsv
+want to,2,171,"[162, 171, 176, 219, 261, 264, 266, 320]",SEBP.tsv
+they have a,3,171,"[164, 171]",SEBP.tsv
+and they,2,171,"[108, 164, 171, 178, 192, 244]",SEBP.tsv
+they have,2,171,"[164, 171, 178, 218]",SEBP.tsv
+because they,2,171,"[168, 171]",SEBP.tsv
+didn't want to,3,176,"[171, 176]",SEBP.tsv
+psychological problem,2,178,"[171, 178, 193]",SEBP.tsv
+problem,1,178,"[171, 178]",SEBP.tsv
+wrong,1,178,"[171, 178, 229, 240, 241, 255, 273, 275, 285, 288]",SEBP.tsv
+they be,2,192,"[171, 192, 212, 359]",SEBP.tsv
+feel,1,192,"[171, 192]",SEBP.tsv
+around,1,171,"[142, 150, 171, 215, 258, 279]",SEBP.tsv
+like that,2,219,"[171, 209, 219, 238, 254, 284, 285, 304, 306]",SEBP.tsv
+they want,2,240,"[171, 240]",SEBP.tsv
+children,1,268,"[171, 186, 268]",SEBP.tsv
+be there,2,278,"[171, 278, 323]",SEBP.tsv
+go and,2,286,"[171, 193, 225, 286, 288]",SEBP.tsv
+basically,1,213,"[171, 209, 213, 372, 376]",SEBP.tsv
+they didn't,2,376,"[171, 376]",SEBP.tsv
+could,1,173,"[51, 81, 118, 173, 178, 184, 201, 221, 224, 260]",SEBP.tsv
+never,1,157,"[108, 156, 157, 173, 186, 237]",SEBP.tsv
+act on it,3,176,"[173, 176, 178, 192]",SEBP.tsv
+anything,1,173,"[71, 173, 264, 285, 382]",SEBP.tsv
+face,1,184,"[20, 43, 158, 184, 191, 240]",SEBP.tsv
+with that,2,184,"[147, 184, 260, 273]",SEBP.tsv
+and be,2,184,"[168, 184, 266]",SEBP.tsv
+part of,2,184,"[176, 184]",SEBP.tsv
+facebook,1,184,"[176, 184, 191]",SEBP.tsv
+group,1,184,"[176, 178, 184, 191]",SEBP.tsv
+part of that group,4,184,"[178, 184]",SEBP.tsv
+use,1,184,"[178, 184]",SEBP.tsv
+if i,2,186,"[147, 186]",SEBP.tsv
+like what,2,186,"[107, 166, 186, 286, 331]",SEBP.tsv
+be like,2,186,"[176, 178, 186, 202, 212, 219, 238, 252, 323, 341]",SEBP.tsv
+thoughts,1,186,"[176, 186]",SEBP.tsv
+talk about it,3,186,"[178, 186]",SEBP.tsv
+let's,1,188,"[186, 188]",SEBP.tsv
+it's not,2,192,"[186, 191, 192, 203, 230, 242, 256, 267, 288]",SEBP.tsv
+think the,2,211,"[186, 211]",SEBP.tsv
+be like yeah,3,219,"[186, 219]",SEBP.tsv
+like if,2,240,"[186, 240]",SEBP.tsv
+like yeah,2,256,"[186, 256]",SEBP.tsv
+up to,2,272,"[186, 272, 277]",SEBP.tsv
+if someone,2,286,"[186, 286]",SEBP.tsv
+to you,2,288,"[186, 288]",SEBP.tsv
+someone,1,288,"[186, 288]",SEBP.tsv
+not face,2,191,"[158, 191]",SEBP.tsv
+you know,2,191,"[174, 191, 242]",SEBP.tsv
+like it's,2,191,"[178, 191, 192, 201, 242, 256]",SEBP.tsv
+like it's not,3,256,"[191, 256]",SEBP.tsv
+see,1,193,"[71, 75, 79, 80, 193, 269, 286, 338, 344, 364]",SEBP.tsv
+get to,2,193,"[156, 164, 193, 364]",SEBP.tsv
+cos it,2,224,"[193, 224]",SEBP.tsv
+can do,2,240,"[193, 240]",SEBP.tsv
+for a,2,278,"[193, 278]",SEBP.tsv
+you've get,2,309,"[193, 309]",SEBP.tsv
+five,1,199,"[194, 198, 199, 204, 205, 221, 222, 295]",SEBP.tsv
+cheaper,1,224,"[199, 201, 203, 224]",SEBP.tsv
+so it's like,3,201,"[158, 201]",SEBP.tsv
+it's like,2,201,"[68, 152, 158, 166, 178, 201, 270, 272, 331]",SEBP.tsv
+people who,2,201,"[176, 178, 201, 251, 270]",SEBP.tsv
+it's like it's,3,201,"[178, 201]",SEBP.tsv
+like their,2,201,"[178, 201]",SEBP.tsv
+an iphone,2,219,"[201, 219, 221, 222]",SEBP.tsv
+iphone,1,219,"[201, 219, 222]",SEBP.tsv
+good,1,211,"[203, 211, 212, 218, 328, 371]",SEBP.tsv
+ones,1,278,"[203, 278]",SEBP.tsv
+on it,2,205,"[176, 178, 192, 205]",SEBP.tsv
+five s,2,205,"[204, 205, 222]",SEBP.tsv
+touch,1,305,"[205, 305]",SEBP.tsv
+stuff like,2,209,"[162, 209]",SEBP.tsv
+i mean,2,212,"[164, 212, 252]",SEBP.tsv
+be like a,3,212,"[178, 212]",SEBP.tsv
+but i,2,212,"[66, 212, 219, 285]",SEBP.tsv
+phone,1,213,"[212, 213, 216, 219]",SEBP.tsv
+mean,1,256,"[164, 212, 252, 256, 377, 379]",SEBP.tsv
+cos the,2,305,"[216, 247, 305]",SEBP.tsv
+cos people,2,218,"[178, 218, 245]",SEBP.tsv
+cameras,1,218,"[211, 218]",SEBP.tsv
+have to,2,218,"[95, 218, 258]",SEBP.tsv
+a good,2,328,"[218, 328, 371]",SEBP.tsv
+he could,2,221,"[118, 221, 224]",SEBP.tsv
+upgrade,1,221,"[219, 221]",SEBP.tsv
+an iphone five,3,222,"[221, 222]",SEBP.tsv
+upgrade to,2,222,"[221, 222]",SEBP.tsv
+but he,2,240,"[221, 240]",SEBP.tsv
+the only,2,223,"[158, 223]",SEBP.tsv
+get a,2,225,"[77, 81, 82, 188, 190, 225, 377]",SEBP.tsv
+i'm just,2,225,"[220, 225]",SEBP.tsv
+milk,1,292,"[225, 292]",SEBP.tsv
+on facebook,2,227,"[176, 227, 269]",SEBP.tsv
+really,1,227,"[49, 66, 178, 192, 211, 219, 227, 228, 238, 252, 273, 324, 342, 349]",SEBP.tsv
+i i,2,227,"[183, 211, 227, 256]",SEBP.tsv
+but yeah,2,227,"[224, 227, 306]",SEBP.tsv
+i really don't,3,227,"[66, 227, 228, 273]",SEBP.tsv
+agree with,2,227,"[139, 227, 248, 252, 253, 257, 273]",SEBP.tsv
+i really,2,252,"[66, 227, 252, 273]",SEBP.tsv
+agree,1,256,"[139, 227, 253, 256, 257, 273]",SEBP.tsv
+know that,2,229,"[147, 178, 229, 240, 241]",SEBP.tsv
+it's it's,2,229,"[192, 229, 242]",SEBP.tsv
+for it,2,229,"[192, 229, 245]",SEBP.tsv
+or whatever,2,229,"[222, 229, 264, 270, 275]",SEBP.tsv
+woman,1,338,"[229, 338, 344, 346]",SEBP.tsv
+yeah like,2,343,"[233, 343]",SEBP.tsv
+for the,2,235,"[166, 235]",SEBP.tsv
+it's dangerous,2,235,"[232, 235]",SEBP.tsv
+dangerous,1,240,"[235, 240]",SEBP.tsv
+bring,1,256,"[237, 256]",SEBP.tsv
+to justice,2,264,"[237, 264]",SEBP.tsv
+he know,2,241,"[158, 241]",SEBP.tsv
+he know that,3,241,"[240, 241]",SEBP.tsv
+arrest them,2,244,"[243, 244, 256]",SEBP.tsv
+can't do,2,245,"[110, 244, 245]",SEBP.tsv
+it if,2,260,"[245, 260]",SEBP.tsv
+it on the internet,4,286,"[245, 273, 285, 286]",SEBP.tsv
+all of,2,249,"[178, 249, 267]",SEBP.tsv
+of them,2,249,"[178, 215, 249, 251, 361]",SEBP.tsv
+be part of,3,251,"[176, 178, 251]",SEBP.tsv
+i agree with,3,253,"[248, 253]",SEBP.tsv
+with it,2,260,"[253, 260, 264, 273, 278, 286]",SEBP.tsv
+way,1,158,"[66, 158, 192, 224, 255, 328]",SEBP.tsv
+i agree with what he's do,6,257,"[248, 257]",SEBP.tsv
+agree with what he's do,5,257,"[252, 257]",SEBP.tsv
+everyone,1,259,"[258, 259, 269]",SEBP.tsv
+wouldn't want to,3,264,"[261, 264, 266]",SEBP.tsv
+cos it's not,3,267,"[230, 267]",SEBP.tsv
+life,1,267,"[232, 252, 258, 267, 269]",SEBP.tsv
+paedophile's,1,267,"[240, 267]",SEBP.tsv
+the paedophile's,2,267,"[266, 267]",SEBP.tsv
+mm cos,2,286,"[267, 286]",SEBP.tsv
+what if,2,286,"[267, 286]",SEBP.tsv
+it's all,2,299,"[267, 299, 305]",SEBP.tsv
+and like,2,269,"[164, 178, 192, 256, 269, 278]",SEBP.tsv
+your dad's a,3,272,"[269, 272]",SEBP.tsv
+dad's,1,272,"[269, 272]",SEBP.tsv
+see it on,3,286,"[269, 286]",SEBP.tsv
+be because,2,275,"[158, 275]",SEBP.tsv
+prosecute,1,275,"[108, 178, 192, 275, 358, 359]",SEBP.tsv
+be in,2,284,"[275, 284]",SEBP.tsv
+happen,1,275,"[112, 275, 298]",SEBP.tsv
+be that,2,275,"[121, 206, 275, 376]",SEBP.tsv
+to do,2,277,"[137, 162, 264, 277, 278, 283, 288, 343]",SEBP.tsv
+the police,2,277,"[107, 242, 244, 277, 278]",SEBP.tsv
+to do that,3,288,"[277, 288]",SEBP.tsv
+to to do that,4,343,"[277, 343]",SEBP.tsv
+hunter,1,279,"[20, 279]",SEBP.tsv
+that he,2,279,"[158, 279, 376, 377]",SEBP.tsv
+like why,2,279,"[158, 279]",SEBP.tsv
+let,1,279,"[168, 279]",SEBP.tsv
+us,1,279,"[224, 279, 282, 321]",SEBP.tsv
+what i,2,279,"[242, 279]",SEBP.tsv
+train,1,279,"[278, 279]",SEBP.tsv
+if they,2,279,"[137, 279, 358, 359]",SEBP.tsv
+show,1,281,"[20, 281, 283]",SEBP.tsv
+to do it,3,283,"[137, 278, 283]",SEBP.tsv
+how to,2,283,"[278, 283]",SEBP.tsv
+i think,2,178,"[160, 178, 211, 222, 242, 274, 285]",SEBP.tsv
+i think if,3,285,"[222, 285]",SEBP.tsv
+like that be,3,285,"[238, 254, 285]",SEBP.tsv
+world,1,289,"[164, 289]",SEBP.tsv
+yeah oh,2,293,"[127, 293]",SEBP.tsv
+clover,1,296,"[293, 296]",SEBP.tsv
+four leaf clover,3,305,"[293, 305]",SEBP.tsv
+leaf,1,305,"[293, 305]",SEBP.tsv
+actually,1,295,"[81, 139, 162, 224, 242, 295, 358]",SEBP.tsv
+a clover,2,296,"[295, 296]",SEBP.tsv
+say that,2,297,"[95, 108, 147, 297, 372]",SEBP.tsv
+it in,2,300,"[158, 300]",SEBP.tsv
+should have,2,300,"[242, 300]",SEBP.tsv
+erm the,2,302,"[219, 302]",SEBP.tsv
+keep,1,302,"[219, 302]",SEBP.tsv
+it it,2,302,"[298, 302]",SEBP.tsv
+i be,2,306,"[147, 219, 260, 306, 313, 323]",SEBP.tsv
+like fuck,2,306,"[164, 306]",SEBP.tsv
+person,1,306,"[185, 232, 242, 306]",SEBP.tsv
+yeah that's,2,306,"[192, 306]",SEBP.tsv
+i'm just like,3,306,"[220, 306]",SEBP.tsv
+and that,2,306,"[6, 8, 240, 244, 306]",SEBP.tsv
+not you,2,306,"[242, 306]",SEBP.tsv
+than that,2,309,"[306, 309]",SEBP.tsv
+hear the,2,313,"[310, 313]",SEBP.tsv
+know what,2,314,"[158, 242, 314]",SEBP.tsv
+i don't know,3,314,"[185, 314]",SEBP.tsv
+what's,1,315,"[123, 178, 204, 315]",SEBP.tsv
+i want to,3,320,"[219, 320]",SEBP.tsv
+i want,2,320,"[219, 320]",SEBP.tsv
+i love,2,333,"[290, 333, 334]",SEBP.tsv
+dog,1,338,"[333, 334, 338, 340, 343]",SEBP.tsv
+see that,2,344,"[338, 344]",SEBP.tsv
+teacher,1,360,"[354, 356, 360]",SEBP.tsv
+be for,2,359,"[176, 357, 359]",SEBP.tsv
+he's get,2,364,"[81, 82, 99, 364]",SEBP.tsv
+the evidence,2,377,"[176, 377]",SEBP.tsv
+me to,2,25,"[5, 25]",SEBP.tsv
+round,1,81,"[5, 81, 149]",SEBP.tsv
+in there,2,40,"[17, 40]",SEBP.tsv
+he's so,2,65,"[27, 39, 44, 46, 60, 65, 70, 90]",SEBP.tsv
+ah look,2,85,"[34, 85]",SEBP.tsv
+gonna,1,36,"[33, 36, 60, 78, 96, 149, 151, 155, 279]",SEBP.tsv
+eat,1,48,"[40, 48]",SEBP.tsv
+look at him,3,48,"[43, 48, 85, 90, 94]",SEBP.tsv
+at him,2,97,"[48, 90, 94, 97]",SEBP.tsv
+look at,2,316,"[48, 90, 92, 94, 316]",SEBP.tsv
+faster,1,59,"[58, 59, 60]",SEBP.tsv
+he get,2,369,"[60, 351, 369, 377]",SEBP.tsv
+there's a paedophile come,4,65,"[64, 65]",SEBP.tsv
+a hamster,2,76,"[69, 76, 103]",SEBP.tsv
+as a,2,365,"[76, 365]",SEBP.tsv
+eleven,1,83,"[16, 18, 83]",SEBP.tsv
+oh my,2,83,"[18, 83, 127, 131, 132]",SEBP.tsv
+eleven year old,3,83,"[81, 83]",SEBP.tsv
+year old,2,114,"[83, 114, 132]",SEBP.tsv
+jump,1,86,"[51, 86]",SEBP.tsv
+if you,2,382,"[89, 186, 285, 302, 382]",SEBP.tsv
+ha ha,2,90,"[33, 90]",SEBP.tsv
+ah look at him,4,90,"[85, 90, 94]",SEBP.tsv
+finger,1,365,"[92, 365]",SEBP.tsv
+bottle of wine,3,94,"[81, 94]",SEBP.tsv
+go to get,3,96,"[6, 96]",SEBP.tsv
+to get,2,385,"[96, 320, 385]",SEBP.tsv
+fast,1,98,"[65, 98]",SEBP.tsv
+should be,2,108,"[106, 108]",SEBP.tsv
+care,1,154,"[106, 154, 369]",SEBP.tsv
+have you,2,109,"[71, 109]",SEBP.tsv
+you get,2,382,"[109, 193, 382]",SEBP.tsv
+get put,2,369,"[111, 369]",SEBP.tsv
+disable,1,115,"[16, 18, 115]",SEBP.tsv
+she would have be rap,5,117,"[114, 117]",SEBP.tsv
+be rap,2,374,"[117, 374]",SEBP.tsv
+the fuck,2,181,"[130, 132, 138, 181, 186, 351]",SEBP.tsv
+would you do that,4,181,"[132, 181]",SEBP.tsv
+you do,2,331,"[132, 181, 331, 382]",SEBP.tsv
+stay,1,136,"[63, 136]",SEBP.tsv
+turn,1,149,"[54, 149, 150]",SEBP.tsv
+ask him,2,151,"[63, 151]",SEBP.tsv
+they don't,2,151,"[108, 133, 151, 379, 380]",SEBP.tsv
+would have,2,151,"[114, 151]",SEBP.tsv
+at least,2,374,"[151, 374]",SEBP.tsv
+kid,1,365,"[155, 171, 267, 365, 368, 369]",SEBP.tsv
+well they,2,157,"[108, 157]",SEBP.tsv
+they do,2,157,"[108, 110, 157, 179, 275, 369]",SEBP.tsv
+they can't,2,157,"[108, 110, 157]",SEBP.tsv
+have be,2,157,"[114, 157, 279]",SEBP.tsv
+they do it,3,369,"[157, 369]",SEBP.tsv
+for groom,2,161,"[110, 161]",SEBP.tsv
+know it be,3,171,"[6, 171]",SEBP.tsv
+so they,2,171,"[108, 171, 173, 381]",SEBP.tsv
+do anything,2,382,"[173, 382]",SEBP.tsv
+i come,2,186,"[51, 186]",SEBP.tsv
+something,1,186,"[51, 110, 186, 306]",SEBP.tsv
+computer,1,191,"[51, 191]",SEBP.tsv
+it be a,3,193,"[26, 114, 193]",SEBP.tsv
+much,1,208,"[193, 208, 291, 306, 340]",SEBP.tsv
+and do,2,369,"[193, 369]",SEBP.tsv
+five c's,2,199,"[198, 199]",SEBP.tsv
+like the,2,201,"[51, 66, 201]",SEBP.tsv
+plastic,1,201,"[198, 201]",SEBP.tsv
+the camera,2,209,"[79, 80, 209]",SEBP.tsv
+no they,2,212,"[63, 212]",SEBP.tsv
+camera,1,213,"[79, 209, 213, 218]",SEBP.tsv
+gonna go,2,225,"[33, 225]",SEBP.tsv
+him put,2,227,"[71, 227]",SEBP.tsv
+beat,1,229,"[133, 137, 229]",SEBP.tsv
+can never,2,237,"[108, 237]",SEBP.tsv
+would you,2,261,"[181, 261]",SEBP.tsv
+paedo,1,269,"[97, 269]",SEBP.tsv
+full,1,273,"[108, 273]",SEBP.tsv
+that i,2,273,"[181, 273, 306]",SEBP.tsv
+guy,1,279,"[77, 121, 142, 279, 354]",SEBP.tsv
+understand,1,279,"[181, 279, 351, 357]",SEBP.tsv
+to him,2,369,"[279, 369]",SEBP.tsv
+need,1,279,"[152, 279, 385]",SEBP.tsv
+leave,1,295,"[10, 295, 302, 304]",SEBP.tsv
+to say,2,295,"[95, 295]",SEBP.tsv
+marry a rollercoaster,3,347,"[344, 346, 347]",SEBP.tsv
+this guy,2,354,"[77, 354]",SEBP.tsv
+finger as a kid,4,368,"[365, 368]",SEBP.tsv
+to the,2,327,"[4, 5, 9, 277, 327]",SEBP.tsv
+do you want,3,142,"[5, 142]",SEBP.tsv
+be too,2,340,"[17, 340]",SEBP.tsv
+disgust,1,112,"[19, 92, 112, 130, 165, 352]",SEBP.tsv
+cute,1,49,"[27, 31, 39, 44, 46, 49, 60, 66, 90]",SEBP.tsv
+so disgust,2,112,"[42, 83, 112]",SEBP.tsv
+a mouse,2,76,"[68, 76]",SEBP.tsv
+you want,2,142,"[89, 142]",SEBP.tsv
+bottle of,2,94,"[82, 94]",SEBP.tsv
+wine,1,82,"[81, 82, 94]",SEBP.tsv
+move,1,98,"[66, 98]",SEBP.tsv
+be fuck,2,213,"[106, 213]",SEBP.tsv
+be they,2,111,"[62, 111, 157, 201]",SEBP.tsv
+why would,2,357,"[132, 357]",SEBP.tsv
+and say,2,150,"[149, 150, 186]",SEBP.tsv
+paedophile dad,2,150,"[143, 150, 151]",SEBP.tsv
+stories,1,152,"[151, 152]",SEBP.tsv
+talk to,2,321,"[151, 321, 327]",SEBP.tsv
+to my,2,323,"[151, 323]",SEBP.tsv
+any of,2,361,"[161, 361]",SEBP.tsv
+such a,2,355,"[171, 355]",SEBP.tsv
+about you,2,186,"[154, 186]",SEBP.tsv
+the five,2,205,"[194, 205]",SEBP.tsv
+be still,2,209,"[154, 209, 212]",SEBP.tsv
+it be the,3,210,"[146, 210]",SEBP.tsv
+his be,2,213,"[212, 213]",SEBP.tsv
+'s,1,213,"[212, 213, 214]",SEBP.tsv
+still,1,218,"[154, 218]",SEBP.tsv
+difference,1,223,"[204, 223]",SEBP.tsv
+who be,2,251,"[128, 251]",SEBP.tsv
+the way,2,255,"[66, 255]",SEBP.tsv
+it's the,2,255,"[154, 255]",SEBP.tsv
+wouldn't want,2,261,"[148, 261]",SEBP.tsv
+yeah it,2,379,"[273, 379]",SEBP.tsv
+say to,2,323,"[279, 323]",SEBP.tsv
+i don't understand,3,357,"[279, 351, 357]",SEBP.tsv
+but you,2,300,"[150, 300]",SEBP.tsv
+better,1,306,"[194, 306]",SEBP.tsv
+i love dog,3,334,"[333, 334]",SEBP.tsv
+love,1,340,"[290, 334, 340]",SEBP.tsv
+yeah if they,3,359,"[137, 359]",SEBP.tsv
+his face,2,43,"[20, 43]",SEBP.tsv
+see him,2,75,"[71, 75]",SEBP.tsv
+little,1,316,"[88, 178, 292, 316]",SEBP.tsv
+i just,2,127,"[6, 127, 192]",SEBP.tsv
+first,1,158,"[6, 8, 158, 328]",SEBP.tsv
+yeah have,2,158,"[71, 158]",SEBP.tsv
+absolutely,1,164,"[16, 164]",SEBP.tsv
+inside,1,164,"[40, 63, 164, 303]",SEBP.tsv
+room,1,164,"[45, 51, 164]",SEBP.tsv
+it be just,3,164,"[54, 164]",SEBP.tsv
+like it,2,164,"[55, 164, 343]",SEBP.tsv
+they can,2,166,"[108, 166, 240, 244]",SEBP.tsv
+and it be,3,176,"[54, 176, 178]",SEBP.tsv
+ever,1,178,"[71, 178, 260]",SEBP.tsv
+apparently,1,196,"[178, 196]",SEBP.tsv
+up in,2,185,"[45, 185]",SEBP.tsv
+bad,1,192,"[3, 192]",SEBP.tsv
+i like,2,219,"[57, 219]",SEBP.tsv
+he say,2,240,"[108, 123, 240, 323, 353]",SEBP.tsv
+that the,2,244,"[121, 244]",SEBP.tsv
+you don't have to,4,258,"[95, 258]",SEBP.tsv
+online,1,258,"[179, 258]",SEBP.tsv
+that on,2,382,"[260, 382]",SEBP.tsv
+stupid,1,270,"[181, 270]",SEBP.tsv
+like oh,2,272,"[51, 57, 272]",SEBP.tsv
+just go,2,288,"[6, 288]",SEBP.tsv
+think it be,3,341,"[26, 341]",SEBP.tsv
+apple,1,91,"[47, 91]",SEBP.tsv
+where be you,3,323,"[93, 323]",SEBP.tsv
+be you,2,331,"[93, 331]",SEBP.tsv
+i'm not say,3,154,"[147, 154]",SEBP.tsv
+true,1,167,"[153, 167]",SEBP.tsv
+and he,2,321,"[158, 219, 321, 323]",SEBP.tsv
+erm he,2,323,"[164, 323]",SEBP.tsv
+it's like what,3,331,"[166, 331]",SEBP.tsv
+what be you,3,331,"[166, 331]",SEBP.tsv
+it be for,3,357,"[176, 357]",SEBP.tsv
+but it be,3,178,"[146, 178]",SEBP.tsv
+think it's,2,371,"[178, 274, 371]",SEBP.tsv
+right,1,379,"[178, 256, 288, 379]",SEBP.tsv
+get a coffee,3,190,"[188, 190]",SEBP.tsv
+that it,2,206,"[202, 206, 240]",SEBP.tsv
+be really,2,211,"[49, 211]",SEBP.tsv
+want that,2,219,"[142, 219]",SEBP.tsv
+don't want,2,219,"[150, 219]",SEBP.tsv
+and i'm,2,219,"[154, 219]",SEBP.tsv
+and he be like,4,323,"[219, 323]",SEBP.tsv
+i be like,3,323,"[219, 323]",SEBP.tsv
+yeah be,2,240,"[206, 240]",SEBP.tsv
+do what,2,331,"[240, 331]",SEBP.tsv
+i actually,2,242,"[139, 242]",SEBP.tsv
+there and,2,244,"[154, 244]",SEBP.tsv
+time,1,323,"[244, 323]",SEBP.tsv
+the police don't,3,278,"[107, 278]",SEBP.tsv
+the time,2,323,"[278, 323]",SEBP.tsv
+deal,1,355,"[278, 286, 355]",SEBP.tsv
+love that,2,340,"[290, 340]",SEBP.tsv
+may,1,292,"[131, 292]",SEBP.tsv
+i've,1,298,"[152, 298]",SEBP.tsv
+years,1,317,"[298, 317]",SEBP.tsv
+up and,2,321,"[299, 321]",SEBP.tsv
+with her,2,338,"[139, 338]",SEBP.tsv
+i guess,2,361,"[358, 361]",SEBP.tsv
+about them,2,376,"[154, 376]",SEBP.tsv
+have he,2,80,"[77, 80]",SEBP.tsv
+see the camera,3,80,"[79, 80]",SEBP.tsv
+dunno,1,81,"[68, 81]",SEBP.tsv
+he's get a bottle of,5,82,"[81, 82]",SEBP.tsv
+at the,2,323,"[108, 323]",SEBP.tsv
+like erm,2,323,"[108, 323]",SEBP.tsv
+don't like,2,133,"[66, 107, 133]",SEBP.tsv
+force him or beat him up,6,137,"[133, 137]",SEBP.tsv
+they don't go to jail,5,380,"[379, 380]",SEBP.tsv
+need to,2,385,"[152, 385]",SEBP.tsv

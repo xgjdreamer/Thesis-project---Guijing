@@ -1,0 +1,548 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+there's,1,12,"[0, 12, 119, 183, 202, 252, 381, 406]",STKH.tsv
+anyway,1,126,"[0, 91, 126, 209, 395]",STKH.tsv
+gonna,1,126,"[0, 47, 126, 177, 216, 238, 329, 380, 395, 426]",STKH.tsv
+always,1,236,"[0, 139, 185, 189, 236]",STKH.tsv
+yeah,1,11,"[6, 11, 12, 13, 30, 31, 40, 43, 46, 47, 55, 65, 67, 85, 104, 117, 120, 122, 126, 148, 149, 151, 159, 180, 181, 183, 187, 191, 198, 199, 200, 209, 210, 215, 218, 223, 229, 230, 254, 277, 284, 299, 306, 331, 339, 346, 350, 366, 368, 384, 386, 394, 396, 406, 412, 416, 420, 429, 434, 437, 441, 477, 479, 502, 503, 504, 507, 527, 533]",STKH.tsv
+one,1,12,"[11, 12, 20, 50, 92, 96, 114, 140, 185, 199, 201, 211, 232, 233, 235, 236, 270, 306, 339, 384, 386, 453, 476]",STKH.tsv
+i print,2,270,"[11, 270]",STKH.tsv
+print,1,274,"[11, 13, 274]",STKH.tsv
+go,1,13,"[1, 9, 13, 47, 70, 79, 92, 121, 126, 132, 141, 158, 159, 162, 183, 186, 203, 209, 211, 220, 238, 242, 329, 338, 359, 381, 387, 407, 410, 428, 453, 459, 462, 470, 485, 487, 490, 499, 500, 501, 503, 505, 509, 519]",STKH.tsv
+go to,2,13,"[9, 13, 92, 158, 162, 186, 211, 238, 242, 329, 387, 407, 410, 470, 485, 487, 490, 519]",STKH.tsv
+to be,2,13,"[12, 13, 42, 111, 403, 410]",STKH.tsv
+i don't,2,24,"[13, 24, 47, 62, 79, 104, 108, 119, 185, 207, 209, 211, 243, 245, 308, 373, 377, 378, 444]",STKH.tsv
+i'm,1,24,"[13, 24, 47, 110, 126, 140, 143, 158, 177, 238, 255, 273, 329, 400, 402, 405, 406, 428, 444, 463, 468, 470, 516, 534]",STKH.tsv
+cos,1,42,"[13, 42, 45, 58, 85, 105, 134, 137, 174, 193, 195, 205, 208, 229, 230, 322, 344, 348, 357, 433, 529]",STKH.tsv
+probably,1,132,"[13, 132, 322]",STKH.tsv
+much,1,134,"[13, 134, 455]",STKH.tsv
+yeah you,2,159,"[13, 159]",STKH.tsv
+no i,2,190,"[13, 190, 195, 267, 399]",STKH.tsv
+i'm go to,3,238,"[13, 238, 470]",STKH.tsv
+print out,2,270,"[13, 270]",STKH.tsv
+well,1,56,"[15, 31, 41, 56, 58, 60, 61, 74, 79, 91, 109, 129, 132, 137, 147, 162, 183, 186, 194, 270, 276, 302, 304, 316, 317, 322, 327, 329, 335, 345, 348, 363, 398, 405, 410, 436, 451, 462, 474, 510]",STKH.tsv
+toast,1,117,"[15, 117, 128, 252, 264]",STKH.tsv
+oh no,2,190,"[17, 190, 274, 286, 391]",STKH.tsv
+be i,2,19,"[1, 19]",STKH.tsv
+like,1,50,"[19, 50, 58, 62, 104, 108, 151, 159, 166, 167, 186, 205, 211, 212, 216, 240, 257, 260, 261, 263, 296, 340, 342, 343, 352, 374, 382, 384, 426, 461]",STKH.tsv
+i be,2,132,"[19, 132, 195, 197, 218, 222, 387]",STKH.tsv
+be like,2,212,"[19, 205, 211, 212, 216]",STKH.tsv
+wasn't it,2,102,"[21, 102, 532]",STKH.tsv
+be you,2,206,"[21, 206, 242, 289, 367, 374, 380, 433, 443, 448, 467, 515, 520]",STKH.tsv
+yes,1,38,"[23, 38, 102, 164, 236, 237, 256, 381, 451]",STKH.tsv
+be they,2,320,"[23, 320]",STKH.tsv
+quite as,2,25,"[24, 25, 28]",STKH.tsv
+quite,1,58,"[25, 58, 169, 341]",STKH.tsv
+oh i,2,31,"[9, 31, 63, 135, 211, 364, 373, 377, 423, 444, 537]",STKH.tsv
+thank,1,31,"[2, 31, 32, 75, 76, 115, 117, 125, 153, 360, 438, 540]",STKH.tsv
+bacon,1,33,"[31, 33, 64, 67, 71, 72, 73, 112]",STKH.tsv
+as well,2,270,"[31, 270, 345]",STKH.tsv
+i didn't realise,3,350,"[31, 350]",STKH.tsv
+i didn't,2,399,"[31, 195, 216, 399, 449]",STKH.tsv
+be it,2,34,"[4, 34, 54, 72, 285, 309, 419, 472, 484, 527, 528, 530]",STKH.tsv
+pronk,1,36,"[35, 36]",STKH.tsv
+such a,2,274,"[36, 274, 403]",STKH.tsv
+want,1,113,"[37, 89, 113, 119, 164, 232, 255, 265, 267, 334, 375, 377, 381, 444]",STKH.tsv
+but i,2,41,"[24, 41, 58, 102, 174, 191, 381, 449, 499]",STKH.tsv
+i have,2,41,"[30, 41, 117, 138, 222, 348, 457]",STKH.tsv
+use,1,58,"[41, 58, 321, 322, 323, 400, 405, 428, 433]",STKH.tsv
+well i,2,61,"[41, 61, 162, 186, 316, 348]",STKH.tsv
+erm well i,3,316,"[41, 316]",STKH.tsv
+well i have,3,348,"[41, 348]",STKH.tsv
+be use,2,433,"[41, 433]",STKH.tsv
+i've,1,43,"[40, 43, 56, 109, 114, 119, 164, 191, 363, 365, 378, 384, 386, 426, 436, 437, 455, 470, 494]",STKH.tsv
+bicarb,1,43,"[42, 43, 45]",STKH.tsv
+coconut,1,48,"[43, 48, 49, 61, 62]",STKH.tsv
+of coconut,2,61,"[43, 61, 62]",STKH.tsv
+coconut oil,2,61,"[43, 49, 61]",STKH.tsv
+oil,1,61,"[43, 61]",STKH.tsv
+yeah but,2,284,"[43, 191, 284, 437]",STKH.tsv
+i think,2,45,"[24, 45, 61, 84, 88, 109, 121, 140, 203, 209, 238, 319, 350, 369, 400, 402, 537]",STKH.tsv
+be a,2,45,"[24, 45, 79, 92, 151, 405]",STKH.tsv
+bite,1,45,"[24, 45, 112, 128, 141, 159, 164, 366]",STKH.tsv
+think,1,45,"[24, 40, 45, 61, 84, 88, 109, 121, 124, 132, 140, 172, 186, 189, 203, 209, 232, 238, 268, 319, 329, 350, 369, 373, 400, 402, 461, 488, 525, 537]",STKH.tsv
+just bicarb,2,45,"[42, 45]",STKH.tsv
+cos i,2,134,"[45, 134, 195, 205, 229, 348]",STKH.tsv
+would,1,186,"[45, 158, 186, 190, 240, 242, 257, 265, 429, 525]",STKH.tsv
+give,1,58,"[47, 58, 108, 185, 399, 411]",STKH.tsv
+see,1,98,"[47, 98, 133, 166, 179, 280, 336, 353, 364, 382, 395, 423, 428, 444, 460, 514, 537]",STKH.tsv
+know,1,106,"[47, 79, 106, 117, 123, 132, 139, 153, 154, 169, 174, 178, 185, 207, 214, 216, 217, 218, 243, 245, 268, 270, 272, 273, 275, 308, 378, 382, 404, 444, 449, 466, 475, 477, 493, 500, 503]",STKH.tsv
+i'm gonna,2,126,"[47, 126, 177, 329]",STKH.tsv
+happen,1,182,"[47, 181, 182, 183, 189, 193]",STKH.tsv
+so i,2,270,"[47, 211, 220, 270, 329]",STKH.tsv
+i don't know,3,243,"[47, 79, 185, 207, 243, 245, 308, 378, 444]",STKH.tsv
+yeah so,2,503,"[47, 503]",STKH.tsv
+i love,2,63,"[49, 63, 103, 134, 135]",STKH.tsv
+the best,2,76,"[49, 76]",STKH.tsv
+love,1,49,"[4, 49, 55, 63, 103, 115, 134, 135, 143, 512, 513]",STKH.tsv
+best,1,144,"[49, 144]",STKH.tsv
+ever,1,309,"[49, 309]",STKH.tsv
+thing,1,49,"[6, 33, 49, 79, 381, 388]",STKH.tsv
+really good,2,53,"[42, 53, 345]",STKH.tsv
+body,1,56,"[53, 56]",STKH.tsv
+and as,2,58,"[53, 58]",STKH.tsv
+body lotion,2,58,"[53, 58]",STKH.tsv
+good,1,61,"[42, 53, 60, 61, 99, 151, 230, 233, 235, 276, 278, 302, 303, 340, 345, 361, 386, 400, 489]",STKH.tsv
+really,1,59,"[42, 53, 59, 86, 108, 119, 143, 170, 178, 185, 211, 222, 224, 264, 268, 329, 330, 338, 345, 426]",STKH.tsv
+i love it,3,63,"[55, 63, 134, 143]",STKH.tsv
+smell good,2,61,"[60, 61]",STKH.tsv
+smell,1,61,"[60, 61, 296]",STKH.tsv
+taste,1,62,"[46, 62, 64, 67, 69]",STKH.tsv
+i don't like,3,104,"[62, 104]",STKH.tsv
+why do,2,198,"[64, 198, 508, 528]",STKH.tsv
+something,1,66,"[40, 66, 197, 216, 268, 456]",STKH.tsv
+christmas,1,66,"[58, 66, 72, 73, 112, 144, 296, 357]",STKH.tsv
+it just,2,375,"[69, 209, 220, 375, 422]",STKH.tsv
+egg,1,75,"[14, 75]",STKH.tsv
+dad,1,76,"[75, 76, 224, 228, 242, 254, 289, 298, 329, 334, 343, 347, 350, 369, 384]",STKH.tsv
+bring,1,84,"[77, 84, 85, 96, 103, 104, 105, 121, 128, 428]",STKH.tsv
+this morning,2,132,"[77, 132]",STKH.tsv
+on the,2,79,"[5, 6, 7, 8, 16, 79, 92, 102, 119, 209, 422, 462]",STKH.tsv
+whole,1,79,"[76, 79, 98]",STKH.tsv
+a whole,2,92,"[79, 92]",STKH.tsv
+i go,2,92,"[79, 92, 220, 428, 490]",STKH.tsv
+on the stairs,3,102,"[79, 102]",STKH.tsv
+it be,2,102,"[79, 102, 129, 158, 222, 429]",STKH.tsv
+know what,2,117,"[79, 117, 123, 139, 404]",STKH.tsv
+well it,2,132,"[79, 129, 132, 451]",STKH.tsv
+even,1,178,"[79, 178]",STKH.tsv
+animal,1,84,"[81, 84]",STKH.tsv
+they're,1,85,"[24, 28, 76, 85, 90, 105, 124, 126, 208, 322, 324]",STKH.tsv
+try to,2,85,"[58, 85, 109, 110, 444]",STKH.tsv
+dead,1,85,"[78, 85, 92, 104]",STKH.tsv
+cat,1,90,"[85, 90, 108]",STKH.tsv
+that's,1,85,"[33, 85, 96, 97, 99, 131, 238, 261, 274, 276, 277, 278, 295, 302, 304, 305, 338, 340, 342, 343, 345, 361, 375, 387, 398, 400, 418, 508]",STKH.tsv
+do that,2,109,"[85, 109, 169, 216, 238, 278, 314, 384, 411, 525]",STKH.tsv
+back,1,132,"[85, 132, 161, 323, 432]",STKH.tsv
+that's what,2,342,"[85, 342, 387, 418]",STKH.tsv
+tell,1,403,"[85, 185, 403, 448, 474, 494, 508]",STKH.tsv
+baby,1,403,"[85, 403]",STKH.tsv
+tell me,2,474,"[85, 185, 474, 494, 508]",STKH.tsv
+how to,2,493,"[85, 493]",STKH.tsv
+alive,1,87,"[78, 87, 104, 105]",STKH.tsv
+because they,2,94,"[89, 94]",STKH.tsv
+want to,2,375,"[89, 375, 381]",STKH.tsv
+oh well,2,91,"[74, 91]",STKH.tsv
+er oh,2,169,"[93, 169]",STKH.tsv
+get,1,95,"[9, 50, 56, 58, 65, 92, 95, 119, 126, 127, 137, 140, 143, 144, 145, 149, 157, 158, 164, 185, 197, 222, 228, 260, 298, 309, 371, 381, 384, 386, 395, 402, 405, 412, 426, 433, 436, 455, 456, 492, 493, 522, 529]",STKH.tsv
+get a,2,95,"[58, 95, 197, 222, 228, 386, 412, 522, 529]",STKH.tsv
+rat,1,95,"[92, 95, 101, 103]",STKH.tsv
+oh that's good,3,361,"[99, 361, 400]",STKH.tsv
+oh that's,2,375,"[99, 345, 375, 400]",STKH.tsv
+keep,1,101,"[58, 101, 410, 426, 505]",STKH.tsv
+the house,2,101,"[96, 101]",STKH.tsv
+they've,1,121,"[101, 121]",STKH.tsv
+little,1,103,"[6, 24, 84, 103, 109, 128, 159, 228, 245, 332, 337, 374, 381, 468]",STKH.tsv
+they bring,2,103,"[96, 103, 105]",STKH.tsv
+when they bring,3,104,"[103, 104]",STKH.tsv
+bring them in,3,105,"[84, 105]",STKH.tsv
+they bring them in alive,5,105,"[104, 105]",STKH.tsv
+they bring them in,4,105,"[104, 105]",STKH.tsv
+bring them,2,121,"[105, 121]",STKH.tsv
+cos they're,2,208,"[105, 208, 322]",STKH.tsv
+them in,2,526,"[105, 526]",STKH.tsv
+they just,2,107,"[88, 107, 412]",STKH.tsv
+and then,2,339,"[107, 339, 382, 384, 386, 388, 426, 428, 499, 506]",STKH.tsv
+there and,2,505,"[107, 505]",STKH.tsv
+and i,2,108,"[30, 108, 174, 203, 209, 222, 329]",STKH.tsv
+run,1,108,"[10, 58, 108, 211]",STKH.tsv
+can't,1,108,"[61, 108, 126, 159, 174, 211, 233, 235, 278, 280, 316, 357, 381, 402]",STKH.tsv
+in the,2,108,"[76, 108, 216, 306, 309, 338, 388, 422, 424]",STKH.tsv
+sometimes,1,109,"[108, 109, 139, 140, 170, 298]",STKH.tsv
+i don't really,3,119,"[108, 119]",STKH.tsv
+and you,2,124,"[108, 124]",STKH.tsv
+you can't,2,159,"[108, 159, 233, 235, 278, 280]",STKH.tsv
+i just,2,268,"[108, 174, 211, 268]",STKH.tsv
+room,1,296,"[108, 296]",STKH.tsv
+you don't,2,110,"[27, 110, 111, 188, 398]",STKH.tsv
+if you,2,161,"[110, 161, 406]",STKH.tsv
+to do,2,238,"[110, 166, 238, 281, 348, 387, 455, 457, 464, 465]",STKH.tsv
+realise,1,350,"[110, 350]",STKH.tsv
+for you,2,437,"[110, 437]",STKH.tsv
+i'm try to,3,444,"[110, 444]",STKH.tsv
+last,1,112,"[30, 112, 132, 426, 463]",STKH.tsv
+that one,2,114,"[20, 114]",STKH.tsv
+of that,2,117,"[114, 117, 134, 457]",STKH.tsv
+look,1,124,"[116, 124, 260, 261, 263, 274, 295, 329, 341, 342, 343, 407, 419]",STKH.tsv
+i know,2,123,"[106, 123, 132, 153, 154, 174, 178, 214, 272, 275, 404, 449, 475]",STKH.tsv
+mean,1,264,"[123, 174, 264, 362, 450, 451, 455, 457]",STKH.tsv
+what you,2,342,"[123, 342]",STKH.tsv
+thank you,2,125,"[2, 32, 117, 125, 153, 360]",STKH.tsv
+of wine,2,127,"[126, 127]",STKH.tsv
+new,1,129,"[3, 9, 12, 128, 129, 292, 412]",STKH.tsv
+isn't it,2,131,"[48, 131, 284, 348, 366]",STKH.tsv
+that's the,2,131,"[96, 131]",STKH.tsv
+the end of,3,132,"[131, 132]",STKH.tsv
+fourteen,1,132,"[131, 132, 289]",STKH.tsv
+two,1,136,"[131, 136, 182, 270, 289, 309, 369, 499, 532]",STKH.tsv
+the end,2,365,"[131, 365]",STKH.tsv
+for about,2,133,"[30, 133]",STKH.tsv
+write,1,133,"[132, 133, 138, 140, 402]",STKH.tsv
+write the date,3,138,"[133, 138]",STKH.tsv
+the date,2,140,"[133, 139, 140, 386, 388]",STKH.tsv
+oh i love,3,135,"[63, 135]",STKH.tsv
+date,1,138,"[137, 138, 140]",STKH.tsv
+say,1,137,"[73, 137, 153, 161, 185, 270, 273, 375, 377, 401, 402, 418, 446, 449, 452, 453, 455]",STKH.tsv
+on a,2,178,"[137, 178]",STKH.tsv
+a word,2,449,"[137, 449]",STKH.tsv
+that i,2,190,"[143, 190, 405]",STKH.tsv
+i get,2,145,"[58, 140, 145, 158, 492]",STKH.tsv
+apart from,2,194,"[145, 194, 517]",STKH.tsv
+and the,2,147,"[5, 76, 140, 146, 147, 365]",STKH.tsv
+to the,2,147,"[140, 147, 158, 162, 209, 211, 222, 407, 485, 487]",STKH.tsv
+the trip to,3,147,"[146, 147]",STKH.tsv
+the jungle,2,148,"[147, 148, 158]",STKH.tsv
+no the,2,328,"[147, 328]",STKH.tsv
+didn't get,2,157,"[149, 157]",STKH.tsv
+yeah that,2,151,"[46, 151, 181]",STKH.tsv
+too i,2,151,"[50, 151]",STKH.tsv
+i like,2,151,"[50, 151, 340]",STKH.tsv
+present,1,151,"[84, 144, 151, 428]",STKH.tsv
+like that,2,159,"[151, 159, 340, 382]",STKH.tsv
+i know i,3,153,"[132, 153]",STKH.tsv
+know i,2,268,"[153, 218, 268]",STKH.tsv
+to you,2,393,"[153, 393]",STKH.tsv
+sorry,1,486,"[156, 402, 486]",STKH.tsv
+to go to,3,158,"[92, 158]",STKH.tsv
+if i,2,158,"[109, 117, 158, 185, 444]",STKH.tsv
+to go,2,158,"[132, 158, 338, 381, 519]",STKH.tsv
+i get to,3,158,"[140, 158, 492]",STKH.tsv
+i would have,3,186,"[158, 186]",STKH.tsv
+i would,2,190,"[158, 190]",STKH.tsv
+go to the,3,407,"[158, 162, 211, 407, 485, 487]",STKH.tsv
+get to,2,493,"[158, 493]",STKH.tsv
+i go to,3,162,"[92, 162, 329, 490]",STKH.tsv
+every day,2,162,"[94, 162]",STKH.tsv
+every,1,162,"[94, 162, 388, 412]",STKH.tsv
+day,1,510,"[94, 162, 510, 511]",STKH.tsv
+get some,2,164,"[9, 164]",STKH.tsv
+erm yes,2,164,"[38, 164]",STKH.tsv
+i've get,2,164,"[56, 164, 384, 386, 436, 455]",STKH.tsv
+save,1,164,"[109, 111, 164, 414, 415]",STKH.tsv
+i want to,3,375,"[164, 232, 375, 381]",STKH.tsv
+yes i want to,4,381,"[164, 381]",STKH.tsv
+like to,2,166,"[58, 166]",STKH.tsv
+i'd,1,166,"[58, 166, 197, 432, 525]",STKH.tsv
+more of,2,166,"[134, 166]",STKH.tsv
+peru,1,166,"[136, 166]",STKH.tsv
+trip,1,166,"[146, 166]",STKH.tsv
+south america,2,186,"[166, 186]",STKH.tsv
+rather than,2,194,"[166, 194]",STKH.tsv
+do a,2,279,"[166, 279]",STKH.tsv
+people,1,170,"[58, 61, 170, 173, 185, 225, 466]",STKH.tsv
+do it,2,170,"[88, 170, 211, 274, 279, 281, 283, 348, 378, 406, 422, 424]",STKH.tsv
+when people cough,3,173,"[170, 173, 225]",STKH.tsv
+cough,1,173,"[170, 173, 224, 225, 242]",STKH.tsv
+annoy,1,225,"[170, 224, 225, 329]",STKH.tsv
+you just,2,172,"[124, 172, 217, 270]",STKH.tsv
+just think,2,268,"[172, 268]",STKH.tsv
+it but,2,399,"[174, 399]",STKH.tsv
+come,1,175,"[161, 175, 217, 218]",STKH.tsv
+stop,1,175,"[169, 175, 185, 226, 242, 350]",STKH.tsv
+stop it,2,226,"[175, 226]",STKH.tsv
+of the,2,177,"[119, 177, 270, 333, 384]",STKH.tsv
+right,1,204,"[177, 204, 219, 294, 401, 458, 470, 506, 508]",STKH.tsv
+gonna have,2,238,"[177, 238]",STKH.tsv
+right i'm,2,470,"[177, 470]",STKH.tsv
+yeah there's a,3,183,"[12, 183]",STKH.tsv
+a lot of,3,183,"[169, 183]",STKH.tsv
+go on,2,462,"[183, 462]",STKH.tsv
+have to,2,185,"[9, 132, 136, 138, 185, 222, 238, 348, 410, 499, 508]",STKH.tsv
+and they,2,185,"[58, 94, 185]",STKH.tsv
+us,1,185,"[84, 185]",STKH.tsv
+there be,2,185,"[92, 185]",STKH.tsv
+till,1,185,"[126, 185, 472, 478]",STKH.tsv
+and say,2,185,"[161, 185, 455]",STKH.tsv
+she have,2,185,"[169, 178, 182, 185]",STKH.tsv
+stuff,1,185,"[178, 185, 195, 222]",STKH.tsv
+ring,1,188,"[185, 188]",STKH.tsv
+didn't have,2,194,"[185, 194]",STKH.tsv
+it so,2,228,"[185, 228]",STKH.tsv
+it to,2,231,"[185, 231, 381, 390, 392, 393, 394, 398]",STKH.tsv
+them and,2,524,"[185, 323, 524]",STKH.tsv
+to me,2,189,"[58, 189, 198, 345, 390, 392, 394, 398]",STKH.tsv
+think oh,2,189,"[140, 189, 329]",STKH.tsv
+i wouldn't,2,191,"[190, 191, 265]",STKH.tsv
+things,1,260,"[191, 260, 365, 422, 518, 522, 532]",STKH.tsv
+be the,2,195,"[132, 195, 307, 332]",STKH.tsv
+travel,1,195,"[159, 186, 195, 197]",STKH.tsv
+though,1,195,"[178, 195, 216, 475]",STKH.tsv
+no i didn't,3,399,"[195, 399]",STKH.tsv
+bus,1,197,"[178, 197]",STKH.tsv
+oh yeah,2,199,"[40, 104, 148, 199, 229, 396, 434]",STKH.tsv
+i remember,2,199,"[198, 199]",STKH.tsv
+yeah i,2,223,"[199, 209, 223, 350]",STKH.tsv
+erm oh,2,444,"[199, 444]",STKH.tsv
+remember,1,499,"[199, 499]",STKH.tsv
+because i,2,522,"[199, 457, 522]",STKH.tsv
+because for,2,203,"[94, 203]",STKH.tsv
+think i,2,488,"[203, 209, 488, 537]",STKH.tsv
+i need a,3,205,"[3, 205]",STKH.tsv
+need,1,309,"[205, 309, 338, 398, 465, 466]",STKH.tsv
+i need,2,464,"[205, 464]",STKH.tsv
+have a,2,209,"[20, 117, 128, 209, 226, 229, 265, 407, 419]",STKH.tsv
+without,1,209,"[102, 209, 410]",STKH.tsv
+but it,2,399,"[209, 220, 399]",STKH.tsv
+on the internet,3,462,"[209, 462]",STKH.tsv
+be really,2,211,"[42, 211, 222, 426]",STKH.tsv
+it with,2,211,"[58, 211]",STKH.tsv
+can't go,2,211,"[159, 211]",STKH.tsv
+a bus,2,211,"[178, 211]",STKH.tsv
+with a,2,212,"[211, 212, 220, 374, 384]",STKH.tsv
+i can't,2,316,"[211, 316, 357, 381, 402]",STKH.tsv
+he do,2,375,"[211, 375]",STKH.tsv
+be go,2,387,"[211, 387]",STKH.tsv
+night and,2,216,"[30, 216, 222]",STKH.tsv
+hours,1,216,"[30, 216]",STKH.tsv
+night,1,216,"[30, 84, 92, 216, 222, 463, 470, 510, 511, 538]",STKH.tsv
+at night and,3,216,"[84, 216, 222]",STKH.tsv
+leave,1,216,"[84, 96, 216, 260, 499, 506]",STKH.tsv
+this be,2,216,"[132, 216]",STKH.tsv
+morning,1,216,"[132, 216]",STKH.tsv
+that for,2,216,"[159, 216]",STKH.tsv
+for me,2,526,"[216, 526]",STKH.tsv
+know i be,3,218,"[132, 218]",STKH.tsv
+when i,2,218,"[132, 218, 220, 428]",STKH.tsv
+they know,2,218,"[217, 218]",STKH.tsv
+be come,2,218,"[217, 218]",STKH.tsv
+at a,2,220,"[121, 220]",STKH.tsv
+time,1,220,"[121, 132, 138, 198, 220, 242, 388, 412]",STKH.tsv
+have to get,3,222,"[9, 222]",STKH.tsv
+i have to,3,222,"[138, 222, 348]",STKH.tsv
+case,1,322,"[222, 322, 462]",STKH.tsv
+to get,2,405,"[222, 405, 433, 493]",STKH.tsv
+he's,1,456,"[227, 370, 455, 456, 457, 519]",STKH.tsv
+do you,2,229,"[40, 113, 117, 157, 161, 194, 217, 229, 268, 296, 298, 322, 334, 347, 362, 444, 452, 477, 508, 528]",STKH.tsv
+lie,1,229,"[92, 229]",STKH.tsv
+yeah do,2,229,"[117, 229, 477]",STKH.tsv
+you have,2,229,"[136, 229, 499]",STKH.tsv
+photo,1,229,"[228, 229, 270, 284]",STKH.tsv
+passport,1,236,"[229, 236]",STKH.tsv
+ones,1,328,"[229, 328]",STKH.tsv
+take,1,230,"[22, 30, 126, 128, 188, 230, 231, 488, 491]",STKH.tsv
+take a,2,230,"[30, 126, 230, 488]",STKH.tsv
+could,1,230,"[102, 230, 236, 306]",STKH.tsv
+take a video,3,231,"[230, 231]",STKH.tsv
+cos that'll be,3,357,"[230, 357]",STKH.tsv
+then you,2,499,"[230, 499]",STKH.tsv
+i i,2,232,"[4, 61, 232]",STKH.tsv
+send,1,232,"[231, 232, 270, 345, 390, 392, 428]",STKH.tsv
+send one to,3,270,"[232, 270]",STKH.tsv
+you like,2,296,"[240, 257, 296]",STKH.tsv
+to town,2,520,"[242, 520]",STKH.tsv
+we can,2,309,"[246, 309]",STKH.tsv
+do anyone,2,255,"[117, 255]",STKH.tsv
+tea,1,258,"[255, 257, 258, 334, 384]",STKH.tsv
+be that,2,259,"[144, 259]",STKH.tsv
+it look like,3,261,"[260, 261, 263]",STKH.tsv
+look like,2,342,"[261, 263, 342]",STKH.tsv
+wouldn't have,2,265,"[46, 265]",STKH.tsv
+you want,2,265,"[113, 265, 444]",STKH.tsv
+thin sandwich,2,265,"[264, 265]",STKH.tsv
+nice,1,267,"[46, 52, 182, 267, 385, 410, 426, 428]",STKH.tsv
+sandwich,1,267,"[264, 267]",STKH.tsv
+i want,2,375,"[267, 375, 381]",STKH.tsv
+stupid,1,271,"[109, 268, 271, 508]",STKH.tsv
+ink,1,273,"[9, 273]",STKH.tsv
+you know,2,273,"[117, 169, 268, 270, 273, 477, 493, 500, 503]",STKH.tsv
+know you,2,273,"[217, 273]",STKH.tsv
+you know you,3,273,"[270, 273]",STKH.tsv
+waste,1,274,"[273, 274, 276]",STKH.tsv
+cartridge,1,292,"[273, 292]",STKH.tsv
+you say,2,452,"[273, 452]",STKH.tsv
+that's good,2,361,"[276, 340, 361]",STKH.tsv
+you need,2,309,"[281, 309]",STKH.tsv
+to do it,3,348,"[281, 348]",STKH.tsv
+need to do,3,464,"[281, 464]",STKH.tsv
+need to,2,466,"[281, 398, 465, 466]",STKH.tsv
+three,1,287,"[182, 287]",STKH.tsv
+what be,2,289,"[1, 289, 374, 443, 467, 515, 527]",STKH.tsv
+you do,2,289,"[161, 279, 289, 298, 374, 422, 443, 467, 515, 520]",STKH.tsv
+what be you do,4,515,"[289, 374, 443, 467, 515]",STKH.tsv
+be you do,3,520,"[289, 374, 443, 467, 520]",STKH.tsv
+phone,1,291,"[3, 194, 212, 291, 384, 402, 422, 443, 462]",STKH.tsv
+look at,2,295,"[124, 295, 329, 407]",STKH.tsv
+do you do,3,298,"[161, 298]",STKH.tsv
+you get,2,433,"[298, 433]",STKH.tsv
+lovely,1,464,"[298, 464]",STKH.tsv
+long,1,304,"[9, 304, 505]",STKH.tsv
+one in,2,306,"[12, 306]",STKH.tsv
+please,1,306,"[38, 256, 258, 306, 335, 487, 522, 524]",STKH.tsv
+yeah it's,2,306,"[65, 104, 306]",STKH.tsv
+first,1,306,"[169, 306]",STKH.tsv
+it's a,2,306,"[33, 284, 306, 330]",STKH.tsv
+me the,2,399,"[306, 399]",STKH.tsv
+erm i,2,308,"[24, 308]",STKH.tsv
+in there,2,319,"[12, 319, 323, 533]",STKH.tsv
+use them,2,322,"[321, 322, 323]",STKH.tsv
+i use,2,405,"[321, 323, 405]",STKH.tsv
+ten,1,329,"[30, 329]",STKH.tsv
+look at it,3,407,"[329, 407]",STKH.tsv
+do you want,3,334,"[113, 334, 444]",STKH.tsv
+okay,1,336,"[277, 336, 457]",STKH.tsv
+that need to,3,466,"[338, 466]",STKH.tsv
+actually,1,343,"[24, 132, 178, 343, 510]",STKH.tsv
+what you look like,4,343,"[342, 343]",STKH.tsv
+can you,2,485,"[345, 485, 526]",STKH.tsv
+see it,2,353,"[280, 353, 382, 395]",STKH.tsv
+the erm,2,355,"[5, 333, 355]",STKH.tsv
+what do you,3,362,"[40, 161, 362]",STKH.tsv
+you can trim it,4,362,"[361, 362]",STKH.tsv
+trim it,2,363,"[362, 363]",STKH.tsv
+you can,2,395,"[361, 362, 388, 395, 422, 461, 499, 500, 505, 509]",STKH.tsv
+what do,2,401,"[362, 401]",STKH.tsv
+chop the end off,4,365,"[364, 365]",STKH.tsv
+the end off,3,365,"[364, 365]",STKH.tsv
+chop the,2,365,"[364, 365]",STKH.tsv
+i see,2,460,"[364, 423, 460]",STKH.tsv
+out to,2,367,"[159, 367]",STKH.tsv
+isn't he,2,370,"[212, 370]",STKH.tsv
+a little,2,374,"[24, 84, 128, 159, 228, 245, 374, 381]",STKH.tsv
+still,1,374,"[24, 322, 374, 419]",STKH.tsv
+box,1,374,"[121, 374]",STKH.tsv
+why be,2,374,"[309, 374]",STKH.tsv
+doesn't he,2,375,"[374, 375]",STKH.tsv
+never,1,378,"[309, 378, 499]",STKH.tsv
+post,1,378,"[375, 378]",STKH.tsv
+post to,2,378,"[377, 378]",STKH.tsv
+it on,2,395,"[378, 380, 395, 398, 405, 437]",STKH.tsv
+facebook,1,395,"[378, 395]",STKH.tsv
+post it,2,380,"[375, 380]",STKH.tsv
+her timeline,2,381,"[380, 381]",STKH.tsv
+husband,1,382,"[76, 382, 384]",STKH.tsv
+that your,2,382,"[144, 382]",STKH.tsv
+dance,1,382,"[332, 342, 382, 384]",STKH.tsv
+to know that,3,466,"[382, 466]",STKH.tsv
+of wine in,3,384,"[126, 384]",STKH.tsv
+usually,1,384,"[377, 379, 381, 384]",STKH.tsv
+don't you,2,386,"[136, 357, 386]",STKH.tsv
+the whole,2,388,"[76, 98, 388]",STKH.tsv
+i'll,1,388,"[132, 337, 388, 393, 407, 428, 501]",STKH.tsv
+photocopy,1,388,"[236, 388]",STKH.tsv
+doesn't it,2,388,"[375, 388]",STKH.tsv
+and then you,3,499,"[388, 499]",STKH.tsv
+have you,2,390,"[194, 390]",STKH.tsv
+send it to,3,390,"[231, 390, 392]",STKH.tsv
+whatsapp,1,394,"[371, 394, 398, 411]",STKH.tsv
+whatsapp it to,3,394,"[393, 394, 398]",STKH.tsv
+'s,1,398,"[9, 398, 492, 493]",STKH.tsv
+put,1,398,"[12, 16, 119, 292, 344, 398, 455, 457, 471, 476, 526]",STKH.tsv
+i'm i'm,2,400,"[24, 400]",STKH.tsv
+oh oh,2,400,"[148, 348, 400, 426]",STKH.tsv
+and not,2,400,"[159, 400, 455, 459]",STKH.tsv
+i think be,3,400,"[238, 400]",STKH.tsv
+jealous,1,452,"[400, 452]",STKH.tsv
+and he,2,402,"[212, 402]",STKH.tsv
+be so,2,402,"[225, 389, 402]",STKH.tsv
+i can't get,3,402,"[381, 402]",STKH.tsv
+message,1,429,"[402, 429, 444, 448]",STKH.tsv
+there's a,2,406,"[12, 406]",STKH.tsv
+sure,1,406,"[24, 406, 466]",STKH.tsv
+trouble,1,406,"[56, 406]",STKH.tsv
+you didn't,2,406,"[157, 406]",STKH.tsv
+you didn't have,3,406,"[194, 406]",STKH.tsv
+i'm sure,2,406,"[405, 406]",STKH.tsv
+well it's,2,410,"[74, 410]",STKH.tsv
+keep go,2,505,"[410, 505]",STKH.tsv
+a new,2,412,"[3, 12, 292, 412]",STKH.tsv
+year,1,412,"[128, 411, 412]",STKH.tsv
+that's what i,3,418,"[387, 418]",STKH.tsv
+sixty nine p,3,418,"[415, 418]",STKH.tsv
+just do it,3,422,"[88, 422]",STKH.tsv
+background,1,422,"[344, 422, 424]",STKH.tsv
+record,1,422,"[348, 350, 419, 422]",STKH.tsv
+i keep,2,426,"[58, 426]",STKH.tsv
+days,1,426,"[94, 426]",STKH.tsv
+the last,2,426,"[132, 426]",STKH.tsv
+i've be,2,470,"[426, 470]",STKH.tsv
+bring the,2,428,"[128, 428]",STKH.tsv
+use your,2,433,"[428, 433]",STKH.tsv
+to see,2,444,"[428, 444]",STKH.tsv
+don't forget,2,522,"[428, 522]",STKH.tsv
+better,1,432,"[22, 432]",STKH.tsv
+well i've,2,436,"[109, 363, 436]",STKH.tsv
+data,1,436,"[433, 436]",STKH.tsv
+not to,2,448,"[403, 448]",STKH.tsv
+to read,2,448,"[444, 448]",STKH.tsv
+read,1,448,"[444, 448]",STKH.tsv
+into the,2,453,"[96, 453]",STKH.tsv
+buy,1,453,"[134, 453]",STKH.tsv
+he say,2,453,"[401, 452, 453]",STKH.tsv
+town,1,520,"[453, 520]",STKH.tsv
+lot,1,455,"[169, 455, 457]",STKH.tsv
+fun,1,457,"[238, 457]",STKH.tsv
+you think,2,461,"[124, 461, 525]",STKH.tsv
+last night and,3,463,"[30, 463]",STKH.tsv
+top,1,463,"[92, 333, 381, 463]",STKH.tsv
+free,1,463,"[411, 463]",STKH.tsv
+now i'm,2,470,"[463, 470]",STKH.tsv
+mm i,2,465,"[50, 154, 465]",STKH.tsv
+i need to do,4,465,"[464, 465]",STKH.tsv
+today,1,480,"[465, 480, 484, 515, 519, 520]",STKH.tsv
+do i,2,492,"[198, 492, 516]",STKH.tsv
+get to 's,3,493,"[492, 493]",STKH.tsv
+forget,1,522,"[494, 522]",STKH.tsv
+the road,2,497,"[496, 497]",STKH.tsv
+turn,1,506,"[217, 433, 437, 506]",STKH.tsv
+turn leave,2,506,"[499, 506]",STKH.tsv
+you have to,3,508,"[136, 499, 508]",STKH.tsv
+love you,2,513,"[512, 513]",STKH.tsv
+go to go to,4,519,"[92, 519]",STKH.tsv
+to town today,3,520,"[519, 520]",STKH.tsv
+why be it,3,528,"[309, 528]",STKH.tsv
+god,1,540,"[140, 159, 186, 540]",STKH.tsv
+for that,2,540,"[462, 540]",STKH.tsv
+oh it's,2,352,"[49, 329, 352, 426]",STKH.tsv
+christmas bacon,2,73,"[72, 73, 112]",STKH.tsv
+oh thank,2,75,"[2, 75, 540]",STKH.tsv
+apparently,1,356,"[85, 185, 356]",STKH.tsv
+feel,1,93,"[27, 93, 174, 347]",STKH.tsv
+normal,1,335,"[108, 335]",STKH.tsv
+money,1,414,"[164, 414]",STKH.tsv
+i think i,3,537,"[203, 209, 537]",STKH.tsv
+yeah do you,3,477,"[229, 477]",STKH.tsv
+you go to,3,485,"[242, 485]",STKH.tsv
+straight,1,500,"[246, 500]",STKH.tsv
+oh there's,2,252,"[202, 252]",STKH.tsv
+well that's,2,302,"[276, 302]",STKH.tsv
+way,1,500,"[329, 406, 500, 501, 509]",STKH.tsv
+good i,2,340,"[302, 340]",STKH.tsv
+you go,2,485,"[359, 485]",STKH.tsv
+oh i see,3,423,"[364, 423]",STKH.tsv
+properly,1,410,"[155, 410]",STKH.tsv
+later,1,514,"[455, 457, 514]",STKH.tsv
+wash machine,2,518,"[482, 518]",STKH.tsv
+where's the,2,535,"[492, 497, 535]",STKH.tsv
+just go the straight way,5,501,"[500, 501]",STKH.tsv
+flap,1,8,"[5, 8]",STKH.tsv
+on the flap,3,8,"[7, 8]",STKH.tsv
+put the,2,471,"[16, 471]",STKH.tsv
+teeth,1,251,"[40, 42, 251]",STKH.tsv
+yeah what,2,527,"[40, 527]",STKH.tsv
+another,1,509,"[50, 121, 509]",STKH.tsv
+yeah yeah,2,122,"[67, 122, 159]",STKH.tsv
+to bed,2,440,"[92, 440, 470, 490]",STKH.tsv
+find,1,233,"[94, 119, 233, 235, 309]",STKH.tsv
+do you know,3,477,"[117, 268, 477]",STKH.tsv
+we've,1,119,"[10, 119, 260, 309]",STKH.tsv
+you're go to,3,487,"[186, 487]",STKH.tsv
+i can,2,537,"[223, 444, 499, 537]",STKH.tsv
+alright,1,264,"[33, 264]",STKH.tsv
+that's alright,2,277,"[33, 277, 305]",STKH.tsv
+you put,2,471,"[292, 471, 526]",STKH.tsv
+like our,2,352,"[296, 352]",STKH.tsv
+when you,2,485,"[309, 485]",STKH.tsv
+can't find,2,316,"[233, 235, 316]",STKH.tsv
+the little,2,332,"[6, 332]",STKH.tsv
+when you're,2,487,"[342, 487]",STKH.tsv
+good you,2,361,"[233, 235, 278, 361]",STKH.tsv
+it say,2,375,"[73, 375, 377, 446, 449]",STKH.tsv
+little thing,2,381,"[6, 381]",STKH.tsv
+in it,2,399,"[352, 399]",STKH.tsv
+save yourself,2,415,"[414, 415]",STKH.tsv
+friday,1,475,"[472, 474, 475, 478]",STKH.tsv
+else,1,530,"[476, 530]",STKH.tsv
+past the,2,499,"[495, 499, 503]",STKH.tsv
+you can go,3,500,"[499, 500, 505, 509]",STKH.tsv
+past,1,500,"[499, 500, 503, 505, 522, 524]",STKH.tsv
+hug,1,517,"[469, 517]",STKH.tsv
+car,1,535,"[526, 535]",STKH.tsv

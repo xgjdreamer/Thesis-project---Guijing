@@ -1,0 +1,238 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker1,Expression_uttered_position_speaker2,file,speaker1,speaker2
+i mean,2,3,"[0, 59, 61]","[3, 14, 38, 44, 101]",SAMQ.tsv,S0202,S0208
+she look,2,3,"[0, 69]","[3, 5, 74, 76, 82]",SAMQ.tsv,S0202,S0208
+tell,1,3,"[0, 23, 49, 92, 104, 112]","[3, 48, 74, 86, 109, 113, 117]",SAMQ.tsv,S0202,S0208
+think,1,3,"[0, 43, 53, 126]","[3, 72, 101, 109, 131, 133, 143, 5]",SAMQ.tsv,S0202,S0208
+think she look,3,5,[0],[5],SAMQ.tsv,S0202,S0208
+put a,2,5,[0],[5],SAMQ.tsv,S0202,S0208
+like,1,5,"[0, 2, 13, 17, 19, 21, 23, 25, 33, 35, 37, 43, 49, 53, 55, 61, 63, 69, 71, 90, 92, 94, 96, 136, 142, 150]","[5, 20, 26, 32, 44, 46, 66, 74, 86, 105, 107, 109, 119, 121]",SAMQ.tsv,S0202,S0208
+okay,1,9,"[0, 6, 11]",[9],SAMQ.tsv,S0202,S0208
+put,1,14,[0],"[14, 107]",SAMQ.tsv,S0202,S0208
+mum,1,24,"[0, 21, 67, 92, 136]","[24, 32, 66, 78, 38]",SAMQ.tsv,S0202,S0208
+bite,1,30,"[0, 25]","[30, 107]",SAMQ.tsv,S0202,S0208
+her mum,2,38,"[0, 21]",[38],SAMQ.tsv,S0202,S0208
+be she,2,38,[0],[38],SAMQ.tsv,S0202,S0208
+up with her,3,40,"[0, 43]",[40],SAMQ.tsv,S0202,S0208
+like oh,2,44,[0],"[44, 109]",SAMQ.tsv,S0202,S0208
+a bite,2,44,"[0, 25]","[44, 74, 78]",SAMQ.tsv,S0202,S0208
+could,1,44,[0],"[44, 74]",SAMQ.tsv,S0202,S0208
+look,1,44,"[0, 69, 92, 148]","[44, 74, 78, 88, 99, 76, 82]",SAMQ.tsv,S0202,S0208
+it's like,2,46,"[0, 150]","[46, 105]",SAMQ.tsv,S0202,S0208
+be you,2,46,[0],"[46, 121]",SAMQ.tsv,S0202,S0208
+time,1,50,"[0, 55, 94]","[50, 72, 113, 119]",SAMQ.tsv,S0202,S0208
+see,1,54,"[0, 17, 19, 49, 61, 63, 69, 94]","[54, 62, 64, 72, 105]",SAMQ.tsv,S0202,S0208
+like that,2,66,"[0, 2, 55, 92]",[66],SAMQ.tsv,S0202,S0208
+could see,2,72,[0],[72],SAMQ.tsv,S0202,S0208
+stress,1,72,[0],"[72, 137]",SAMQ.tsv,S0202,S0208
+and it's,2,74,[0],[74],SAMQ.tsv,S0202,S0208
+like she,2,74,"[0, 37, 53, 92]",[74],SAMQ.tsv,S0202,S0208
+she be,2,86,"[0, 21, 89]","[86, 107]",SAMQ.tsv,S0202,S0208
+lose,1,86,"[0, 94]",[86],SAMQ.tsv,S0202,S0208
+weight,1,86,"[0, 25, 67, 90, 94, 96]",[86],SAMQ.tsv,S0202,S0208
+her and,2,88,"[0, 21, 37]",[88],SAMQ.tsv,S0202,S0208
+you could see,3,105,[0],[105],SAMQ.tsv,S0202,S0208
+and stuff,2,105,"[0, 55, 92]",[105],SAMQ.tsv,S0202,S0208
+stuff,1,105,"[0, 2, 21, 63, 92, 134]",[105],SAMQ.tsv,S0202,S0208
+and i,2,107,[0],[107],SAMQ.tsv,S0202,S0208
+and then,2,109,"[0, 55, 150]",[109],SAMQ.tsv,S0202,S0208
+it's just,2,111,"[0, 63]",[111],SAMQ.tsv,S0202,S0208
+ill,1,119,"[0, 138]","[119, 121]",SAMQ.tsv,S0202,S0208
+like it's,2,121,"[0, 92]",[121],SAMQ.tsv,S0202,S0208
+good,1,123,"[0, 53, 59, 104]",[123],SAMQ.tsv,S0202,S0208
+and like,2,5,"[2, 19, 37]",[5],SAMQ.tsv,S0202,S0208
+eat,1,20,"[2, 21, 136, 140]","[20, 44, 74, 137]",SAMQ.tsv,S0202,S0208
+say,1,26,"[2, 21, 33, 43, 69, 92, 112, 126]","[26, 42, 54, 66, 78, 86, 107]",SAMQ.tsv,S0202,S0208
+you want,2,30,"[2, 126]",[30],SAMQ.tsv,S0202,S0208
+to her,2,38,"[2, 21, 37, 69]",[38],SAMQ.tsv,S0202,S0208
+sure,1,145,[2],[145],SAMQ.tsv,S0202,S0208
+yeah,1,12,"[4, 6, 8, 11, 15, 29, 31, 39, 41, 47, 63, 65, 75, 81, 83, 87, 100, 102, 144, 146, 154]","[12, 14, 18, 22, 60, 64, 68, 70, 80, 91, 93, 97, 105, 115, 119, 131, 135]",SAMQ.tsv,S0202,S0208
+whatever,1,40,[8],[40],SAMQ.tsv,S0202,S0208
+sound,1,13,[13],"[7, 143]",SAMQ.tsv,S0202,S0208
+happen,1,107,"[13, 136]",[107],SAMQ.tsv,S0202,S0208
+cos,1,17,"[17, 21, 43, 55, 92, 98, 112, 114, 136]","[3, 5, 40, 50, 78, 101, 121]",SAMQ.tsv,S0202,S0208
+really,1,17,"[17, 49, 55, 69, 92, 112]","[14, 56, 105, 119, 123]",SAMQ.tsv,S0202,S0208
+see it,2,72,"[17, 19]",[72],SAMQ.tsv,S0202,S0208
+obviously,1,74,"[17, 55, 112]",[74],SAMQ.tsv,S0202,S0208
+i have,2,109,"[17, 23]",[109],SAMQ.tsv,S0202,S0208
+she's get,2,21,"[21, 89]","[3, 50]",SAMQ.tsv,S0202,S0208
+get some,2,21,[21],[9],SAMQ.tsv,S0202,S0208
+friends,1,21,[21],[9],SAMQ.tsv,S0202,S0208
+get,1,21,"[21, 37, 53, 59, 63, 89, 94, 126]","[9, 38, 62, 64, 86, 101, 105, 107, 50]",SAMQ.tsv,S0202,S0208
+be a,2,30,"[21, 134]","[30, 107, 129]",SAMQ.tsv,S0202,S0208
+she doesn't,2,34,"[21, 25, 39, 96, 140]","[34, 54]",SAMQ.tsv,S0202,S0208
+what i,2,38,[21],"[38, 44]",SAMQ.tsv,S0202,S0208
+know,1,38,"[21, 61, 92, 114, 118, 128, 152]","[38, 64, 66, 84, 105, 157]",SAMQ.tsv,S0202,S0208
+with her,2,40,"[21, 53, 55, 67]",[40],SAMQ.tsv,S0202,S0208
+sort of,2,44,[21],[44],SAMQ.tsv,S0202,S0208
+everything,1,44,"[21, 49]",[44],SAMQ.tsv,S0202,S0208
+her she,2,48,"[21, 49]",[48],SAMQ.tsv,S0202,S0208
+say she,2,54,[21],[54],SAMQ.tsv,S0202,S0208
+i know,2,64,"[21, 92, 114, 128, 152]","[64, 157]",SAMQ.tsv,S0202,S0208
+but she,2,74,"[21, 25, 39, 96]",[74],SAMQ.tsv,S0202,S0208
+not say,2,78,[21],[78],SAMQ.tsv,S0202,S0208
+and be,2,121,"[21, 96]",[121],SAMQ.tsv,S0202,S0208
+be like,2,44,"[23, 35, 92]","[44, 86, 107, 121, 109]",SAMQ.tsv,S0202,S0208
+i be,2,54,"[23, 96]","[54, 107, 109]",SAMQ.tsv,S0202,S0208
+i be like,3,109,[23],[109],SAMQ.tsv,S0202,S0208
+fuck,1,121,"[23, 90, 156]",[121],SAMQ.tsv,S0202,S0208
+around,1,25,"[25, 148]","[7, 9]",SAMQ.tsv,S0202,S0208
+she's not fat,3,84,"[25, 85]","[84, 88]",SAMQ.tsv,S0202,S0208
+she's not,2,84,"[25, 138]","[84, 88]",SAMQ.tsv,S0202,S0208
+fat,1,84,"[25, 85]",[84],SAMQ.tsv,S0202,S0208
+either,1,137,[25],[137],SAMQ.tsv,S0202,S0208
+do you,2,30,"[27, 61]",[30],SAMQ.tsv,S0202,S0208
+grab,1,30,[27],[30],SAMQ.tsv,S0202,S0208
+wanna,1,38,"[27, 114]",[38],SAMQ.tsv,S0202,S0208
+talk about it,3,38,[33],[38],SAMQ.tsv,S0202,S0208
+never,1,66,[33],"[66, 84]",SAMQ.tsv,S0202,S0208
+it like,2,86,"[33, 61]",[86],SAMQ.tsv,S0202,S0208
+about it,2,123,[33],[123],SAMQ.tsv,S0202,S0208
+like i,2,35,"[35, 43, 69]",[5],SAMQ.tsv,S0202,S0208
+thing be,2,38,[35],[38],SAMQ.tsv,S0202,S0208
+like the,2,105,[35],[105],SAMQ.tsv,S0202,S0208
+i just,2,107,[35],[107],SAMQ.tsv,S0202,S0208
+make,1,37,"[37, 53, 69, 92, 138]","[3, 145, 143]",SAMQ.tsv,S0202,S0208
+close to,2,56,[37],[56],SAMQ.tsv,S0202,S0208
+to get,2,86,[37],[86],SAMQ.tsv,S0202,S0208
+up and,2,107,[37],[107],SAMQ.tsv,S0202,S0208
+and she,2,107,"[37, 53, 142]",[107],SAMQ.tsv,S0202,S0208
+make it,2,143,[37],[143],SAMQ.tsv,S0202,S0208
+would,1,39,"[39, 57, 96]","[26, 66]",SAMQ.tsv,S0202,S0208
+would be,2,44,"[39, 96]",[44],SAMQ.tsv,S0202,S0208
+people,1,48,"[39, 92, 126]","[48, 137]",SAMQ.tsv,S0202,S0208
+she just,2,74,[39],[74],SAMQ.tsv,S0202,S0208
+life,1,84,"[39, 53]",[84],SAMQ.tsv,S0202,S0208
+i'm,1,41,"[41, 59, 63, 92, 104, 112, 136]","[5, 86, 121, 129, 151, 74, 78]",SAMQ.tsv,S0202,S0208
+bring,1,41,"[41, 43, 112, 114]","[40, 84]",SAMQ.tsv,S0202,S0208
+i'm not,2,74,"[41, 59, 112]","[74, 78]",SAMQ.tsv,S0202,S0208
+want,1,43,"[43, 112, 116]",[30],SAMQ.tsv,S0202,S0208
+i don't,2,64,"[43, 53, 69]","[64, 84]",SAMQ.tsv,S0202,S0208
+say anything,2,107,"[43, 112]",[107],SAMQ.tsv,S0202,S0208
+anything,1,133,"[43, 112]","[133, 143]",SAMQ.tsv,S0202,S0208
+can't,1,56,[49],[56],SAMQ.tsv,S0202,S0208
+she's so,2,84,[49],[84],SAMQ.tsv,S0202,S0208
+wear,1,107,[49],[107],SAMQ.tsv,S0202,S0208
+clothe,1,107,[49],[107],SAMQ.tsv,S0202,S0208
+no but,2,51,[51],[44],SAMQ.tsv,S0202,S0208
+though,1,53,[53],"[26, 52, 84]",SAMQ.tsv,S0202,S0208
+parent,1,56,[53],"[56, 64]",SAMQ.tsv,S0202,S0208
+have a,2,64,[53],"[64, 103, 107]",SAMQ.tsv,S0202,S0208
+she do,2,68,[53],[68],SAMQ.tsv,S0202,S0208
+it would be,3,57,[57],[44],SAMQ.tsv,S0202,S0208
+get a,2,59,[59],[3],SAMQ.tsv,S0202,S0208
+i've,1,59,"[59, 92]","[5, 101, 119]",SAMQ.tsv,S0202,S0208
+close to my parent,4,59,[59],[56],SAMQ.tsv,S0202,S0208
+my parent,2,64,[59],[64],SAMQ.tsv,S0202,S0208
+i've get,2,101,[59],[101],SAMQ.tsv,S0202,S0208
+but that's,2,61,"[61, 114]","[14, 74, 105]",SAMQ.tsv,S0202,S0208
+that's,1,61,"[61, 114]","[24, 56, 86, 113, 119, 141]",SAMQ.tsv,S0202,S0208
+you know what i mean,5,61,[61],[38],SAMQ.tsv,S0202,S0208
+what i mean,3,61,[61],[44],SAMQ.tsv,S0202,S0208
+very often,2,61,[61],[54],SAMQ.tsv,S0202,S0208
+see each other,3,62,"[61, 63]",[62],SAMQ.tsv,S0202,S0208
+very often but,3,64,[61],[64],SAMQ.tsv,S0202,S0208
+you know,2,64,[61],[64],SAMQ.tsv,S0202,S0208
+don't see,2,64,[61],[64],SAMQ.tsv,S0202,S0208
+know what,2,84,[61],[84],SAMQ.tsv,S0202,S0208
+and my,2,105,[61],[105],SAMQ.tsv,S0202,S0208
+me and,2,121,[61],[121],SAMQ.tsv,S0202,S0208
+go,1,63,[63],"[5, 137, 153]",SAMQ.tsv,S0202,S0208
+as long,2,63,[63],[9],SAMQ.tsv,S0202,S0208
+it's not,2,74,"[63, 124]","[74, 119, 125]",SAMQ.tsv,S0202,S0208
+not to,2,74,"[63, 112]",[74],SAMQ.tsv,S0202,S0208
+your mum,2,67,"[67, 92]","[24, 32]",SAMQ.tsv,S0202,S0208
+well,1,67,"[67, 96, 118]","[24, 40, 66, 101, 105, 139]",SAMQ.tsv,S0202,S0208
+problems,1,101,[67],[101],SAMQ.tsv,S0202,S0208
+that she look,3,69,[69],[3],SAMQ.tsv,S0202,S0208
+but i,2,69,"[69, 138]","[3, 109, 72]",SAMQ.tsv,S0202,S0208
+conscious,1,69,"[69, 98]",[3],SAMQ.tsv,S0202,S0208
+i genuinely,2,69,[69],[5],SAMQ.tsv,S0202,S0208
+nice,1,69,"[69, 92]",[5],SAMQ.tsv,S0202,S0208
+have you,2,69,"[69, 94]",[16],SAMQ.tsv,S0202,S0208
+that she,2,69,[69],"[38, 86]",SAMQ.tsv,S0202,S0208
+just say,2,69,[69],[42],SAMQ.tsv,S0202,S0208
+oh you look,3,69,[69],[44],SAMQ.tsv,S0202,S0208
+of like,2,69,[69],[44],SAMQ.tsv,S0202,S0208
+oh you,2,69,[69],[44],SAMQ.tsv,S0202,S0208
+it but i,3,72,[69],[72],SAMQ.tsv,S0202,S0208
+when i,2,72,"[69, 92, 94]","[72, 74, 105]",SAMQ.tsv,S0202,S0208
+genuinely,1,78,[69],[78],SAMQ.tsv,S0202,S0208
+lose weight,2,86,"[69, 94]",[86],SAMQ.tsv,S0202,S0208
+you look,2,88,"[69, 92]",[88],SAMQ.tsv,S0202,S0208
+so i,2,109,[69],[109],SAMQ.tsv,S0202,S0208
+always,1,119,"[69, 92]","[119, 121]",SAMQ.tsv,S0202,S0208
+to be,2,89,[89],"[10, 74, 129]",SAMQ.tsv,S0202,S0208
+get to,2,89,[89],[38],SAMQ.tsv,S0202,S0208
+of her,2,90,[90],[48],SAMQ.tsv,S0202,S0208
+conscious effort to tell,4,92,[92],[3],SAMQ.tsv,S0202,S0208
+cos i've,2,92,[92],[5],SAMQ.tsv,S0202,S0208
+before and,2,92,[92],[5],SAMQ.tsv,S0202,S0208
+i'm just,2,92,[92],[5],SAMQ.tsv,S0202,S0208
+tell them,2,92,[92],[48],SAMQ.tsv,S0202,S0208
+and i'm just like,4,92,[92],[86],SAMQ.tsv,S0202,S0208
+and when,2,92,[92],[86],SAMQ.tsv,S0202,S0208
+and i've,2,101,[92],"[101, 119]",SAMQ.tsv,S0202,S0208
+hear,1,107,[92],[107],SAMQ.tsv,S0202,S0208
+to tell,2,109,[92],[109],SAMQ.tsv,S0202,S0208
+and i'm,2,121,[92],[121],SAMQ.tsv,S0202,S0208
+much,1,94,[94],"[44, 76, 101]",SAMQ.tsv,S0202,S0208
+last time i saw her,5,94,[94],[50],SAMQ.tsv,S0202,S0208
+see them,2,94,[94],[64],SAMQ.tsv,S0202,S0208
+i saw her,3,94,[94],"[72, 74]",SAMQ.tsv,S0202,S0208
+first,1,94,"[94, 96]","[72, 86, 105]",SAMQ.tsv,S0202,S0208
+since,1,101,[94],"[101, 109]",SAMQ.tsv,S0202,S0208
+when i get back,4,105,[94],[105],SAMQ.tsv,S0202,S0208
+back,1,107,[94],[107],SAMQ.tsv,S0202,S0208
+saw,1,109,[94],[109],SAMQ.tsv,S0202,S0208
+time i,2,113,[94],[113],SAMQ.tsv,S0202,S0208
+you have,2,141,"[94, 142]",[141],SAMQ.tsv,S0202,S0208
+so much,2,151,[94],[151],SAMQ.tsv,S0202,S0208
+as well,2,96,"[96, 118]","[24, 66, 101, 105]",SAMQ.tsv,S0202,S0208
+she probably,2,96,[96],[38],SAMQ.tsv,S0202,S0208
+thing,1,96,[96],[38],SAMQ.tsv,S0202,S0208
+someone,1,96,[96],"[40, 44]",SAMQ.tsv,S0202,S0208
+the same,2,96,[96],"[44, 64]",SAMQ.tsv,S0202,S0208
+the first,2,96,[96],"[72, 105]",SAMQ.tsv,S0202,S0208
+it be,2,96,[96],"[86, 105, 107, 133]",SAMQ.tsv,S0202,S0208
+probably weigh,2,96,[96],[91],SAMQ.tsv,S0202,S0208
+notice,1,105,[96],[105],SAMQ.tsv,S0202,S0208
+short,1,107,"[96, 98]",[107],SAMQ.tsv,S0202,S0208
+of it,2,119,[98],[119],SAMQ.tsv,S0202,S0208
+you be,2,112,"[112, 130]",[26],SAMQ.tsv,S0202,S0208
+bring it up with,4,112,[112],[40],SAMQ.tsv,S0202,S0208
+when you,2,112,[112],[62],SAMQ.tsv,S0202,S0208
+drink,1,112,[112],[107],SAMQ.tsv,S0202,S0208
+be drink,2,119,[112],[119],SAMQ.tsv,S0202,S0208
+bring it up,3,114,[114],[40],SAMQ.tsv,S0202,S0208
+feel,1,116,[116],[101],SAMQ.tsv,S0202,S0208
+i didn't,2,117,[116],[117],SAMQ.tsv,S0202,S0208
+body,1,118,"[118, 126]","[3, 82]",SAMQ.tsv,S0202,S0208
+as you,2,118,"[118, 126]",[9],SAMQ.tsv,S0202,S0208
+probably,1,118,[118],"[38, 91]",SAMQ.tsv,S0202,S0208
+you do,2,121,[118],[121],SAMQ.tsv,S0202,S0208
+healthy,1,124,[124],[82],SAMQ.tsv,S0202,S0208
+body but,2,126,[126],[3],SAMQ.tsv,S0202,S0208
+to you,2,126,[126],[9],SAMQ.tsv,S0202,S0208
+there's,1,126,[126],[9],SAMQ.tsv,S0202,S0208
+say that to,3,126,[126],[26],SAMQ.tsv,S0202,S0208
+that to,2,126,[126],[66],SAMQ.tsv,S0202,S0208
+worry about,2,126,"[126, 136]",[84],SAMQ.tsv,S0202,S0208
+say that,2,126,[126],[86],SAMQ.tsv,S0202,S0208
+wrong,1,126,[126],[86],SAMQ.tsv,S0202,S0208
+change,1,126,[126],[107],SAMQ.tsv,S0202,S0208
+but it doesn't,3,129,[126],[129],SAMQ.tsv,S0202,S0208
+it doesn't,2,145,"[126, 138]",[145],SAMQ.tsv,S0202,S0208
+know that,2,128,[128],[66],SAMQ.tsv,S0202,S0208
+the stressful,2,130,[130],[74],SAMQ.tsv,S0202,S0208
+stressful environment,2,130,[130],[101],SAMQ.tsv,S0202,S0208
+anyway,1,136,"[136, 140]",[3],SAMQ.tsv,S0202,S0208
+cos she,2,136,[136],[50],SAMQ.tsv,S0202,S0208
+my mum,2,136,[136],"[66, 78]",SAMQ.tsv,S0202,S0208
+she didn't,2,136,[136],[107],SAMQ.tsv,S0202,S0208
+gonna,1,138,[138],[54],SAMQ.tsv,S0202,S0208
+not gonna,2,138,[138],[74],SAMQ.tsv,S0202,S0208
+even,1,142,[142],[86],SAMQ.tsv,S0202,S0208
+alright,1,148,[148],[44],SAMQ.tsv,S0202,S0208
+look at,2,148,[148],[88],SAMQ.tsv,S0202,S0208
+be so,2,148,[148],[119],SAMQ.tsv,S0202,S0208
+start,1,156,[156],[86],SAMQ.tsv,S0202,S0208

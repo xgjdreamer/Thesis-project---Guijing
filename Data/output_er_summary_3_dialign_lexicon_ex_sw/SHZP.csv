@@ -1,0 +1,491 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+wed,1,3,"[0, 3, 7, 39, 65, 70, 116, 189, 191, 217, 220, 221, 222, 225, 240, 316, 319, 401, 454, 477, 604, 648]",SHZP.tsv
+be you,2,7,"[0, 4, 7]",SHZP.tsv
+talk,1,105,"[0, 105, 116, 217, 350, 430, 450, 454, 477, 604]",SHZP.tsv
+about the,2,133,"[0, 133, 217, 477]",SHZP.tsv
+and you,2,135,"[0, 2, 120, 135, 194, 282, 303, 309, 424, 442, 477, 532]",SHZP.tsv
+so what be,3,372,"[0, 372]",SHZP.tsv
+what be,2,372,"[0, 217, 372]",SHZP.tsv
+right,1,233,"[0, 8, 40, 217, 233, 259, 267, 287, 302, 340, 382, 427, 433, 456, 588, 589, 607, 626, 638, 643, 664]",SHZP.tsv
+be we,2,428,"[0, 217, 428]",SHZP.tsv
+we talk about,3,430,"[0, 217, 430]",SHZP.tsv
+talk about,2,430,"[0, 430, 450, 454]",SHZP.tsv
+be talk about the,4,450,"[0, 450, 454]",SHZP.tsv
+erm so,2,471,"[0, 471]",SHZP.tsv
+wed and you,3,477,"[0, 477]",SHZP.tsv
+we talk,2,604,"[0, 217, 604]",SHZP.tsv
+wed and,2,604,"[0, 604]",SHZP.tsv
+mother of the,3,2,"[1, 2]",SHZP.tsv
+go into the back of,5,3,"[2, 3]",SHZP.tsv
+go,1,3,"[2, 3, 7, 23, 26, 31, 37, 54, 65, 151, 175, 186, 202, 246, 265, 266, 281, 316, 317, 319, 345, 377, 424, 488, 492, 500, 504, 506, 566, 586, 604, 656, 666]",SHZP.tsv
+wardrobe,1,3,"[2, 3, 7]",SHZP.tsv
+the back of,3,7,"[2, 7, 15]",SHZP.tsv
+yeah,1,27,"[2, 27, 35, 38, 43, 50, 56, 57, 59, 64, 77, 79, 93, 97, 99, 105, 109, 114, 133, 167, 179, 181, 184, 192, 196, 200, 203, 205, 207, 212, 235, 249, 258, 295, 297, 313, 327, 329, 333, 335, 338, 342, 343, 347, 352, 353, 364, 369, 375, 377, 386, 392, 394, 395, 397, 399, 422, 429, 431, 434, 473, 475, 479, 485, 496, 503, 507, 515, 521, 524, 549, 554, 555, 556, 557, 558, 561, 575, 587, 589, 599, 602, 622, 624, 645, 647, 652, 653, 657]",SHZP.tsv
+mother of,2,41,"[2, 41]",SHZP.tsv
+the bride,2,41,"[2, 41, 373]",SHZP.tsv
+mother,1,139,"[2, 139]",SHZP.tsv
+of the,2,116,"[1, 2, 116, 270, 363, 504, 522, 584, 586]",SHZP.tsv
+back,1,284,"[2, 217, 265, 284]",SHZP.tsv
+want,1,65,"[4, 28, 65, 175, 194, 266, 363, 376, 401, 465, 477]",SHZP.tsv
+don't want,2,175,"[4, 175]",SHZP.tsv
+a cup of,3,177,"[4, 177]",SHZP.tsv
+coffee,1,177,"[4, 177]",SHZP.tsv
+sure,1,345,"[4, 345, 487]",SHZP.tsv
+want a,2,401,"[4, 401]",SHZP.tsv
+oh right,2,233,"[8, 40, 233, 259, 267, 287, 302, 340, 456, 626, 638, 643]",SHZP.tsv
+colour,1,393,"[10, 377, 393]",SHZP.tsv
+alter,1,239,"[16, 239]",SHZP.tsv
+can't,1,266,"[16, 266, 597]",SHZP.tsv
+you have,2,401,"[16, 86, 401, 438, 454, 471]",SHZP.tsv
+have it,2,613,"[16, 613]",SHZP.tsv
+length,1,18,"[13, 18]",SHZP.tsv
+that's,1,20,"[17, 20, 71, 109, 117, 118, 120, 129, 151, 185, 254, 282, 291, 306, 314, 319, 361, 363, 448, 455, 461, 595, 608]",SHZP.tsv
+really,1,49,"[20, 28, 49, 57, 105, 147, 151, 166, 175, 211, 213, 252, 255, 257, 294, 345, 421, 424, 501, 523, 537, 543, 576, 596, 604, 608, 662]",SHZP.tsv
+good,1,109,"[20, 109, 193, 213, 455, 564, 571, 608]",SHZP.tsv
+look,1,22,"[17, 22, 23, 32, 34, 41, 239, 244, 256, 258, 377, 392, 454, 457, 578, 604, 617]",SHZP.tsv
+something,1,31,"[26, 31, 62, 333, 401, 464, 504, 571]",SHZP.tsv
+it's a,2,67,"[26, 67, 190, 195, 477, 560]",SHZP.tsv
+to go,2,175,"[26, 175, 246, 492]",SHZP.tsv
+do it,2,28,"[13, 28, 307, 363, 648]",SHZP.tsv
+i i,2,28,"[17, 28, 29, 36, 41, 145, 195, 488, 591]",SHZP.tsv
+have to,2,31,"[28, 31, 34, 39, 44, 307, 454, 471, 492, 522]",SHZP.tsv
+want to,2,65,"[28, 65, 194, 266, 363, 401, 465, 477]",SHZP.tsv
+really don't want to,4,175,"[28, 175]",SHZP.tsv
+to do,2,102,"[28, 102, 401, 490]",SHZP.tsv
+to have,2,604,"[28, 316, 604, 617, 665]",SHZP.tsv
+i think,2,32,"[17, 29, 32, 58, 110, 145, 151, 195, 230, 317, 319, 347, 351, 504, 536, 561, 578, 591, 639, 665, 666]",SHZP.tsv
+might,1,32,"[17, 32]",SHZP.tsv
+think,1,32,"[17, 23, 29, 32, 58, 110, 122, 145, 151, 195, 230, 317, 319, 336, 345, 347, 351, 461, 471, 504, 536, 561, 578, 591, 639, 665, 666]",SHZP.tsv
+look at,2,32,"[23, 32, 41, 239, 244, 256, 258, 604]",SHZP.tsv
+but the,2,93,"[32, 93, 151, 266]",SHZP.tsv
+nice,1,71,"[32, 71, 131, 457, 597]",SHZP.tsv
+quite,1,106,"[32, 106, 110, 153, 199, 334, 387, 396, 457, 608]",SHZP.tsv
+might be,2,239,"[32, 239]",SHZP.tsv
+thing,1,57,"[32, 57, 185, 254, 307, 521, 564, 638, 658]",SHZP.tsv
+the other,2,454,"[32, 454, 584]",SHZP.tsv
+quite nice,2,457,"[32, 457]",SHZP.tsv
+be that,2,116,"[32, 116, 578, 624]",SHZP.tsv
+ago,1,34,"[7, 34, 515]",SHZP.tsv
+all the,2,34,"[13, 34, 151, 258, 488, 604, 627]",SHZP.tsv
+hundreds of,2,34,"[23, 34]",SHZP.tsv
+one,1,34,"[23, 34, 52, 54, 55, 99, 125, 151, 282, 337, 363, 420, 454, 471, 504, 530, 575]",SHZP.tsv
+and have to,3,34,"[31, 34]",SHZP.tsv
+i be,2,34,"[31, 34, 594]",SHZP.tsv
+have to buy,3,39,"[34, 39]",SHZP.tsv
+buy,1,39,"[34, 39, 254]",SHZP.tsv
+notice,1,60,"[34, 60, 65]",SHZP.tsv
+could have,2,83,"[34, 83, 454]",SHZP.tsv
+one in,2,151,"[34, 151]",SHZP.tsv
+things,1,155,"[34, 86, 155, 317, 345, 376, 482, 518]",SHZP.tsv
+pound,1,190,"[34, 190]",SHZP.tsv
+months,1,236,"[34, 229, 236, 268]",SHZP.tsv
+make,1,309,"[34, 309, 390, 440, 465, 471, 496, 532, 564]",SHZP.tsv
+could,1,322,"[34, 83, 322, 337, 454]",SHZP.tsv
+find,1,420,"[34, 420, 492]",SHZP.tsv
+short,1,62,"[34, 62, 562]",SHZP.tsv
+on the,2,39,"[36, 39, 194, 454, 530, 532]",SHZP.tsv
+and and,2,155,"[36, 155, 301]",SHZP.tsv
+fifty,1,288,"[36, 288]",SHZP.tsv
+well,1,44,"[41, 44, 99, 103, 107, 109, 150, 171, 227, 236, 239, 278, 282, 309, 311, 339, 346, 360, 373, 396, 401, 450, 451, 465, 564, 571, 574, 591, 604, 665]",SHZP.tsv
+be alright,2,345,"[44, 345]",SHZP.tsv
+well you,2,604,"[44, 604]",SHZP.tsv
+one of,2,363,"[52, 363, 575]",SHZP.tsv
+one more,2,55,"[54, 55]",SHZP.tsv
+they're,1,226,"[54, 226, 227, 244, 256, 258, 265, 309, 345, 409, 448, 454, 591, 594, 601, 617, 625, 642]",SHZP.tsv
+go on,2,604,"[54, 604]",SHZP.tsv
+mm yeah,2,473,"[56, 473]",SHZP.tsv
+beautiful,1,69,"[13, 69, 346]",SHZP.tsv
+mean,1,82,"[60, 63, 82, 153, 157, 239, 248, 277, 279, 307, 334, 545, 563]",SHZP.tsv
+no flower,2,82,"[67, 82]",SHZP.tsv
+a bouquet,2,83,"[82, 83, 93]",SHZP.tsv
+do that,2,85,"[82, 85, 268, 358, 363, 464]",SHZP.tsv
+flower,1,85,"[82, 85, 239, 490]",SHZP.tsv
+and all,2,153,"[82, 153, 604]",SHZP.tsv
+kind of,2,116,"[82, 92, 116, 155, 307, 462, 578, 648]",SHZP.tsv
+so she,2,268,"[82, 268, 377, 525]",SHZP.tsv
+she have,2,341,"[82, 96, 341]",SHZP.tsv
+like,1,86,"[23, 86, 248, 317, 345, 370, 373, 376, 381, 401, 506, 535, 547, 578]",SHZP.tsv
+holly and,2,454,"[88, 454]",SHZP.tsv
+you can,2,92,"[17, 92, 373, 419]",SHZP.tsv
+bridesmaids,1,96,"[93, 96]",SHZP.tsv
+many,1,197,"[96, 197, 229, 307]",SHZP.tsv
+school,1,98,"[85, 98, 99, 115, 291, 656]",SHZP.tsv
+old school,2,99,"[98, 99]",SHZP.tsv
+friends,1,345,"[98, 345, 454, 568]",SHZP.tsv
+be there,2,477,"[98, 477, 582]",SHZP.tsv
+i don't,2,120,"[17, 120, 122, 307, 334, 336, 373, 471, 604]",SHZP.tsv
+suit,1,120,"[17, 49, 120]",SHZP.tsv
+get,1,120,"[31, 102, 120, 168, 177, 186, 189, 191, 194, 217, 236, 266, 285, 303, 309, 345, 417, 447, 449, 522, 564, 604, 607, 629, 641]",SHZP.tsv
+a suit,2,120,"[49, 120]",SHZP.tsv
+but i,2,120,"[55, 120, 157]",SHZP.tsv
+that's him,2,120,"[117, 118, 120, 129]",SHZP.tsv
+you wouldn't,2,424,"[120, 424]",SHZP.tsv
+i don't think,3,122,"[17, 122, 336]",SHZP.tsv
+no i,2,122,"[17, 122, 336, 373]",SHZP.tsv
+think it's,2,122,"[29, 122, 230]",SHZP.tsv
+do you,2,130,"[112, 130, 317, 514]",SHZP.tsv
+'s,1,221,"[130, 221, 225, 344, 401, 454, 526, 575, 630, 634]",SHZP.tsv
+chat,1,130,"[112, 130, 604]",SHZP.tsv
+i'd,1,145,"[7, 23, 145, 157, 508, 583]",SHZP.tsv
+think i'd,2,145,"[23, 145]",SHZP.tsv
+i i think,3,145,"[29, 145, 195, 591]",SHZP.tsv
+start,1,145,"[72, 145, 258, 266, 604]",SHZP.tsv
+better,1,206,"[145, 206]",SHZP.tsv
+you be,2,363,"[150, 363, 499]",SHZP.tsv
+as well,2,665,"[150, 360, 665]",SHZP.tsv
+know,1,171,"[7, 17, 23, 31, 37, 41, 57, 61, 63, 74, 83, 85, 106, 110, 112, 118, 135, 139, 141, 151, 153, 155, 157, 161, 165, 167, 171, 175, 178, 192, 194, 239, 246, 258, 262, 266, 272, 282, 284, 301, 303, 307, 317, 330, 334, 337, 339, 343, 345, 354, 373, 414, 424, 442, 448, 454, 465, 469, 471, 480, 500, 508, 526, 532, 561, 604, 651, 660]",SHZP.tsv
+i just,2,171,"[23, 41, 171]",SHZP.tsv
+time,1,171,"[29, 67, 168, 171, 258, 270, 377, 442, 490, 515, 525, 562]",SHZP.tsv
+know if,2,171,"[31, 171, 239, 303, 334]",SHZP.tsv
+if i,2,171,"[31, 171]",SHZP.tsv
+i can,2,200,"[171, 200, 475, 477]",SHZP.tsv
+don't know,2,307,"[171, 307, 334, 337, 345, 471]",SHZP.tsv
+well i,2,604,"[171, 604]",SHZP.tsv
+i've,1,176,"[17, 176, 178, 474, 480, 604]",SHZP.tsv
+see,1,176,"[23, 176, 178, 194, 345, 594]",SHZP.tsv
+people,1,176,"[110, 176, 178, 266, 317, 477, 492, 530, 597, 635]",SHZP.tsv
+i know,2,178,"[118, 178, 192, 354, 448, 500, 561]",SHZP.tsv
+days,1,194,"[180, 194, 260, 282, 480]",SHZP.tsv
+get a,2,189,"[31, 168, 177, 189, 191, 236, 345]",SHZP.tsv
+never,1,189,"[161, 189, 191, 200]",SHZP.tsv
+and it,2,209,"[13, 25, 209, 387, 388, 604]",SHZP.tsv
+send,1,667,"[209, 667]",SHZP.tsv
+to get,2,217,"[31, 186, 217, 522]",SHZP.tsv
+the wed,2,217,"[39, 70, 217, 454, 604]",SHZP.tsv
+just to,2,284,"[217, 284]",SHZP.tsv
+talk about the,3,450,"[217, 450, 454]",SHZP.tsv
+about the wed,3,477,"[217, 477]",SHZP.tsv
+'s wed,2,225,"[221, 225, 401]",SHZP.tsv
+er they're,2,345,"[227, 345]",SHZP.tsv
+september,1,231,"[230, 231, 232, 239, 442, 604]",SHZP.tsv
+not er,2,266,"[231, 266]",SHZP.tsv
+i have,2,234,"[3, 7, 15, 39, 183, 234, 480, 492]",SHZP.tsv
+it be,2,234,"[13, 27, 58, 105, 234, 239, 252, 335, 347, 387, 388, 391, 393, 427, 428, 435, 439, 515, 549, 551, 596, 604, 658]",SHZP.tsv
+my mind that,3,234,"[15, 234]",SHZP.tsv
+mind,1,234,"[23, 234]",SHZP.tsv
+it in my,3,234,"[55, 234]",SHZP.tsv
+be in,2,270,"[234, 270]",SHZP.tsv
+have it in,3,613,"[234, 613]",SHZP.tsv
+garden,1,241,"[240, 241, 246, 613]",SHZP.tsv
+be he,2,240,"[125, 240, 316, 319]",SHZP.tsv
+lovely,1,243,"[222, 243, 245, 250, 491, 497, 601]",SHZP.tsv
+be lovely,2,252,"[243, 245, 252, 337, 393, 426]",SHZP.tsv
+it'll be,2,245,"[7, 37, 74, 239, 245, 345, 463]",SHZP.tsv
+it'll,1,245,"[67, 245, 615]",SHZP.tsv
+stay,1,264,"[263, 264, 285]",SHZP.tsv
+home,1,282,"[263, 282]",SHZP.tsv
+gonna,1,317,"[263, 317, 319, 471, 607]",SHZP.tsv
+be they,2,372,"[263, 372, 578]",SHZP.tsv
+they're not,2,265,"[226, 265]",SHZP.tsv
+and they're,2,601,"[265, 601, 617]",SHZP.tsv
+with you,2,454,"[275, 454]",SHZP.tsv
+live with,2,550,"[275, 550]",SHZP.tsv
+i mean,2,277,"[60, 63, 153, 157, 239, 248, 277, 279, 307, 334, 545, 563]",SHZP.tsv
+week,1,279,"[239, 258, 279, 605]",SHZP.tsv
+during the week,3,280,"[279, 280]",SHZP.tsv
+and then,2,281,"[194, 268, 281, 498, 500, 525, 538, 604]",SHZP.tsv
+london,1,281,"[266, 268, 270, 281, 282, 285, 289, 454]",SHZP.tsv
+he go,2,319,"[281, 319]",SHZP.tsv
+and have,2,285,"[31, 285, 377]",SHZP.tsv
+in london,2,285,"[266, 268, 270, 282, 285, 289]",SHZP.tsv
+up there,2,286,"[285, 286, 346, 368]",SHZP.tsv
+teach,1,293,"[292, 293, 298]",SHZP.tsv
+sing,1,319,"[298, 319]",SHZP.tsv
+go to,2,316,"[7, 23, 37, 65, 151, 186, 202, 266, 316, 319, 345, 656, 666]",SHZP.tsv
+be he go to,4,319,"[316, 319]",SHZP.tsv
+at his,2,319,"[316, 319]",SHZP.tsv
+so what,2,372,"[316, 372, 462]",SHZP.tsv
+he's,1,320,"[106, 110, 254, 258, 260, 282, 286, 288, 291, 317, 320, 370, 420, 510, 564, 597]",SHZP.tsv
+such a,2,346,"[250, 346]",SHZP.tsv
+this be,2,348,"[3, 65, 345, 348, 349]",SHZP.tsv
+no this be,3,446,"[348, 446]",SHZP.tsv
+isn't it,2,348,"[78, 334, 348, 477, 563, 595, 608, 609]",SHZP.tsv
+we're,1,350,"[147, 165, 350, 465, 471, 604]",SHZP.tsv
+they do,2,354,"[85, 354, 357, 358, 400]",SHZP.tsv
+play,1,354,"[85, 345, 354]",SHZP.tsv
+summer,1,354,"[239, 354]",SHZP.tsv
+light,1,356,"[67, 356, 361, 363, 370, 398, 412]",SHZP.tsv
+tree,1,356,"[83, 356]",SHZP.tsv
+they have,2,356,"[85, 356]",SHZP.tsv
+the tree,2,407,"[356, 407]",SHZP.tsv
+light up,2,412,"[356, 412]",SHZP.tsv
+they do that,3,358,"[85, 358]",SHZP.tsv
+do they,2,365,"[358, 365, 649, 651]",SHZP.tsv
+winter,1,360,"[7, 360]",SHZP.tsv
+come,1,364,"[23, 60, 74, 282, 361, 364, 365, 396, 398, 409, 414, 534, 538, 584]",SHZP.tsv
+marquee,1,364,"[246, 364, 401, 500]",SHZP.tsv
+they come with the marquee,5,365,"[364, 365]",SHZP.tsv
+with the,2,364,"[112, 364, 365, 457]",SHZP.tsv
+put,1,368,"[55, 254, 368, 370, 385, 528, 530]",SHZP.tsv
+put them,2,368,"[254, 368]",SHZP.tsv
+blue,1,370,"[11, 17, 370, 380, 381, 385, 391]",SHZP.tsv
+cos,1,109,"[106, 109, 197, 328, 370, 387, 510, 516, 582, 604, 607, 654]",SHZP.tsv
+there and,2,525,"[370, 525]",SHZP.tsv
+and she,2,604,"[370, 381, 526, 530, 534, 538, 604]",SHZP.tsv
+you know,2,373,"[7, 17, 23, 31, 37, 41, 57, 61, 63, 74, 83, 85, 106, 110, 112, 135, 139, 141, 151, 153, 155, 157, 161, 165, 167, 175, 194, 239, 246, 258, 262, 266, 272, 282, 284, 301, 303, 307, 317, 339, 343, 345, 373, 414, 424, 442, 454, 465, 469, 480, 508, 526, 532, 604, 660]",SHZP.tsv
+i say,2,373,"[17, 373, 379, 604]",SHZP.tsv
+say,1,373,"[17, 63, 126, 153, 213, 266, 345, 373, 377, 379, 380, 454, 467, 571, 604, 607]",SHZP.tsv
+you know you're,3,373,"[194, 373]",SHZP.tsv
+say to,2,373,"[266, 373]",SHZP.tsv
+and she say,3,604,"[373, 604]",SHZP.tsv
+say well,2,604,"[373, 604]",SHZP.tsv
+she say,2,604,"[373, 377, 604]",SHZP.tsv
+sort of,2,376,"[13, 106, 153, 194, 254, 301, 376, 377, 454]",SHZP.tsv
+as you,2,376,"[41, 376]",SHZP.tsv
+all sort of,3,376,"[153, 376]",SHZP.tsv
+you want,2,376,"[194, 376, 477]",SHZP.tsv
+and i,2,377,"[3, 15, 29, 39, 41, 202, 307, 377, 492, 550, 571, 597, 604]",SHZP.tsv
+be erm,2,377,"[13, 239, 377, 401, 454]",SHZP.tsv
+have a,2,377,"[83, 112, 239, 282, 377, 438, 448, 494, 499]",SHZP.tsv
+yeah and,2,377,"[93, 133, 377]",SHZP.tsv
+next,1,377,"[194, 239, 377, 604]",SHZP.tsv
+they be,2,377,"[264, 377, 379, 380, 381, 387, 591, 602, 645]",SHZP.tsv
+erm er,2,377,"[266, 377]",SHZP.tsv
+silvery,1,391,"[377, 391]",SHZP.tsv
+and the,2,407,"[377, 407, 426, 471, 538]",SHZP.tsv
+and the next,3,471,"[377, 471]",SHZP.tsv
+the next,2,471,"[377, 471, 605]",SHZP.tsv
+say they be,3,380,"[379, 380]",SHZP.tsv
+so he,2,385,"[284, 385]",SHZP.tsv
+and they,2,407,"[385, 407, 494]",SHZP.tsv
+and it be,3,387,"[13, 387, 388, 604]",SHZP.tsv
+that that,2,660,"[389, 660]",SHZP.tsv
+yeah it,2,392,"[77, 392, 515, 549]",SHZP.tsv
+white,1,392,"[372, 390, 392]",SHZP.tsv
+come out,2,396,"[23, 396, 534, 538, 584]",SHZP.tsv
+they they,2,400,"[99, 400]",SHZP.tsv
+actually,1,417,"[105, 299, 345, 414, 417, 427, 457, 482, 581, 594]",SHZP.tsv
+with a,2,417,"[266, 417, 573]",SHZP.tsv
+clear,1,417,"[401, 417]",SHZP.tsv
+roof,1,417,"[401, 417]",SHZP.tsv
+a clear roof,3,438,"[417, 438]",SHZP.tsv
+fifth,1,445,"[232, 239, 445]",SHZP.tsv
+fifth of,2,445,"[442, 445, 604]",SHZP.tsv
+i'm,1,447,"[7, 13, 17, 23, 37, 186, 196, 202, 210, 239, 345, 447, 448, 454, 461, 472, 487, 666]",SHZP.tsv
+weddings,1,447,"[218, 447, 454]",SHZP.tsv
+must,1,449,"[299, 449]",SHZP.tsv
+must get,2,607,"[449, 607]",SHZP.tsv
+market food,2,462,"[454, 462]",SHZP.tsv
+food,1,462,"[454, 462]",SHZP.tsv
+market,1,462,"[454, 462, 465, 619, 620]",SHZP.tsv
+who do,2,464,"[224, 307, 464]",SHZP.tsv
+bite,1,472,"[74, 106, 136, 168, 448, 472, 575]",SHZP.tsv
+at the moment,3,472,"[264, 472, 604]",SHZP.tsv
+a bite,2,472,"[106, 136, 168, 448, 472]",SHZP.tsv
+empty,1,477,"[472, 477]",SHZP.tsv
+at the,2,525,"[472, 500, 525, 604]",SHZP.tsv
+finish,1,474,"[85, 474]",SHZP.tsv
+ideas,1,474,"[471, 474]",SHZP.tsv
+all my,2,607,"[474, 607]",SHZP.tsv
+use,1,476,"[303, 309, 476, 562]",SHZP.tsv
+erm you know,3,480,"[41, 239, 258, 480]",SHZP.tsv
+interest,1,480,"[105, 110, 137, 306, 345, 480, 516, 604]",SHZP.tsv
+over the,2,604,"[480, 604]",SHZP.tsv
+happen,1,484,"[483, 484]",SHZP.tsv
+different,1,486,"[106, 108, 239, 486, 494]",SHZP.tsv
+i go,2,488,"[3, 202, 488]",SHZP.tsv
+erm and,2,488,"[17, 23, 454, 488, 500]",SHZP.tsv
+cake,1,488,"[471, 488]",SHZP.tsv
+in the,2,490,"[13, 15, 67, 83, 110, 156, 200, 226, 241, 246, 266, 405, 490, 522, 568, 604]",SHZP.tsv
+time to,2,490,"[29, 490]",SHZP.tsv
+in the church,3,490,"[67, 83, 490]",SHZP.tsv
+the church,2,490,"[83, 401, 490, 604]",SHZP.tsv
+and i have,3,492,"[3, 15, 492]",SHZP.tsv
+and i have to,4,492,"[39, 492]",SHZP.tsv
+place,1,492,"[254, 492, 562]",SHZP.tsv
+people who,2,492,"[477, 492, 635]",SHZP.tsv
+live,1,550,"[492, 500, 550]",SHZP.tsv
+to make,2,496,"[465, 496]",SHZP.tsv
+go into the,3,500,"[3, 500]",SHZP.tsv
+be a,2,500,"[3, 7, 266, 463, 500, 515, 615]",SHZP.tsv
+there be,2,500,"[13, 67, 197, 500, 582]",SHZP.tsv
+a very,2,500,"[17, 500]",SHZP.tsv
+trouble,1,500,"[173, 500]",SHZP.tsv
+the marquee,2,500,"[365, 500]",SHZP.tsv
+fact,1,502,"[139, 502]",SHZP.tsv
+in fact,2,502,"[230, 363, 428, 502, 624]",SHZP.tsv
+go in,2,504,"[246, 504]",SHZP.tsv
+one of the,3,504,"[363, 504]",SHZP.tsv
+big,1,504,"[363, 504]",SHZP.tsv
+anything,1,506,"[17, 239, 506]",SHZP.tsv
+much,1,506,"[29, 506]",SHZP.tsv
+but not,2,506,"[85, 506]",SHZP.tsv
+outside,1,506,"[163, 401, 439, 506, 658]",SHZP.tsv
+as much as,3,506,"[284, 506]",SHZP.tsv
+lawn,1,506,"[405, 506]",SHZP.tsv
+er it,2,604,"[506, 604]",SHZP.tsv
+you know the,3,508,"[7, 57, 139, 508]",SHZP.tsv
+and i'd,2,508,"[7, 23, 508]",SHZP.tsv
+it and,2,508,"[155, 508]",SHZP.tsv
+ask you,2,508,"[363, 508]",SHZP.tsv
+ask,1,363,"[322, 363, 508, 667]",SHZP.tsv
+rent,1,510,"[286, 288, 510, 512]",SHZP.tsv
+that and,2,512,"[465, 512]",SHZP.tsv
+and it's,2,516,"[110, 516, 562]",SHZP.tsv
+interest cos,2,604,"[516, 604]",SHZP.tsv
+cos i,2,604,"[516, 604]",SHZP.tsv
+amongst,1,520,"[477, 520]",SHZP.tsv
+five,1,522,"[13, 467, 522]",SHZP.tsv
+day,1,522,"[76, 200, 282, 424, 522, 538, 563]",SHZP.tsv
+and erm,2,522,"[239, 317, 333, 463, 465, 522, 600, 625, 627]",SHZP.tsv
+erm in,2,522,"[262, 522]",SHZP.tsv
+be so,2,522,"[197, 522, 545, 546]",SHZP.tsv
+er and,2,526,"[29, 309, 463, 526]",SHZP.tsv
+the way,2,528,"[13, 57, 528]",SHZP.tsv
+way,1,57,"[13, 57, 528]",SHZP.tsv
+we have,2,528,"[29, 239, 528, 621]",SHZP.tsv
+he be,2,528,"[107, 528]",SHZP.tsv
+kind,1,528,"[116, 155, 307, 528, 578]",SHZP.tsv
+be put,2,528,"[254, 528]",SHZP.tsv
+show,1,528,"[299, 528]",SHZP.tsv
+and he,2,528,"[301, 528]",SHZP.tsv
+you know a,3,532,"[74, 532]",SHZP.tsv
+and you know,3,532,"[135, 194, 282, 424, 442, 532]",SHZP.tsv
+the day,2,538,"[200, 538]",SHZP.tsv
+yeah it be,3,549,"[515, 549]",SHZP.tsv
+be it's,2,551,"[67, 551, 560]",SHZP.tsv
+yeah i know,3,561,"[192, 561]",SHZP.tsv
+yeah i,2,342,"[192, 200, 342, 347, 475, 561, 645]",SHZP.tsv
+and everything,2,564,"[23, 564]",SHZP.tsv
+it's not,2,564,"[49, 562, 564]",SHZP.tsv
+even,1,564,"[51, 65, 439, 564, 604]",SHZP.tsv
+the erm,2,564,"[133, 564, 627]",SHZP.tsv
+everything,1,564,"[239, 564]",SHZP.tsv
+thing and he's,3,564,"[254, 564]",SHZP.tsv
+and she's,2,564,"[266, 564, 605]",SHZP.tsv
+and he's,2,564,"[291, 564]",SHZP.tsv
+good and,2,571,"[564, 571]",SHZP.tsv
+have any,2,568,"[471, 568]",SHZP.tsv
+four,1,573,"[156, 467, 573]",SHZP.tsv
+which have,2,575,"[17, 575]",SHZP.tsv
+already,1,575,"[254, 575]",SHZP.tsv
+i haven't,2,581,"[23, 581, 594]",SHZP.tsv
+to the,2,588,"[7, 23, 266, 454, 513, 588, 589, 611]",SHZP.tsv
+see them,2,594,"[194, 594]",SHZP.tsv
+yeah yeah,2,599,"[64, 79, 133, 167, 212, 335, 369, 422, 485, 555, 599]",SHZP.tsv
+they're look,2,617,"[244, 256, 258, 617]",SHZP.tsv
+the same,2,619,"[185, 226, 619, 623]",SHZP.tsv
+that we,2,621,"[604, 621]",SHZP.tsv
+company,1,623,"[361, 623, 624]",SHZP.tsv
+down in,2,625,"[200, 625]",SHZP.tsv
+marry,1,572,"[65, 331, 572, 604, 629, 641]",SHZP.tsv
+saturday,1,629,"[426, 629, 641]",SHZP.tsv
+son be get marry,4,629,"[604, 629]",SHZP.tsv
+get marry,2,629,"[604, 629, 641]",SHZP.tsv
+i think it's,3,639,"[29, 230, 639]",SHZP.tsv
+son,1,639,"[604, 639]",SHZP.tsv
+but they,2,648,"[333, 337, 648]",SHZP.tsv
+er yeah,2,652,"[192, 652]",SHZP.tsv
+i'm go,2,666,"[23, 666]",SHZP.tsv
+i'm go to,3,666,"[37, 186, 666]",SHZP.tsv
+clothe,1,116,"[0, 116]",SHZP.tsv
+you don't,2,123,"[4, 44, 123]",SHZP.tsv
+really good,2,213,"[20, 213]",SHZP.tsv
+oh it's,2,591,"[24, 231, 591]",SHZP.tsv
+though,1,334,"[26, 334, 480]",SHZP.tsv
+be quite,2,110,"[32, 110, 387]",SHZP.tsv
+stuff,1,334,"[32, 92, 334]",SHZP.tsv
+what about,2,158,"[82, 158, 344]",SHZP.tsv
+be she,2,570,"[96, 142, 275, 570]",SHZP.tsv
+acceptable,1,122,"[116, 122]",SHZP.tsv
+no i don't think,4,336,"[122, 336]",SHZP.tsv
+but it's,2,560,"[124, 560]",SHZP.tsv
+don't know if,3,334,"[171, 334]",SHZP.tsv
+a wed,2,189,"[116, 189, 191]",SHZP.tsv
+have he,2,285,"[112, 285]",SHZP.tsv
+that's very,2,314,"[71, 314, 608]",SHZP.tsv
+music,1,334,"[316, 334, 344]",SHZP.tsv
+it's it's,2,346,"[57, 334, 346, 560]",SHZP.tsv
+yeah they,2,602,"[364, 602]",SHZP.tsv
+cos he's,2,370,"[106, 370]",SHZP.tsv
+no i don't,3,373,"[336, 373]",SHZP.tsv
+wow,1,423,"[296, 423]",SHZP.tsv
+two,1,582,"[447, 582]",SHZP.tsv
+if it's,2,462,"[334, 462]",SHZP.tsv
+or something,2,464,"[62, 464, 504]",SHZP.tsv
+a different,2,494,"[106, 108, 494]",SHZP.tsv
+difficult,1,500,"[195, 500]",SHZP.tsv
+farm,1,634,"[500, 634]",SHZP.tsv
+field,1,586,"[510, 586]",SHZP.tsv
+the field,2,586,"[512, 586]",SHZP.tsv
+be very,2,591,"[528, 591]",SHZP.tsv
+it's like,2,547,"[535, 547]",SHZP.tsv
+pin prick,2,560,"[547, 560]",SHZP.tsv
+alsatians,1,578,"[573, 578, 591]",SHZP.tsv
+yeah it's,2,587,"[57, 587]",SHZP.tsv
+slightly to the right,4,589,"[588, 589]",SHZP.tsv
+dress,1,125,"[7, 17, 23, 31, 63, 83, 125]",SHZP.tsv
+be able to,3,169,"[7, 55, 169]",SHZP.tsv
+so it's,2,199,"[7, 199, 268, 609]",SHZP.tsv
+side,1,584,"[7, 37, 584]",SHZP.tsv
+wear,1,48,"[13, 48]",SHZP.tsv
+wear that,2,116,"[13, 116]",SHZP.tsv
+or a,2,62,"[17, 62, 239]",SHZP.tsv
+always,1,106,"[17, 106, 454]",SHZP.tsv
+for a,2,116,"[17, 116, 268, 288, 289, 317, 454, 562]",SHZP.tsv
+red,1,129,"[17, 129]",SHZP.tsv
+what's,1,48,"[23, 48, 162, 194, 266, 345]",SHZP.tsv
+nothing,1,560,"[23, 560]",SHZP.tsv
+just a,2,136,"[31, 49, 136]",SHZP.tsv
+a few,2,236,"[31, 230, 236]",SHZP.tsv
+yes,1,390,"[35, 37, 45, 70, 89, 91, 103, 126, 131, 143, 151, 170, 186, 226, 276, 280, 293, 325, 331, 353, 378, 390, 418, 420, 465, 507, 509, 527, 529, 531, 622, 638]",SHZP.tsv
+of that,2,136,"[37, 136]",SHZP.tsv
+be just,2,427,"[49, 65, 250, 427, 435]",SHZP.tsv
+be er,2,110,"[58, 110, 141]",SHZP.tsv
+be it's a,3,560,"[67, 560]",SHZP.tsv
+in it,2,197,"[83, 155, 197]",SHZP.tsv
+one be,2,125,"[99, 125]",SHZP.tsv
+well they,2,591,"[99, 591]",SHZP.tsv
+that's good,2,455,"[109, 455]",SHZP.tsv
+definitely,1,119,"[57, 119]",SHZP.tsv
+very nice,2,131,"[71, 131]",SHZP.tsv
+game of throne,3,197,"[135, 197]",SHZP.tsv
+tricky,1,199,"[151, 199]",SHZP.tsv
+it's quite,2,199,"[153, 199, 608]",SHZP.tsv
+i mean it's quite,4,334,"[153, 334]",SHZP.tsv
+i mean it's,3,563,"[153, 563]",SHZP.tsv
+it you know,3,155,"[57, 155]",SHZP.tsv
+but you know,3,157,"[106, 157]",SHZP.tsv
+that the,2,157,"[116, 157, 578]",SHZP.tsv
+doesn't he,2,330,"[161, 330]",SHZP.tsv
+be it,2,322,"[173, 322, 334, 388, 658]",SHZP.tsv
+go out,2,586,"[175, 586]",SHZP.tsv
+but you,2,194,"[106, 194, 266]",SHZP.tsv
+read,1,200,"[195, 200, 202]",SHZP.tsv
+visually,1,213,"[212, 213]",SHZP.tsv
+mm just a,3,230,"[136, 230]",SHZP.tsv
+that be,2,250,"[125, 250, 545, 546, 662]",SHZP.tsv
+really it,2,252,"[57, 252]",SHZP.tsv
+that's the,2,254,"[185, 254]",SHZP.tsv
+you know he's,3,258,"[106, 258]",SHZP.tsv
+he's do,2,258,"[110, 258]",SHZP.tsv
+do some,2,266,"[102, 266]",SHZP.tsv
+er they,2,266,"[213, 266]",SHZP.tsv
+maybe,1,268,"[169, 268]",SHZP.tsv
+a few months,3,268,"[236, 268]",SHZP.tsv
+he have a,3,282,"[112, 282]",SHZP.tsv
+he have,2,282,"[112, 282, 286, 291]",SHZP.tsv
+only one,2,282,"[125, 282]",SHZP.tsv
+erm he's,2,288,"[106, 288]",SHZP.tsv
+he do,2,301,"[162, 301, 307, 331, 511]",SHZP.tsv
+of erm,2,578,"[301, 578]",SHZP.tsv
+i don't know,3,334,"[307, 334, 471]",SHZP.tsv
+if they're,2,591,"[309, 591]",SHZP.tsv
+do you know,3,317,"[112, 317]",SHZP.tsv
+dance,1,334,"[317, 334]",SHZP.tsv
+yes it,2,390,"[335, 388, 390]",SHZP.tsv
+know what,2,345,"[110, 345]",SHZP.tsv
+that come,2,584,"[361, 584]",SHZP.tsv
+be i,2,591,"[363, 591]",SHZP.tsv
+wasn't it,2,435,"[393, 426, 435, 439]",SHZP.tsv
+it it,2,427,"[414, 427, 435, 552]",SHZP.tsv
+the temperature,2,431,"[426, 431]",SHZP.tsv
+a bite of,3,448,"[136, 448]",SHZP.tsv
+long,1,454,"[112, 454, 457]",SHZP.tsv
+that it's a,3,477,"[195, 477]",SHZP.tsv
+where you,2,584,"[499, 584]",SHZP.tsv
+a long,2,515,"[112, 515]",SHZP.tsv
+she be,2,570,"[525, 570]",SHZP.tsv
+that be so,3,546,"[545, 546]",SHZP.tsv
+the s,2,611,"[112, 116, 611, 651]",SHZP.tsv
+i bet,2,645,"[642, 645]",SHZP.tsv

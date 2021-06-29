@@ -1,0 +1,255 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+kale and,2,1,"[0, 1]",STDN.tsv
+peas,1,1,"[0, 1]",STDN.tsv
+get the,2,8,"[7, 8, 93, 182, 194]",STDN.tsv
+get,1,21,"[7, 8, 9, 21, 93, 128, 136, 182, 184, 210, 215, 218, 221, 250, 257]",STDN.tsv
+or something,2,35,"[9, 35, 251]",STDN.tsv
+something,1,66,"[9, 66, 89, 136, 177, 237, 251]",STDN.tsv
+chip,1,15,"[1, 15]",STDN.tsv
+mayo,1,15,"[4, 15]",STDN.tsv
+disaster,1,15,"[14, 15, 16]",STDN.tsv
+like,1,32,"[15, 32, 35, 45, 54, 78, 99, 108, 114, 122, 154, 200, 207, 214, 226, 243, 251, 255]",STDN.tsv
+be like,2,35,"[15, 35, 45]",STDN.tsv
+without,1,184,"[15, 17, 184]",STDN.tsv
+even,1,23,"[20, 23, 134, 154, 182, 221]",STDN.tsv
+they're,1,32,"[22, 32, 193, 224]",STDN.tsv
+england,1,28,"[25, 28, 32, 38]",STDN.tsv
+team,1,28,"[25, 28, 32]",STDN.tsv
+suppose to,2,58,"[25, 58, 195]",STDN.tsv
+suppose,1,75,"[25, 58, 75, 195, 197]",STDN.tsv
+advert,1,28,"[27, 28, 32, 37]",STDN.tsv
+there's a,2,56,"[27, 56]",STDN.tsv
+there's,1,135,"[27, 56, 135, 164, 165, 216]",STDN.tsv
+nations,1,32,"[29, 31, 32, 190, 210]",STDN.tsv
+five,1,128,"[29, 128, 188]",STDN.tsv
+six nations,2,32,"[31, 32]",STDN.tsv
+way,1,184,"[33, 122, 134, 184, 216]",STDN.tsv
+that's,1,36,"[21, 36, 37, 43, 59, 60, 63, 77, 91, 96, 100, 120, 124, 132, 184, 191, 211, 212, 215, 221]",STDN.tsv
+silly,1,37,"[36, 37]",STDN.tsv
+go,1,38,"[10, 38, 58, 62, 66, 91, 99, 100, 102, 108, 114, 120, 127, 142, 154, 171, 216, 231]",STDN.tsv
+be a,2,38,"[14, 28, 32, 38, 164, 222, 242]",STDN.tsv
+well,1,46,"[38, 46, 78, 154, 165, 181, 187, 195, 204, 211, 215]",STDN.tsv
+to be,2,82,"[38, 82, 136, 166, 195]",STDN.tsv
+go to,2,91,"[38, 91, 100, 120, 194]",STDN.tsv
+isn't it,2,113,"[38, 98, 100, 113, 124, 180, 204, 239]",STDN.tsv
+it be,2,43,"[28, 30, 32, 35, 37, 43, 114, 118, 131, 136, 180, 242, 255]",STDN.tsv
+beat,1,46,"[43, 46]",STDN.tsv
+that's why,2,184,"[43, 184, 215]",STDN.tsv
+kind of,2,45,"[28, 32, 45, 66, 255]",STDN.tsv
+of the,2,45,"[32, 37, 45, 62, 166, 175, 208, 222, 228, 251]",STDN.tsv
+good,1,45,"[37, 45, 103]",STDN.tsv
+people,1,93,"[45, 93, 175, 184, 218, 250]",STDN.tsv
+they could,2,49,"[21, 49]",STDN.tsv
+could,1,48,"[21, 37, 46, 48, 49, 87, 141, 177, 224, 233, 250]",STDN.tsv
+they could do with,4,49,"[46, 49]",STDN.tsv
+salt,1,51,"[1, 51]",STDN.tsv
+buy,1,95,"[51, 95]",STDN.tsv
+buy it,2,99,"[51, 99]",STDN.tsv
+i don't,2,87,"[54, 87, 119, 204]",STDN.tsv
+things,1,168,"[54, 168, 221, 224, 228]",STDN.tsv
+i didn't,2,55,"[1, 55]",STDN.tsv
+if she,2,58,"[55, 58, 66]",STDN.tsv
+work,1,71,"[55, 71, 104, 204, 216]",STDN.tsv
+quite,1,119,"[55, 114, 118, 119, 177, 222, 239]",STDN.tsv
+grandma's,1,128,"[55, 128]",STDN.tsv
+that's the,2,59,"[37, 59, 60, 124, 211, 212]",STDN.tsv
+and that's,2,184,"[59, 184, 221]",STDN.tsv
+on her,2,61,"[56, 61]",STDN.tsv
+she fall,2,61,"[58, 61]",STDN.tsv
+fall,1,61,"[60, 61, 66, 87]",STDN.tsv
+do she,2,66,"[61, 66]",STDN.tsv
+yeah,1,65,"[19, 34, 41, 63, 65, 68, 76, 80, 81, 83, 84, 86, 88, 92, 94, 110, 114, 120, 150, 154, 163, 167, 219, 227, 234, 237]",STDN.tsv
+need to,2,70,"[10, 70, 93, 108]",STDN.tsv
+check if it's work,4,71,"[70, 71]",STDN.tsv
+you need,2,89,"[70, 89]",STDN.tsv
+how it,2,202,"[70, 202, 204]",STDN.tsv
+she can press,3,72,"[56, 72]",STDN.tsv
+press,1,72,"[56, 72]",STDN.tsv
+press it,2,77,"[72, 77]",STDN.tsv
+she can,2,93,"[72, 93]",STDN.tsv
+then she,2,99,"[72, 99]",STDN.tsv
+able to,2,77,"[76, 77, 82, 224]",STDN.tsv
+in the,2,78,"[10, 40, 78, 114, 182, 188, 235]",STDN.tsv
+as well,2,78,"[46, 78]",STDN.tsv
+have a,2,78,"[60, 78, 80, 130, 221, 245]",STDN.tsv
+he have,2,82,"[78, 80, 82]",STDN.tsv
+house,1,99,"[78, 99]",STDN.tsv
+cord,1,82,"[80, 81, 82]",STDN.tsv
+reach,1,83,"[82, 83]",STDN.tsv
+it's not,2,85,"[12, 85, 106, 214]",STDN.tsv
+really,1,85,"[32, 37, 85, 108, 140, 169, 176, 177, 224]",STDN.tsv
+but it's,2,85,"[58, 85, 100, 128, 145, 176]",STDN.tsv
+about him,2,87,"[85, 87]",STDN.tsv
+sort of,2,224,"[85, 108, 224, 248]",STDN.tsv
+happen,1,90,"[87, 90, 91, 221, 224]",STDN.tsv
+happen a lot,3,91,"[90, 91]",STDN.tsv
+that be,2,94,"[14, 21, 28, 94, 140, 182, 192, 210]",STDN.tsv
+the bed,2,94,"[93, 94]",STDN.tsv
+bed,1,95,"[94, 95, 99]",STDN.tsv
+i see,2,100,"[44, 100]",STDN.tsv
+be go,2,171,"[100, 171]",STDN.tsv
+be up for,3,102,"[19, 102, 177]",STDN.tsv
+for the,2,102,"[32, 102, 108, 202]",STDN.tsv
+the idea,2,102,"[75, 102]",STDN.tsv
+go on,2,171,"[102, 114, 127, 154, 171, 216]",STDN.tsv
+see,1,106,"[44, 100, 106, 114, 134, 138, 203]",STDN.tsv
+over to,2,106,"[99, 106]",STDN.tsv
+say,1,108,"[35, 37, 56, 93, 99, 108, 143, 176, 177, 207, 228, 233, 249, 252]",STDN.tsv
+you know,2,108,"[37, 66, 108, 158, 182, 184, 202, 216, 222, 226, 251, 255]",STDN.tsv
+she just,2,108,"[56, 66, 99, 108]",STDN.tsv
+know,1,108,"[66, 108, 119, 154, 158, 180, 182, 184, 202, 204, 216, 222, 224, 226, 251, 255]",STDN.tsv
+she's not,2,108,"[75, 108]",STDN.tsv
+need,1,108,"[10, 70, 89, 93, 108, 145]",STDN.tsv
+come,1,109,"[108, 109, 172, 182, 222]",STDN.tsv
+to come,2,182,"[108, 182]",STDN.tsv
+if you,2,233,"[108, 221, 233]",STDN.tsv
+a bite,2,125,"[108, 125, 178, 242]",STDN.tsv
+up from,2,110,"[93, 110]",STDN.tsv
+be it,2,114,"[21, 114, 251]",STDN.tsv
+go up,2,114,"[99, 114]",STDN.tsv
+sunday,1,119,"[114, 119, 122, 134]",STDN.tsv
+the m6,2,130,"[116, 124, 130]",STDN.tsv
+can be quite,3,119,"[118, 119]",STDN.tsv
+be quite,2,119,"[118, 119]",STDN.tsv
+can't,1,210,"[118, 210]",STDN.tsv
+think,1,23,"[21, 23, 62, 87, 122, 232]",STDN.tsv
+last time i,3,122,"[28, 122]",STDN.tsv
+i think,2,122,"[23, 28, 32, 52, 119, 122, 232]",STDN.tsv
+back,1,122,"[109, 122, 134, 136]",STDN.tsv
+last,1,128,"[122, 128, 182]",STDN.tsv
+time,1,128,"[122, 128, 182]",STDN.tsv
+thing you,2,124,"[37, 124]",STDN.tsv
+want,1,124,"[99, 124, 221]",STDN.tsv
+the last,2,128,"[124, 128, 182]",STDN.tsv
+in a,2,128,"[124, 128]",STDN.tsv
+a queue,2,130,"[124, 130]",STDN.tsv
+you want,2,233,"[124, 221, 233]",STDN.tsv
+to go,2,127,"[10, 127, 194]",STDN.tsv
+god,1,129,"[42, 129, 149, 189]",STDN.tsv
+be just,2,136,"[56, 62, 136, 207]",STDN.tsv
+something to,2,136,"[89, 136]",STDN.tsv
+get to,2,136,"[128, 136]",STDN.tsv
+take,1,136,"[128, 136, 179]",STDN.tsv
+be go on,3,171,"[142, 171]",STDN.tsv
+he be,2,172,"[142, 172, 252]",STDN.tsv
+he's,1,148,"[87, 148, 152, 177, 178, 228, 229, 251, 253, 255, 256]",STDN.tsv
+mr,1,148,"[138, 146, 147, 148, 156, 157, 168, 245]",STDN.tsv
+the chief,2,226,"[148, 226]",STDN.tsv
+have to,2,154,"[82, 154, 182, 185, 200]",STDN.tsv
+don't you,2,154,"[99, 154, 158]",STDN.tsv
+hold,1,179,"[154, 179, 182]",STDN.tsv
+like you,2,226,"[154, 226]",STDN.tsv
+cos,1,175,"[37, 91, 119, 130, 175, 210]",STDN.tsv
+corrupt,1,224,"[175, 224]",STDN.tsv
+nothing,1,180,"[21, 176, 180, 207]",STDN.tsv
+that the,2,185,"[37, 185, 187]",STDN.tsv
+country have to,3,200,"[185, 200]",STDN.tsv
+and so,2,224,"[201, 218, 224, 253, 255]",STDN.tsv
+be not,2,203,"[82, 203]",STDN.tsv
+it's a,2,204,"[16, 204]",STDN.tsv
+don't know,2,204,"[66, 204]",STDN.tsv
+i don't know,3,204,"[119, 204]",STDN.tsv
+countries,1,204,"[182, 204]",STDN.tsv
+a very,2,257,"[204, 257]",STDN.tsv
+and they,2,207,"[32, 99, 207, 218, 224]",STDN.tsv
+do with,2,176,"[46, 49, 176, 207, 222]",STDN.tsv
+and say,2,207,"[93, 207]",STDN.tsv
+that's the only,3,211,"[37, 211]",STDN.tsv
+thing,1,158,"[37, 124, 158, 211, 253]",STDN.tsv
+as such,2,211,"[87, 211]",STDN.tsv
+and there's a,3,216,"[56, 216]",STDN.tsv
+bribe,1,216,"[174, 183, 184, 186, 210, 216, 221]",STDN.tsv
+a whole,2,216,"[200, 216, 222]",STDN.tsv
+it's the,2,216,"[210, 216]",STDN.tsv
+give,1,218,"[21, 218, 221, 222]",STDN.tsv
+at the,2,218,"[62, 218]",STDN.tsv
+erm you,2,233,"[218, 233]",STDN.tsv
+want to,2,221,"[99, 221]",STDN.tsv
+to get,2,221,"[128, 182, 194, 221]",STDN.tsv
+run,1,221,"[202, 221, 255]",STDN.tsv
+pyramid,1,221,"[220, 221]",STDN.tsv
+do and,2,228,"[221, 228]",STDN.tsv
+and er,2,230,"[221, 230]",STDN.tsv
+be ne me,3,229,"[228, 229]",STDN.tsv
+it's all,2,232,"[182, 232]",STDN.tsv
+call,1,232,"[224, 232]",STDN.tsv
+put,1,237,"[200, 224, 237]",STDN.tsv
+the kale,2,239,"[1, 239]",STDN.tsv
+salty,1,242,"[241, 242]",STDN.tsv
+but i,2,243,"[1, 75, 243]",STDN.tsv
+he say,2,249,"[143, 177, 249]",STDN.tsv
+be he,2,251,"[146, 251]",STDN.tsv
+like the,2,251,"[200, 251]",STDN.tsv
+so it's,2,253,"[12, 56, 253]",STDN.tsv
+years,1,253,"[165, 171, 253, 255]",STDN.tsv
+four,1,253,"[182, 253]",STDN.tsv
+so it be,3,255,"[28, 255]",STDN.tsv
+two,1,255,"[128, 255]",STDN.tsv
+south africa,2,256,"[21, 186, 256]",STDN.tsv
+rugby,1,256,"[28, 256]",STDN.tsv
+play,1,190,"[32, 190, 256]",STDN.tsv
+one,1,222,"[7, 38, 78, 94, 134, 222]",STDN.tsv
+the sun,2,188,"[17, 188]",STDN.tsv
+rubbish,1,222,"[22, 222]",STDN.tsv
+the er,2,158,"[25, 158]",STDN.tsv
+a little,2,222,"[27, 222]",STDN.tsv
+little,1,222,"[27, 222, 253]",STDN.tsv
+they be,2,183,"[45, 183]",STDN.tsv
+could do with,3,48,"[46, 48, 49]",STDN.tsv
+right,1,63,"[57, 63]",STDN.tsv
+he have a,3,80,"[78, 80]",STDN.tsv
+cord yeah,2,81,"[80, 81]",STDN.tsv
+a lot,2,179,"[90, 91, 179]",STDN.tsv
+right yeah,2,94,"[63, 94]",STDN.tsv
+always,1,250,"[94, 250]",STDN.tsv
+to help,2,250,"[100, 250]",STDN.tsv
+see that,2,138,"[106, 138]",STDN.tsv
+especially,1,188,"[108, 114, 136, 188]",STDN.tsv
+we've,1,136,"[125, 136]",STDN.tsv
+next,1,172,"[140, 172, 187]",STDN.tsv
+mr blatta,2,157,"[156, 157, 168]",STDN.tsv
+a bite of,3,178,"[125, 178]",STDN.tsv
+country,1,187,"[185, 187, 200]",STDN.tsv
+be that,2,250,"[185, 250, 251]",STDN.tsv
+of that,2,203,"[125, 203]",STDN.tsv
+i'm,1,203,"[143, 176, 203, 217, 229]",STDN.tsv
+i'm sure,2,217,"[203, 217]",STDN.tsv
+say i have,3,207,"[143, 207]",STDN.tsv
+stand,1,207,"[172, 207]",STDN.tsv
+nothing to do with,4,207,"[176, 207]",STDN.tsv
+that's the system,3,212,"[211, 212]",STDN.tsv
+corruption,1,214,"[166, 214]",STDN.tsv
+system,1,214,"[212, 214]",STDN.tsv
+whole,1,200,"[143, 200, 216]",STDN.tsv
+point remark,2,251,"[248, 251]",STDN.tsv
+it's it's,2,253,"[176, 253]",STDN.tsv
+to play,2,256,"[190, 256]",STDN.tsv
+we should,2,250,"[4, 250]",STDN.tsv
+japan,1,19,"[18, 19]",STDN.tsv
+for it,2,168,"[19, 168]",STDN.tsv
+they'd,1,194,"[21, 194]",STDN.tsv
+they do,2,222,"[21, 28, 222]",STDN.tsv
+scotland,1,28,"[18, 28]",STDN.tsv
+whatever,1,179,"[30, 179]",STDN.tsv
+be the,2,160,"[37, 160, 168, 187]",STDN.tsv
+you could,2,250,"[37, 233, 250]",STDN.tsv
+be we,2,231,"[40, 231]",STDN.tsv
+number of,2,166,"[60, 166]",STDN.tsv
+of it,2,168,"[60, 168]",STDN.tsv
+i suppose,2,197,"[75, 197]",STDN.tsv
+and erm,2,164,"[95, 164]",STDN.tsv
+everything,1,99,"[48, 99]",STDN.tsv
+very very,2,248,"[99, 248]",STDN.tsv
+volkswagen,1,146,"[138, 146, 147]",STDN.tsv
+there's be,2,165,"[164, 165]",STDN.tsv
+no he say,3,177,"[143, 177]",STDN.tsv
+the world cup,3,182,"[162, 182, 194]",STDN.tsv
+world cup,2,187,"[182, 187]",STDN.tsv
+to get the world cup,5,194,"[182, 194]",STDN.tsv
+pay,1,194,"[182, 186, 194, 210]",STDN.tsv
+make,1,248,"[200, 248]",STDN.tsv
+totally,1,208,"[143, 208]",STDN.tsv
+have be,2,224,"[166, 179, 224]",STDN.tsv
+i've,1,245,"[224, 245]",STDN.tsv
+yes,1,230,"[155, 206, 230, 248]",STDN.tsv
+tomorrow,1,233,"[23, 233]",STDN.tsv

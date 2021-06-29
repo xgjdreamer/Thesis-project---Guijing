@@ -1,0 +1,733 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+yeah,1,19,"[0, 4, 6, 10, 19, 29, 32, 37, 41, 54, 56, 62, 65, 71, 82, 83, 84, 85, 86, 87, 91, 97, 100, 119, 125, 141, 143, 144, 148, 156, 160, 166, 168, 171, 174, 175, 180, 183, 186, 188, 190, 191, 193, 194, 197, 199, 201, 205, 212, 217, 219, 223, 226, 244, 251, 253, 255, 261, 272, 283, 286, 294, 298, 300, 302, 304, 309, 336, 345, 352, 357, 359, 362, 374, 375, 391, 394, 400, 405, 414, 418, 427, 428, 430, 436, 448, 450, 455, 456, 461, 465, 467, 487, 496, 500, 506, 510, 514, 520, 522]",SZRJ.tsv
+two,1,79,"[0, 79, 127, 196, 242, 246, 263, 367, 407, 408, 410, 413, 415, 458, 466, 508, 512, 513]",SZRJ.tsv
+three,1,101,"[0, 101, 263, 426]",SZRJ.tsv
+with all,2,405,"[0, 405]",SZRJ.tsv
+up with,2,413,"[0, 413]",SZRJ.tsv
+the pears,2,7,"[6, 7, 9]",SZRJ.tsv
+look a,2,8,"[5, 8]",SZRJ.tsv
+bite,1,8,"[5, 8, 194, 370, 473]",SZRJ.tsv
+look,1,44,"[5, 8, 44, 67, 74, 76, 80, 204, 277, 445, 451, 492, 500]",SZRJ.tsv
+a little bite,3,273,"[8, 194, 273, 370]",SZRJ.tsv
+a little,2,310,"[8, 194, 273, 310, 329, 370, 484]",SZRJ.tsv
+a bite,2,10,"[5, 10, 473]",SZRJ.tsv
+the fridge,2,10,"[9, 10]",SZRJ.tsv
+eat them,2,11,"[10, 11]",SZRJ.tsv
+eat,1,11,"[10, 11, 15, 61, 223, 225, 355]",SZRJ.tsv
+in the fridge,3,15,"[10, 15]",SZRJ.tsv
+in the,2,28,"[10, 15, 28, 38, 41, 50, 65, 79, 170, 179, 273, 287, 318, 373, 417, 426, 457, 479, 521]",SZRJ.tsv
+one,1,26,"[10, 26, 41, 65, 66, 136, 248, 253, 265, 413, 449, 477, 490, 493, 496, 500, 508]",SZRJ.tsv
+already,1,130,"[10, 130, 174]",SZRJ.tsv
+they be,2,105,"[10, 105, 161, 165, 194, 210, 263]",SZRJ.tsv
+gonna,1,70,"[10, 51, 70, 72, 78, 253, 280, 333, 339, 354, 374, 403, 413, 477, 521]",SZRJ.tsv
+yeah but,2,255,"[10, 255, 302, 359, 418, 461]",SZRJ.tsv
+be gonna,2,374,"[10, 374]",SZRJ.tsv
+that's,1,12,"[1, 9, 12, 26, 77, 124, 125, 130, 140, 194, 236, 280, 288, 331, 370, 382, 413, 426, 444, 466, 472, 473, 475, 480, 486, 506]",SZRJ.tsv
+well,1,12,"[2, 5, 12, 16, 40, 51, 72, 74, 79, 80, 95, 99, 110, 120, 127, 130, 135, 137, 143, 148, 152, 155, 182, 207, 213, 215, 220, 233, 236, 253, 263, 273, 280, 288, 331, 333, 342, 349, 363, 366, 368, 396, 413, 424, 429, 451, 457, 458, 462, 477, 502, 516, 521]",SZRJ.tsv
+well that's,2,280,"[12, 280]",SZRJ.tsv
+take,1,16,"[9, 16, 49, 50, 55, 130, 182, 261, 273, 377, 403, 415, 457, 473]",SZRJ.tsv
+well i,2,137,"[16, 137, 143, 413, 424, 477, 502, 521]",SZRJ.tsv
+get,1,39,"[11, 30, 31, 39, 41, 42, 51, 57, 61, 112, 134, 143, 164, 165, 182, 196, 200, 210, 212, 213, 222, 246, 253, 254, 255, 276, 280, 282, 303, 304, 331, 333, 337, 341, 356, 358, 365, 366, 367, 371, 373, 382, 383, 386, 387, 393, 395, 396, 401, 403, 404, 410, 415, 419, 426, 431, 433, 434, 443, 445, 457, 458, 461, 471, 475, 477, 490, 502, 504, 505, 508, 511, 521, 522]",SZRJ.tsv
+awkward,1,40,"[39, 40]",SZRJ.tsv
+to get,2,255,"[39, 182, 210, 255]",SZRJ.tsv
+in germany,2,46,"[45, 46]",SZRJ.tsv
+to the,2,163,"[45, 74, 163, 165, 223]",SZRJ.tsv
+use,1,266,"[45, 57, 111, 266, 267, 273, 282, 358, 367]",SZRJ.tsv
+use to,2,111,"[45, 57, 111, 282, 358]",SZRJ.tsv
+suitcase,1,48,"[47, 48, 49, 50, 212, 249]",SZRJ.tsv
+it be,2,49,"[9, 49, 67, 95, 217, 231, 240, 242, 246, 249, 271, 273, 280, 320, 362, 475, 490]",SZRJ.tsv
+like,1,49,"[18, 24, 31, 34, 43, 49, 55, 57, 80, 152, 166, 170, 210, 212, 213, 214, 217, 237, 255, 262, 264, 269, 285, 302, 306, 348, 355, 397, 404, 441, 454, 462, 484, 492, 493, 497, 502, 506, 508, 522]",SZRJ.tsv
+a suitcase,2,49,"[48, 49]",SZRJ.tsv
+and then,2,143,"[49, 143, 165, 169, 212, 223, 227, 246, 253, 269, 318, 457, 488]",SZRJ.tsv
+could,1,101,"[49, 101, 143, 253]",SZRJ.tsv
+work,1,155,"[49, 155, 165, 182, 259, 261, 437, 453, 457, 500, 502]",SZRJ.tsv
+cos,1,163,"[49, 51, 53, 57, 163, 165, 174, 176, 183, 192, 196, 200, 225, 242, 245, 255, 276, 306, 318, 342, 404, 419, 424, 426, 443, 457, 483, 500, 504]",SZRJ.tsv
+at the,2,165,"[49, 61, 147, 165, 174, 273, 383, 481, 500, 518, 519]",SZRJ.tsv
+i'd,1,165,"[49, 165, 222, 394, 469]",SZRJ.tsv
+bag and,2,248,"[49, 192, 248, 458]",SZRJ.tsv
+pack,1,49,"[18, 49, 210, 213, 214, 223, 248, 253]",SZRJ.tsv
+suitcase and,2,249,"[49, 249]",SZRJ.tsv
+take a,2,273,"[49, 55, 273, 473]",SZRJ.tsv
+it all,2,107,"[49, 107, 358, 479]",SZRJ.tsv
+six,1,371,"[49, 215, 371, 508]",SZRJ.tsv
+i think,2,51,"[17, 51, 93, 96, 105, 107, 242, 252, 288, 366, 477, 521]",SZRJ.tsv
+well it's,2,51,"[40, 51, 72, 99, 120]",SZRJ.tsv
+think,1,143,"[17, 51, 93, 96, 143, 196, 242, 252, 255, 261, 280, 288, 358, 366, 466, 477, 521]",SZRJ.tsv
+well no,2,253,"[51, 253]",SZRJ.tsv
+think well,2,280,"[51, 280]",SZRJ.tsv
+me a,2,415,"[51, 57, 403, 415]",SZRJ.tsv
+horrible,1,103,"[53, 103]",SZRJ.tsv
+absolutely,1,282,"[53, 282]",SZRJ.tsv
+that would,2,86,"[57, 86, 143]",SZRJ.tsv
+a few,2,246,"[57, 241, 246, 318, 403, 504]",SZRJ.tsv
+would,1,256,"[57, 86, 143, 256, 257, 433, 457]",SZRJ.tsv
+and that,2,57,"[26, 57, 282, 288, 479]",SZRJ.tsv
+like a,2,348,"[57, 348, 404, 441, 462, 484]",SZRJ.tsv
+i use,2,367,"[57, 111, 367]",SZRJ.tsv
+you just,2,169,"[61, 169, 508]",SZRJ.tsv
+and you,2,196,"[61, 196, 202, 210, 249, 263, 335, 396, 397, 477, 504, 508]",SZRJ.tsv
+together,1,358,"[61, 358]",SZRJ.tsv
+never do anymore,3,64,"[63, 64]",SZRJ.tsv
+he be,2,96,"[64, 96, 245, 246, 261, 273, 318, 349]",SZRJ.tsv
+never,1,261,"[63, 64, 102, 166, 261, 262, 276, 312, 318, 337, 387, 389, 393, 394, 400, 434, 490, 500]",SZRJ.tsv
+he be a,3,273,"[64, 273, 318]",SZRJ.tsv
+be a,2,318,"[64, 241, 318, 407]",SZRJ.tsv
+i don't,2,66,"[11, 43, 66, 108, 213, 261, 268, 299, 316, 318, 392, 403, 410, 423, 488, 492, 522]",SZRJ.tsv
+i don't know,3,108,"[66, 108, 268, 299, 403, 423, 492]",SZRJ.tsv
+i haven't,2,108,"[66, 108, 383, 386]",SZRJ.tsv
+listen,1,130,"[66, 130, 221, 223]",SZRJ.tsv
+know,1,143,"[66, 108, 143, 150, 161, 165, 166, 169, 204, 206, 207, 210, 222, 236, 248, 249, 253, 255, 263, 268, 269, 273, 299, 306, 310, 312, 318, 329, 396, 402, 403, 423, 449, 492]",SZRJ.tsv
+to that,2,280,"[66, 280]",SZRJ.tsv
+yet,1,282,"[66, 282, 403, 426]",SZRJ.tsv
+gonna be,2,413,"[72, 413]",SZRJ.tsv
+ever,1,74,"[42, 74, 261, 276, 280, 318, 387, 389, 451]",SZRJ.tsv
+be to,2,79,"[74, 79, 102, 108, 117]",SZRJ.tsv
+i've,1,79,"[74, 79, 103, 130, 134, 196, 403, 415, 471, 473, 477, 490, 504]",SZRJ.tsv
+it's a,2,477,"[74, 477, 500]",SZRJ.tsv
+see,1,76,"[56, 76, 147, 215, 256, 269, 410, 485]",SZRJ.tsv
+on the,2,76,"[26, 65, 68, 76, 213, 248, 249, 333, 398, 417, 426, 457]",SZRJ.tsv
+there's,1,77,"[76, 77, 80, 84, 90, 150, 204, 367, 417, 464, 477, 516]",SZRJ.tsv
+nice,1,76,"[75, 76, 80, 130, 212, 444, 492, 500, 504]",SZRJ.tsv
+anything,1,202,"[76, 202, 249, 329]",SZRJ.tsv
+go to,2,78,"[22, 42, 44, 70, 78, 101, 104, 145, 250, 331, 374, 419, 453, 457]",SZRJ.tsv
+go,1,78,"[42, 44, 78, 88, 101, 104, 112, 114, 116, 145, 150, 163, 165, 189, 194, 196, 212, 213, 223, 240, 246, 248, 250, 263, 269, 318, 325, 331, 374, 415, 419, 421, 424, 431, 453, 457, 460, 464, 477, 479, 481]",SZRJ.tsv
+cousin's,1,78,"[77, 78]",SZRJ.tsv
+we're,1,78,"[2, 78, 130]",SZRJ.tsv
+gonna go,2,374,"[70, 78, 374]",SZRJ.tsv
+place,1,80,"[79, 80, 124]",SZRJ.tsv
+things,1,165,"[80, 165, 192, 341]",SZRJ.tsv
+yeah yeah,2,148,"[83, 148, 156, 171]",SZRJ.tsv
+oh yeah,2,85,"[19, 85, 91, 119, 143, 193, 194]",SZRJ.tsv
+yeah that,2,86,"[85, 86, 119]",SZRJ.tsv
+sound,1,348,"[85, 119, 348]",SZRJ.tsv
+museum,1,90,"[89, 90, 118, 119]",SZRJ.tsv
+as a,2,96,"[89, 96]",SZRJ.tsv
+open,1,122,"[89, 122, 124, 126, 386, 398, 477]",SZRJ.tsv
+do they,2,126,"[89, 126, 149]",SZRJ.tsv
+can you,2,89,"[88, 89, 169]",SZRJ.tsv
+he live,2,94,"[93, 94, 312]",SZRJ.tsv
+rochester,1,95,"[93, 95, 96]",SZRJ.tsv
+live in,2,98,"[93, 98, 161, 312]",SZRJ.tsv
+actually,1,102,"[9, 102, 104, 182, 192, 253, 477]",SZRJ.tsv
+i go to,3,104,"[44, 104]",SZRJ.tsv
+oh i,2,111,"[104, 111, 223, 358]",SZRJ.tsv
+girls,1,106,"[71, 106, 500]",SZRJ.tsv
+so they,2,163,"[110, 163, 165, 261]",SZRJ.tsv
+have do,2,265,"[110, 265]",SZRJ.tsv
+what's,1,113,"[73, 113, 440, 491]",SZRJ.tsv
+haven't be to,3,117,"[108, 117]",SZRJ.tsv
+age,1,143,"[117, 143, 214, 490]",SZRJ.tsv
+much,1,119,"[11, 119, 194, 318, 342, 402, 403, 505]",SZRJ.tsv
+be it,2,119,"[42, 119]",SZRJ.tsv
+house,1,81,"[77, 81, 84, 118, 119, 454, 457]",SZRJ.tsv
+dickens house,2,118,"[81, 84, 118, 119]",SZRJ.tsv
+dickens,1,119,"[90, 119]",SZRJ.tsv
+dickens house and museum,4,119,"[118, 119]",SZRJ.tsv
+charles,1,121,"[81, 84, 90, 121]",SZRJ.tsv
+that be,2,242,"[121, 242, 475]",SZRJ.tsv
+for the,2,273,"[121, 273, 443]",SZRJ.tsv
+oh it's close,3,124,"[123, 124]",SZRJ.tsv
+she be,2,156,"[65, 155, 156, 160, 210, 212, 214, 223, 226, 232, 242, 246, 269]",SZRJ.tsv
+yeah she be,3,226,"[156, 160, 226]",SZRJ.tsv
+yeah you,2,166,"[143, 166]",SZRJ.tsv
+you know,2,166,"[143, 150, 161, 165, 166, 207, 210, 222, 236, 248, 249, 253, 255, 263, 269, 273, 396, 402, 449]",SZRJ.tsv
+text,1,166,"[165, 166, 169, 207, 212, 223]",SZRJ.tsv
+we be,2,174,"[65, 174, 249, 374, 375]",SZRJ.tsv
+time,1,174,"[112, 122, 130, 161, 169, 170, 172, 174, 177, 181, 220, 222, 246, 261, 273, 282, 417, 443, 504]",SZRJ.tsv
+at that time,3,174,"[161, 174]",SZRJ.tsv
+the flat,2,174,"[163, 165, 174]",SZRJ.tsv
+at the flat,3,174,"[165, 174]",SZRJ.tsv
+yeah cos,2,183,"[174, 183]",SZRJ.tsv
+at that,2,269,"[174, 269]",SZRJ.tsv
+ten,1,178,"[67, 178, 242, 367, 417, 458]",SZRJ.tsv
+land,1,178,"[161, 177, 178, 181, 182]",SZRJ.tsv
+come,1,182,"[41, 65, 130, 150, 161, 170, 182, 263, 295, 333, 460, 486, 508]",SZRJ.tsv
+me so,2,182,"[130, 182]",SZRJ.tsv
+out just,2,182,"[152, 182]",SZRJ.tsv
+well she,2,182,"[155, 182]",SZRJ.tsv
+but she,2,255,"[182, 221, 255, 295]",SZRJ.tsv
+long,1,261,"[182, 261, 273]",SZRJ.tsv
+anyway,1,184,"[161, 184, 207, 355]",SZRJ.tsv
+and i,2,192,"[65, 112, 192, 194, 246, 310, 318, 337, 413, 458, 466, 500, 504]",SZRJ.tsv
+say,1,192,"[67, 79, 127, 129, 130, 143, 169, 185, 192, 194, 207, 212, 213, 218, 221, 223, 230, 233, 236, 246, 249, 253, 255, 269, 276, 316, 337, 341, 342, 413, 457, 458, 466, 491, 492, 496, 500]",SZRJ.tsv
+i say,2,192,"[130, 192, 194, 255, 337, 341, 413, 458, 466]",SZRJ.tsv
+they do,2,192,"[107, 192, 246, 404]",SZRJ.tsv
+you have,2,192,"[138, 192, 255, 393, 397, 477]",SZRJ.tsv
+and i say,3,337,"[192, 194, 337, 413, 458]",SZRJ.tsv
+have a,2,194,"[44, 152, 165, 194, 231, 240, 269, 310, 370]",SZRJ.tsv
+i go,2,194,"[44, 194, 424]",SZRJ.tsv
+yeah i,2,194,"[56, 194, 522]",SZRJ.tsv
+say oh,2,194,"[130, 143, 194, 207, 212, 342, 457, 458, 466]",SZRJ.tsv
+oh that's,2,194,"[130, 194]",SZRJ.tsv
+say oh yeah,3,194,"[143, 194]",SZRJ.tsv
+and they,2,194,"[150, 161, 165, 194, 206, 269, 424, 504, 508]",SZRJ.tsv
+christmas,1,194,"[157, 165, 194, 240, 242, 246, 263, 280, 396, 403, 490]",SZRJ.tsv
+and they be,3,194,"[161, 194]",SZRJ.tsv
+a couple of,3,194,"[165, 194, 415, 431]",SZRJ.tsv
+christmas and,2,246,"[194, 246, 263, 280]",SZRJ.tsv
+fine,1,246,"[194, 246]",SZRJ.tsv
+much and,2,342,"[194, 342]",SZRJ.tsv
+be oh,2,475,"[194, 475]",SZRJ.tsv
+day,1,195,"[147, 157, 195, 246, 269, 508]",SZRJ.tsv
+be bother,2,358,"[195, 358]",SZRJ.tsv
+always,1,197,"[15, 18, 150, 152, 197, 413, 415, 457, 486]",SZRJ.tsv
+i'm,1,197,"[79, 134, 197, 213, 240, 248, 253, 280, 354, 358, 386, 477, 500, 521]",SZRJ.tsv
+yes,1,208,"[128, 208, 289, 486]",SZRJ.tsv
+kind of,2,210,"[38, 210, 223, 504, 508]",SZRJ.tsv
+and erm,2,210,"[24, 65, 165, 210, 217, 223, 249, 253, 273, 310, 320, 413, 419, 453]",SZRJ.tsv
+you know they,3,210,"[150, 210]",SZRJ.tsv
+leave and,2,210,"[169, 210]",SZRJ.tsv
+leave,1,210,"[169, 210, 212, 253, 378]",SZRJ.tsv
+ready,1,222,"[210, 222]",SZRJ.tsv
+be just,2,246,"[210, 232, 246, 249]",SZRJ.tsv
+pack her,2,248,"[210, 214, 248]",SZRJ.tsv
+and you know,3,249,"[210, 249, 263]",SZRJ.tsv
+case,1,253,"[210, 214, 253]",SZRJ.tsv
+start,1,210,"[136, 151, 210, 223, 354]",SZRJ.tsv
+go have,2,212,"[44, 212]",SZRJ.tsv
+and we,2,212,"[65, 212, 223, 227]",SZRJ.tsv
+'s,1,212,"[79, 103, 161, 212, 223, 248, 282, 322, 333, 337, 471]",SZRJ.tsv
+really,1,212,"[130, 212, 223, 238, 261, 272, 318, 401, 410, 437, 500]",SZRJ.tsv
+she go,2,212,"[150, 212, 213, 263, 269, 415, 453]",SZRJ.tsv
+stock,1,212,"[165, 212]",SZRJ.tsv
+us,1,212,"[41, 169, 212, 335, 337, 466]",SZRJ.tsv
+yeah so,2,212,"[171, 212, 261, 400, 510]",SZRJ.tsv
+everything,1,212,"[149, 212, 223, 246, 295, 508]",SZRJ.tsv
+her suitcase,2,249,"[212, 249]",SZRJ.tsv
+be in,2,251,"[212, 251, 269, 318, 402, 426]",SZRJ.tsv
+she be in,3,269,"[212, 269]",SZRJ.tsv
+in a,2,212,"[211, 212, 354, 433, 434, 457, 485, 504]",SZRJ.tsv
+be go,2,374,"[212, 374]",SZRJ.tsv
+she go oh,3,415,"[212, 415]",SZRJ.tsv
+in it,2,212,"[30, 212, 403, 417, 477, 500]",SZRJ.tsv
+and she,2,213,"[150, 157, 213, 214, 215, 217, 223, 246, 263, 280, 415, 453]",SZRJ.tsv
+and say,2,213,"[169, 207, 213, 269]",SZRJ.tsv
+mum,1,213,"[112, 153, 154, 213, 240, 246, 253, 254, 255, 269, 331, 359, 401]",SZRJ.tsv
+say i,2,276,"[213, 276, 316]",SZRJ.tsv
+well what,2,233,"[99, 213, 233, 342]",SZRJ.tsv
+and her,2,214,"[65, 214]",SZRJ.tsv
+try to,2,214,"[155, 214, 236, 246]",SZRJ.tsv
+for her,2,282,"[214, 282, 413]",SZRJ.tsv
+four,1,367,"[214, 367, 504]",SZRJ.tsv
+twenty,1,214,"[196, 198, 214, 377, 417, 426, 457, 466, 481, 483]",SZRJ.tsv
+see her for,3,269,"[215, 269]",SZRJ.tsv
+as well,2,273,"[215, 273]",SZRJ.tsv
+scream at,2,246,"[217, 246]",SZRJ.tsv
+yeah it be,3,362,"[217, 362]",SZRJ.tsv
+drive,1,223,"[40, 161, 223, 257]",SZRJ.tsv
+there and,2,223,"[65, 223, 248, 377, 504]",SZRJ.tsv
+sit,1,223,"[65, 68, 223, 232, 248, 249, 433, 434, 481, 484]",SZRJ.tsv
+be 's,2,223,"[103, 223]",SZRJ.tsv
+me and she,3,223,"[150, 223]",SZRJ.tsv
+flip,1,223,"[157, 223]",SZRJ.tsv
+about half an,3,223,"[161, 223]",SZRJ.tsv
+an hour,2,223,"[161, 223, 508]",SZRJ.tsv
+and erm so,3,223,"[165, 223, 273]",SZRJ.tsv
+the dog,2,223,"[165, 223, 457]",SZRJ.tsv
+yeah she,2,226,"[223, 226]",SZRJ.tsv
+and go,2,246,"[223, 246, 248, 325]",SZRJ.tsv
+half,1,246,"[223, 246]",SZRJ.tsv
+all he,2,282,"[223, 282]",SZRJ.tsv
+crazy,1,302,"[223, 302]",SZRJ.tsv
+we have,2,365,"[223, 227, 231, 365, 366]",SZRJ.tsv
+go oh,2,415,"[223, 415]",SZRJ.tsv
+in there,2,402,"[223, 400, 402, 475, 477, 486]",SZRJ.tsv
+she'd,1,225,"[65, 143, 225, 248, 265, 310]",SZRJ.tsv
+she flip,2,227,"[157, 227, 289, 291]",SZRJ.tsv
+and then she,3,269,"[227, 269]",SZRJ.tsv
+back,1,228,"[163, 165, 228, 269, 318, 377, 426]",SZRJ.tsv
+fault,1,231,"[230, 231]",SZRJ.tsv
+she be scream at,4,246,"[232, 246]",SZRJ.tsv
+just sit,2,249,"[232, 249]",SZRJ.tsv
+sit there,2,481,"[232, 481, 484]",SZRJ.tsv
+he doesn't,2,235,"[130, 235, 236, 431, 457]",SZRJ.tsv
+ago,1,241,"[143, 241]",SZRJ.tsv
+years ago,2,242,"[241, 242]",SZRJ.tsv
+this be,2,241,"[153, 154, 241, 251, 269, 327]",SZRJ.tsv
+eighteen,1,273,"[243, 273, 308, 367]",SZRJ.tsv
+be only,2,245,"[67, 245]",SZRJ.tsv
+cos he,2,342,"[245, 342]",SZRJ.tsv
+wrong,1,246,"[140, 246, 266]",SZRJ.tsv
+something,1,266,"[30, 261, 265, 266, 269, 271, 273, 418, 486, 488, 492]",SZRJ.tsv
+use the wrong,3,267,"[266, 267]",SZRJ.tsv
+the wrong,2,266,"[140, 266, 267, 273]",SZRJ.tsv
+small,1,272,"[42, 272]",SZRJ.tsv
+kitchen,1,361,"[269, 361, 417]",SZRJ.tsv
+the kitchen,2,361,"[273, 361, 417]",SZRJ.tsv
+that you,2,393,"[361, 393, 489]",SZRJ.tsv
+help,1,363,"[5, 363]",SZRJ.tsv
+i'll,1,363,"[169, 363, 364, 377, 381, 383, 416, 458, 466, 486, 508]",SZRJ.tsv
+we've get,2,366,"[41, 42, 366, 475]",SZRJ.tsv
+have get,2,366,"[143, 303, 366, 373]",SZRJ.tsv
+though i,2,366,"[207, 366]",SZRJ.tsv
+though,1,207,"[34, 207, 238, 254, 342, 366, 489, 500]",SZRJ.tsv
+this morning,2,366,"[365, 366]",SZRJ.tsv
+we've,1,367,"[41, 366, 367]",SZRJ.tsv
+we do,2,370,"[31, 34, 370]",SZRJ.tsv
+we'll,1,370,"[44, 370]",SZRJ.tsv
+if we,2,370,"[101, 253, 370]",SZRJ.tsv
+yeah we be,3,375,"[374, 375]",SZRJ.tsv
+you leave,2,378,"[169, 378]",SZRJ.tsv
+leave me,2,378,"[253, 378]",SZRJ.tsv
+smell,1,378,"[356, 378]",SZRJ.tsv
+right,1,162,"[38, 40, 162, 189, 287, 311, 315, 332, 333, 382, 427, 478, 485]",SZRJ.tsv
+get the,2,333,"[253, 333, 382]",SZRJ.tsv
+on you,2,413,"[382, 413]",SZRJ.tsv
+can't,1,386,"[147, 238, 265, 290, 358, 386, 434, 492, 498]",SZRJ.tsv
+i can't,2,386,"[265, 358, 386, 492, 498]",SZRJ.tsv
+get any,2,386,"[282, 383, 386, 387, 393, 415, 419, 461]",SZRJ.tsv
+i haven't get any,4,386,"[383, 386]",SZRJ.tsv
+pot that,2,393,"[386, 390, 393, 396, 477, 489]",SZRJ.tsv
+all in,2,413,"[386, 413]",SZRJ.tsv
+pot,1,395,"[386, 388, 390, 393, 395, 396, 471, 477, 489]",SZRJ.tsv
+pot that i,3,477,"[386, 390, 477]",SZRJ.tsv
+it's not,2,388,"[40, 238, 388, 510]",SZRJ.tsv
+but it's,2,388,"[30, 238, 388, 390, 418, 477, 481]",SZRJ.tsv
+i do,2,388,"[276, 388, 500, 502, 504, 508]",SZRJ.tsv
+have to,2,163,"[138, 149, 163, 189, 255, 390, 393, 396, 397, 477]",SZRJ.tsv
+have to smash,3,393,"[390, 393, 397]",SZRJ.tsv
+smash,1,393,"[392, 393, 395]",SZRJ.tsv
+otherwise,1,394,"[255, 394]",SZRJ.tsv
+get you know,3,396,"[143, 396]",SZRJ.tsv
+for christmas,2,396,"[246, 263, 396, 490]",SZRJ.tsv
+you have to,3,255,"[138, 255, 393, 396, 397, 477]",SZRJ.tsv
+you have to smash,4,396,"[393, 396, 397]",SZRJ.tsv
+pot that you,3,396,"[393, 396, 489]",SZRJ.tsv
+and you have to,4,477,"[396, 397, 477]",SZRJ.tsv
+put,1,400,"[50, 65, 381, 393, 400, 403, 413, 466, 475, 477, 486, 500, 504]",SZRJ.tsv
+i i,2,400,"[108, 400]",SZRJ.tsv
+change,1,400,"[30, 253, 400, 471, 475, 477, 479, 486]",SZRJ.tsv
+i never,2,400,"[276, 312, 400, 500]",SZRJ.tsv
+on me,2,400,"[383, 400]",SZRJ.tsv
+coin,1,407,"[400, 407, 408, 410, 413, 415, 477, 479]",SZRJ.tsv
+in there so,3,477,"[400, 477]",SZRJ.tsv
+mum get,2,401,"[246, 254, 401]",SZRJ.tsv
+and mum,2,401,"[269, 401]",SZRJ.tsv
+be do,2,403,"[65, 403]",SZRJ.tsv
+probably,1,403,"[67, 303, 403, 435]",SZRJ.tsv
+i've be,2,403,"[79, 103, 403]",SZRJ.tsv
+since,1,403,"[108, 280, 403]",SZRJ.tsv
+years,1,403,"[242, 403]",SZRJ.tsv
+pound,1,403,"[263, 403, 407, 408, 410, 413, 415, 417, 458, 477, 479, 504, 508, 512]",SZRJ.tsv
+take me,2,403,"[377, 403]",SZRJ.tsv
+haven't get,2,403,"[383, 403]",SZRJ.tsv
+just i,2,416,"[40, 288, 416]",SZRJ.tsv
+i'll just,2,416,"[381, 416, 486]",SZRJ.tsv
+but it's it's,3,418,"[238, 418]",SZRJ.tsv
+it and,2,424,"[65, 112, 143, 413, 424, 481, 488]",SZRJ.tsv
+go for,2,424,"[421, 424]",SZRJ.tsv
+i can,2,426,"[56, 371, 426]",SZRJ.tsv
+haven't be,2,426,"[108, 426]",SZRJ.tsv
+from peru,2,426,"[161, 426]",SZRJ.tsv
+the twenty,2,483,"[426, 483]",SZRJ.tsv
+get a,2,42,"[30, 42, 419, 431, 434, 471]",SZRJ.tsv
+then if,2,434,"[143, 434]",SZRJ.tsv
+if he,2,434,"[236, 434, 457]",SZRJ.tsv
+never get,2,434,"[387, 393, 434]",SZRJ.tsv
+that's nice,2,444,"[130, 444]",SZRJ.tsv
+he's,1,454,"[14, 15, 68, 130, 261, 347, 419, 429, 431, 433, 437, 447, 451, 453, 454, 461, 463, 466, 483]",SZRJ.tsv
+for him,2,461,"[236, 461]",SZRJ.tsv
+get any money,3,419,"[387, 419, 461]",SZRJ.tsv
+money,1,387,"[107, 387, 393, 419, 443, 457, 461, 462, 466, 469, 470, 471, 477, 479, 500, 504, 508]",SZRJ.tsv
+and he's,2,463,"[261, 453, 463, 466]",SZRJ.tsv
+oh and,2,463,"[397, 415, 463]",SZRJ.tsv
+but that's,2,472,"[288, 472, 475]",SZRJ.tsv
+for your,2,472,"[354, 472]",SZRJ.tsv
+holiday,1,473,"[472, 473, 475, 477]",SZRJ.tsv
+oh right,2,478,"[162, 189, 311, 427, 478]",SZRJ.tsv
+if i,2,486,"[44, 486]",SZRJ.tsv
+put it,2,486,"[50, 486]",SZRJ.tsv
+that's why,2,486,"[236, 486]",SZRJ.tsv
+just spend,2,486,"[246, 486]",SZRJ.tsv
+spend,1,486,"[246, 486, 488]",SZRJ.tsv
+on something,2,486,"[261, 486, 488]",SZRJ.tsv
+just put,2,466,"[381, 466, 486]",SZRJ.tsv
+stupid,1,488,"[69, 488]",SZRJ.tsv
+it and then,3,488,"[143, 488]",SZRJ.tsv
+about it,2,488,"[143, 233, 488]",SZRJ.tsv
+forget,1,488,"[273, 488]",SZRJ.tsv
+but i,2,490,"[11, 42, 44, 112, 143, 490, 500, 516, 518]",SZRJ.tsv
+one for,2,490,"[413, 490]",SZRJ.tsv
+buy,1,457,"[413, 415, 457, 489, 490]",SZRJ.tsv
+like i,2,492,"[31, 255, 492]",SZRJ.tsv
+quite,1,492,"[14, 31, 36, 226, 404, 431, 443, 477, 489, 492, 504, 508]",SZRJ.tsv
+i can't remember,3,492,"[265, 492, 498]",SZRJ.tsv
+yeah this,2,496,"[251, 496]",SZRJ.tsv
+feel,1,500,"[50, 202, 236, 500]",SZRJ.tsv
+on it,2,491,"[65, 413, 491, 500]",SZRJ.tsv
+night,1,497,"[65, 165, 413, 497, 500]",SZRJ.tsv
+out on,2,500,"[248, 500]",SZRJ.tsv
+though cos,2,500,"[342, 500]",SZRJ.tsv
+yeah it,2,500,"[362, 500]",SZRJ.tsv
+at the moment,3,500,"[383, 481, 500]",SZRJ.tsv
+night out on it,4,500,"[413, 500]",SZRJ.tsv
+money in it,3,500,"[477, 500]",SZRJ.tsv
+note in,2,500,"[477, 500]",SZRJ.tsv
+note,1,500,"[477, 500]",SZRJ.tsv
+do a,2,504,"[98, 504, 508, 510]",SZRJ.tsv
+five,1,504,"[145, 504]",SZRJ.tsv
+which be,2,504,"[161, 335, 504]",SZRJ.tsv
+erm so,2,504,"[165, 273, 504]",SZRJ.tsv
+me up,2,504,"[220, 504]",SZRJ.tsv
+be quite,2,504,"[36, 226, 489, 504]",SZRJ.tsv
+be there and,3,504,"[248, 504]",SZRJ.tsv
+be there,2,504,"[248, 504]",SZRJ.tsv
+time and,2,504,"[261, 443, 504]",SZRJ.tsv
+make,1,504,"[337, 342, 431, 433, 504]",SZRJ.tsv
+of a,2,504,"[151, 413, 504]",SZRJ.tsv
+of money,2,504,"[107, 477, 504]",SZRJ.tsv
+sometimes,1,508,"[31, 33, 349, 508]",SZRJ.tsv
+when you're,2,508,"[40, 169, 508]",SZRJ.tsv
+hours,1,508,"[165, 508]",SZRJ.tsv
+give,1,169,"[142, 169, 415, 458, 462, 466, 508]",SZRJ.tsv
+it's it's,2,508,"[238, 508]",SZRJ.tsv
+days,1,508,"[246, 318, 508]",SZRJ.tsv
+a day,2,508,"[269, 508]",SZRJ.tsv
+or or,2,508,"[342, 508]",SZRJ.tsv
+i'll get,2,508,"[383, 508]",SZRJ.tsv
+great,1,510,"[134, 342, 510]",SZRJ.tsv
+if you,2,510,"[88, 136, 329, 407, 510]",SZRJ.tsv
+end,1,147,"[0, 147]",SZRJ.tsv
+two hundred,2,196,"[0, 196, 508]",SZRJ.tsv
+hundred,1,196,"[0, 49, 57, 196, 417, 508]",SZRJ.tsv
+end up,2,417,"[0, 417]",SZRJ.tsv
+little,1,75,"[8, 75, 194, 273, 370, 417, 431, 484]",SZRJ.tsv
+it's all,2,99,"[8, 99, 386]",SZRJ.tsv
+but they,2,204,"[10, 204]",SZRJ.tsv
+get to,2,304,"[39, 61, 304, 337, 395]",SZRJ.tsv
+walk,1,202,"[45, 49, 202]",SZRJ.tsv
+in my,2,47,"[18, 47, 386, 388, 390, 486]",SZRJ.tsv
+at the end,3,147,"[49, 147]",SZRJ.tsv
+cos i,2,196,"[49, 57, 192, 196, 424, 500]",SZRJ.tsv
+bag,1,417,"[49, 192, 248, 417, 458]",SZRJ.tsv
+along,1,466,"[49, 466]",SZRJ.tsv
+when i,2,111,"[51, 111, 426, 500]",SZRJ.tsv
+home,1,318,"[51, 121, 318, 486]",SZRJ.tsv
+save,1,457,"[51, 457]",SZRJ.tsv
+cos it's,2,443,"[53, 443]",SZRJ.tsv
+do like,2,57,"[34, 57, 508]",SZRJ.tsv
+i use to,3,111,"[57, 111]",SZRJ.tsv
+weeks,1,127,"[57, 127]",SZRJ.tsv
+last,1,318,"[57, 318, 500, 504]",SZRJ.tsv
+a hundred,2,417,"[57, 417]",SZRJ.tsv
+worth,1,458,"[57, 458, 466, 504, 512]",SZRJ.tsv
+you get,2,458,"[61, 212, 213, 382, 396, 458, 504, 505, 508, 511]",SZRJ.tsv
+anymore,1,337,"[63, 64, 337, 347]",SZRJ.tsv
+don't know,2,88,"[66, 88, 108, 268, 403, 423, 492]",SZRJ.tsv
+that one,2,449,"[66, 449]",SZRJ.tsv
+isn't it,2,125,"[72, 125, 127, 418]",SZRJ.tsv
+the beach,2,457,"[74, 457]",SZRJ.tsv
+on the beach and,4,457,"[76, 457]",SZRJ.tsv
+gonna go to,3,78,"[70, 78]",SZRJ.tsv
+good,1,85,"[14, 85, 119, 211, 212, 443, 480, 500, 504, 508, 510]",SZRJ.tsv
+do he,2,172,"[93, 172, 258]",SZRJ.tsv
+he live in,3,312,"[93, 312]",SZRJ.tsv
+live,1,331,"[93, 94, 98, 161, 331]",SZRJ.tsv
+the loop star,3,113,"[111, 113]",SZRJ.tsv
+loop star,2,113,"[112, 113]",SZRJ.tsv
+a roller coaster,3,117,"[114, 117]",SZRJ.tsv
+how much be,3,402,"[119, 402]",SZRJ.tsv
+how much,2,505,"[119, 194, 505]",SZRJ.tsv
+she have,2,189,"[131, 189, 310]",SZRJ.tsv
+cos we,2,457,"[174, 457]",SZRJ.tsv
+nine,1,182,"[181, 182]",SZRJ.tsv
+do you,2,192,"[170, 177, 192, 384, 402, 470, 505]",SZRJ.tsv
+in that,2,417,"[192, 417]",SZRJ.tsv
+have any,2,457,"[192, 400, 457]",SZRJ.tsv
+have a little,3,310,"[194, 310, 370]",SZRJ.tsv
+and i say oh,4,458,"[194, 458]",SZRJ.tsv
+i say oh,3,458,"[194, 458, 466]",SZRJ.tsv
+bother,1,337,"[195, 337, 347, 358]",SZRJ.tsv
+in a good mood,4,212,"[211, 212]",SZRJ.tsv
+good mood,2,212,"[211, 212]",SZRJ.tsv
+mood,1,212,"[211, 212, 287]",SZRJ.tsv
+get your,2,254,"[212, 213, 254]",SZRJ.tsv
+and everything,2,295,"[212, 295, 508]",SZRJ.tsv
+pressure,1,433,"[212, 433]",SZRJ.tsv
+happy,1,468,"[212, 227, 228, 468]",SZRJ.tsv
+have you get,3,511,"[212, 213, 382, 511]",SZRJ.tsv
+well what about,3,213,"[99, 213]",SZRJ.tsv
+want,1,213,"[101, 213, 384, 457, 470, 490]",SZRJ.tsv
+say i don't,3,316,"[213, 316]",SZRJ.tsv
+her for,2,262,"[215, 262, 269]",SZRJ.tsv
+months,1,308,"[215, 308, 426]",SZRJ.tsv
+even,1,335,"[221, 223, 335]",SZRJ.tsv
+he say,2,316,"[223, 316]",SZRJ.tsv
+when we,2,419,"[223, 419, 457]",SZRJ.tsv
+dog,1,445,"[165, 223, 445, 449]",SZRJ.tsv
+me and,2,457,"[150, 223, 457]",SZRJ.tsv
+out to,2,457,"[223, 457]",SZRJ.tsv
+again and,2,320,"[227, 320]",SZRJ.tsv
+i be,2,232,"[111, 232, 466, 504]",SZRJ.tsv
+because he,2,337,"[232, 337, 431]",SZRJ.tsv
+so be,2,243,"[70, 243]",SZRJ.tsv
+eighteen months,2,308,"[243, 308]",SZRJ.tsv
+baby,1,318,"[245, 318]",SZRJ.tsv
+dishcloth,1,270,"[266, 270]",SZRJ.tsv
+do she,2,289,"[237, 289]",SZRJ.tsv
+she do,2,453,"[289, 453]",SZRJ.tsv
+do it,2,361,"[3, 107, 361, 403]",SZRJ.tsv
+clean,1,453,"[361, 453]",SZRJ.tsv
+you do,2,503,"[361, 503, 510]",SZRJ.tsv
+morning,1,365,"[179, 365, 366]",SZRJ.tsv
+be you,2,378,"[277, 316, 333, 335, 378]",SZRJ.tsv
+oh be,2,503,"[378, 503, 515]",SZRJ.tsv
+the right,2,382,"[287, 382]",SZRJ.tsv
+get the right,3,382,"[333, 382]",SZRJ.tsv
+to smash,2,395,"[390, 393, 395, 396]",SZRJ.tsv
+wanna,1,392,"[329, 392, 457]",SZRJ.tsv
+smash it,2,397,"[392, 397]",SZRJ.tsv
+and you have to smash,5,397,"[396, 397]",SZRJ.tsv
+pound in,2,417,"[403, 417, 504]",SZRJ.tsv
+it's something,2,418,"[30, 418]",SZRJ.tsv
+same as,2,420,"[337, 420]",SZRJ.tsv
+in the country,3,426,"[41, 426]",SZRJ.tsv
+be in the,3,426,"[318, 426]",SZRJ.tsv
+get a job,3,434,"[419, 434]",SZRJ.tsv
+sit in a,3,434,"[433, 434]",SZRJ.tsv
+a job,2,434,"[433, 434]",SZRJ.tsv
+be she,2,438,"[211, 438]",SZRJ.tsv
+what be,2,438,"[277, 438, 501]",SZRJ.tsv
+auxiliary,1,440,"[439, 440]",SZRJ.tsv
+like the,2,454,"[24, 454]",SZRJ.tsv
+so he's,2,454,"[347, 454]",SZRJ.tsv
+he's not,2,461,"[347, 461]",SZRJ.tsv
+he's not get any money,5,461,"[419, 461]",SZRJ.tsv
+he's not get,3,461,"[419, 461]",SZRJ.tsv
+any money,2,457,"[387, 457, 461]",SZRJ.tsv
+a good,2,480,"[211, 480]",SZRJ.tsv
+and just,2,486,"[218, 486]",SZRJ.tsv
+just put it,3,486,"[466, 486]",SZRJ.tsv
+it straight,2,486,"[466, 486]",SZRJ.tsv
+to buy,2,490,"[457, 490]",SZRJ.tsv
+remember,1,265,"[112, 265, 295, 304, 337, 492, 498]",SZRJ.tsv
+it say,2,492,"[491, 492]",SZRJ.tsv
+it doesn't,2,500,"[3, 500]",SZRJ.tsv
+money in,2,500,"[107, 500]",SZRJ.tsv
+next,1,500,"[153, 500, 508]",SZRJ.tsv
+night out,2,500,"[497, 500]",SZRJ.tsv
+erm a,2,502,"[114, 445, 502]",SZRJ.tsv
+call,1,502,"[445, 457, 502]",SZRJ.tsv
+quite good,2,504,"[14, 504, 508]",SZRJ.tsv
+when i be,3,504,"[111, 504]",SZRJ.tsv
+do the,2,504,"[181, 453, 503, 504]",SZRJ.tsv
+quite good money cos,4,504,"[443, 504]",SZRJ.tsv
+worth of,2,504,"[458, 504]",SZRJ.tsv
+eight,1,508,"[170, 508]",SZRJ.tsv
+they and they,3,508,"[206, 508]",SZRJ.tsv
+pound a,2,508,"[417, 508]",SZRJ.tsv
+plus,1,508,"[437, 508]",SZRJ.tsv
+quite good money,3,508,"[443, 508]",SZRJ.tsv
+give you,2,508,"[458, 508]",SZRJ.tsv
+fifty,1,508,"[458, 508]",SZRJ.tsv
+money so,2,508,"[466, 508]",SZRJ.tsv
+wag,1,508,"[507, 508]",SZRJ.tsv
+i don't like,3,522,"[43, 522]",SZRJ.tsv
+don't like,2,522,"[237, 522]",SZRJ.tsv
+dress,1,522,"[474, 522]",SZRJ.tsv
+need to,2,518,"[212, 482, 518]",SZRJ.tsv
+i need,2,518,"[500, 518]",SZRJ.tsv
+fruit,1,26,"[5, 11, 15, 26, 36]",SZRJ.tsv
+aren't they,2,489,"[5, 33, 489]",SZRJ.tsv
+of the,2,147,"[9, 38, 65, 130, 147, 209]",SZRJ.tsv
+fruit and,2,36,"[11, 36]",SZRJ.tsv
+dad,1,112,"[11, 112, 130, 149, 230, 242, 246, 316, 318, 320, 354]",SZRJ.tsv
+to be,2,149,"[11, 90, 135, 149, 264, 282]",SZRJ.tsv
+and he,2,316,"[11, 246, 261, 316, 331, 421, 460, 464]",SZRJ.tsv
+he get,2,431,"[11, 431, 433, 457]",SZRJ.tsv
+and he keep,3,460,"[11, 460]",SZRJ.tsv
+prefer,1,43,"[15, 43]",SZRJ.tsv
+but he,2,431,"[15, 431]",SZRJ.tsv
+he always,2,457,"[15, 457]",SZRJ.tsv
+keep,1,460,"[15, 460]",SZRJ.tsv
+it in,2,466,"[15, 466]",SZRJ.tsv
+mango,1,21,"[18, 21, 31]",SZRJ.tsv
+love,1,111,"[21, 111, 112, 130, 277, 413]",SZRJ.tsv
+i love,2,112,"[21, 112]",SZRJ.tsv
+expensive,1,32,"[31, 32]",SZRJ.tsv
+they're,1,204,"[31, 79, 204, 238, 239, 297, 337, 518, 519]",SZRJ.tsv
+quite expensive,2,489,"[31, 489]",SZRJ.tsv
+trouble,1,125,"[38, 125, 358]",SZRJ.tsv
+trouble be,2,239,"[38, 239, 281, 293, 358]",SZRJ.tsv
+i suppose,2,153,"[40, 153]",SZRJ.tsv
+suppose,1,316,"[40, 316]",SZRJ.tsv
+aldi,1,42,"[41, 42, 43, 44]",SZRJ.tsv
+in erm,2,312,"[42, 312]",SZRJ.tsv
+hardly,1,453,"[42, 453]",SZRJ.tsv
+i prefer,2,44,"[43, 44]",SZRJ.tsv
+every,1,417,"[44, 417]",SZRJ.tsv
+the thing and,3,50,"[26, 50]",SZRJ.tsv
+shop,1,75,"[50, 63, 75]",SZRJ.tsv
+thing,1,304,"[50, 273, 288, 304, 337, 342]",SZRJ.tsv
+put it in,3,466,"[50, 466]",SZRJ.tsv
+be that,2,239,"[58, 239, 474, 501, 503, 515]",SZRJ.tsv
+and never,2,318,"[63, 318]",SZRJ.tsv
+with the,2,65,"[26, 65, 282, 449, 453]",SZRJ.tsv
+sit on the,3,68,"[65, 68, 249]",SZRJ.tsv
+sit on,2,68,"[65, 68]",SZRJ.tsv
+daughter,1,181,"[65, 161, 181]",SZRJ.tsv
+i didn't,2,306,"[65, 306]",SZRJ.tsv
+and i didn't,3,310,"[65, 310]",SZRJ.tsv
+and erm and,3,320,"[65, 165, 320]",SZRJ.tsv
+erm and,2,419,"[65, 165, 419]",SZRJ.tsv
+cat,1,449,"[69, 449]",SZRJ.tsv
+that's the,2,77,"[26, 77, 124, 125, 140, 280]",SZRJ.tsv
+and there's,2,204,"[77, 204]",SZRJ.tsv
+just say,2,218,"[79, 130, 218]",SZRJ.tsv
+charles dickens house,3,84,"[81, 84]",SZRJ.tsv
+charles dickens,2,90,"[81, 90]",SZRJ.tsv
+some sort of,3,303,"[90, 303]",SZRJ.tsv
+sort,1,458,"[90, 152, 246, 261, 273, 358, 458, 475]",SZRJ.tsv
+kid,1,111,"[96, 111, 282]",SZRJ.tsv
+he be bear in,4,318,"[96, 318]",SZRJ.tsv
+be bear,2,318,"[96, 318]",SZRJ.tsv
+a lot of,3,98,"[30, 98, 124, 130, 477]",SZRJ.tsv
+write,1,333,"[98, 333]",SZRJ.tsv
+that's the trouble,3,125,"[124, 125]",SZRJ.tsv
+easter,1,127,"[124, 126, 127]",SZRJ.tsv
+the trouble,2,239,"[124, 239, 281, 293]",SZRJ.tsv
+come to,2,130,"[41, 130, 333]",SZRJ.tsv
+tell,1,140,"[130, 140, 169, 236, 322, 327]",SZRJ.tsv
+say so,2,218,"[130, 218]",SZRJ.tsv
+she say,2,457,"[130, 236, 246, 276, 457]",SZRJ.tsv
+so he,2,457,"[130, 457]",SZRJ.tsv
+lie,1,137,"[136, 137, 140, 143]",SZRJ.tsv
+it but,2,143,"[30, 143]",SZRJ.tsv
+we could,2,143,"[101, 143, 253]",SZRJ.tsv
+they've get,2,341,"[143, 341, 404]",SZRJ.tsv
+and they've get,3,445,"[143, 445]",SZRJ.tsv
+would have,2,457,"[143, 457]",SZRJ.tsv
+old,1,327,"[145, 273, 327]",SZRJ.tsv
+year,1,417,"[145, 417]",SZRJ.tsv
+no i,2,150,"[43, 150, 371, 407]",SZRJ.tsv
+i mean,2,239,"[150, 185, 239, 246, 303]",SZRJ.tsv
+they go,2,250,"[150, 165, 246, 250]",SZRJ.tsv
+mean,1,252,"[150, 185, 246, 252, 303, 342]",SZRJ.tsv
+with her,2,254,"[150, 249, 254]",SZRJ.tsv
+she come,2,295,"[150, 295]",SZRJ.tsv
+i mean she,3,303,"[150, 303]",SZRJ.tsv
+go and,2,318,"[150, 248, 318]",SZRJ.tsv
+stay with,2,335,"[150, 335]",SZRJ.tsv
+stay,1,339,"[150, 165, 339]",SZRJ.tsv
+invite,1,339,"[150, 339]",SZRJ.tsv
+with them,2,457,"[150, 273, 457]",SZRJ.tsv
+fall out,2,152,"[151, 152]",SZRJ.tsv
+sort of,2,303,"[152, 246, 261, 273, 303, 358, 475]",SZRJ.tsv
+they've,1,341,"[152, 341, 404, 445]",SZRJ.tsv
+just like,2,441,"[152, 441]",SZRJ.tsv
+to er,2,419,"[155, 419, 518]",SZRJ.tsv
+canada,1,250,"[161, 249, 250, 251, 260, 261, 295, 312]",SZRJ.tsv
+from canada,2,295,"[161, 295]",SZRJ.tsv
+they have,2,163,"[24, 163, 240, 261, 269, 273, 297]",SZRJ.tsv
+go back,2,318,"[163, 165, 318]",SZRJ.tsv
+for a,2,165,"[30, 165, 269]",SZRJ.tsv
+they'd,1,308,"[165, 308, 457]",SZRJ.tsv
+things and,2,341,"[165, 341]",SZRJ.tsv
+nights,1,437,"[165, 437]",SZRJ.tsv
+shower,1,457,"[165, 457, 521]",SZRJ.tsv
+for them,2,458,"[165, 458]",SZRJ.tsv
+what time,2,170,"[169, 170, 172, 177, 181, 220]",SZRJ.tsv
+when you,2,196,"[169, 196, 503]",SZRJ.tsv
+know what,2,206,"[169, 206]",SZRJ.tsv
+give us,2,466,"[169, 466]",SZRJ.tsv
+send,1,207,"[172, 207]",SZRJ.tsv
+there you,2,458,"[207, 458]",SZRJ.tsv
+well he,2,349,"[220, 349, 429, 451, 458]",SZRJ.tsv
+up and,2,222,"[107, 222, 253]",SZRJ.tsv
+here you,2,464,"[222, 464]",SZRJ.tsv
+sorry,1,252,"[236, 252]",SZRJ.tsv
+they're not,2,337,"[238, 337]",SZRJ.tsv
+they all,2,240,"[151, 240]",SZRJ.tsv
+go out,2,453,"[240, 246, 263, 453, 457]",SZRJ.tsv
+be the,2,242,"[134, 242]",SZRJ.tsv
+must,1,242,"[134, 196, 242]",SZRJ.tsv
+so that,2,242,"[218, 242]",SZRJ.tsv
+have be,2,306,"[242, 306]",SZRJ.tsv
+die,1,329,"[242, 329]",SZRJ.tsv
+first,1,329,"[242, 329]",SZRJ.tsv
+must have be,3,458,"[242, 458]",SZRJ.tsv
+mum and,2,246,"[112, 246, 331]",SZRJ.tsv
+my mum,2,246,"[112, 246]",SZRJ.tsv
+and dad,2,246,"[112, 246]",SZRJ.tsv
+whole,1,246,"[142, 246]",SZRJ.tsv
+the day,2,246,"[147, 246]",SZRJ.tsv
+dad be,2,316,"[246, 316]",SZRJ.tsv
+a few days,3,318,"[246, 318]",SZRJ.tsv
+down and,2,431,"[246, 431]",SZRJ.tsv
+lovely,1,447,"[246, 447, 453]",SZRJ.tsv
+er and,2,458,"[246, 458]",SZRJ.tsv
+and at,2,248,"[147, 248, 269]",SZRJ.tsv
+and be,2,248,"[211, 248, 481]",SZRJ.tsv
+his family,2,248,"[247, 248]",SZRJ.tsv
+her bag and,3,458,"[248, 458]",SZRJ.tsv
+stick,1,249,"[26, 249]",SZRJ.tsv
+apparently,1,249,"[41, 249, 312, 318, 329]",SZRJ.tsv
+in canada,2,260,"[249, 251, 260, 261]",SZRJ.tsv
+and erm they,3,253,"[24, 253]",SZRJ.tsv
+i'm gonna,2,521,"[253, 354, 477, 521]",SZRJ.tsv
+get on with,3,255,"[254, 255]",SZRJ.tsv
+get on,2,331,"[255, 331]",SZRJ.tsv
+and it,2,261,"[116, 261, 273, 280, 320]",SZRJ.tsv
+he meet her,3,261,"[258, 261]",SZRJ.tsv
+never forgive her,3,262,"[261, 262]",SZRJ.tsv
+he meet,2,308,"[261, 308]",SZRJ.tsv
+meet,1,457,"[261, 457]",SZRJ.tsv
+to go,2,263,"[189, 263]",SZRJ.tsv
+and she go,3,453,"[263, 453]",SZRJ.tsv
+of course,2,457,"[263, 457]",SZRJ.tsv
+wife,1,269,"[149, 247, 269, 329]",SZRJ.tsv
+like that,2,269,"[264, 269, 302]",SZRJ.tsv
+in the kitchen,3,417,"[273, 417]",SZRJ.tsv
+get an,2,276,"[41, 276]",SZRJ.tsv
+never ever,2,318,"[276, 318, 389]",SZRJ.tsv
+email,1,322,"[276, 322, 333]",SZRJ.tsv
+about a,2,417,"[278, 417]",SZRJ.tsv
+a year,2,417,"[278, 417]",SZRJ.tsv
+later,1,466,"[278, 466]",SZRJ.tsv
+the best,2,280,"[134, 280]",SZRJ.tsv
+i'm gonna get,3,521,"[280, 521]",SZRJ.tsv
+hasn't get,2,282,"[30, 282]",SZRJ.tsv
+of her,2,458,"[282, 458]",SZRJ.tsv
+thing and that,3,288,"[26, 288]",SZRJ.tsv
+what do,2,342,"[129, 342]",SZRJ.tsv
+a great,2,342,"[134, 342]",SZRJ.tsv
+well what do,3,342,"[233, 342]",SZRJ.tsv
+thing of it,3,342,"[337, 342]",SZRJ.tsv
+make a,2,342,"[337, 342]",SZRJ.tsv
+cook,1,453,"[354, 358, 453]",SZRJ.tsv
+a minute,2,466,"[354, 466, 485]",SZRJ.tsv
+think oh,2,358,"[196, 358]",SZRJ.tsv
+bother to,2,358,"[337, 358]",SZRJ.tsv
+didn't get,2,365,"[331, 365]",SZRJ.tsv
+get some,2,371,"[303, 371, 373, 383]",SZRJ.tsv
+you've get,2,393,"[200, 304, 337, 393, 395, 458]",SZRJ.tsv
+fund,1,495,"[393, 473, 477, 495]",SZRJ.tsv
+all the,2,405,"[142, 405, 458, 483]",SZRJ.tsv
+two pound coin,3,408,"[407, 408, 410, 413, 415]",SZRJ.tsv
+it and i,3,413,"[112, 413]",SZRJ.tsv
+that up,2,417,"[413, 417]",SZRJ.tsv
+girls' night out,3,497,"[413, 497]",SZRJ.tsv
+i've get,2,415,"[134, 196, 415, 471, 477]",SZRJ.tsv
+take the,2,457,"[415, 457]",SZRJ.tsv
+for jobseeker's allowance,3,429,"[421, 429]",SZRJ.tsv
+he won't,2,429,"[421, 429]",SZRJ.tsv
+he won't go,3,431,"[421, 431]",SZRJ.tsv
+of it,2,473,"[337, 473]",SZRJ.tsv
+not the,2,473,"[337, 473]",SZRJ.tsv
+quite a,2,477,"[36, 431, 477]",SZRJ.tsv
+go in,2,477,"[88, 477, 479]",SZRJ.tsv
+of money in,3,477,"[107, 477]",SZRJ.tsv
+that when,2,477,"[111, 477, 503]",SZRJ.tsv
+pound coin,2,477,"[408, 410, 477, 479]",SZRJ.tsv
+well i think,3,521,"[477, 521]",SZRJ.tsv
+it all up,3,479,"[107, 479]",SZRJ.tsv
+the money,2,479,"[462, 466, 479]",SZRJ.tsv
+go through,2,481,"[189, 196, 481]",SZRJ.tsv
+twenty ps,2,481,"[417, 457, 466, 481, 483]",SZRJ.tsv
+twenty ps and,3,481,"[457, 481]",SZRJ.tsv
+collect,1,483,"[417, 483]",SZRJ.tsv
+cos he's,2,483,"[419, 483]",SZRJ.tsv
+two pound,2,512,"[407, 408, 410, 413, 415, 512]",SZRJ.tsv
+pound worth,2,512,"[458, 512]",SZRJ.tsv
+the bottom,2,518,"[458, 518]",SZRJ.tsv
+they're at the bottom,4,519,"[518, 519]",SZRJ.tsv

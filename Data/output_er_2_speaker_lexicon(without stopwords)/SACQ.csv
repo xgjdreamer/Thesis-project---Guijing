@@ -1,0 +1,113 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker1,Expression_uttered_position_speaker2,file,speaker1,speaker2
+gonna,1,2,"[2, 129]","[1, 5, 81, 113, 120, 124]",SACQ.tsv,S0179,S0058
+basically it's just,3,3,[2],[3],SACQ.tsv,S0179,S0058
+time,1,12,"[2, 76, 102]",[12],SACQ.tsv,S0179,S0058
+a lot,2,14,[2],[14],SACQ.tsv,S0179,S0058
+in the,2,63,[2],[63],SACQ.tsv,S0179,S0058
+basically,1,120,"[2, 56]",[120],SACQ.tsv,S0179,S0058
+lot,1,128,[2],[128],SACQ.tsv,S0179,S0058
+one,1,12,"[6, 10, 76, 112]","[12, 113]",SACQ.tsv,S0179,S0058
+assume,1,124,[6],[124],SACQ.tsv,S0179,S0058
+yeah,1,8,"[8, 13, 50, 60, 84, 94, 111, 115, 129, 133]","[1, 3, 5, 7, 12, 14, 22, 26, 43, 47, 53, 55, 57, 77, 103, 107, 113, 120, 130, 134]",SACQ.tsv,S0179,S0058
+there's,1,10,[10],"[7, 71, 79, 113, 116]",SACQ.tsv,S0179,S0058
+interest,1,14,"[10, 37, 86]","[14, 81, 91, 101, 103]",SACQ.tsv,S0179,S0058
+be that,2,36,[10],[36],SACQ.tsv,S0179,S0058
+so there's,2,71,[10],[71],SACQ.tsv,S0179,S0058
+two,1,120,"[10, 38, 96, 133]",[120],SACQ.tsv,S0179,S0058
+yes,1,15,"[15, 37, 46, 104]","[12, 59]",SACQ.tsv,S0179,S0058
+think,1,20,"[15, 23, 25, 76]","[20, 128]",SACQ.tsv,S0179,S0058
+er i,2,24,"[15, 23]","[24, 120]",SACQ.tsv,S0179,S0058
+fair,1,17,"[17, 38]",[7],SACQ.tsv,S0179,S0058
+the best,2,47,[17],"[47, 55]",SACQ.tsv,S0179,S0058
+in the world,3,63,[17],[63],SACQ.tsv,S0179,S0058
+best,1,63,[17],[63],SACQ.tsv,S0179,S0058
+that's,1,21,"[21, 37, 38, 56, 100]","[1, 12, 14, 55, 103, 113, 114, 116, 120]",SACQ.tsv,S0179,S0058
+be a,2,21,"[21, 96]","[12, 14, 20, 24]",SACQ.tsv,S0179,S0058
+well,1,22,"[21, 31, 48, 74, 125]","[22, 63, 79, 103, 113]",SACQ.tsv,S0179,S0058
+a bite,2,30,"[21, 78]",[30],SACQ.tsv,S0179,S0058
+sort of,2,103,"[21, 38]","[103, 120]",SACQ.tsv,S0179,S0058
+this be,2,107,"[21, 86]",[107],SACQ.tsv,S0179,S0058
+i don't think,3,25,"[25, 37]","[20, 128]",SACQ.tsv,S0179,S0058
+entirely,1,32,[25],[32],SACQ.tsv,S0179,S0058
+that they,2,122,[25],[122],SACQ.tsv,S0179,S0058
+i don't,2,128,"[25, 37]",[128],SACQ.tsv,S0179,S0058
+um,1,27,"[27, 33, 40, 56, 60]","[1, 7, 14, 65, 107, 120, 130, 134]",SACQ.tsv,S0179,S0058
+someone,1,47,[31],[47],SACQ.tsv,S0179,S0058
+it's not,2,55,[31],"[55, 124]",SACQ.tsv,S0179,S0058
+well it depend,3,63,[31],[63],SACQ.tsv,S0179,S0058
+depend,1,67,[31],[67],SACQ.tsv,S0179,S0058
+go,1,81,"[31, 121, 129]","[81, 107, 124, 132]",SACQ.tsv,S0179,S0058
+you know,2,83,[31],"[83, 128]",SACQ.tsv,S0179,S0058
+turn,1,110,"[31, 133]",[110],SACQ.tsv,S0179,S0058
+and you,2,116,[31],[116],SACQ.tsv,S0179,S0058
+it depend,2,120,[31],[120],SACQ.tsv,S0179,S0058
+know,1,128,"[31, 46]",[128],SACQ.tsv,S0179,S0058
+the point,2,103,[33],[103],SACQ.tsv,S0179,S0058
+like,1,55,"[35, 78]","[55, 83, 103, 113, 116, 120]",SACQ.tsv,S0179,S0058
+i mean,2,37,"[37, 56]","[22, 30, 47, 55, 113, 120, 128]",SACQ.tsv,S0179,S0058
+the the,2,37,[37],[36],SACQ.tsv,S0179,S0058
+things,1,83,[37],"[83, 113]",SACQ.tsv,S0179,S0058
+mean,1,120,"[37, 56]","[120, 122, 124]",SACQ.tsv,S0179,S0058
+not the,2,55,[38],[55],SACQ.tsv,S0179,S0058
+that be,2,101,"[38, 40]",[101],SACQ.tsv,S0179,S0058
+actually,1,103,"[38, 98, 125]","[103, 107]",SACQ.tsv,S0179,S0058
+that's not,2,116,[38],[116],SACQ.tsv,S0179,S0058
+apologists,1,45,[44],[45],SACQ.tsv,S0179,S0058
+cos,1,46,"[46, 111, 121]","[1, 36, 120]",SACQ.tsv,S0179,S0058
+could,1,73,[46],[73],SACQ.tsv,S0179,S0058
+wrong,1,79,[46],"[79, 113]",SACQ.tsv,S0179,S0058
+they do,2,103,[46],[103],SACQ.tsv,S0179,S0058
+many,1,50,[50],"[16, 99]",SACQ.tsv,S0179,S0058
+exactly,1,50,[50],"[30, 79, 113]",SACQ.tsv,S0179,S0058
+right,1,91,[50],[91],SACQ.tsv,S0179,S0058
+say,1,103,"[50, 78]","[103, 116]",SACQ.tsv,S0179,S0058
+problem,1,56,"[56, 60]",[9],SACQ.tsv,S0179,S0058
+um be,2,107,[56],[107],SACQ.tsv,S0179,S0058
+third,1,61,[60],"[61, 63]",SACQ.tsv,S0179,S0058
+third best in the world,5,63,[60],[63],SACQ.tsv,S0179,S0058
+top,1,68,[68],"[65, 67]",SACQ.tsv,S0179,S0058
+mit's,1,68,[68],[67],SACQ.tsv,S0179,S0058
+oxford,1,74,[74],[73],SACQ.tsv,S0179,S0058
+it's the,2,76,[76],[12],SACQ.tsv,S0179,S0058
+oh right,2,91,[76],[91],SACQ.tsv,S0179,S0058
+they're,1,78,[78],"[1, 36, 83]",SACQ.tsv,S0179,S0058
+compare,1,78,[78],[7],SACQ.tsv,S0179,S0058
+it's a,2,78,[78],"[9, 12]",SACQ.tsv,S0179,S0058
+be interest,2,101,[86],[101],SACQ.tsv,S0179,S0058
+thousand,1,88,"[88, 98, 100]","[85, 120]",SACQ.tsv,S0179,S0058
+eighteen,1,93,[88],[93],SACQ.tsv,S0179,S0058
+academic staff,2,103,"[88, 100]",[103],SACQ.tsv,S0179,S0058
+staff,1,113,"[88, 100, 102]","[113, 116]",SACQ.tsv,S0179,S0058
+use,1,90,[90],"[67, 113]",SACQ.tsv,S0179,S0058
+eighteen fifty eight,3,93,[92],[93],SACQ.tsv,S0179,S0058
+eighty,1,96,[96],[12],SACQ.tsv,S0179,S0058
+it be a,3,96,[96],[20],SACQ.tsv,S0179,S0058
+it be,2,96,[96],"[20, 39, 120, 128]",SACQ.tsv,S0179,S0058
+nine,1,96,[96],[85],SACQ.tsv,S0179,S0058
+ratio,1,113,[100],[113],SACQ.tsv,S0179,S0058
+get,1,102,"[102, 121]","[7, 103]",SACQ.tsv,S0179,S0058
+nearly,1,107,[102],[107],SACQ.tsv,S0179,S0058
+anglia ruskin,2,113,[109],[113],SACQ.tsv,S0179,S0058
+explain,1,111,[111],[16],SACQ.tsv,S0179,S0058
+come,1,111,"[111, 119]",[16],SACQ.tsv,S0179,S0058
+that the,2,111,[111],[36],SACQ.tsv,S0179,S0058
+to a,2,111,[111],[47],SACQ.tsv,S0179,S0058
+of yeah,2,111,[111],[55],SACQ.tsv,S0179,S0058
+of that,2,111,[111],[103],SACQ.tsv,S0179,S0058
+point,1,111,[111],[103],SACQ.tsv,S0179,S0058
+research,1,111,[111],[105],SACQ.tsv,S0179,S0058
+it's just,2,112,[112],[3],SACQ.tsv,S0179,S0058
+better,1,112,[112],[24],SACQ.tsv,S0179,S0058
+play,1,119,[119],"[81, 83]",SACQ.tsv,S0179,S0058
+citi 4,2,121,"[121, 127]",[1],SACQ.tsv,S0179,S0058
+continue to,2,121,[121],[47],SACQ.tsv,S0179,S0058
+cos it,2,121,[121],[120],SACQ.tsv,S0179,S0058
+walk to the centre,4,122,[121],[122],SACQ.tsv,S0179,S0058
+go round,2,124,[121],[124],SACQ.tsv,S0179,S0058
+estates,1,124,[121],[124],SACQ.tsv,S0179,S0058
+round,1,127,[127],[124],SACQ.tsv,S0179,S0058
+go and,2,129,[129],[81],SACQ.tsv,S0179,S0058
+i'm,1,129,[129],[120],SACQ.tsv,S0179,S0058
+gonna go,2,129,[129],[124],SACQ.tsv,S0179,S0058
+do you,2,133,[133],"[103, 134]",SACQ.tsv,S0179,S0058
+sweet and sour,3,135,[135],"[134, 136]",SACQ.tsv,S0179,S0058

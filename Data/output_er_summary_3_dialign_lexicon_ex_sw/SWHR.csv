@@ -1,0 +1,254 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+laptop,1,1,"[0, 1, 2, 3, 7, 10, 16, 38, 49, 73, 105, 121, 125, 230]",SWHR.tsv
+get a,2,7,"[0, 7, 10, 73, 105]",SWHR.tsv
+get,1,21,"[0, 7, 21, 34, 49, 58, 67, 70, 73, 105, 110, 121, 123, 144, 156, 158, 165, 170, 186, 230]",SWHR.tsv
+new,1,31,"[0, 31, 69, 77, 107, 109, 110, 144, 146, 230]",SWHR.tsv
+a laptop,2,3,"[2, 3, 7, 10, 73]",SWHR.tsv
+like,1,25,"[4, 25, 33, 37, 67, 77, 79, 112, 125, 132, 135, 137, 142, 164, 175, 186, 198, 204, 212]",SWHR.tsv
+yeah,1,11,"[1, 11, 13, 14, 16, 17, 18, 22, 23, 25, 26, 29, 32, 34, 38, 46, 47, 54, 66, 68, 76, 83, 84, 90, 95, 97, 100, 101, 105, 109, 111, 119, 121, 129, 134, 136, 138, 140, 147, 150, 162, 174, 179, 182, 205, 207, 222, 227, 230]",SWHR.tsv
+that's,1,33,"[11, 33, 68, 82, 105, 228]",SWHR.tsv
+presentation,1,13,"[10, 13, 175, 199]",SWHR.tsv
+find,1,16,"[15, 16, 31, 51, 58, 60]",SWHR.tsv
+cos,1,17,"[1, 17, 25, 49, 60, 156, 192, 216]",SWHR.tsv
+go back,2,20,"[17, 20, 125, 142, 170]",SWHR.tsv
+go,1,104,"[17, 104, 125, 142, 154, 164, 170, 175, 178, 186]",SWHR.tsv
+use,1,19,"[7, 19, 25, 38, 41, 79, 92, 117, 120, 125, 131, 170, 186]",SWHR.tsv
+'s,1,20,"[19, 20, 77, 92, 94]",SWHR.tsv
+it's not,2,21,"[19, 21, 25, 38, 51, 56, 142]",SWHR.tsv
+difficult,1,21,"[19, 21, 94]",SWHR.tsv
+yeah i,2,22,"[16, 22, 25, 34, 105, 109]",SWHR.tsv
+i think,2,79,"[22, 38, 79, 108, 186, 190, 207, 212, 216]",SWHR.tsv
+think,1,79,"[22, 38, 79, 105, 108, 186, 190, 207, 212, 216]",SWHR.tsv
+yeah yeah,2,90,"[22, 25, 90, 111, 121, 150, 162, 207]",SWHR.tsv
+buy,1,104,"[22, 104, 110, 123, 146]",SWHR.tsv
+one,1,24,"[1, 7, 24, 44, 69, 77, 79, 96, 102, 105, 109, 110, 125, 164]",SWHR.tsv
+well,1,24,"[7, 16, 24, 56, 70, 79, 105, 125, 152, 154, 164, 186, 229]",SWHR.tsv
+linux,1,25,"[24, 25, 38, 52, 105, 116, 117, 120, 125, 130, 134]",SWHR.tsv
+job,1,147,"[28, 144, 147]",SWHR.tsv
+get the,2,34,"[21, 34]",SWHR.tsv
+you know,2,36,"[7, 36, 75, 77, 79, 115, 130, 136, 186, 218]",SWHR.tsv
+say,1,36,"[7, 36, 77, 79, 125, 137, 186]",SWHR.tsv
+say you know,3,79,"[36, 79]",SWHR.tsv
+be you,2,79,"[36, 79]",SWHR.tsv
+know,1,228,"[36, 115, 136, 186, 218, 228]",SWHR.tsv
+i've,1,38,"[1, 3, 16, 21, 38, 105, 142, 152, 154, 173]",SWHR.tsv
+i'm,1,38,"[1, 16, 38, 125, 146, 186, 222]",SWHR.tsv
+a bite,2,38,"[21, 25, 38, 51, 105, 175, 204, 218]",SWHR.tsv
+need,1,77,"[38, 52, 58, 77, 105, 107, 109]",SWHR.tsv
+it be,2,46,"[38, 46, 52, 79, 113, 137, 139, 142, 231]",SWHR.tsv
+spend,1,79,"[38, 51, 79, 113]",SWHR.tsv
+start,1,147,"[38, 147, 149]",SWHR.tsv
+bite,1,173,"[25, 38, 51, 105, 173, 204, 218]",SWHR.tsv
+one that,2,44,"[7, 44, 105]",SWHR.tsv
+er it's,2,83,"[44, 83]",SWHR.tsv
+come,1,44,"[10, 44, 164, 222, 228]",SWHR.tsv
+really,1,47,"[1, 16, 47, 83, 84, 123, 128, 164, 186, 198]",SWHR.tsv
+good,1,49,"[16, 49, 56, 84, 91, 103, 105, 136, 163, 164, 212, 230, 233]",SWHR.tsv
+but it's,2,49,"[21, 49, 67, 173]",SWHR.tsv
+something,1,52,"[49, 52, 67, 79, 175, 218]",SWHR.tsv
+if you,2,51,"[31, 51, 52, 58, 69, 222, 228]",SWHR.tsv
+like that,2,67,"[37, 67, 125, 142]",SWHR.tsv
+or something,2,175,"[67, 175]",SWHR.tsv
+be able to,3,178,"[67, 178]",SWHR.tsv
+the new,2,77,"[69, 77]",SWHR.tsv
+one be,2,96,"[69, 96, 102]",SWHR.tsv
+kind of,2,135,"[69, 95, 135, 156, 175]",SWHR.tsv
+get a laptop,3,73,"[7, 73]",SWHR.tsv
+right,1,74,"[35, 39, 58, 61, 68, 74, 122, 151, 157, 163, 166, 171, 176, 195, 202, 211]",SWHR.tsv
+yes,1,78,"[12, 37, 43, 78, 81, 153, 171]",SWHR.tsv
+be it,2,161,"[85, 107, 161]",SWHR.tsv
+it's a,2,175,"[89, 175]",SWHR.tsv
+about get,2,105,"[7, 105]",SWHR.tsv
+only a year,3,105,"[9, 105]",SWHR.tsv
+old,1,105,"[9, 77, 79, 105]",SWHR.tsv
+year,1,105,"[9, 77, 79, 105]",SWHR.tsv
+i've get,2,105,"[21, 105]",SWHR.tsv
+get break,2,105,"[70, 105]",SWHR.tsv
+year and a,3,105,"[72, 105]",SWHR.tsv
+a year,2,105,"[72, 79, 105]",SWHR.tsv
+it's dead,2,107,"[18, 107]",SWHR.tsv
+dead,1,107,"[18, 107]",SWHR.tsv
+need a,2,107,"[77, 107, 109]",SWHR.tsv
+would,1,107,"[79, 107, 109, 112, 113, 153]",SWHR.tsv
+it the,2,107,"[92, 107]",SWHR.tsv
+about a,2,109,"[72, 79, 109]",SWHR.tsv
+on it,2,109,"[77, 109, 123]",SWHR.tsv
+hundred,1,109,"[79, 109, 112]",SWHR.tsv
+fifty,1,109,"[79, 109]",SWHR.tsv
+only a,2,113,"[9, 113]",SWHR.tsv
+on the,2,113,"[16, 60, 79, 113, 164, 189, 222]",SWHR.tsv
+for a,2,113,"[75, 113, 125]",SWHR.tsv
+computer,1,115,"[3, 58, 77, 112, 115, 137, 170]",SWHR.tsv
+know i,2,115,"[7, 115]",SWHR.tsv
+for the,2,115,"[12, 115]",SWHR.tsv
+i don't,2,115,"[33, 37, 115, 131, 136, 142, 154, 198, 228]",SWHR.tsv
+i don't know,3,228,"[115, 136, 142, 228]",SWHR.tsv
+ago,1,123,"[72, 123]",SWHR.tsv
+so i,2,123,"[77, 123, 142]",SWHR.tsv
+windows,1,123,"[31, 77, 123, 125, 135, 139, 189]",SWHR.tsv
+i be,2,125,"[7, 25, 77, 112, 125]",SWHR.tsv
+laptop and,2,125,"[7, 125]",SWHR.tsv
+and i,2,125,"[16, 77, 79, 125, 142, 186, 212]",SWHR.tsv
+back,1,125,"[20, 125]",SWHR.tsv
+i want,2,127,"[16, 77, 127]",SWHR.tsv
+want,1,16,"[10, 16, 77, 127, 142, 144, 158]",SWHR.tsv
+i just,2,132,"[77, 132, 142, 198]",SWHR.tsv
+and it's,2,136,"[79, 92, 136]",SWHR.tsv
+it's it's,2,136,"[102, 136]",SWHR.tsv
+try to,2,142,"[10, 16, 31, 142, 164]",SWHR.tsv
+it and,2,142,"[21, 58, 79, 142, 196]",SWHR.tsv
+pay,1,144,"[75, 144]",SWHR.tsv
+just want,2,144,"[77, 144]",SWHR.tsv
+first,1,144,"[10, 144, 222, 223]",SWHR.tsv
+gonna,1,228,"[146, 186, 218, 228]",SWHR.tsv
+no i've,2,154,"[3, 154]",SWHR.tsv
+be go,2,154,"[20, 154]",SWHR.tsv
+in the,2,201,"[154, 201]",SWHR.tsv
+have a,2,156,"[3, 10, 156]",SWHR.tsv
+just to,2,156,"[16, 156]",SWHR.tsv
+two,1,156,"[77, 79, 112, 156, 184]",SWHR.tsv
+he's,1,156,"[79, 156]",SWHR.tsv
+positive,1,162,"[161, 162]",SWHR.tsv
+a few,2,164,"[16, 164]",SWHR.tsv
+really good,2,164,"[16, 84, 164]",SWHR.tsv
+easy,1,164,"[18, 110, 164]",SWHR.tsv
+at the,2,164,"[79, 164]",SWHR.tsv
+what happen,2,165,"[70, 165]",SWHR.tsv
+another,1,206,"[165, 206, 228]",SWHR.tsv
+happen,1,167,"[70, 167]",SWHR.tsv
+powerpoint,1,181,"[173, 181, 186]",SWHR.tsv
+sort of,2,184,"[21, 173, 175, 184, 209]",SWHR.tsv
+a sort of,3,184,"[175, 184]",SWHR.tsv
+rather than,2,186,"[16, 186]",SWHR.tsv
+you know the,3,186,"[77, 186, 218]",SWHR.tsv
+use it,2,186,"[79, 117, 186]",SWHR.tsv
+say well,2,186,"[79, 186]",SWHR.tsv
+you're use,2,186,"[41, 92, 186]",SWHR.tsv
+i mean,2,186,"[94, 186]",SWHR.tsv
+it do,2,186,"[117, 186]",SWHR.tsv
+memory board,2,186,"[175, 186]",SWHR.tsv
+it's more,2,186,"[178, 186, 212, 214]",SWHR.tsv
+give,1,222,"[186, 222]",SWHR.tsv
+web,1,192,"[79, 192, 199]",SWHR.tsv
+pay for,2,196,"[75, 196]",SWHR.tsv
+in the cloud,3,201,"[200, 201, 203]",SWHR.tsv
+sound,1,203,"[133, 135, 203, 233]",SWHR.tsv
+erm you,2,212,"[7, 212]",SWHR.tsv
+memory,1,212,"[175, 212]",SWHR.tsv
+it's a bite,3,218,"[175, 204, 218]",SWHR.tsv
+see,1,221,"[173, 193, 197, 221]",SWHR.tsv
+be that,2,223,"[31, 45, 58, 137, 183, 223]",SWHR.tsv
+first of march,3,223,"[222, 223]",SWHR.tsv
+sunday,1,225,"[224, 225, 226]",SWHR.tsv
+so you,2,58,"[0, 58, 144, 214, 231]",SWHR.tsv
+a new,2,110,"[0, 107, 110]",SWHR.tsv
+like a,2,204,"[4, 164, 186, 204]",SWHR.tsv
+and the,2,84,"[6, 36, 84, 125, 137, 164]",SWHR.tsv
+yeah that's,2,68,"[11, 68]",SWHR.tsv
+cos you,2,17,"[10, 17]",SWHR.tsv
+you can,2,204,"[17, 38, 69, 186, 196, 204, 207, 212, 231]",SWHR.tsv
+stuff,1,204,"[17, 113, 125, 204]",SWHR.tsv
+yeah yeah i,3,25,"[22, 25]",SWHR.tsv
+with the,2,31,"[24, 31, 137, 164]",SWHR.tsv
+plug,1,135,"[24, 135]",SWHR.tsv
+the same,2,108,"[34, 108]",SWHR.tsv
+the other,2,52,"[36, 52, 58]",SWHR.tsv
+be a,2,38,"[27, 38, 52, 53, 113]",SWHR.tsv
+the time,2,38,"[31, 38]",SWHR.tsv
+it be a,3,52,"[38, 52, 113]",SWHR.tsv
+a lot,2,52,"[38, 52, 125, 156]",SWHR.tsv
+need to,2,52,"[38, 52, 58, 105]",SWHR.tsv
+things,1,56,"[38, 56, 58, 125, 136, 167, 212]",SWHR.tsv
+things you,2,58,"[38, 58]",SWHR.tsv
+actually,1,58,"[38, 58, 139, 212]",SWHR.tsv
+there's,1,112,"[38, 49, 67, 112, 113, 127, 184, 212]",SWHR.tsv
+so it's,2,204,"[38, 204]",SWHR.tsv
+and er,2,44,"[31, 44]",SWHR.tsv
+they're,1,47,"[33, 47, 218]",SWHR.tsv
+can't,1,62,"[49, 62]",SWHR.tsv
+time,1,51,"[31, 51, 218]",SWHR.tsv
+it it's,2,58,"[51, 58, 142]",SWHR.tsv
+about it,2,137,"[51, 137, 142]",SWHR.tsv
+there be,2,54,"[53, 54]",SWHR.tsv
+the language of the operate system,6,66,"[65, 66]",SWHR.tsv
+operate system,2,137,"[65, 109, 137, 139]",SWHR.tsv
+system,1,204,"[65, 109, 125, 204]",SWHR.tsv
+erm it's,2,69,"[25, 69]",SWHR.tsv
+new one,2,110,"[69, 109, 110]",SWHR.tsv
+do it,2,189,"[69, 189, 231]",SWHR.tsv
+isn't it,2,110,"[89, 110, 218]",SWHR.tsv
+so it's a,3,204,"[89, 204]",SWHR.tsv
+thing,1,107,"[52, 58, 107, 137]",SWHR.tsv
+the same thing,3,108,"[107, 108]",SWHR.tsv
+it would,2,112,"[107, 112]",SWHR.tsv
+put,1,109,"[60, 109, 123, 125, 186]",SWHR.tsv
+a new one,3,110,"[109, 110]",SWHR.tsv
+cost about,2,112,"[109, 112]",SWHR.tsv
+pound so,2,112,"[109, 112]",SWHR.tsv
+it be an,3,113,"[46, 113]",SWHR.tsv
+fix,1,113,"[52, 58, 113]",SWHR.tsv
+a small,2,113,"[60, 113]",SWHR.tsv
+pound,1,113,"[112, 113]",SWHR.tsv
+begin,1,137,"[113, 137]",SWHR.tsv
+of the,2,115,"[66, 115, 125]",SWHR.tsv
+five,1,123,"[84, 123]",SWHR.tsv
+but it,2,137,"[123, 137]",SWHR.tsv
+take,1,125,"[33, 125]",SWHR.tsv
+the brightness,2,125,"[58, 125]",SWHR.tsv
+work,1,125,"[58, 125, 139, 144, 162, 189, 190]",SWHR.tsv
+i have,2,125,"[60, 125, 148]",SWHR.tsv
+like you say,3,137,"[125, 137]",SWHR.tsv
+that it,2,137,"[127, 137]",SWHR.tsv
+to want,2,142,"[10, 142]",SWHR.tsv
+to install,2,142,"[58, 142]",SWHR.tsv
+install,1,142,"[58, 142]",SWHR.tsv
+buy a new,3,146,"[110, 146]",SWHR.tsv
+to get,2,158,"[10, 158]",SWHR.tsv
+your computer,2,170,"[137, 170]",SWHR.tsv
+version,1,184,"[137, 184, 186]",SWHR.tsv
+which be,2,186,"[27, 135, 139, 186, 188]",SWHR.tsv
+almost,1,186,"[110, 112, 186]",SWHR.tsv
+it it,2,186,"[112, 186]",SWHR.tsv
+i use,2,186,"[131, 186]",SWHR.tsv
+more like,2,186,"[135, 186]",SWHR.tsv
+because it,2,188,"[139, 188]",SWHR.tsv
+all the,2,190,"[31, 190]",SWHR.tsv
+it work on,3,190,"[189, 190]",SWHR.tsv
+cos it's,2,192,"[25, 192]",SWHR.tsv
+base,1,192,"[137, 192]",SWHR.tsv
+it's web base,3,199,"[192, 199]",SWHR.tsv
+but you,2,196,"[10, 196]",SWHR.tsv
+to put,2,212,"[60, 212]",SWHR.tsv
+be to,2,221,"[112, 221]",SWHR.tsv
+laptop cos,2,10,"[1, 10]",SWHR.tsv
+mm mm,2,185,"[5, 59, 155, 185, 187, 191, 213, 215, 219]",SWHR.tsv
+it's erm,2,25,"[7, 25, 79]",SWHR.tsv
+well it's,2,56,"[7, 56]",SWHR.tsv
+friend's,1,71,"[7, 71]",SWHR.tsv
+yes yes,2,81,"[12, 81]",SWHR.tsv
+i find,2,31,"[16, 31]",SWHR.tsv
+get to,2,110,"[21, 110]",SWHR.tsv
+i don't like,3,37,"[33, 37]",SWHR.tsv
+open office,2,45,"[41, 45, 46]",SWHR.tsv
+harder,1,55,"[52, 55]",SWHR.tsv
+in unix,2,63,"[62, 63]",SWHR.tsv
+unix,1,64,"[63, 64]",SWHR.tsv
+house,1,71,"[70, 71]",SWHR.tsv
+friend's house,2,72,"[71, 72]",SWHR.tsv
+and erm,2,75,"[25, 75, 77, 79]",SWHR.tsv
+erm the,2,75,"[58, 75]",SWHR.tsv
+want a,2,77,"[10, 77]",SWHR.tsv
+about two,2,112,"[79, 112]",SWHR.tsv
+call it,2,135,"[92, 135]",SWHR.tsv
+do you,2,199,"[92, 117, 130, 147, 199]",SWHR.tsv
+to buy,2,110,"[104, 110]",SWHR.tsv
+use linux,2,117,"[25, 117, 120]",SWHR.tsv
+oh right,2,166,"[122, 151, 166, 176]",SWHR.tsv
+linux be,2,130,"[52, 130]",SWHR.tsv
+oh yeah,2,174,"[147, 174, 222]",SWHR.tsv
+you have,2,149,"[10, 58, 149]",SWHR.tsv
+prezi,1,173,"[172, 173]",SWHR.tsv
+what i,2,175,"[31, 175]",SWHR.tsv
+it's a bite like,4,204,"[175, 204]",SWHR.tsv
+different,1,178,"[25, 178]",SWHR.tsv
+and be,2,183,"[178, 183]",SWHR.tsv

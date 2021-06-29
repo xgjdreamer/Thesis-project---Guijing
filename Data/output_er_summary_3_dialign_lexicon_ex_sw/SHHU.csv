@@ -1,0 +1,384 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+one,1,8,"[0, 2, 5, 7, 8, 13, 17, 43, 45, 72, 74, 101, 115, 140, 163, 213, 239, 277, 293, 298, 328, 336, 339, 355, 402, 427, 479]",SHHU.tsv
+have on,2,115,"[0, 115]",SHHU.tsv
+you see,2,136,"[0, 29, 136]",SHHU.tsv
+see,1,179,"[0, 29, 72, 136, 141, 179, 185, 247, 255, 257, 333, 402, 453, 454]",SHHU.tsv
+three,1,152,"[0, 2, 152, 154, 157, 162, 172, 179, 181, 185, 470, 471, 472]",SHHU.tsv
+well,1,26,"[2, 26, 27, 42, 45, 47, 55, 77, 94, 99, 101, 110, 118, 146, 160, 209, 238, 293, 298, 320, 321, 329, 334, 439, 460]",SHHU.tsv
+train,1,38,"[2, 38, 422]",SHHU.tsv
+oh right,2,40,"[2, 40, 85, 149, 184, 206, 410]",SHHU.tsv
+right,1,21,"[2, 21, 22, 40, 41, 45, 52, 85, 146, 149, 184, 206, 211, 253, 361, 410]",SHHU.tsv
+get,1,24,"[2, 24, 28, 31, 62, 103, 105, 132, 154, 199, 215, 265, 288, 292, 293, 312, 329, 330, 331, 346, 372, 375, 376, 377, 378, 382, 398, 408, 411]",SHHU.tsv
+the one,2,74,"[2, 17, 74, 115, 277]",SHHU.tsv
+think,1,3,"[2, 3, 35, 39, 63, 65, 76, 83, 86, 88, 104, 150, 185, 199, 209, 232, 280, 287, 294, 322, 325, 336, 437, 439, 451, 458, 463]",SHHU.tsv
+be a,2,87,"[2, 87, 228, 287, 315, 414, 417]",SHHU.tsv
+look,1,115,"[2, 29, 115, 136, 154, 172, 181, 400, 407, 443, 473]",SHHU.tsv
+like,1,59,"[2, 59, 116, 117, 119, 144, 152, 154, 155, 160, 162, 172, 173, 175, 179, 252, 262, 278, 361, 417, 441, 443]",SHHU.tsv
+nine,1,168,"[2, 34, 168]",SHHU.tsv
+really,1,63,"[2, 54, 63, 90, 155, 176, 223, 234, 238, 252, 282, 331, 432, 442]",SHHU.tsv
+it be a,3,287,"[2, 287, 315]",SHHU.tsv
+multiple unit,2,7,"[4, 7]",SHHU.tsv
+call,1,138,"[7, 25, 29, 84, 138, 281, 314, 346, 411, 417, 420, 427]",SHHU.tsv
+thing,1,321,"[7, 234, 258, 321, 400]",SHHU.tsv
+could,1,336,"[7, 336, 339, 414]",SHHU.tsv
+yeah,1,36,"[9, 12, 22, 34, 36, 40, 52, 60, 69, 78, 82, 88, 91, 93, 102, 103, 110, 119, 121, 122, 125, 126, 128, 129, 135, 137, 141, 145, 148, 158, 161, 165, 177, 178, 180, 182, 186, 191, 192, 194, 196, 198, 210, 223, 225, 234, 236, 248, 252, 255, 257, 261, 272, 273, 278, 298, 299, 315, 316, 320, 327, 344, 350, 362, 366, 368, 377, 381, 395, 396, 405, 413, 415, 426, 448, 455, 464, 468, 474, 482]",SHHU.tsv
+let's just go home,4,12,"[11, 12, 20]",SHHU.tsv
+go,1,12,"[11, 12, 16, 18, 20, 24, 28, 40, 45, 75, 80, 116, 154, 156, 157, 162, 172, 173, 181, 219, 231, 234, 238, 270, 353, 361, 392, 422, 425, 428, 443, 447, 450, 451]",SHHU.tsv
+go home,2,16,"[12, 16, 18, 20]",SHHU.tsv
+i'm,1,27,"[12, 27, 88, 100, 373, 451, 475]",SHHU.tsv
+go to,2,40,"[12, 40, 80, 219, 231, 238, 392, 447]",SHHU.tsv
+gonna,1,42,"[12, 42, 228]",SHHU.tsv
+let's,1,132,"[12, 132, 288]",SHHU.tsv
+home,1,267,"[11, 12, 16, 18, 20, 267, 484]",SHHU.tsv
+we're go home,3,18,"[16, 18, 20]",SHHU.tsv
+make,1,27,"[22, 27, 110]",SHHU.tsv
+no i don't know,4,29,"[1, 29, 229]",SHHU.tsv
+i'll have to,3,29,"[20, 29, 453]",SHHU.tsv
+i don't,2,3,"[1, 3, 28, 29, 40, 53, 113, 148, 185, 199, 209, 219, 223, 227, 229, 232, 411, 451]",SHHU.tsv
+that's,1,45,"[29, 45, 47, 49, 65, 74, 88, 100, 118, 134, 138, 140, 142, 211, 261, 289, 354, 356, 358, 364, 397, 413, 424, 425, 430, 439]",SHHU.tsv
+do you,2,35,"[29, 35, 65, 107, 114, 118, 131, 133, 144, 152, 174, 247, 249, 250, 301, 314, 349, 353, 390, 411, 434, 481]",SHHU.tsv
+know,1,57,"[1, 29, 57, 66, 107, 113, 114, 131, 133, 144, 152, 160, 178, 185, 209, 219, 223, 227, 229, 250, 252, 349, 353, 381, 388, 390, 434, 436, 447]",SHHU.tsv
+i don't know,3,53,"[1, 29, 53, 113, 185, 219, 223, 227, 229]",SHHU.tsv
+look at,2,115,"[29, 115, 154, 172, 181, 400]",SHHU.tsv
+have a,2,124,"[29, 110, 124, 234, 240, 266, 280, 417, 443]",SHHU.tsv
+that's call,2,138,"[29, 138]",SHHU.tsv
+do it,2,55,"[31, 55, 81, 116, 436]",SHHU.tsv
+to get,2,329,"[31, 103, 329]",SHHU.tsv
+yeah i'd,2,119,"[34, 119]",SHHU.tsv
+i'd,1,130,"[34, 119, 130, 263]",SHHU.tsv
+say,1,100,"[34, 100, 151, 153, 176, 249, 250, 254, 260, 263, 288, 334, 371, 373, 441, 447]",SHHU.tsv
+a lot,2,56,"[55, 56, 87, 325]",SHHU.tsv
+bus,1,69,"[67, 68, 69, 70, 72, 80, 86, 203, 214]",SHHU.tsv
+cos,1,72,"[20, 46, 72, 80, 87, 150, 154, 176, 181, 210, 329, 397, 438]",SHHU.tsv
+have be,2,79,"[72, 79, 395]",SHHU.tsv
+five,1,190,"[72, 190, 191, 371, 403]",SHHU.tsv
+a bus,2,80,"[67, 80]",SHHU.tsv
+the bus,2,214,"[80, 214]",SHHU.tsv
+station,1,276,"[80, 276, 277]",SHHU.tsv
+mile,1,96,"[89, 95, 96, 97, 99, 103]",SHHU.tsv
+we're,1,101,"[16, 20, 101]",SHHU.tsv
+end,1,101,"[49, 101, 136, 238]",SHHU.tsv
+the other,2,287,"[101, 238, 242, 287, 293, 399, 422]",SHHU.tsv
+yeah and,2,161,"[103, 161, 377]",SHHU.tsv
+and then,2,181,"[103, 181, 187, 193, 285, 298, 327]",SHHU.tsv
+isn't it,2,210,"[103, 210, 424, 431]",SHHU.tsv
+it be,2,150,"[2, 104, 108, 150, 152, 154, 160, 169, 172, 234, 242, 287, 290, 315, 407, 417]",SHHU.tsv
+if you,2,136,"[110, 136, 331]",SHHU.tsv
+would,1,110,"[10, 110, 185, 259, 260, 398, 451]",SHHU.tsv
+in the,2,121,"[79, 121, 146, 159, 173, 238, 252]",SHHU.tsv
+tune,1,124,"[121, 124]",SHHU.tsv
+you can,2,121,"[120, 121, 320, 372]",SHHU.tsv
+oh yeah,2,135,"[91, 135, 182, 299]",SHHU.tsv
+it's not,2,139,"[107, 139, 250, 328, 371]",SHHU.tsv
+leave,1,136,"[45, 136, 139, 417]",SHHU.tsv
+oh i,2,141,"[3, 40, 141, 420, 437]",SHHU.tsv
+i see,2,255,"[141, 255, 257]",SHHU.tsv
+do they,2,156,"[49, 151, 156, 170]",SHHU.tsv
+'s,1,165,"[61, 63, 92, 165, 166, 238, 280, 339, 343]",SHHU.tsv
+start,1,288,"[170, 213, 244, 258, 288, 292]",SHHU.tsv
+be the,2,173,"[41, 115, 173, 202, 213, 270, 291]",SHHU.tsv
+he'll be,2,222,"[173, 221, 222]",SHHU.tsv
+yeah we,2,178,"[177, 178, 236, 298]",SHHU.tsv
+yeah i,2,186,"[148, 186, 257, 381, 395]",SHHU.tsv
+and and,2,189,"[161, 189, 199]",SHHU.tsv
+they're,1,191,"[46, 63, 100, 102, 191, 193, 251, 436, 438]",SHHU.tsv
+seven,1,193,"[38, 193, 197, 346, 347, 348]",SHHU.tsv
+good,1,200,"[89, 200, 211, 234, 238, 297, 413, 482]",SHHU.tsv
+i'll have,2,209,"[20, 209]",SHHU.tsv
+well i,2,209,"[26, 27, 146, 209, 334]",SHHU.tsv
+you know,2,209,"[57, 107, 114, 131, 133, 144, 152, 160, 209, 250, 349, 353, 388, 390, 434]",SHHU.tsv
+that'll be,2,211,"[23, 211]",SHHU.tsv
+oh that's,2,211,"[74, 211, 413]",SHHU.tsv
+actually,1,211,"[53, 211, 414]",SHHU.tsv
+ever,1,247,"[213, 247, 398]",SHHU.tsv
+day,1,213,"[210, 213, 422]",SHHU.tsv
+get it,2,215,"[24, 215, 329, 331, 372]",SHHU.tsv
+he's,1,219,"[168, 219, 244]",SHHU.tsv
+i don't know i,4,223,"[113, 223]",SHHU.tsv
+go on,2,422,"[234, 422]",SHHU.tsv
+put,1,236,"[79, 236, 301, 336, 339, 400, 409]",SHHU.tsv
+the team,2,345,"[236, 345]",SHHU.tsv
+we have,2,360,"[236, 298, 360]",SHHU.tsv
+back,1,237,"[10, 23, 86, 154, 181, 187, 237, 244, 356]",SHHU.tsv
+sort of,2,238,"[51, 117, 238, 244]",SHHU.tsv
+the end,2,238,"[136, 238]",SHHU.tsv
+team,1,343,"[236, 238, 242, 340, 343, 345]",SHHU.tsv
+napoleon complex,2,240,"[239, 240]",SHHU.tsv
+they be,2,242,"[1, 185, 187, 188, 242, 280, 285]",SHHU.tsv
+be it,2,242,"[4, 28, 41, 242, 274, 277, 291, 298, 406, 417, 432, 457, 459]",SHHU.tsv
+can't,1,242,"[6, 242, 318, 417, 441, 482]",SHHU.tsv
+be there,2,242,"[67, 154, 242, 370]",SHHU.tsv
+everyone,1,242,"[134, 242, 349]",SHHU.tsv
+people,1,246,"[160, 230, 233, 246, 250, 329]",SHHU.tsv
+know what,2,250,"[1, 185, 250, 252, 353]",SHHU.tsv
+do you know,3,114,"[107, 114, 131, 133, 144, 152, 250, 349, 353, 390, 434]",SHHU.tsv
+mean,1,250,"[28, 118, 172, 250, 252, 255, 257, 436, 462]",SHHU.tsv
+say hello,2,254,"[249, 254]",SHHU.tsv
+hello,1,262,"[254, 262]",SHHU.tsv
+hotel,1,275,"[270, 271, 275, 417, 419, 441]",SHHU.tsv
+what's the,2,281,"[216, 281, 288, 293]",SHHU.tsv
+what's,1,281,"[112, 216, 265, 281, 288, 293, 295, 427]",SHHU.tsv
+or whatever,2,327,"[286, 327]",SHHU.tsv
+that's the,2,289,"[74, 140, 289]",SHHU.tsv
+get the,2,293,"[132, 288, 292, 293, 382]",SHHU.tsv
+get the party start,4,293,"[288, 292, 293]",SHHU.tsv
+strapline,1,295,"[293, 295, 312, 313, 315, 316]",SHHU.tsv
+well where,2,298,"[42, 298]",SHHU.tsv
+place,1,298,"[62, 298]",SHHU.tsv
+what be,2,298,"[291, 298, 417, 452]",SHHU.tsv
+york to cork,3,300,"[299, 300]",SHHU.tsv
+lerwick to gatwick,3,304,"[303, 304]",SHHU.tsv
+lerwick to,2,305,"[303, 305]",SHHU.tsv
+a strapline,2,316,"[315, 316]",SHHU.tsv
+well you,2,321,"[320, 321]",SHHU.tsv
+i think,2,325,"[63, 76, 83, 86, 104, 150, 199, 280, 287, 294, 322, 325, 336, 437, 439, 458, 463]",SHHU.tsv
+probably,1,446,"[325, 446, 447]",SHHU.tsv
+i'll,1,29,"[15, 20, 21, 24, 29, 150, 209, 328, 453]",SHHU.tsv
+give it,2,412,"[328, 412]",SHHU.tsv
+see the,2,333,"[136, 179, 333]",SHHU.tsv
+where the,2,364,"[136, 364, 425, 428]",SHHU.tsv
+it won't be,3,370,"[369, 370]",SHHU.tsv
+thousand,1,371,"[142, 371]",SHHU.tsv
+have they,2,375,"[64, 375, 378]",SHHU.tsv
+get your,2,408,"[375, 408]",SHHU.tsv
+prospect,1,387,"[386, 387]",SHHU.tsv
+it won't,2,389,"[370, 389]",SHHU.tsv
+have prospect,2,389,"[387, 389]",SHHU.tsv
+i have,2,395,"[124, 146, 150, 387, 395, 417]",SHHU.tsv
+way,1,399,"[23, 134, 154, 399, 400, 447]",SHHU.tsv
+no i,2,29,"[1, 28, 29, 229, 260, 409, 453, 462]",SHHU.tsv
+it out,2,409,"[329, 409]",SHHU.tsv
+what do,2,153,"[116, 153, 314, 411]",SHHU.tsv
+on the,2,417,"[23, 38, 41, 45, 214, 331, 361, 417, 422, 477]",SHHU.tsv
+now be,2,417,"[115, 417]",SHHU.tsv
+like a,2,417,"[117, 417]",SHHU.tsv
+i have a,3,417,"[124, 417]",SHHU.tsv
+by the,2,431,"[134, 277, 431]",SHHU.tsv
+what the,2,435,"[239, 435]",SHHU.tsv
+wesleyan,1,444,"[441, 444]",SHHU.tsv
+like that,2,443,"[144, 154, 155, 162, 172, 175, 179, 443]",SHHU.tsv
+play,1,458,"[127, 241, 243, 245, 280, 457, 458, 463]",SHHU.tsv
+term,1,461,"[414, 461]",SHHU.tsv
+none of,2,467,"[466, 467]",SHHU.tsv
+house,1,473,"[41, 337, 339, 473]",SHHU.tsv
+i need,2,476,"[329, 476]",SHHU.tsv
+one of,2,479,"[45, 163, 479]",SHHU.tsv
+have you,2,28,"[0, 28]",SHHU.tsv
+just the one,3,17,"[2, 17]",SHHU.tsv
+think it be,3,104,"[2, 104]",SHHU.tsv
+right well,2,146,"[2, 146]",SHHU.tsv
+funny,1,154,"[2, 154, 169]",SHHU.tsv
+just the,2,276,"[2, 275, 276, 459]",SHHU.tsv
+it's like,2,361,"[2, 252, 361]",SHHU.tsv
+they've,1,376,"[2, 376, 377]",SHHU.tsv
+and they've,2,377,"[2, 377]",SHHU.tsv
+and it's,2,398,"[2, 398]",SHHU.tsv
+just one,2,8,"[5, 7, 8]",SHHU.tsv
+no it's just,3,154,"[5, 154, 275]",SHHU.tsv
+it's just,2,276,"[5, 7, 276]",SHHU.tsv
+just go,2,154,"[11, 12, 20, 154, 157]",SHHU.tsv
+no you,2,176,"[18, 176, 318]",SHHU.tsv
+the right,2,41,"[22, 41, 45, 361]",SHHU.tsv
+yes,1,162,"[22, 58, 162, 452]",SHHU.tsv
+nisa,1,392,"[25, 392, 395, 399]",SHHU.tsv
+don't know,2,47,"[1, 29, 47, 113, 219, 223, 227, 229]",SHHU.tsv
+have to,2,73,"[20, 29, 73, 199, 208, 453]",SHHU.tsv
+to have,2,185,"[29, 185]",SHHU.tsv
+take,1,150,"[31, 103, 150, 236, 268, 269]",SHHU.tsv
+i'd say,2,263,"[34, 263]",SHHU.tsv
+though,1,56,"[39, 56, 198, 219, 330, 437]",SHHU.tsv
+i i,2,83,"[66, 83, 186, 451]",SHHU.tsv
+i've,1,154,"[66, 72, 154, 176, 283, 330]",SHHU.tsv
+i didn't,2,181,"[66, 181, 402, 409]",SHHU.tsv
+school,1,69,"[57, 63, 69, 92, 97, 100, 102, 170, 173, 246]",SHHU.tsv
+there's,1,72,"[3, 13, 72, 80, 101, 103, 110, 159, 325, 433, 439, 473]",SHHU.tsv
+towards,1,75,"[51, 75, 154]",SHHU.tsv
+it go,2,116,"[75, 116, 154]",SHHU.tsv
+er cos it,3,154,"[80, 154]",SHHU.tsv
+a mile,2,96,"[95, 96, 97, 99, 103]",SHHU.tsv
+road,1,101,"[68, 101]",SHHU.tsv
+be at,2,102,"[101, 102]",SHHU.tsv
+and the,2,154,"[101, 154, 179, 284]",SHHU.tsv
+it'll,1,103,"[53, 103, 213]",SHHU.tsv
+another,1,402,"[103, 293, 402]",SHHU.tsv
+text,1,112,"[110, 112, 144]",SHHU.tsv
+the leave,2,139,"[45, 139, 417]",SHHU.tsv
+no it's,2,154,"[139, 154, 246, 356]",SHHU.tsv
+the classroom,2,147,"[146, 147]",SHHU.tsv
+classroom,1,148,"[147, 148, 159, 252]",SHHU.tsv
+in the classroom,3,159,"[146, 159, 252]",SHHU.tsv
+ten,1,167,"[162, 164, 167]",SHHU.tsv
+to be,2,173,"[28, 173, 208, 346]",SHHU.tsv
+be like,2,173,"[160, 173]",SHHU.tsv
+be go,2,270,"[173, 270, 447]",SHHU.tsv
+like the,2,361,"[173, 361, 441]",SHHU.tsv
+mum,1,177,"[146, 177]",SHHU.tsv
+and all,2,189,"[154, 185, 189]",SHHU.tsv
+year,1,189,"[162, 164, 189, 191, 193, 197, 210]",SHHU.tsv
+six,1,191,"[172, 179, 181, 191]",SHHU.tsv
+year seven,2,197,"[193, 197]",SHHU.tsv
+at the,2,198,"[49, 154, 172, 181, 198, 213, 238, 400]",SHHU.tsv
+be in,2,198,"[146, 198, 280]",SHHU.tsv
+at the same time,4,198,"[154, 198]",SHHU.tsv
+the same time,3,198,"[164, 198]",SHHU.tsv
+age,1,199,"[198, 199]",SHHU.tsv
+time,1,251,"[198, 251, 443]",SHHU.tsv
+she be,2,268,"[198, 268, 270]",SHHU.tsv
+age group,2,202,"[199, 202]",SHHU.tsv
+i don't think,3,209,"[3, 199, 209, 232, 451]",SHHU.tsv
+think i'll,2,209,"[150, 209]",SHHU.tsv
+that one,2,213,"[43, 213]",SHHU.tsv
+whole,1,213,"[86, 213]",SHHU.tsv
+life,1,384,"[213, 384]",SHHU.tsv
+oh the,2,436,"[215, 436]",SHHU.tsv
+sixth,1,219,"[195, 208, 210, 219, 221, 223]",SHHU.tsv
+lower,1,459,"[221, 459]",SHHU.tsv
+might,1,223,"[43, 223, 434, 458]",SHHU.tsv
+when i,2,400,"[227, 400, 407, 481]",SHHU.tsv
+want,1,232,"[26, 28, 232, 331, 479]",SHHU.tsv
+everything,1,398,"[234, 398]",SHHU.tsv
+usually,1,236,"[148, 236]",SHHU.tsv
+two,1,469,"[237, 469]",SHHU.tsv
+be just,2,238,"[104, 187, 238, 242]",SHHU.tsv
+in a,2,238,"[150, 238, 280]",SHHU.tsv
+be on,2,238,"[203, 238]",SHHU.tsv
+and 's,2,280,"[238, 280]",SHHU.tsv
+it be just,3,242,"[104, 242]",SHHU.tsv
+who be,2,242,"[154, 241, 242]",SHHU.tsv
+else,1,287,"[242, 287]",SHHU.tsv
+come,1,244,"[68, 77, 244, 332, 364]",SHHU.tsv
+off and,2,244,"[154, 244]",SHHU.tsv
+i mean,2,250,"[28, 172, 250, 252]",SHHU.tsv
+you don't,2,250,"[133, 250]",SHHU.tsv
+because i,2,250,"[181, 250]",SHHU.tsv
+do you know what,4,353,"[250, 353]",SHHU.tsv
+it's a,2,361,"[256, 258, 361, 362]",SHHU.tsv
+yeah that's,2,261,"[88, 261]",SHHU.tsv
+nice,1,266,"[63, 208, 266, 268]",SHHU.tsv
+the hotel,2,275,"[270, 275, 417, 419]",SHHU.tsv
+it's just the,3,276,"[275, 276]",SHHU.tsv
+band,1,281,"[280, 281]",SHHU.tsv
+whatever,1,420,"[286, 327, 420]",SHHU.tsv
+live,1,293,"[205, 270, 280, 293]",SHHU.tsv
+they've get,2,376,"[293, 376, 377]",SHHU.tsv
+and they've get,3,377,"[293, 377]",SHHU.tsv
+have the,2,298,"[146, 298]",SHHU.tsv
+name,1,363,"[298, 363, 430, 439]",SHHU.tsv
+no that,2,307,"[43, 307]",SHHU.tsv
+that doesn't,2,436,"[307, 436]",SHHU.tsv
+as a,2,320,"[235, 320]",SHHU.tsv
+think there's,2,325,"[3, 325]",SHHU.tsv
+i've get,2,330,"[154, 330]",SHHU.tsv
+get that,2,330,"[312, 330]",SHHU.tsv
+many,1,469,"[330, 469]",SHHU.tsv
+sponsor,1,343,"[338, 340, 343]",SHHU.tsv
+be call,2,420,"[346, 420]",SHHU.tsv
+that's a,2,430,"[354, 430]",SHHU.tsv
+tardis,1,364,"[361, 364]",SHHU.tsv
+that's where the,3,425,"[364, 425]",SHHU.tsv
+spirit,1,378,"[377, 378]",SHHU.tsv
+i know,2,436,"[381, 436]",SHHU.tsv
+round,1,399,"[181, 399]",SHHU.tsv
+hours,1,399,"[397, 399]",SHHU.tsv
+better,1,430,"[399, 430]",SHHU.tsv
+they sell,2,401,"[353, 401]",SHHU.tsv
+sell,1,434,"[401, 434, 482]",SHHU.tsv
+ninety,1,407,"[154, 162, 172, 407]",SHHU.tsv
+last,1,407,"[268, 407]",SHHU.tsv
+put it,2,409,"[400, 409]",SHHU.tsv
+mind,1,411,"[10, 233, 411]",SHHU.tsv
+though i,2,411,"[39, 411]",SHHU.tsv
+what do you call,4,411,"[314, 411]",SHHU.tsv
+on the leave,3,417,"[45, 417]",SHHU.tsv
+there be,2,417,"[77, 353, 402, 417, 462]",SHHU.tsv
+sound,1,417,"[112, 144, 417, 477]",SHHU.tsv
+it be like,3,417,"[160, 417]",SHHU.tsv
+bite,1,417,"[181, 417]",SHHU.tsv
+lodge,1,430,"[421, 430]",SHHU.tsv
+this one,2,427,"[13, 355, 427]",SHHU.tsv
+the lodge,2,430,"[429, 430]",SHHU.tsv
+run,1,431,"[10, 390, 397, 431]",SHHU.tsv
+methodist,1,436,"[431, 436]",SHHU.tsv
+fish,1,434,"[433, 434, 435, 436, 438]",SHHU.tsv
+the christian fish,3,436,"[435, 436]",SHHU.tsv
+might be,2,437,"[43, 437, 458]",SHHU.tsv
+i think they,3,437,"[86, 437]",SHHU.tsv
+they might,2,437,"[434, 437]",SHHU.tsv
+think that's,2,439,"[65, 439]",SHHU.tsv
+and i,2,439,"[150, 199, 439]",SHHU.tsv
+think i,2,439,"[185, 439]",SHHU.tsv
+but i think,3,439,"[199, 439]",SHHU.tsv
+something,1,439,"[260, 335, 439, 441, 443]",SHHU.tsv
+methodists,1,439,"[434, 439]",SHHU.tsv
+you go,2,443,"[361, 443, 450]",SHHU.tsv
+be i,2,449,"[28, 449]",SHHU.tsv
+go out,2,451,"[28, 451]",SHHU.tsv
+think so,2,451,"[63, 451]",SHHU.tsv
+i would,2,451,"[185, 260, 451]",SHHU.tsv
+go out tonight,3,451,"[450, 451]",SHHU.tsv
+to see,2,453,"[402, 453]",SHHU.tsv
+but that,2,458,"[436, 458]",SHHU.tsv
+the lower,2,460,"[459, 460]",SHHU.tsv
+the lower divisions,3,461,"[459, 461]",SHHU.tsv
+but not,2,465,"[461, 465]",SHHU.tsv
+need a,2,476,"[86, 176, 476]",SHHU.tsv
+need,1,329,"[86, 133, 176, 329, 398, 476]",SHHU.tsv
+premier,1,476,"[465, 476]",SHHU.tsv
+premier inn,2,482,"[476, 482]",SHHU.tsv
+talk about,2,477,"[188, 477]",SHHU.tsv
+lenny henry,2,478,"[477, 478, 480]",SHHU.tsv
+i just want,3,479,"[26, 479]",SHHU.tsv
+i just,2,479,"[181, 462, 479]",SHHU.tsv
+he can,2,483,"[482, 483]",SHHU.tsv
+i don't know what they be,6,185,"[1, 185]",SHHU.tsv
+what they be,3,188,"[1, 188]",SHHU.tsv
+know what they,3,353,"[1, 353]",SHHU.tsv
+to go,2,28,"[20, 28, 40]",SHHU.tsv
+twenty minutes,2,33,"[32, 33]",SHHU.tsv
+minutes,1,38,"[32, 38]",SHHU.tsv
+oh i don't,3,40,"[3, 40]",SHHU.tsv
+the new,2,44,"[41, 44]",SHHU.tsv
+cos they're,2,438,"[46, 438]",SHHU.tsv
+retirement,1,102,"[62, 102]",SHHU.tsv
+should have,2,310,"[79, 310, 331]",SHHU.tsv
+a lot of,3,87,"[55, 87]",SHHU.tsv
+a good,2,482,"[89, 482]",SHHU.tsv
+have i,2,331,"[105, 331]",SHHU.tsv
+i get,2,382,"[105, 382]",SHHU.tsv
+you haven't,2,176,"[109, 176]",SHHU.tsv
+always,1,260,"[115, 260]",SHHU.tsv
+it's that,2,117,"[43, 117]",SHHU.tsv
+yeah but,2,122,"[102, 122]",SHHU.tsv
+love,1,185,"[130, 185]",SHHU.tsv
+the cd do,3,133,"[132, 133]",SHHU.tsv
+can you,2,317,"[136, 317]",SHHU.tsv
+whistle,1,155,"[151, 155]",SHHU.tsv
+so do,2,174,"[151, 174]",SHHU.tsv
+do the,2,287,"[153, 287, 323]",SHHU.tsv
+reaction,1,176,"[161, 176]",SHHU.tsv
+one of them,3,163,"[45, 163]",SHHU.tsv
+of them,2,172,"[163, 172, 185]",SHHU.tsv
+be that,2,214,"[43, 61, 214, 243, 353, 452]",SHHU.tsv
+still,1,214,"[179, 214, 228, 329]",SHHU.tsv
+you mean,2,255,"[118, 255, 257]",SHHU.tsv
+what you,2,265,"[255, 257, 265, 331]",SHHU.tsv
+would you,2,259,"[10, 259]",SHHU.tsv
+be you,2,267,"[95, 241, 267, 450]",SHHU.tsv
+the station,2,277,"[276, 277]",SHHU.tsv
+all ceilidhs great and small,5,301,"[296, 301, 324, 327]",SHHU.tsv
+all ceilidhs,2,301,"[296, 301, 324]",SHHU.tsv
+do that,2,321,"[86, 321]",SHHU.tsv
+you do,2,321,"[265, 321]",SHHU.tsv
+and so,2,402,"[326, 402]",SHHU.tsv
+cos i,2,329,"[150, 176, 329]",SHHU.tsv
+people be,2,329,"[160, 329]",SHHU.tsv
+you should,2,336,"[310, 312, 331, 336]",SHHU.tsv
+i think you should,4,336,"[322, 336]",SHHU.tsv
+it in,2,372,"[150, 372]",SHHU.tsv
+surprise,1,380,"[373, 380]",SHHU.tsv
+hundred,1,403,"[104, 403, 406]",SHHU.tsv
+four,1,403,"[152, 154, 403]",SHHU.tsv
+you get,2,408,"[28, 408]",SHHU.tsv
+where the footballers go,4,428,"[425, 428]",SHHU.tsv
+he probably do,3,447,"[446, 447]",SHHU.tsv
+of the,2,467,"[199, 331, 459, 467]",SHHU.tsv

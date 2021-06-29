@@ -1,0 +1,140 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+go,1,1,"[0, 1, 3, 37, 52, 64, 76, 78, 117, 136, 174, 179, 182, 184, 185, 204, 208, 217]",SRGR.tsv
+go on,2,64,"[0, 64, 182, 184]",SRGR.tsv
+caff,1,4,"[2, 4]",SRGR.tsv
+like,1,37,"[8, 37, 89, 97, 101, 102, 105, 138, 140, 174, 205, 208]",SRGR.tsv
+isn't it,2,56,"[8, 56, 63, 64, 106, 158, 177]",SRGR.tsv
+big,1,18,"[10, 18, 29]",SRGR.tsv
+quite,1,111,"[18, 111]",SRGR.tsv
+they're,1,118,"[18, 118, 122, 205, 208]",SRGR.tsv
+yeah,1,41,"[3, 6, 9, 11, 21, 26, 27, 29, 33, 36, 41, 43, 50, 51, 53, 54, 60, 67, 75, 77, 78, 79, 81, 89, 90, 91, 92, 94, 95, 96, 98, 104, 106, 119, 120, 123, 124, 125, 127, 128, 137, 142, 144, 154, 156, 157, 159, 162, 165, 168, 170, 172, 173, 175, 178, 180, 185, 188, 200, 203, 206, 208, 209, 210, 214, 215, 219, 224, 230, 231]",SRGR.tsv
+get,1,46,"[7, 10, 32, 37, 46, 72, 132, 161, 181, 183, 202, 204, 210, 211]",SRGR.tsv
+to get,2,72,"[46, 72]",SRGR.tsv
+get to,2,183,"[46, 183, 210, 211]",SRGR.tsv
+yeah yeah,2,79,"[60, 79, 81, 91, 200, 214]",SRGR.tsv
+to have a,3,71,"[9, 71]",SRGR.tsv
+to have,2,89,"[9, 71, 89, 192]",SRGR.tsv
+tell you,2,208,"[71, 208]",SRGR.tsv
+long,1,73,"[72, 73, 217]",SRGR.tsv
+alright,1,103,"[72, 74, 103]",SRGR.tsv
+double,1,105,"[103, 105]",SRGR.tsv
+a bite,2,107,"[7, 97, 107, 216]",SRGR.tsv
+start,1,107,"[90, 107]",SRGR.tsv
+slur,1,110,"[107, 110, 111]",SRGR.tsv
+bite,1,223,"[97, 107, 223]",SRGR.tsv
+four pound,2,124,"[121, 124]",SRGR.tsv
+something,1,123,"[55, 123, 148, 163, 204]",SRGR.tsv
+four pound something,3,124,"[123, 124]",SRGR.tsv
+bad,1,172,"[159, 172, 177]",SRGR.tsv
+this be,2,213,"[39, 213]",SRGR.tsv
+have a,2,22,"[9, 20, 22, 71]",SRGR.tsv
+vodka,1,107,"[106, 107]",SRGR.tsv
+yeah it,2,159,"[67, 159]",SRGR.tsv
+we're go to,3,3,"[1, 3]",SRGR.tsv
+go to,2,3,"[1, 3, 117, 136, 217]",SRGR.tsv
+we're,1,3,"[1, 3]",SRGR.tsv
+cream,1,5,"[1, 5, 9, 10, 13, 19, 20, 24, 25, 26]",SRGR.tsv
+cream tea,2,10,"[1, 9, 10, 19, 20]",SRGR.tsv
+tea,1,12,"[1, 7, 9, 12, 19, 22, 26]",SRGR.tsv
+scones,1,10,"[7, 10, 16, 29, 31]",SRGR.tsv
+a pot of tea,4,12,"[7, 12, 22]",SRGR.tsv
+enough,1,28,"[7, 28]",SRGR.tsv
+but i,2,101,"[7, 101]",SRGR.tsv
+in them,2,118,"[7, 118]",SRGR.tsv
+i suppose,2,193,"[7, 181, 193]",SRGR.tsv
+have a cream tea,4,20,"[9, 20]",SRGR.tsv
+i don't know,3,17,"[16, 17, 86, 200, 201, 210, 213]",SRGR.tsv
+i don't,2,122,"[17, 37, 86, 122, 138, 140, 189, 200, 201, 208, 210, 213]",SRGR.tsv
+know,1,205,"[17, 48, 86, 94, 142, 161, 200, 205, 210, 213]",SRGR.tsv
+one,1,19,"[3, 10, 19, 32, 34, 35, 53, 131, 132, 161, 223, 225]",SRGR.tsv
+would,1,23,"[16, 23, 166, 192]",SRGR.tsv
+we order,2,24,"[23, 24]",SRGR.tsv
+two,1,25,"[10, 16, 24, 25, 26, 29, 116, 117, 118]",SRGR.tsv
+two cream teas and,4,25,"[24, 25, 26]",SRGR.tsv
+that'd be,2,28,"[25, 28]",SRGR.tsv
+of us,2,81,"[25, 81]",SRGR.tsv
+us,1,91,"[25, 91]",SRGR.tsv
+two big scones,3,29,"[10, 29]",SRGR.tsv
+probably,1,67,"[29, 67, 153, 186, 213, 221]",SRGR.tsv
+right,1,129,"[29, 48, 124, 129]",SRGR.tsv
+won't be able to,4,217,"[29, 217]",SRGR.tsv
+plain,1,32,"[31, 32]",SRGR.tsv
+be there,2,77,"[31, 48, 77]",SRGR.tsv
+though,1,81,"[31, 76, 81, 97, 138, 229]",SRGR.tsv
+if we,2,37,"[24, 37]",SRGR.tsv
+that's,1,197,"[37, 74, 124, 158, 197, 208]",SRGR.tsv
+time,1,213,"[37, 40, 208, 213, 217]",SRGR.tsv
+it's go,2,217,"[37, 217]",SRGR.tsv
+much,1,122,"[38, 119, 122, 214]",SRGR.tsv
+dad,1,40,"[20, 40, 72]",SRGR.tsv
+into the,2,52,"[42, 52]",SRGR.tsv
+drive,1,166,"[42, 72, 163, 166]",SRGR.tsv
+don't know if,3,48,"[16, 48]",SRGR.tsv
+could do,2,52,"[48, 52]",SRGR.tsv
+could,1,52,"[48, 52]",SRGR.tsv
+don't know,2,201,"[48, 201, 213]",SRGR.tsv
+think,1,53,"[28, 53, 122, 140, 189, 190, 205, 208, 213, 228, 232]",SRGR.tsv
+online,1,53,"[49, 53]",SRGR.tsv
+think that,2,205,"[53, 205]",SRGR.tsv
+but then,2,143,"[55, 143]",SRGR.tsv
+take,1,131,"[72, 131, 132, 208, 210, 212]",SRGR.tsv
+day,1,143,"[72, 143]",SRGR.tsv
+back,1,217,"[72, 217]",SRGR.tsv
+yeah but,2,172,"[78, 172, 185]",SRGR.tsv
+it be,2,80,"[63, 80, 167, 169, 186, 190, 232]",SRGR.tsv
+never,1,97,"[83, 97]",SRGR.tsv
+to the,2,90,"[3, 90, 183]",SRGR.tsv
+and she's,2,90,"[89, 90]",SRGR.tsv
+play,1,95,"[90, 94, 95]",SRGR.tsv
+know how,2,213,"[94, 213]",SRGR.tsv
+to be,2,98,"[49, 98, 208, 217]",SRGR.tsv
+run,1,98,"[87, 89, 98]",SRGR.tsv
+never stop talk,3,98,"[97, 98]",SRGR.tsv
+talk,1,98,"[97, 98]",SRGR.tsv
+like her,2,105,"[101, 105]",SRGR.tsv
+well,1,111,"[3, 5, 20, 32, 89, 102, 111, 118, 136, 139, 151, 189, 190, 191, 193, 205, 206]",SRGR.tsv
+she doesn't,2,111,"[108, 111]",SRGR.tsv
+she doesn't slur,3,111,"[110, 111]",SRGR.tsv
+win,1,117,"[81, 116, 117]",SRGR.tsv
+large,1,129,"[117, 129]",SRGR.tsv
+be a,2,119,"[67, 119, 197, 217]",SRGR.tsv
+bottle,1,119,"[118, 119, 126]",SRGR.tsv
+glass,1,129,"[124, 126, 129, 136]",SRGR.tsv
+at least,2,127,"[126, 127]",SRGR.tsv
+a large,2,129,"[126, 129]",SRGR.tsv
+you get one,3,132,"[10, 132]",SRGR.tsv
+you get,2,132,"[10, 32, 132, 204]",SRGR.tsv
+sleep well,2,139,"[136, 139]",SRGR.tsv
+and then,2,138,"[116, 131, 138]",SRGR.tsv
+even,1,138,"[129, 138, 153, 200, 217, 231]",SRGR.tsv
+sleep,1,139,"[138, 139]",SRGR.tsv
+i think,2,140,"[28, 140, 213, 228]",SRGR.tsv
+stop,1,140,"[97, 140]",SRGR.tsv
+i don't think,3,140,"[122, 140, 189]",SRGR.tsv
+work,1,141,"[140, 141, 204, 217]",SRGR.tsv
+fully staff,2,154,"[145, 153, 154]",SRGR.tsv
+still,1,154,"[153, 154, 161, 196]",SRGR.tsv
+require,1,155,"[154, 155]",SRGR.tsv
+nice,1,158,"[5, 89, 143, 158]",SRGR.tsv
+get a,2,161,"[32, 161]",SRGR.tsv
+i mean,2,161,"[129, 161, 175, 200, 213, 217]",SRGR.tsv
+know what,2,205,"[161, 205]",SRGR.tsv
+and it,2,167,"[65, 167]",SRGR.tsv
+'s,1,171,"[164, 171, 174, 175, 225]",SRGR.tsv
+the doctor,2,207,"[183, 192, 207]",SRGR.tsv
+constipation,1,188,"[187, 188, 190, 192, 197]",SRGR.tsv
+think it be,3,232,"[190, 232]",SRGR.tsv
+have to,2,192,"[49, 164, 192, 220]",SRGR.tsv
+obviously,1,196,"[93, 172, 196]",SRGR.tsv
+symptom,1,199,"[198, 199]",SRGR.tsv
+i mean they,3,200,"[129, 200, 213]",SRGR.tsv
+i don't know how,4,213,"[200, 213]",SRGR.tsv
+can't,1,217,"[202, 217, 232]",SRGR.tsv
+don't you,2,204,"[102, 204, 205]",SRGR.tsv
+home,1,208,"[131, 145, 208]",SRGR.tsv
+you'd like to think,4,208,"[205, 208]",SRGR.tsv
+you'd like to,3,208,"[205, 208]",SRGR.tsv
+be able to,3,217,"[208, 217]",SRGR.tsv
+anything,1,220,"[81, 220]",SRGR.tsv
+they don't,2,220,"[129, 220]",SRGR.tsv
+yeah be,2,231,"[77, 231]",SRGR.tsv

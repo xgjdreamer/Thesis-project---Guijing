@@ -1,0 +1,604 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+go,1,17,"[0, 17, 25, 29, 55, 57, 75, 77, 120, 125, 130, 131, 140, 147, 151, 157, 158, 199, 211, 213, 216, 240, 274, 282, 297, 319, 329, 347, 356, 394, 401, 416, 421, 423, 427, 435, 440, 442]",SKMV.tsv
+it be,2,45,"[0, 45, 47, 48, 53, 68, 79, 83, 85, 86, 94, 95, 107, 129, 131, 133, 142, 144, 153, 194, 198, 209, 211, 225, 234, 266, 272, 274, 276, 280, 302, 307, 309, 323, 329, 342, 348, 350, 352, 359, 371, 373, 399, 401, 408, 413]",SKMV.tsv
+you know,2,87,"[0, 63, 68, 87, 101, 115, 162, 177, 178, 184, 193, 194, 221, 223, 270, 272, 280, 282, 283, 290, 297, 311, 313, 319, 327, 331, 358, 368, 470]",SKMV.tsv
+time,1,125,"[0, 6, 23, 125, 186, 225, 270, 274, 282, 429, 440]",SKMV.tsv
+know,1,140,"[0, 42, 63, 68, 79, 87, 101, 115, 122, 140, 162, 170, 177, 178, 184, 193, 194, 202, 211, 221, 222, 223, 270, 272, 274, 280, 282, 283, 290, 297, 309, 311, 313, 319, 327, 331, 335, 358, 365, 368, 401, 434, 470]",SKMV.tsv
+say,1,186,"[0, 4, 75, 90, 186, 194, 199, 201, 282, 283, 347, 364, 365, 367, 413, 461]",SKMV.tsv
+i say,2,201,"[0, 201, 413]",SKMV.tsv
+be that,2,94,"[0, 2, 57, 94, 147, 170, 201, 246, 274, 309, 319, 371, 373, 462]",SKMV.tsv
+er you know,3,327,"[0, 327]",SKMV.tsv
+it be that,3,371,"[0, 309, 371, 373]",SKMV.tsv
+that you,2,429,"[0, 272, 429]",SKMV.tsv
+awesome,1,13,"[2, 4, 10, 12, 13]",SKMV.tsv
+far,1,58,"[2, 58, 197]",SKMV.tsv
+with the,2,91,"[2, 91, 95]",SKMV.tsv
+have be,2,127,"[2, 127, 282, 331, 378]",SKMV.tsv
+from the,2,286,"[2, 88, 132, 286, 405]",SKMV.tsv
+word,1,472,"[2, 472]",SKMV.tsv
+all the,2,449,"[6, 274, 449, 452]",SKMV.tsv
+wicked,1,21,"[8, 21]",SKMV.tsv
+but it,2,48,"[8, 48, 79, 85, 183, 272, 329, 352, 401, 475]",SKMV.tsv
+and then,2,125,"[8, 105, 111, 125, 153, 158, 203, 266, 283, 472]",SKMV.tsv
+and it,2,129,"[8, 129, 167, 194, 225, 246, 266, 276, 352]",SKMV.tsv
+use,1,193,"[8, 122, 193, 315, 347]",SKMV.tsv
+to be,2,480,"[8, 229, 282, 294, 442, 480]",SKMV.tsv
+yeah,1,12,"[1, 3, 5, 7, 9, 12, 14, 16, 18, 23, 24, 30, 37, 39, 44, 49, 51, 52, 54, 55, 56, 59, 60, 62, 66, 73, 74, 76, 78, 81, 86, 87, 88, 91, 93, 96, 97, 100, 102, 104, 106, 108, 110, 114, 116, 118, 119, 122, 123, 124, 126, 128, 130, 132, 134, 136, 137, 147, 150, 154, 156, 158, 159, 160, 161, 163, 175, 180, 184, 185, 188, 189, 192, 196, 198, 199, 200, 203, 204, 205, 207, 210, 214, 216, 220, 223, 226, 228, 241, 253, 258, 261, 262, 267, 268, 269, 271, 273, 275, 279, 281, 289, 291, 295, 301, 302, 304, 312, 313, 314, 316, 318, 322, 324, 325, 330, 333, 339, 350, 351, 363, 364, 370, 388, 392, 396, 399, 401, 402, 405, 406, 407, 416, 419, 420, 432, 434, 443, 445, 451, 457, 459, 467, 469, 471, 476, 477, 480, 483, 488, 489]",SKMV.tsv
+yeah i,2,12,"[5, 12, 188, 302, 399, 401]",SKMV.tsv
+think,1,40,"[12, 40, 45, 47, 55, 57, 68, 77, 94, 95, 116, 140, 151, 153, 155, 158, 171, 177, 178, 193, 195, 199, 211, 212, 216, 233, 270, 276, 336, 342, 354, 367, 376, 413, 421, 435, 440, 461]",SKMV.tsv
+be quite,2,47,"[12, 47, 86, 209, 212, 313]",SKMV.tsv
+quite,1,156,"[12, 47, 86, 88, 156, 184, 209, 212, 223, 225, 231, 282, 311, 313, 324, 341, 398, 400, 401, 402, 404]",SKMV.tsv
+english,1,158,"[12, 158, 278]",SKMV.tsv
+actually,1,29,"[12, 29, 48, 53, 55, 70, 79, 88, 175, 238, 259, 270, 276, 321, 352, 378, 413, 418, 427, 462, 470]",SKMV.tsv
+actually think,2,413,"[12, 413]",SKMV.tsv
+totally awesome,2,14,"[13, 14]",SKMV.tsv
+right,1,74,"[14, 74, 133, 142, 158, 188, 193, 246, 270, 297, 360, 378, 393, 394, 415, 483]",SKMV.tsv
+i'm,1,50,"[20, 50, 121, 129, 204, 206, 282, 336, 392, 420, 488]",SKMV.tsv
+and they,2,85,"[23, 85, 91, 120, 158, 194, 211, 244, 266, 276, 278, 280]",SKMV.tsv
+yeah and,2,136,"[23, 136, 203, 207, 302]",SKMV.tsv
+they can,2,320,"[23, 319, 320]",SKMV.tsv
+we go,2,140,"[25, 140, 416]",SKMV.tsv
+anyway,1,487,"[25, 198, 272, 487]",SKMV.tsv
+i've,1,166,"[37, 50, 166, 183, 205, 303, 336, 462, 469]",SKMV.tsv
+yeah but,2,364,"[37, 364, 392, 405]",SKMV.tsv
+but i've,2,183,"[37, 183, 462]",SKMV.tsv
+kind of,2,67,"[42, 67, 99, 133, 164, 166, 178, 194, 199, 266, 270, 286, 297, 319, 331, 336, 352, 360, 453]",SKMV.tsv
+that be,2,94,"[44, 57, 68, 94, 147, 212, 215, 248, 270, 276, 392]",SKMV.tsv
+go to,2,55,"[17, 29, 55, 57, 130, 140, 151, 211, 240, 274, 282, 329, 356, 421, 427, 442]",SKMV.tsv
+one,1,55,"[21, 55, 90, 101, 109, 140, 142, 216, 242, 270, 276, 282, 283, 302, 329, 413, 442, 447, 454, 462, 463]",SKMV.tsv
+like,1,55,"[22, 50, 55, 80, 85, 87, 88, 98, 99, 109, 118, 127, 129, 130, 131, 132, 133, 140, 142, 158, 162, 166, 178, 179, 186, 188, 191, 194, 209, 217, 283, 297, 302, 319, 321, 327, 329, 339, 342, 350, 352, 358, 359, 399, 401, 454, 462]",SKMV.tsv
+to become a nun,4,58,"[55, 58]",SKMV.tsv
+i mean,2,71,"[55, 71, 80, 85, 98, 133, 158, 169, 171, 188, 199, 202, 284, 313, 429]",SKMV.tsv
+she be,2,71,"[55, 71, 91, 142, 194, 413, 447, 448]",SKMV.tsv
+i mean i,3,80,"[55, 80, 199]",SKMV.tsv
+no i,2,98,"[55, 98, 122, 342, 367, 435]",SKMV.tsv
+be actually,2,55,"[48, 55, 175, 238, 259, 470]",SKMV.tsv
+it but,2,183,"[55, 183, 197, 222, 462]",SKMV.tsv
+become,1,255,"[55, 59, 63, 255, 421]",SKMV.tsv
+i like,2,342,"[55, 342]",SKMV.tsv
+i didn't,2,342,"[55, 79, 342, 350, 399, 413]",SKMV.tsv
+like it,2,399,"[55, 399]",SKMV.tsv
+but no,2,415,"[55, 415]",SKMV.tsv
+actually go to,3,427,"[55, 427]",SKMV.tsv
+mean,1,294,"[55, 202, 284, 294, 313, 475]",SKMV.tsv
+i think,2,57,"[45, 47, 57, 68, 77, 94, 95, 116, 140, 158, 171, 177, 193, 195, 199, 211, 212, 216, 270, 342, 354, 367, 421, 435, 440, 461]",SKMV.tsv
+have to,2,120,"[57, 92, 120, 122, 142, 188, 319, 339, 475, 480]",SKMV.tsv
+thing,1,133,"[57, 133, 142, 166, 199, 282, 286, 297, 309, 324, 327, 364]",SKMV.tsv
+that i,2,310,"[57, 310, 319]",SKMV.tsv
+be the,2,359,"[57, 90, 249, 270, 274, 359, 454]",SKMV.tsv
+have a,2,59,"[36, 59, 107, 194, 209, 295, 373, 438]",SKMV.tsv
+really,1,80,"[59, 77, 79, 80, 83, 88, 133, 140, 141, 169, 198, 231, 266, 270, 272, 288, 302, 309, 311, 319, 323, 424, 437, 470, 478]",SKMV.tsv
+yeah it's,2,419,"[59, 124, 223, 324, 419]",SKMV.tsv
+move,1,154,"[61, 154, 397]",SKMV.tsv
+place,1,158,"[61, 158, 419]",SKMV.tsv
+into the,2,474,"[61, 474]",SKMV.tsv
+sort of,2,120,"[63, 120, 127, 142, 158, 178, 195, 202, 216, 272, 290, 329, 331, 348, 350, 352, 359, 360, 399, 405]",SKMV.tsv
+of you know,3,331,"[63, 290, 331]",SKMV.tsv
+sort,1,331,"[63, 290, 331]",SKMV.tsv
+but the,2,255,"[65, 75, 147, 255, 274, 284, 287]",SKMV.tsv
+the but,2,329,"[65, 284, 329]",SKMV.tsv
+if you're,2,68,"[11, 68]",SKMV.tsv
+that's,1,68,"[17, 34, 68, 74, 77, 124, 138, 280, 282, 297, 309, 353, 355, 381, 438, 461, 489]",SKMV.tsv
+i think it be,4,68,"[45, 47, 68, 95]",SKMV.tsv
+bring up in a,4,71,"[68, 71]",SKMV.tsv
+up in a in,4,95,"[68, 95]",SKMV.tsv
+in a,2,95,"[68, 71, 95, 276, 368, 410, 446]",SKMV.tsv
+well,1,68,"[48, 68, 99, 118, 184, 193, 194, 197, 199, 219, 274, 286, 292, 298, 299, 302, 321, 323, 353, 378, 394]",SKMV.tsv
+be i,2,129,"[68, 129, 302]",SKMV.tsv
+well i,2,199,"[68, 199, 302]",SKMV.tsv
+good,1,223,"[29, 68, 79, 91, 198, 223, 302, 309, 313, 341, 480]",SKMV.tsv
+that they,2,120,"[70, 79, 92, 120, 151, 319]",SKMV.tsv
+come,1,75,"[15, 67, 75, 88, 118, 120, 149, 199, 282, 283, 294, 329, 422]",SKMV.tsv
+back,1,95,"[75, 95, 120, 147, 153, 154, 158, 283, 295, 300, 324, 422]",SKMV.tsv
+be they,2,232,"[75, 232, 276]",SKMV.tsv
+come back,2,422,"[75, 283, 422]",SKMV.tsv
+away,1,136,"[75, 136, 282, 429]",SKMV.tsv
+see,1,79,"[13, 79, 129, 205, 213, 303, 329, 336, 356, 410, 418, 424, 425, 435, 442, 462, 469]",SKMV.tsv
+nice,1,83,"[29, 79, 83, 88, 91, 133, 140]",SKMV.tsv
+but it be a,4,85,"[79, 85]",SKMV.tsv
+film,1,79,"[29, 38, 79, 85, 88, 129, 198, 199, 203, 223, 238, 302, 313, 319, 321, 327, 329, 336, 348, 354, 356, 359, 368, 371, 373, 399, 400, 413, 422, 435, 438, 446, 462]",SKMV.tsv
+shoot,1,85,"[79, 85, 378, 399]",SKMV.tsv
+something,1,79,"[19, 79, 127, 168, 188, 202, 222, 237, 303, 305, 327, 339, 418, 434]",SKMV.tsv
+be a,2,138,"[79, 85, 138, 178, 197, 198, 203, 229, 246, 248, 266, 327, 329, 338, 339, 358, 400, 403, 413]",SKMV.tsv
+which be,2,188,"[79, 188, 468]",SKMV.tsv
+do that,2,320,"[79, 320, 364]",SKMV.tsv
+but it be,3,79,"[48, 79, 85, 272, 329, 401]",SKMV.tsv
+it be a,3,266,"[79, 85, 198, 266, 329, 413]",SKMV.tsv
+that but,2,339,"[79, 339]",SKMV.tsv
+it be quite,3,86,"[47, 86, 209]",SKMV.tsv
+yeah it be,3,350,"[86, 198, 350]",SKMV.tsv
+be it,2,306,"[86, 194, 274, 306, 354, 364, 392]",SKMV.tsv
+yeah it,2,480,"[86, 198, 350, 480, 483]",SKMV.tsv
+really nice,2,88,"[83, 88, 133, 140]",SKMV.tsv
+the film,2,88,"[85, 88, 129, 321, 399, 462]",SKMV.tsv
+be like,2,98,"[88, 98, 118, 133, 142, 166, 194, 209, 302, 319, 342, 350, 358, 399, 401]",SKMV.tsv
+be like three,3,118,"[88, 118]",SKMV.tsv
+they're,1,120,"[88, 120, 178, 315]",SKMV.tsv
+still,1,120,"[88, 120, 129, 131, 169, 270]",SKMV.tsv
+there be,2,129,"[88, 129, 177, 203, 209, 303, 327, 339, 403, 472]",SKMV.tsv
+like three,2,188,"[88, 188]",SKMV.tsv
+there be like,3,209,"[88, 209]",SKMV.tsv
+you be,2,90,"[87, 90, 421]",SKMV.tsv
+when they,2,118,"[90, 118, 156, 158, 240, 262, 270]",SKMV.tsv
+they be,2,120,"[90, 120, 132, 151, 156, 158, 184, 193, 194, 211, 216, 238, 240, 244, 257, 259, 260, 270, 276, 278]",SKMV.tsv
+when they be,3,158,"[90, 158, 240, 270]",SKMV.tsv
+they have,2,92,"[13, 92, 122, 156, 162, 194, 195, 489]",SKMV.tsv
+funny,1,209,"[92, 97, 124, 209, 294, 302, 470]",SKMV.tsv
+drive,1,96,"[95, 96, 99, 115]",SKMV.tsv
+ditch,1,97,"[95, 97]",SKMV.tsv
+of the,2,120,"[97, 120, 130, 138, 270, 284, 315, 317, 331, 421, 449, 474]",SKMV.tsv
+get,1,120,"[97, 120, 135, 155, 157, 164, 188, 191, 219, 270, 272, 276, 280, 284, 295, 313, 319, 340, 400, 428, 478, 481]",SKMV.tsv
+would,1,359,"[97, 101, 107, 276, 359, 413, 480]",SKMV.tsv
+it's just,2,155,"[97, 115, 155, 294, 462]",SKMV.tsv
+even,1,99,"[43, 95, 99, 186, 187, 276, 283, 350]",SKMV.tsv
+be there,2,116,"[99, 116, 188]",SKMV.tsv
+when i,2,131,"[99, 131, 410, 413]",SKMV.tsv
+like a,2,140,"[99, 140, 142, 178, 350, 352, 358]",SKMV.tsv
+it's a,2,99,"[69, 99, 171, 208, 311, 321]",SKMV.tsv
+when i be,3,209,"[99, 209]",SKMV.tsv
+of like a,3,352,"[99, 352]",SKMV.tsv
+kind,1,352,"[99, 352]",SKMV.tsv
+different,1,438,"[101, 438]",SKMV.tsv
+and the,2,142,"[103, 142, 242, 274, 309]",SKMV.tsv
+can't remember,2,118,"[107, 118, 238]",SKMV.tsv
+remember,1,129,"[107, 118, 129, 284, 336, 355, 358]",SKMV.tsv
+what it be,3,211,"[107, 211, 276]",SKMV.tsv
+i can't,2,350,"[107, 302, 350]",SKMV.tsv
+can't,1,302,"[107, 238, 302, 350]",SKMV.tsv
+just like,2,109,"[50, 85, 87, 109, 352]",SKMV.tsv
+in the,2,113,"[32, 113, 115, 177, 195, 248, 249, 264, 280, 297, 329, 448]",SKMV.tsv
+bad,1,158,"[113, 158, 193]",SKMV.tsv
+that it's,2,115,"[5, 115, 313]",SKMV.tsv
+yeah yeah,2,122,"[5, 24, 30, 52, 74, 110, 116, 122, 130, 134, 150, 159, 160, 180, 189, 200, 207, 258, 269, 312, 333, 396, 399, 406, 416, 420, 451]",SKMV.tsv
+but they,2,122,"[120, 122, 193, 238, 259, 276]",SKMV.tsv
+i know,2,140,"[122, 140, 170, 202, 282, 309, 401]",SKMV.tsv
+know i,2,177,"[122, 177, 202]",SKMV.tsv
+do they,2,375,"[122, 375]",SKMV.tsv
+that's the,2,489,"[124, 489]",SKMV.tsv
+yeah yeah yeah,3,130,"[24, 74, 130, 160, 180, 200, 406, 451]",SKMV.tsv
+some of the,3,130,"[120, 130]",SKMV.tsv
+like that,2,130,"[127, 130, 131, 132, 179, 188, 191, 327, 339, 359, 462]",SKMV.tsv
+i go,2,131,"[130, 131]",SKMV.tsv
+stay,1,132,"[120, 132, 283]",SKMV.tsv
+stay in,2,133,"[132, 133, 283]",SKMV.tsv
+the hotel,2,133,"[132, 133]",SKMV.tsv
+hotel,1,133,"[132, 133]",SKMV.tsv
+not that,2,310,"[132, 310, 361]",SKMV.tsv
+two,1,139,"[15, 139, 238, 266, 270, 350, 475]",SKMV.tsv
+cities,1,177,"[139, 177]",SKMV.tsv
+yes,1,147,"[89, 147, 176, 298, 381, 393, 440]",SKMV.tsv
+they go back,3,147,"[120, 147]",SKMV.tsv
+yeah so,2,147,"[123, 147, 295, 477]",SKMV.tsv
+go back,2,158,"[147, 158]",SKMV.tsv
+but then,2,339,"[147, 302, 339]",SKMV.tsv
+job,1,177,"[151, 177, 194, 270]",SKMV.tsv
+think that,2,151,"[94, 151, 212, 435]",SKMV.tsv
+think it be,3,153,"[45, 47, 95, 153]",SKMV.tsv
+move back,2,154,"[153, 154]",SKMV.tsv
+shit,1,191,"[153, 191, 359, 417]",SKMV.tsv
+apparently,1,470,"[153, 282, 470]",SKMV.tsv
+okay,1,194,"[1, 34, 174, 181, 188, 194, 220, 224, 230, 243, 245, 251, 256, 263, 277, 285, 349, 350, 360, 377, 390, 431, 436, 438, 479, 483, 492]",SKMV.tsv
+and she,2,194,"[71, 194, 283, 462]",SKMV.tsv
+old,1,194,"[118, 133, 194, 418]",SKMV.tsv
+and they be,3,194,"[120, 194, 211, 244, 276, 278]",SKMV.tsv
+and it be,3,194,"[129, 194, 225, 266, 352]",SKMV.tsv
+it be like,3,194,"[133, 142, 194, 342, 350, 399, 401]",SKMV.tsv
+work,1,194,"[156, 158, 164, 194]",SKMV.tsv
+money,1,194,"[156, 158, 194]",SKMV.tsv
+enough money to,3,194,"[162, 194]",SKMV.tsv
+but it's,2,194,"[175, 194, 453]",SKMV.tsv
+they be you know,4,194,"[193, 194]",SKMV.tsv
+era,1,195,"[194, 195]",SKMV.tsv
+know what it,3,211,"[194, 211]",SKMV.tsv
+thirties,1,264,"[194, 264, 352]",SKMV.tsv
+partner,1,438,"[194, 438]",SKMV.tsv
+but she,2,449,"[194, 449]",SKMV.tsv
+to watch,2,211,"[198, 211]",SKMV.tsv
+consider,1,211,"[198, 211]",SKMV.tsv
+else,1,305,"[198, 302, 305, 339]",SKMV.tsv
+watch,1,305,"[198, 211, 305, 321]",SKMV.tsv
+there wasn't,2,198,"[40, 198, 327]",SKMV.tsv
+or something,2,202,"[127, 188, 202, 237, 327, 339, 434]",SKMV.tsv
+there's,1,202,"[183, 187, 199, 202, 270, 302, 329, 454, 462, 468]",SKMV.tsv
+sure,1,204,"[120, 129, 204, 392, 420, 488]",SKMV.tsv
+i'm not,2,204,"[121, 129, 204, 206, 488]",SKMV.tsv
+i'm not sure,3,204,"[129, 204]",SKMV.tsv
+a bite,2,208,"[197, 208, 326, 329, 342, 344, 400, 413, 433]",SKMV.tsv
+bite,1,352,"[208, 326, 344, 352, 363, 400, 433]",SKMV.tsv
+probably,1,214,"[158, 193, 195, 197, 214, 320, 329, 435]",SKMV.tsv
+spy,1,232,"[219, 221, 229, 232, 240, 248, 255, 257, 270, 276, 286, 313, 417]",SKMV.tsv
+part,1,329,"[219, 329, 331, 392, 481]",SKMV.tsv
+do a,2,449,"[219, 449]",SKMV.tsv
+much,1,221,"[120, 129, 131, 169, 221, 399]",SKMV.tsv
+i don't,2,221,"[178, 221, 222, 335, 358, 376, 434, 470]",SKMV.tsv
+i don't know,3,222,"[221, 222, 335, 434]",SKMV.tsv
+if you,2,438,"[221, 365, 438, 470]",SKMV.tsv
+if you know,3,470,"[221, 470]",SKMV.tsv
+it's it's,2,223,"[171, 223, 313, 321, 324]",SKMV.tsv
+a film,2,223,"[199, 203, 223, 368]",SKMV.tsv
+call,1,248,"[223, 248, 270, 276, 303, 462, 468]",SKMV.tsv
+make,1,225,"[120, 225, 283, 319, 433]",SKMV.tsv
+ago,1,329,"[225, 329]",SKMV.tsv
+erm and,2,227,"[116, 227, 266, 270, 272, 283]",SKMV.tsv
+and we,2,227,"[140, 227]",SKMV.tsv
+and he,2,229,"[116, 229, 282, 295, 297, 311, 329, 356]",SKMV.tsv
+be really,2,231,"[83, 133, 231, 272, 323]",SKMV.tsv
+quite amuse,2,231,"[212, 231]",SKMV.tsv
+guy,1,255,"[233, 255, 270, 284, 287]",SKMV.tsv
+so they,2,257,"[233, 257, 260, 276, 286]",SKMV.tsv
+he be,2,249,"[118, 248, 249, 254, 282, 295, 329, 338, 339, 358, 391]",SKMV.tsv
+the the,2,249,"[142, 249, 270, 276, 313, 323, 452, 462, 463]",SKMV.tsv
+look,1,249,"[199, 201, 211, 216, 249, 250, 282, 309, 313, 319, 429]",SKMV.tsv
+of that,2,329,"[252, 329]",SKMV.tsv
+america,1,270,"[9, 11, 270]",SKMV.tsv
+of it,2,270,"[13, 166, 270, 392]",SKMV.tsv
+of course,2,270,"[64, 78, 185, 270]",SKMV.tsv
+he he,2,270,"[118, 270, 295, 329, 339]",SKMV.tsv
+they be still,3,270,"[120, 270]",SKMV.tsv
+of them,2,266,"[120, 154, 158, 195, 216, 266, 270]",SKMV.tsv
+be still,2,270,"[131, 169, 270]",SKMV.tsv
+have the,2,270,"[164, 191, 270, 276]",SKMV.tsv
+they use,2,270,"[193, 270]",SKMV.tsv
+i think that be,4,270,"[94, 212, 270]",SKMV.tsv
+he have,2,295,"[270, 295, 339]",SKMV.tsv
+two of them,3,270,"[266, 270, 350]",SKMV.tsv
+there's this one,3,454,"[270, 454]",SKMV.tsv
+it be really,3,272,"[83, 272, 323]",SKMV.tsv
+manage,1,272,"[193, 272]",SKMV.tsv
+and and,2,272,"[197, 266, 272, 282, 332, 452]",SKMV.tsv
+be just,2,274,"[83, 85, 87, 94, 274, 276, 295, 352]",SKMV.tsv
+the er,2,242,"[158, 242, 274, 329, 368, 462]",SKMV.tsv
+the english,2,274,"[158, 274]",SKMV.tsv
+someone,1,339,"[274, 339]",SKMV.tsv
+no it be,3,348,"[274, 348]",SKMV.tsv
+it be the,3,359,"[274, 359]",SKMV.tsv
+think it,2,276,"[45, 47, 95, 276]",SKMV.tsv
+it be just,3,276,"[83, 85, 276, 352]",SKMV.tsv
+there and,2,276,"[87, 276]",SKMV.tsv
+cos,1,276,"[116, 118, 276, 282, 336]",SKMV.tsv
+on the,2,276,"[142, 276, 303, 416]",SKMV.tsv
+hard and,2,276,"[156, 158, 276]",SKMV.tsv
+than the,2,276,"[158, 276, 326]",SKMV.tsv
+harder,1,276,"[158, 276]",SKMV.tsv
+case,1,276,"[158, 276]",SKMV.tsv
+whatever,1,276,"[162, 276, 452]",SKMV.tsv
+ever,1,276,"[178, 276]",SKMV.tsv
+because they,2,276,"[184, 195, 211, 276, 280]",SKMV.tsv
+to get,2,276,"[188, 191, 276, 481]",SKMV.tsv
+use it,2,276,"[193, 276]",SKMV.tsv
+through the,2,276,"[199, 276]",SKMV.tsv
+the other,2,276,"[255, 276, 452]",SKMV.tsv
+of these,2,329,"[276, 329, 350, 413, 446]",SKMV.tsv
+whole,1,295,"[266, 276, 295, 329, 437]",SKMV.tsv
+the one,2,462,"[276, 462, 463]",SKMV.tsv
+be call,2,276,"[248, 276, 468]",SKMV.tsv
+it would,2,480,"[276, 480]",SKMV.tsv
+in the end,3,280,"[32, 280]",SKMV.tsv
+end,1,280,"[95, 280]",SKMV.tsv
+that it,2,280,"[201, 280]",SKMV.tsv
+be this,2,280,"[209, 280, 324]",SKMV.tsv
+letter,1,282,"[120, 282]",SKMV.tsv
+hard,1,282,"[156, 158, 282]",SKMV.tsv
+but you know,3,282,"[177, 282]",SKMV.tsv
+be you know,3,282,"[193, 282]",SKMV.tsv
+and he be,3,329,"[282, 329]",SKMV.tsv
+or he,2,339,"[282, 339, 340]",SKMV.tsv
+basically,1,350,"[282, 350]",SKMV.tsv
+write,1,462,"[282, 283, 462]",SKMV.tsv
+and you,2,283,"[87, 283, 417]",SKMV.tsv
+back to,2,283,"[95, 283]",SKMV.tsv
+not even,2,350,"[283, 350]",SKMV.tsv
+no you're,2,415,"[283, 415]",SKMV.tsv
+play,1,329,"[290, 329, 359, 369, 379, 392, 413]",SKMV.tsv
+as well,2,292,"[193, 292, 378]",SKMV.tsv
+to the,2,427,"[292, 397, 427, 437]",SKMV.tsv
+drink,1,296,"[199, 296, 297, 439, 487]",SKMV.tsv
+and so,2,302,"[85, 302]",SKMV.tsv
+i be,2,302,"[209, 302]",SKMV.tsv
+in and,2,302,"[216, 302]",SKMV.tsv
+it yeah,2,392,"[302, 392]",SKMV.tsv
+really funny,2,470,"[302, 470]",SKMV.tsv
+a really,2,309,"[140, 266, 309]",SKMV.tsv
+about it,2,309,"[222, 309]",SKMV.tsv
+that's the only,3,489,"[309, 489]",SKMV.tsv
+the only,2,489,"[309, 489]",SKMV.tsv
+drama,1,350,"[311, 347, 350, 363]",SKMV.tsv
+exactly,1,405,"[311, 405]",SKMV.tsv
+fun,1,313,"[47, 48, 313]",SKMV.tsv
+but i mean,3,313,"[133, 313]",SKMV.tsv
+it erm,2,313,"[201, 313]",SKMV.tsv
+but i,2,313,"[222, 313]",SKMV.tsv
+i mean look,3,429,"[313, 429]",SKMV.tsv
+all of,2,315,"[195, 266, 315, 317, 350]",SKMV.tsv
+must have,2,319,"[127, 319]",SKMV.tsv
+and i,2,319,"[199, 216, 319, 350]",SKMV.tsv
+look and,2,319,"[211, 216, 319]",SKMV.tsv
+of look and,3,319,"[216, 319]",SKMV.tsv
+period,1,350,"[319, 350, 352]",SKMV.tsv
+film that,2,319,"[29, 319, 354, 413]",SKMV.tsv
+must,1,324,"[127, 324]",SKMV.tsv
+normally,1,336,"[36, 336, 418]",SKMV.tsv
+i've see,2,336,"[205, 303, 336, 462]",SKMV.tsv
+poet,1,336,"[327, 336, 338, 358, 359, 364, 365, 367, 368, 369, 374, 391, 408]",SKMV.tsv
+that film,2,336,"[329, 336, 371, 373, 400]",SKMV.tsv
+at all,2,342,"[336, 342, 399]",SKMV.tsv
+a poet,2,359,"[336, 338, 358, 359, 368, 369]",SKMV.tsv
+but that,2,364,"[336, 364, 392]",SKMV.tsv
+sound,1,341,"[308, 341]",SKMV.tsv
+as a,2,347,"[120, 347, 359, 365]",SKMV.tsv
+house,1,347,"[162, 347]",SKMV.tsv
+might have,2,347,"[329, 331, 339, 347]",SKMV.tsv
+might,1,429,"[329, 331, 339, 347, 429, 435, 439]",SKMV.tsv
+enough,1,351,"[50, 162, 351]",SKMV.tsv
+i think i,3,354,"[342, 354]",SKMV.tsv
+he be like,3,358,"[118, 358]",SKMV.tsv
+be like a,3,358,"[142, 358]",SKMV.tsv
+like a you know,4,358,"[178, 358]",SKMV.tsv
+a sort of,3,360,"[178, 360]",SKMV.tsv
+don't know,2,365,"[222, 335, 365, 434]",SKMV.tsv
+just say,2,367,"[199, 367]",SKMV.tsv
+no i think,3,367,"[342, 367, 435]",SKMV.tsv
+gwyneth paltrow,2,368,"[359, 368, 379, 413]",SKMV.tsv
+sylvia,1,385,"[379, 382, 384, 385, 386, 388, 408]",SKMV.tsv
+plath,1,381,"[379, 381, 382, 383, 384, 387, 408]",SKMV.tsv
+be in,2,389,"[368, 378, 389, 413, 446, 447, 448]",SKMV.tsv
+also,1,391,"[329, 391]",SKMV.tsv
+you're right,2,415,"[393, 415]",SKMV.tsv
+in in,2,397,"[133, 186, 187, 188, 397]",SKMV.tsv
+it's not,2,400,"[167, 168, 169, 178, 400]",SKMV.tsv
+be a bite,3,400,"[197, 329, 400, 413]",SKMV.tsv
+maybe,1,400,"[352, 371, 373, 392, 400, 434]",SKMV.tsv
+film then,2,400,"[373, 400]",SKMV.tsv
+quite dark,2,401,"[400, 401, 402]",SKMV.tsv
+start,1,404,"[262, 404, 411, 417]",SKMV.tsv
+here they,2,406,"[156, 158, 406]",SKMV.tsv
+yeah they,2,406,"[216, 406]",SKMV.tsv
+have you,2,411,"[162, 411]",SKMV.tsv
+you start,2,417,"[411, 417]",SKMV.tsv
+to become a,3,421,"[58, 421]",SKMV.tsv
+i see,2,424,"[410, 424]",SKMV.tsv
+so we,2,433,"[177, 191, 433]",SKMV.tsv
+of a,2,433,"[178, 348, 433]",SKMV.tsv
+bite of,2,433,"[363, 433]",SKMV.tsv
+together,1,435,"[323, 329, 435]",SKMV.tsv
+think she,2,435,"[413, 435]",SKMV.tsv
+go for a,3,440,"[199, 440]",SKMV.tsv
+see that,2,442,"[303, 329, 442, 462, 469]",SKMV.tsv
+it go,2,442,"[401, 442]",SKMV.tsv
+emma thompson,2,446,"[442, 446]",SKMV.tsv
+and all that,3,444,"[405, 444]",SKMV.tsv
+she be in,3,447,"[413, 447, 448]",SKMV.tsv
+she do,2,450,"[364, 449, 450]",SKMV.tsv
+and all,2,444,"[266, 286, 297, 405, 444, 452]",SKMV.tsv
+pride and prejudice,3,468,"[457, 466, 468, 470, 472, 475]",SKMV.tsv
+fuck,1,459,"[9, 21, 458, 459, 460, 461]",SKMV.tsv
+mr darcy,2,459,"[456, 459, 460, 461]",SKMV.tsv
+mr,1,459,"[456, 459, 460, 461]",SKMV.tsv
+fuck hell,2,459,"[458, 459, 461]",SKMV.tsv
+what i,2,461,"[71, 170, 461]",SKMV.tsv
+i think that,3,461,"[94, 212, 461]",SKMV.tsv
+in there,2,463,"[413, 463]",SKMV.tsv
+i've see that,3,469,"[303, 462, 469]",SKMV.tsv
+zombies,1,473,"[468, 472, 473, 480]",SKMV.tsv
+to read it,3,478,"[475, 478]",SKMV.tsv
+to read,2,478,"[475, 478]",SKMV.tsv
+want,1,487,"[67, 478, 487]",SKMV.tsv
+no no,2,486,"[345, 359, 465, 486]",SKMV.tsv
+go er,2,297,"[0, 297]",SKMV.tsv
+collection,1,250,"[2, 249, 250]",SKMV.tsv
+do yeah,2,451,"[18, 451]",SKMV.tsv
+test,1,69,"[20, 69, 77]",SKMV.tsv
+cheer,1,26,"[25, 26]",SKMV.tsv
+i've have,2,50,"[37, 50]",SKMV.tsv
+i kind of,3,297,"[42, 297]",SKMV.tsv
+be brilliant,2,215,"[53, 215]",SKMV.tsv
+didn't think,2,55,"[40, 55]",SKMV.tsv
+thing be,2,364,"[57, 364]",SKMV.tsv
+oh she's,2,451,"[57, 451]",SKMV.tsv
+could,1,59,"[29, 59, 61, 378, 394, 433, 461]",SKMV.tsv
+she could have just,4,64,"[59, 61, 64]",SKMV.tsv
+could have,2,378,"[59, 61, 378, 461]",SKMV.tsv
+but the but,3,284,"[65, 284]",SKMV.tsv
+a good,2,68,"[29, 68, 79, 91, 198]",SKMV.tsv
+to go,2,77,"[29, 77]",SKMV.tsv
+need,1,157,"[77, 157, 276]",SKMV.tsv
+go and,2,213,"[77, 213]",SKMV.tsv
+a good film,3,79,"[29, 79, 198]",SKMV.tsv
+nice to,2,79,"[29, 79]",SKMV.tsv
+come out,2,88,"[67, 88]",SKMV.tsv
+the jazz,2,91,"[90, 91]",SKMV.tsv
+player,1,91,"[90, 91]",SKMV.tsv
+jazz,1,91,"[90, 91]",SKMV.tsv
+say that,2,364,"[90, 364, 461]",SKMV.tsv
+put,1,92,"[91, 92, 254, 323]",SKMV.tsv
+kind of like,3,297,"[99, 297]",SKMV.tsv
+and erm,2,266,"[101, 221, 266, 270, 276, 302, 408]",SKMV.tsv
+and you'd be,3,136,"[103, 136]",SKMV.tsv
+that the,2,155,"[111, 155]",SKMV.tsv
+the erm,2,164,"[111, 164]",SKMV.tsv
+erm the,2,238,"[111, 219, 238, 274]",SKMV.tsv
+wow,1,143,"[128, 143, 145, 192, 194]",SKMV.tsv
+be that be,3,147,"[94, 147]",SKMV.tsv
+that be that,3,147,"[94, 147]",SKMV.tsv
+then they,2,266,"[147, 266]",SKMV.tsv
+they they,2,238,"[153, 238, 276]",SKMV.tsv
+have enough,2,194,"[50, 194]",SKMV.tsv
+communist,1,244,"[194, 244, 248]",SKMV.tsv
+be you,2,343,"[193, 194, 282, 343]",SKMV.tsv
+mm yeah,2,198,"[160, 198, 324]",SKMV.tsv
+yeah i'm,2,420,"[204, 420]",SKMV.tsv
+yeah i'm not,3,488,"[204, 488]",SKMV.tsv
+he's,1,219,"[50, 219, 270, 282, 294, 295, 297, 300, 302, 309, 336]",SKMV.tsv
+the spy,2,240,"[219, 221, 240, 257, 313]",SKMV.tsv
+he's get,2,295,"[219, 270, 295]",SKMV.tsv
+in it,2,223,"[40, 223, 227, 323, 389]",SKMV.tsv
+quite a,2,398,"[225, 311, 398]",SKMV.tsv
+macclean and,2,234,"[233, 234]",SKMV.tsv
+kim,1,234,"[233, 234]",SKMV.tsv
+and kim,2,236,"[233, 236]",SKMV.tsv
+blunt,1,242,"[233, 242, 246, 248, 280]",SKMV.tsv
+his name,2,284,"[233, 284]",SKMV.tsv
+try to,2,295,"[233, 276, 295, 297, 336]",SKMV.tsv
+donald,1,235,"[234, 235, 236]",SKMV.tsv
+macclean,1,235,"[234, 235]",SKMV.tsv
+wasn't a,2,249,"[38, 40, 249, 364]",SKMV.tsv
+a politician,2,249,"[246, 248, 249]",SKMV.tsv
+look after,2,250,"[249, 250]",SKMV.tsv
+so he,2,295,"[254, 295]",SKMV.tsv
+he's just,2,270,"[50, 270, 294, 300]",SKMV.tsv
+it and,2,270,"[91, 270]",SKMV.tsv
+and erm and,3,270,"[266, 270, 283]",SKMV.tsv
+outrageous,1,288,"[270, 288]",SKMV.tsv
+and he's,2,297,"[270, 297]",SKMV.tsv
+british,1,453,"[270, 453]",SKMV.tsv
+and the er,3,274,"[242, 274]",SKMV.tsv
+code,1,275,"[274, 275, 276, 280]",SKMV.tsv
+he go,2,297,"[274, 297]",SKMV.tsv
+that erm,2,361,"[274, 361]",SKMV.tsv
+reason,1,276,"[155, 276, 309]",SKMV.tsv
+war,1,276,"[242, 248, 266, 276]",SKMV.tsv
+after the,2,276,"[250, 276]",SKMV.tsv
+but they be,3,276,"[259, 276]",SKMV.tsv
+the whole,2,276,"[266, 276, 437]",SKMV.tsv
+the enigma,2,276,"[275, 276]",SKMV.tsv
+name of,2,284,"[276, 284]",SKMV.tsv
+finish,1,297,"[276, 297]",SKMV.tsv
+it for,2,483,"[276, 483]",SKMV.tsv
+and that's,2,280,"[138, 280, 282]",SKMV.tsv
+they get,2,280,"[157, 280]",SKMV.tsv
+friend,1,297,"[280, 297]",SKMV.tsv
+margaret thatcher,2,282,"[248, 282]",SKMV.tsv
+thatcher,1,282,"[248, 282]",SKMV.tsv
+margaret,1,282,"[248, 282]",SKMV.tsv
+to to,2,282,"[259, 282, 319, 481]",SKMV.tsv
+russia,1,282,"[266, 282, 283]",SKMV.tsv
+him and,2,295,"[282, 295]",SKMV.tsv
+hang,1,295,"[282, 295]",SKMV.tsv
+she just,2,283,"[67, 283, 430]",SKMV.tsv
+you're not,2,343,"[283, 343]",SKMV.tsv
+oxidise,1,298,"[297, 298]",SKMV.tsv
+well oxidise,2,299,"[298, 299]",SKMV.tsv
+no well,2,378,"[298, 378]",SKMV.tsv
+just knock,2,300,"[295, 300]",SKMV.tsv
+brilliant,1,302,"[215, 302]",SKMV.tsv
+be all,2,302,"[244, 302, 307]",SKMV.tsv
+night,1,302,"[295, 302]",SKMV.tsv
+gotta,1,302,"[297, 302]",SKMV.tsv
+about this,2,488,"[307, 488]",SKMV.tsv
+film be,2,313,"[238, 313, 336, 400]",SKMV.tsv
+yeah the,2,313,"[271, 275, 313]",SKMV.tsv
+get that,2,319,"[295, 319]",SKMV.tsv
+interest,1,324,"[266, 324, 353]",SKMV.tsv
+fair,1,453,"[351, 453]",SKMV.tsv
+film that we,3,354,"[29, 354]",SKMV.tsv
+see a,2,356,"[205, 356]",SKMV.tsv
+and he go,3,356,"[297, 356]",SKMV.tsv
+oh right okay,3,483,"[360, 483]",SKMV.tsv
+be erm,2,379,"[238, 379, 389, 391]",SKMV.tsv
+gwyneth paltrow be,3,379,"[368, 379]",SKMV.tsv
+poet erm,2,391,"[364, 391]",SKMV.tsv
+meet,1,406,"[262, 406]",SKMV.tsv
+stop,1,414,"[297, 414, 421]",SKMV.tsv
+we could,2,433,"[29, 433]",SKMV.tsv
+go and see,3,435,"[213, 435, 442]",SKMV.tsv
+for a,2,199,"[67, 199, 440]",SKMV.tsv
+change,1,440,"[164, 440]",SKMV.tsv
+what's,1,442,"[155, 442]",SKMV.tsv
+no erm,2,442,"[368, 442]",SKMV.tsv
+that that,2,442,"[418, 442]",SKMV.tsv
+effie gray,2,445,"[444, 445, 463, 464]",SKMV.tsv
+name,1,452,"[284, 452]",SKMV.tsv
+mr darcy fuck,3,460,"[459, 460, 461]",SKMV.tsv
+she could have,3,461,"[64, 461]",SKMV.tsv
+there we,2,463,"[416, 463]",SKMV.tsv
+yeah i've see,3,469,"[205, 469]",SKMV.tsv
+want to,2,478,"[67, 478]",SKMV.tsv
+get to,2,481,"[478, 481]",SKMV.tsv
+okay yeah,2,483,"[1, 220, 483]",SKMV.tsv
+it a,2,138,"[17, 138]",SKMV.tsv
+do you,2,155,"[32, 155, 364, 487]",SKMV.tsv
+though,1,47,"[38, 47, 488]",SKMV.tsv
+pretty,1,288,"[58, 146, 288, 392]",SKMV.tsv
+she she,2,364,"[71, 364]",SKMV.tsv
+yeah of course,3,185,"[78, 185]",SKMV.tsv
+like the,2,321,"[80, 158, 321, 342]",SKMV.tsv
+be just it be,4,94,"[83, 94]",SKMV.tsv
+slightly,1,297,"[85, 297]",SKMV.tsv
+sit,1,87,"[29, 87, 410]",SKMV.tsv
+better,1,155,"[95, 155, 158]",SKMV.tsv
+poland,1,155,"[98, 155, 158, 164, 169, 178, 188, 197]",SKMV.tsv
+seventies,1,248,"[98, 248]",SKMV.tsv
+nineteen,1,264,"[98, 264, 352]",SKMV.tsv
+yeah mm,2,104,"[91, 104, 156]",SKMV.tsv
+mm mm,2,112,"[91, 112]",SKMV.tsv
+a couple,2,138,"[120, 138]",SKMV.tsv
+a couple of,3,138,"[125, 138]",SKMV.tsv
+and that,2,166,"[127, 166]",SKMV.tsv
+like the film,3,321,"[129, 321, 399]",SKMV.tsv
+see the,2,418,"[129, 418]",SKMV.tsv
+kind of thing,3,166,"[133, 166, 199, 286, 297]",SKMV.tsv
+a couple of bottle of vodka,6,138,"[135, 138]",SKMV.tsv
+bottle of vodka,3,138,"[135, 138]",SKMV.tsv
+bottle of,2,297,"[135, 297]",SKMV.tsv
+get a,2,428,"[135, 188, 428]",SKMV.tsv
+a lot of,3,154,"[40, 154, 158, 164, 446, 449]",SKMV.tsv
+mm and,2,156,"[91, 156]",SKMV.tsv
+live,1,158,"[64, 158, 195]",SKMV.tsv
+er i,2,297,"[158, 171, 297]",SKMV.tsv
+so it's,2,171,"[164, 171, 178]",SKMV.tsv
+the second,2,242,"[171, 242, 422]",SKMV.tsv
+france,1,174,"[173, 174, 175]",SKMV.tsv
+stuff,1,266,"[177, 266, 488]",SKMV.tsv
+i don't think,3,376,"[178, 376]",SKMV.tsv
+yeah yeah yeah yeah,4,180,"[160, 180]",SKMV.tsv
+bulgaria,1,186,"[166, 186]",SKMV.tsv
+bulgaria or,2,186,"[179, 186]",SKMV.tsv
+even in in,3,187,"[186, 187]",SKMV.tsv
+in poland,2,188,"[155, 188]",SKMV.tsv
+that right,2,246,"[188, 246]",SKMV.tsv
+not too,2,488,"[193, 488]",SKMV.tsv
+germany,1,195,"[172, 195]",SKMV.tsv
+from from,2,286,"[195, 286]",SKMV.tsv
+standard,1,453,"[195, 453]",SKMV.tsv
+to come,2,199,"[67, 199]",SKMV.tsv
+there's a,2,199,"[187, 199, 329, 462, 468]",SKMV.tsv
+let's go,2,213,"[199, 213]",SKMV.tsv
+tony benn,2,213,"[211, 213]",SKMV.tsv
+hear,1,222,"[166, 168, 183, 222]",SKMV.tsv
+something about,2,418,"[222, 418]",SKMV.tsv
+be spy,2,257,"[232, 257]",SKMV.tsv
+what be,2,306,"[232, 306, 454, 462]",SKMV.tsv
+spy within,2,257,"[255, 257]",SKMV.tsv
+oh okay,2,349,"[256, 349, 436]",SKMV.tsv
+so they be,3,260,"[257, 260]",SKMV.tsv
+be something,2,303,"[19, 303]",SKMV.tsv
+yeah mm mm,3,322,"[91, 322]",SKMV.tsv
+a thing,2,364,"[327, 364]",SKMV.tsv
+you know the,3,368,"[327, 331, 368]",SKMV.tsv
+film about,2,368,"[327, 368]",SKMV.tsv
+big,1,329,"[187, 329]",SKMV.tsv
+a whole,2,329,"[295, 329]",SKMV.tsv
+be gay,2,339,"[266, 339]",SKMV.tsv
+he might,2,439,"[339, 439]",SKMV.tsv
+it wasn't,2,350,"[38, 350]",SKMV.tsv
+two of them be,4,350,"[266, 350]",SKMV.tsv
+nineteen thirties,2,352,"[264, 352]",SKMV.tsv
+of like,2,352,"[297, 352]",SKMV.tsv
+about a poet,3,368,"[359, 368]",SKMV.tsv
+yeah but that,3,392,"[364, 392]",SKMV.tsv
+that part,2,481,"[392, 481]",SKMV.tsv
+be shoot,2,399,"[378, 399]",SKMV.tsv
+talk,1,417,"[91, 295, 417]",SKMV.tsv
+talk about,2,417,"[343, 346, 417]",SKMV.tsv
+deep,1,420,"[419, 420]",SKMV.tsv
+sign up,2,429,"[67, 429]",SKMV.tsv
+just sign up,3,430,"[429, 430]",SKMV.tsv
+third,1,476,"[429, 476]",SKMV.tsv
+be in a,3,446,"[368, 446]",SKMV.tsv
+she she do,3,449,"[364, 449]",SKMV.tsv
+lot of,2,462,"[40, 164, 462]",SKMV.tsv
+it but i've,3,462,"[183, 462]",SKMV.tsv
+story,1,474,"[91, 266, 474]",SKMV.tsv
+and a third zombie,4,476,"[475, 476]",SKMV.tsv
+and a,2,476,"[475, 476]",SKMV.tsv
+yeah that's,2,489,"[74, 489]",SKMV.tsv

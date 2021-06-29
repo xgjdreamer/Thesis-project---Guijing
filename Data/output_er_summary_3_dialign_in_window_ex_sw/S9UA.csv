@@ -1,0 +1,5 @@
+speaker1,speaker1_token_number,speaker1_expression_token_number,speaker1_expression_number,speaker1_er_ratio,speaker2,speaker2_token_number,speaker2_expression_token_number,speaker2_expression_number,speaker2_er_ratio,speaker3,speaker3_token_number,speaker3_expression_token_number,speaker3_expression_number,speaker3_er_ratio,total_token_number,total_er_token_number,av_er_ratio,total_er_number,begin,end,file
+S0654,75,9,8,0.12,S0655,113,25,18,0.22123893805309736,S0653,199,59,32,0.2964824120603015,387,93,0.24031007751937986,58,0,50,S9UA.tsv
+S0654,115,34,20,0.2956521739130435,S0655,63,14,8,0.2222222222222222,S0653,500,62,32,0.124,678,110,0.16224188790560473,60,50,100,S9UA.tsv
+S0654,62,20,14,0.3225806451612903,S0655,134,40,28,0.29850746268656714,S0653,366,59,38,0.16120218579234974,562,119,0.2117437722419929,80,100,150,S9UA.tsv
+S0654,55,4,2,0.07272727272727272,S0655,13,0,0,0.0,S0653,78,7,6,0.08974358974358974,146,11,0.07534246575342465,8,150,164,S9UA.tsv

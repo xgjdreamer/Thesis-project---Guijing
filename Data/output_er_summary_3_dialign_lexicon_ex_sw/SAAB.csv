@@ -1,0 +1,829 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+dad,1,87,"[2, 14, 32, 87, 88, 89, 91, 114, 127, 128, 129, 130, 160, 185, 252, 359, 426, 685]",SAAB.tsv
+thank,1,310,"[2, 6, 310, 375, 395]",SAAB.tsv
+i think,2,160,"[18, 129, 160, 179, 183, 216, 219, 222, 252, 265, 273, 287, 290, 293, 303, 338, 369, 379, 384, 451, 544, 554, 569, 579, 683, 685, 691, 693, 721, 732]",SAAB.tsv
+i think the,3,287,"[18, 287, 721]",SAAB.tsv
+go,1,20,"[7, 12, 20, 22, 23, 25, 26, 27, 36, 38, 79, 175, 183, 196, 200, 202, 287, 296, 312, 315, 317, 326, 361, 364, 369, 371, 400, 402, 409, 416, 455, 488, 505, 526, 557, 571, 572, 582, 592, 608, 612, 613, 632, 634, 641, 654, 670, 672, 673, 675, 678, 695, 706, 725, 756]",SAAB.tsv
+have to,2,20,"[16, 20, 317, 336, 341, 391, 418, 425, 462, 464, 470, 479, 505, 510, 518, 520, 540, 650, 652, 658, 661]",SAAB.tsv
+exercise,1,21,"[20, 21]",SAAB.tsv
+to go,2,654,"[20, 654, 675]",SAAB.tsv
+go to,2,22,"[7, 12, 22, 23, 25, 26, 27, 175, 183, 196, 287, 296, 312, 317, 361, 364, 402, 416, 571, 572, 592, 608, 612, 613, 632, 641, 670, 673, 675]",SAAB.tsv
+go to the,3,26,"[22, 23, 25, 26, 27, 402]",SAAB.tsv
+to the,2,440,"[23, 25, 26, 27, 402, 440, 567, 645, 719, 724, 751, 756]",SAAB.tsv
+have a,2,25,"[12, 25, 61, 71, 157, 171, 175, 193, 303, 309, 320, 364, 371, 384, 480, 502, 614, 660, 672, 678, 731, 778]",SAAB.tsv
+go to the squash club,5,27,"[26, 27]",SAAB.tsv
+club,1,526,"[26, 27, 526, 530, 765, 766]",SAAB.tsv
+it dad,2,130,"[32, 130]",SAAB.tsv
+make,1,183,"[32, 183, 200, 219, 221, 287, 361, 519, 678, 691]",SAAB.tsv
+do it,2,114,"[32, 97, 114, 449, 495, 503, 509, 517, 540, 562, 567, 580, 652, 658, 755]",SAAB.tsv
+that's,1,46,"[35, 46, 50, 91, 102, 103, 124, 179, 194, 222, 232, 233, 248, 262, 265, 267, 282, 311, 326, 330, 337, 338, 340, 357, 361, 367, 426, 430, 443, 444, 485, 488, 496, 504, 509, 515, 531, 535, 552, 560, 573, 574, 644, 661, 678, 680, 709, 754, 760, 775]",SAAB.tsv
+that's true,2,267,"[35, 267, 760]",SAAB.tsv
+get,1,39,"[7, 11, 39, 83, 90, 160, 192, 237, 283, 293, 320, 322, 356, 402, 403, 420, 425, 435, 455, 477, 495, 505, 507, 508, 558, 560, 571, 582, 654, 676, 678, 711, 713, 730, 734, 762]",SAAB.tsv
+on thursday night,3,39,"[26, 39]",SAAB.tsv
+yeah,1,39,"[34, 39, 41, 54, 83, 132, 138, 140, 157, 170, 176, 182, 184, 222, 223, 229, 233, 237, 245, 248, 250, 255, 261, 264, 265, 268, 270, 278, 282, 290, 291, 292, 295, 307, 311, 331, 363, 389, 391, 398, 417, 419, 432, 450, 456, 463, 487, 500, 502, 510, 526, 529, 558, 559, 570, 572, 573, 592, 597, 621, 661, 662, 678, 727, 729, 730, 732, 741, 760, 770, 773, 779]",SAAB.tsv
+'s,1,215,"[39, 215, 246, 260, 507, 670, 676]",SAAB.tsv
+get a,2,90,"[39, 90, 237, 283, 293, 558, 560, 734]",SAAB.tsv
+thursday,1,38,"[26, 38, 39, 383, 605, 606, 607, 611, 629]",SAAB.tsv
+can't,1,110,"[43, 110, 157, 258, 405, 418, 532, 562, 656, 657, 713, 714]",SAAB.tsv
+like,1,146,"[43, 91, 94, 119, 146, 162, 215, 265, 278, 291, 303, 324, 345, 356, 409, 420, 425, 426, 446, 447, 477, 518, 543, 544, 546, 550, 568, 579, 595, 673, 678, 728, 730, 740, 747, 751, 755, 765, 775]",SAAB.tsv
+or something,2,283,"[43, 283, 477, 549]",SAAB.tsv
+something,1,278,"[43, 278, 283, 317, 477, 526, 549, 579, 582]",SAAB.tsv
+actually,1,173,"[43, 173, 222, 502, 510, 624, 682, 691]",SAAB.tsv
+well,1,47,"[44, 47, 58, 61, 66, 74, 97, 111, 114, 143, 154, 179, 186, 187, 196, 227, 249, 265, 282, 312, 317, 326, 330, 334, 335, 341, 391, 394, 403, 419, 455, 460, 480, 495, 501, 517, 519, 558, 593, 649, 652, 653, 660, 668, 673, 686, 692, 693, 697, 698, 703, 712, 723, 762]",SAAB.tsv
+think,1,96,"[18, 47, 96, 129, 139, 160, 173, 179, 183, 212, 216, 219, 222, 252, 265, 273, 287, 290, 293, 303, 317, 328, 329, 338, 369, 379, 384, 451, 526, 543, 544, 554, 559, 569, 579, 672, 683, 685, 691, 693, 721, 732, 771]",SAAB.tsv
+come,1,186,"[47, 186, 237, 562, 572, 579, 631, 632, 658, 661, 691, 693]",SAAB.tsv
+it's a,2,224,"[47, 64, 224, 302, 326, 398, 420, 528, 683, 697, 771, 781]",SAAB.tsv
+thing,1,47,"[5, 47, 63, 119, 233, 317, 320, 324, 337, 346, 435, 573, 683, 685, 781]",SAAB.tsv
+a good,2,324,"[47, 324, 512, 516, 528, 560]",SAAB.tsv
+well i,2,686,"[47, 686]",SAAB.tsv
+good,1,326,"[47, 282, 326, 356, 504, 506, 512, 516, 528, 529, 530, 560, 697, 701, 735, 768, 781]",SAAB.tsv
+time,1,93,"[49, 74, 93, 112, 117, 160, 200, 466, 471, 477, 518, 668, 672, 678, 680, 723]",SAAB.tsv
+long,1,95,"[49, 74, 95, 96, 175, 267, 373, 379, 380, 381, 382, 579]",SAAB.tsv
+quite,1,58,"[49, 58, 114, 173, 174, 215, 280, 282, 330, 356, 425, 451, 455, 501, 567, 624, 625, 680, 731]",SAAB.tsv
+two,1,72,"[49, 72, 73, 167, 215, 496, 632]",SAAB.tsv
+i'll,1,166,"[49, 53, 166, 319, 368, 369, 540, 580, 650, 668, 672, 728]",SAAB.tsv
+it's quite a,3,731,"[49, 680, 731]",SAAB.tsv
+be do,2,51,"[16, 51, 330]",SAAB.tsv
+know,1,87,"[51, 87, 109, 124, 129, 175, 196, 215, 218, 228, 232, 250, 263, 267, 290, 293, 296, 303, 320, 322, 324, 326, 334, 394, 407, 418, 423, 446, 447, 470, 510, 520, 559, 562, 568, 571, 576, 579, 643, 678, 680, 686, 691, 697, 716, 740, 755, 759, 761, 779]",SAAB.tsv
+you know,2,196,"[51, 196, 228, 232, 263, 290, 293, 296, 320, 322, 324, 326, 334, 394, 407, 418, 423, 446, 447, 470, 510, 520, 559, 562, 571, 579, 643, 678, 680, 740, 755, 759, 779]",SAAB.tsv
+do the,2,510,"[51, 60, 324, 510, 540, 554, 582]",SAAB.tsv
+twenty,1,63,"[51, 63, 462, 470, 601, 603, 604, 609, 636, 645]",SAAB.tsv
+the same,2,492,"[51, 324, 491, 492, 731, 733]",SAAB.tsv
+cos,1,320,"[51, 66, 83, 293, 320, 324, 451, 460, 479, 482, 488, 495, 510, 530, 558, 571, 579, 626, 691, 715, 728, 731]",SAAB.tsv
+do my,2,53,"[12, 53]",SAAB.tsv
+bring,1,53,"[21, 48, 53, 719, 728, 729, 740]",SAAB.tsv
+be it,2,87,"[55, 87, 130, 190, 213, 225, 296, 312, 314, 382, 393, 502, 527, 600, 666, 757, 772]",SAAB.tsv
+in a,2,290,"[55, 56, 290, 672, 765, 766, 779]",SAAB.tsv
+sort of,2,63,"[60, 63, 104, 140, 320, 324, 505, 682, 755]",SAAB.tsv
+bite,1,60,"[54, 60, 83, 90, 125, 139, 163, 164, 179, 222, 293, 296, 499, 545, 558, 565, 682, 709, 726]",SAAB.tsv
+second,1,646,"[60, 645, 646, 674]",SAAB.tsv
+okay,1,76,"[62, 76, 80, 115, 128, 248, 317, 372, 599, 639, 668, 774]",SAAB.tsv
+hear,1,266,"[66, 266, 526]",SAAB.tsv
+would,1,320,"[66, 320, 345, 407, 412, 432, 437, 571, 617, 619, 632, 640]",SAAB.tsv
+be there,2,74,"[68, 74, 376, 438, 451, 533, 568, 678, 684]",SAAB.tsv
+water,1,78,"[75, 78, 391]",SAAB.tsv
+drink,1,152,"[75, 152, 711]",SAAB.tsv
+first,1,75,"[58, 75, 399, 435, 457, 601, 604]",SAAB.tsv
+seem,1,733,"[80, 305, 733]",SAAB.tsv
+bother,1,82,"[81, 82, 425, 469]",SAAB.tsv
+get the,2,192,"[83, 192, 713]",SAAB.tsv
+without,1,198,"[83, 84, 198, 200, 548, 661, 666, 764]",SAAB.tsv
+it do,2,723,"[83, 723]",SAAB.tsv
+dad bod,2,91,"[87, 88, 89, 91, 127]",SAAB.tsv
+bod,1,130,"[88, 91, 127, 130]",SAAB.tsv
+be that,2,91,"[40, 91, 265, 268, 317, 373, 407, 433, 508, 600, 652, 678, 724]",SAAB.tsv
+classic,1,378,"[91, 374, 378]",SAAB.tsv
+that like,2,673,"[91, 673]",SAAB.tsv
+old,1,686,"[91, 515, 686]",SAAB.tsv
+what be,2,94,"[87, 94]",SAAB.tsv
+be the,2,382,"[94, 233, 382, 444, 472, 544, 602, 609]",SAAB.tsv
+and what,2,756,"[94, 236, 756]",SAAB.tsv
+enough,1,97,"[85, 97, 196, 223, 333, 335, 368, 493]",SAAB.tsv
+right,1,173,"[50, 102, 173, 174, 194, 222, 411, 496, 535, 536, 538, 571, 683, 753]",SAAB.tsv
+that's right,2,102,"[50, 102, 194, 222, 496, 535]",SAAB.tsv
+that they,2,186,"[104, 186, 678, 691, 693]",SAAB.tsv
+do that,2,330,"[104, 115, 330, 380, 519, 728]",SAAB.tsv
+and they,2,440,"[104, 440, 447, 464, 508, 510, 518, 733]",SAAB.tsv
+what's,1,370,"[108, 341, 370, 542, 673, 717]",SAAB.tsv
+as well,2,114,"[111, 114, 143, 265, 391, 394, 455, 460, 519, 558, 668, 686, 693]",SAAB.tsv
+they're,1,244,"[115, 221, 244, 287, 301, 324, 409, 416, 418, 551, 682]",SAAB.tsv
+leather shoe,2,123,"[99, 123]",SAAB.tsv
+yes,1,188,"[123, 188, 243, 344, 523, 593, 642, 658, 697, 731, 737, 743, 760, 780]",SAAB.tsv
+of a,2,499,"[125, 499, 773]",SAAB.tsv
+know i,2,215,"[129, 215, 232, 334]",SAAB.tsv
+i know,2,576,"[129, 303, 576, 716]",SAAB.tsv
+happen,1,132,"[78, 132, 154, 623, 641, 731]",SAAB.tsv
+he's,1,139,"[31, 135, 139, 140, 146, 147, 153, 159, 160, 167, 215, 237, 249, 267, 268, 322, 324, 604, 672, 748, 762, 765, 766, 768]",SAAB.tsv
+always,1,139,"[135, 139, 153, 160, 215, 245, 390, 400, 409, 420, 425, 736, 738]",SAAB.tsv
+thin,1,147,"[141, 142, 147, 148, 153]",SAAB.tsv
+do you,2,260,"[149, 260, 320, 571, 579, 620, 623, 759]",SAAB.tsv
+be a,2,179,"[157, 179, 266, 296, 306, 460, 497, 512, 526, 530, 565, 598, 682, 685, 706, 749]",SAAB.tsv
+people,1,212,"[157, 212, 228, 233, 287, 291, 303, 386, 387, 412, 420, 470, 597, 598, 678, 703, 765]",SAAB.tsv
+a lot of,3,324,"[157, 324, 451, 455, 682, 686, 768]",SAAB.tsv
+a lot,2,157,"[114, 157, 263, 324, 451, 455, 682, 686, 706, 768, 771]",SAAB.tsv
+lot of,2,572,"[157, 572, 682, 686, 694, 768]",SAAB.tsv
+sound,1,747,"[161, 697, 747]",SAAB.tsv
+stay at their house,4,187,"[186, 187]",SAAB.tsv
+leave,1,187,"[167, 187, 221, 376, 423, 569, 601, 604]",SAAB.tsv
+allow,1,623,"[187, 412, 623]",SAAB.tsv
+stay,1,640,"[187, 195, 640]",SAAB.tsv
+to make,2,221,"[183, 221, 287]",SAAB.tsv
+it to,2,378,"[233, 378, 678, 719]",SAAB.tsv
+you want,2,632,"[233, 632, 729]",SAAB.tsv
+wonder,1,238,"[215, 238, 260, 430, 432]",SAAB.tsv
+one,1,238,"[3, 237, 238, 369, 371, 376, 403, 469, 480, 497, 557, 568, 657, 658, 691, 705, 775]",SAAB.tsv
+always be,2,245,"[153, 215, 245]",SAAB.tsv
+yeah they,2,391,"[245, 391]",SAAB.tsv
+don't you,2,263,"[189, 263, 393]",SAAB.tsv
+you do,2,536,"[263, 317, 536]",SAAB.tsv
+i mean,2,263,"[211, 263, 293, 296, 333, 420, 430, 571, 661, 670, 680, 775]",SAAB.tsv
+lot,1,572,"[263, 572, 686, 694, 706, 771]",SAAB.tsv
+i do,2,304,"[263, 304, 333, 400, 733]",SAAB.tsv
+fact,1,265,"[186, 265, 324, 440]",SAAB.tsv
+probably,1,572,"[265, 554, 572, 611, 646]",SAAB.tsv
+like a,2,265,"[162, 265, 425, 477, 518, 678, 747, 775]",SAAB.tsv
+for a,2,268,"[7, 268, 369, 407, 503, 640]",SAAB.tsv
+could,1,268,"[21, 22, 26, 166, 251, 267, 268, 328, 329, 571, 629, 632, 649, 751]",SAAB.tsv
+on the,2,268,"[183, 268, 365, 530, 569, 593, 611, 636, 670, 740]",SAAB.tsv
+could be,2,268,"[251, 267, 268, 649]",SAAB.tsv
+local,1,268,"[266, 268, 462]",SAAB.tsv
+what do,2,272,"[247, 272, 754]",SAAB.tsv
+study,1,275,"[272, 275, 277, 462]",SAAB.tsv
+to do,2,293,"[12, 114, 293, 317, 320, 449, 558, 582, 744, 755]",SAAB.tsv
+be you,2,293,"[81, 293, 418, 483, 511, 536, 673, 699, 700, 745]",SAAB.tsv
+film,1,293,"[273, 274, 275, 276, 277, 287, 293]",SAAB.tsv
+media,1,293,"[275, 277, 293]",SAAB.tsv
+i think it's,3,293,"[160, 222, 290, 293, 683]",SAAB.tsv
+to be,2,296,"[16, 296, 317, 379, 416, 438, 451, 470, 487, 508, 509, 512, 540, 569, 571, 652, 676, 678, 680]",SAAB.tsv
+you're go,2,296,"[36, 38, 296, 317, 592]",SAAB.tsv
+video,1,296,"[295, 296]",SAAB.tsv
+term,1,296,"[175, 267, 296, 373, 379, 477]",SAAB.tsv
+pay,1,562,"[296, 336, 341, 562, 564, 565]",SAAB.tsv
+and have,2,296,"[171, 177, 296, 418, 640]",SAAB.tsv
+be not,2,298,"[54, 266, 298]",SAAB.tsv
+no i,2,303,"[186, 188, 211, 222, 246, 303, 576, 577, 656, 685, 701]",SAAB.tsv
+narrow mind,2,303,"[302, 303]",SAAB.tsv
+have to be,3,317,"[16, 317, 470, 540, 652]",SAAB.tsv
+say,1,317,"[112, 150, 160, 198, 200, 247, 258, 317, 324, 326, 328, 340, 402, 409, 437, 447, 508, 510, 530, 559, 571, 572, 578, 579, 715]",SAAB.tsv
+it and,2,317,"[190, 317, 773]",SAAB.tsv
+a very,2,317,"[302, 317, 326, 691]",SAAB.tsv
+you say,2,402,"[317, 402, 447]",SAAB.tsv
+it doesn't,2,381,"[317, 381, 425, 652, 722]",SAAB.tsv
+if you,2,317,"[59, 317, 491, 559, 632, 728, 729]",SAAB.tsv
+at the,2,317,"[239, 317, 571, 592, 762]",SAAB.tsv
+job,1,319,"[283, 306, 319, 326, 528, 529, 531, 533, 539, 775, 778, 779]",SAAB.tsv
+i'll have,2,650,"[319, 650]",SAAB.tsv
+we could,2,22,"[21, 22, 328, 329, 629]",SAAB.tsv
+i don't,2,329,"[109, 124, 175, 188, 212, 215, 218, 232, 250, 267, 328, 329, 559, 568, 686, 691]",SAAB.tsv
+might,1,337,"[71, 186, 337, 543, 558, 614, 630, 685, 698]",SAAB.tsv
+he doesn't,2,337,"[143, 151, 337]",SAAB.tsv
+he just,2,337,"[150, 337, 755]",SAAB.tsv
+want,1,340,"[233, 337, 340, 438, 446, 451, 530, 569, 571, 632, 678, 715, 729]",SAAB.tsv
+what he,2,756,"[337, 756]",SAAB.tsv
+so what's the,3,370,"[341, 370]",SAAB.tsv
+ice cream,2,350,"[349, 350, 351, 354]",SAAB.tsv
+be quite,2,356,"[173, 215, 356, 624, 625, 680]",SAAB.tsv
+shop,1,402,"[356, 402]",SAAB.tsv
+white,1,376,"[374, 376]",SAAB.tsv
+french,1,392,"[386, 387, 392]",SAAB.tsv
+way,1,657,"[246, 393, 460, 487, 657, 658, 721]",SAAB.tsv
+early,1,403,"[7, 11, 402, 403, 409, 410, 412, 420, 443, 444, 530, 582]",SAAB.tsv
+mum,1,731,"[403, 731]",SAAB.tsv
+sleep,1,405,"[183, 211, 405, 618, 626]",SAAB.tsv
+remember,1,405,"[189, 405, 463, 750]",SAAB.tsv
+different,1,405,"[179, 405, 407, 409, 567, 658]",SAAB.tsv
+of the,2,407,"[312, 407, 433, 472, 490, 542, 569, 571, 678, 686, 691, 703, 733]",SAAB.tsv
+early and,2,409,"[7, 402, 409]",SAAB.tsv
+start,1,409,"[7, 228, 409, 412, 462, 466, 480]",SAAB.tsv
+he be,2,409,"[266, 409, 412, 432, 621, 625]",SAAB.tsv
+they have,2,409,"[200, 391, 409, 464, 490, 510, 518, 559, 678]",SAAB.tsv
+morning,1,409,"[402, 409, 420, 435, 540, 541, 604]",SAAB.tsv
+back,1,409,"[167, 196, 368, 371, 409, 526, 562, 572, 579, 582, 631, 632, 654, 658, 756]",SAAB.tsv
+and then,2,409,"[61, 63, 326, 371, 400, 409, 477, 488, 505, 571, 632, 634, 640, 651, 678, 680]",SAAB.tsv
+go back,2,409,"[371, 409, 526, 654, 756]",SAAB.tsv
+try,1,409,"[369, 409, 446, 449, 451, 558, 578, 764]",SAAB.tsv
+to start,2,412,"[7, 412]",SAAB.tsv
+work,1,460,"[412, 460, 664, 665, 678, 680, 713, 722]",SAAB.tsv
+suggest,1,733,"[412, 432, 733]",SAAB.tsv
+have they,2,414,"[178, 414, 510]",SAAB.tsv
+they're go to,3,416,"[287, 416]",SAAB.tsv
+get up early and,4,420,"[7, 402, 420]",SAAB.tsv
+get up early,3,420,"[7, 11, 402, 420, 582]",SAAB.tsv
+i'm,1,420,"[7, 12, 96, 122, 128, 334, 361, 364, 420, 423, 425, 537, 543, 567, 571, 572, 578, 579, 672, 698, 724]",SAAB.tsv
+i have,2,420,"[12, 92, 371, 420, 437, 540]",SAAB.tsv
+night,1,48,"[26, 39, 48, 369, 371, 420, 618, 621, 626]",SAAB.tsv
+it be,2,420,"[173, 175, 208, 252, 260, 273, 306, 313, 314, 344, 399, 420, 437, 442, 455, 479, 486, 494, 507, 512, 518, 544, 624, 678, 680, 733]",SAAB.tsv
+but it,2,691,"[420, 486, 691, 733]",SAAB.tsv
+i can,2,737,"[420, 425, 728, 737]",SAAB.tsv
+true,1,420,"[267, 420, 760]",SAAB.tsv
+to get up,3,425,"[7, 425]",SAAB.tsv
+get up,2,425,"[11, 402, 425, 582]",SAAB.tsv
+stop,1,425,"[112, 425, 673, 727]",SAAB.tsv
+what that's about,3,430,"[124, 430]",SAAB.tsv
+i wonder what,3,430,"[215, 430]",SAAB.tsv
+i wonder,2,432,"[215, 432]",SAAB.tsv
+oh dear,2,514,"[458, 514]",SAAB.tsv
+yeah i,2,463,"[250, 290, 463, 732]",SAAB.tsv
+and i,2,473,"[114, 287, 437, 451, 473, 569, 570, 632, 715]",SAAB.tsv
+cycle,1,475,"[7, 394, 475, 569, 582]",SAAB.tsv
+give,1,477,"[324, 477, 733, 742, 778, 779]",SAAB.tsv
+mr,1,756,"[477, 519, 756]",SAAB.tsv
+then we,2,479,"[61, 63, 479, 632, 634, 640]",SAAB.tsv
+we have,2,479,"[61, 462, 479, 540, 731]",SAAB.tsv
+labour,1,485,"[310, 485, 486, 488]",SAAB.tsv
+you be,2,183,"[59, 112, 183, 482, 491]",SAAB.tsv
+day,1,491,"[480, 491, 492, 496, 501, 614, 640, 646, 652, 658, 680, 705]",SAAB.tsv
+away,1,722,"[495, 722, 778, 779]",SAAB.tsv
+she be,2,497,"[283, 497, 520, 521, 526, 530, 569, 571]",SAAB.tsv
+to have,2,506,"[71, 112, 361, 364, 506, 712]",SAAB.tsv
+mm no,2,580,"[506, 580, 656, 667]",SAAB.tsv
+keep,1,509,"[12, 509, 680]",SAAB.tsv
+there's,1,531,"[3, 11, 324, 344, 531, 678, 682, 684, 691, 704, 773]",SAAB.tsv
+that's what,2,531,"[338, 340, 531, 644, 661, 754]",SAAB.tsv
+ongoing,1,718,"[539, 718]",SAAB.tsv
+this be,2,539,"[371, 539, 598, 776]",SAAB.tsv
+look,1,544,"[154, 324, 520, 544, 546, 552, 567, 592, 668]",SAAB.tsv
+that the,2,544,"[373, 544]",SAAB.tsv
+ones,1,544,"[446, 544, 546, 552, 556, 567]",SAAB.tsv
+the problem,2,733,"[544, 733]",SAAB.tsv
+they've be,2,547,"[546, 547, 548]",SAAB.tsv
+they've,1,546,"[200, 248, 546, 547, 548, 560]",SAAB.tsv
+i think you,3,554,"[183, 219, 554, 579, 732]",SAAB.tsv
+go with,2,557,"[36, 557, 678]",SAAB.tsv
+with the,2,557,"[501, 536, 557, 618, 678, 725, 731]",SAAB.tsv
+think you,2,559,"[183, 219, 559]",SAAB.tsv
+we've,1,559,"[246, 559, 716]",SAAB.tsv
+full,1,565,"[143, 565]",SAAB.tsv
+pay the full whack,4,565,"[564, 565]",SAAB.tsv
+tile,1,585,"[565, 585, 586, 587, 588, 591]",SAAB.tsv
+want to,2,569,"[340, 438, 446, 451, 569, 571, 678, 715, 729]",SAAB.tsv
+go to get,3,571,"[7, 571]",SAAB.tsv
+to get,2,455,"[7, 425, 455, 571, 730]",SAAB.tsv
+i could,2,571,"[26, 571]",SAAB.tsv
+know what,2,571,"[87, 124, 571, 755]",SAAB.tsv
+i'm just,2,364,"[122, 364, 571, 578, 579]",SAAB.tsv
+house,1,187,"[167, 186, 187, 571]",SAAB.tsv
+to mention,2,571,"[556, 571]",SAAB.tsv
+what i mean,3,661,"[571, 661]",SAAB.tsv
+not go to,3,673,"[571, 673]",SAAB.tsv
+just go to,3,675,"[364, 571, 675]",SAAB.tsv
+yeah but that's,3,661,"[573, 661]",SAAB.tsv
+to me,2,579,"[154, 378, 579]",SAAB.tsv
+back to,2,579,"[371, 579, 582, 654, 756]",SAAB.tsv
+mrs t,2,583,"[582, 583, 584]",SAAB.tsv
+mrs,1,586,"[582, 583, 586, 587]",SAAB.tsv
+mrs tile,2,588,"[586, 587, 588]",SAAB.tsv
+in the,2,604,"[237, 379, 399, 470, 480, 507, 556, 604, 678, 680, 682, 691, 770]",SAAB.tsv
+twenty first,2,604,"[601, 604]",SAAB.tsv
+friday,1,608,"[604, 608, 609, 610, 611, 638, 647]",SAAB.tsv
+wednesday,1,605,"[382, 605, 607]",SAAB.tsv
+wednesday and thursday,3,607,"[605, 606, 607]",SAAB.tsv
+fifth,1,637,"[609, 636, 637, 645, 670]",SAAB.tsv
+last,1,618,"[361, 380, 381, 496, 507, 526, 618, 678, 680, 723]",SAAB.tsv
+cat,1,618,"[614, 618]",SAAB.tsv
+be quite sweet,3,625,"[624, 625]",SAAB.tsv
+to happen,2,641,"[623, 641]",SAAB.tsv
+week,1,641,"[640, 641, 643]",SAAB.tsv
+you're just,2,675,"[641, 675]",SAAB.tsv
+a van,2,660,"[650, 660, 661, 666]",SAAB.tsv
+strand without a van,4,666,"[661, 666]",SAAB.tsv
+stuff,1,668,"[61, 290, 505, 668, 730, 744, 751, 755, 768]",SAAB.tsv
+delhi,1,673,"[670, 673]",SAAB.tsv
+we'll,1,672,"[610, 672]",SAAB.tsv
+october,1,673,"[672, 673, 678]",SAAB.tsv
+get to,2,676,"[160, 654, 676]",SAAB.tsv
+pushkar,1,677,"[676, 677, 678]",SAAB.tsv
+idea,1,678,"[92, 302, 399, 598, 678]",SAAB.tsv
+that he,2,678,"[266, 320, 678]",SAAB.tsv
+every,1,678,"[200, 402, 435, 496, 501, 678]",SAAB.tsv
+there and,2,678,"[658, 678]",SAAB.tsv
+but that's,2,678,"[661, 678]",SAAB.tsv
+in delhi,2,678,"[673, 678]",SAAB.tsv
+india,1,682,"[678, 682, 684, 691]",SAAB.tsv
+last time,2,723,"[678, 680, 723]",SAAB.tsv
+he do,2,756,"[678, 751, 756, 768]",SAAB.tsv
+place,1,680,"[399, 680]",SAAB.tsv
+fine,1,680,"[46, 226, 560, 680]",SAAB.tsv
+interest,1,682,"[680, 682]",SAAB.tsv
+it's quite,2,731,"[680, 731]",SAAB.tsv
+might be,2,685,"[186, 685]",SAAB.tsv
+i think it,3,685,"[252, 273, 685]",SAAB.tsv
+i don't know,3,691,"[109, 124, 175, 215, 218, 250, 267, 568, 686, 691]",SAAB.tsv
+north of india,3,691,"[682, 691]",SAAB.tsv
+there's a,2,691,"[682, 691]",SAAB.tsv
+north,1,691,"[682, 691]",SAAB.tsv
+south,1,691,"[684, 691]",SAAB.tsv
+world,1,770,"[691, 770]",SAAB.tsv
+come down,2,693,"[658, 661, 693]",SAAB.tsv
+google it,2,693,"[692, 693]",SAAB.tsv
+i can't,2,713,"[110, 656, 713, 714]",SAAB.tsv
+printer,1,739,"[713, 739]",SAAB.tsv
+what's the,2,717,"[370, 717]",SAAB.tsv
+sit,1,724,"[290, 510, 724]",SAAB.tsv
+the router,2,724,"[722, 724, 733]",SAAB.tsv
+it down,2,728,"[391, 728]",SAAB.tsv
+we do,2,728,"[61, 63, 357, 503, 658, 728]",SAAB.tsv
+bring it down,3,729,"[728, 729]",SAAB.tsv
+yeah i think,3,732,"[290, 732]",SAAB.tsv
+tell,1,732,"[731, 732]",SAAB.tsv
+solve,1,738,"[733, 738]",SAAB.tsv
+none,1,751,"[379, 380, 751]",SAAB.tsv
+mr gate,2,759,"[756, 759]",SAAB.tsv
+didn't know,2,761,"[87, 761]",SAAB.tsv
+in a club,3,766,"[765, 766]",SAAB.tsv
+gate,1,769,"[756, 769]",SAAB.tsv
+else,1,771,"[582, 771]",SAAB.tsv
+of my,2,775,"[7, 775]",SAAB.tsv
+erm a,2,775,"[87, 775]",SAAB.tsv
+a job,2,775,"[283, 306, 775, 778]",SAAB.tsv
+mean,1,263,"[222, 263, 293, 296, 333, 420, 430, 508, 571, 661, 670, 680, 775, 777]",SAAB.tsv
+there be,2,779,"[501, 505, 568, 572, 673, 682, 694, 706, 779, 780]",SAAB.tsv
+know because,2,779,"[686, 779]",SAAB.tsv
+be to,2,779,"[512, 721, 779]",SAAB.tsv
+money away,2,779,"[778, 779]",SAAB.tsv
+out of,2,112,"[0, 112, 571]",SAAB.tsv
+thank you,2,375,"[6, 375, 395]",SAAB.tsv
+agree,1,114,"[14, 113, 114, 720]",SAAB.tsv
+problems,1,324,"[18, 324, 736]",SAAB.tsv
+regard,1,596,"[18, 596]",SAAB.tsv
+go and,2,488,"[20, 488, 505, 632]",SAAB.tsv
+go to the gym,4,23,"[22, 23, 25]",SAAB.tsv
+i've,1,96,"[29, 96, 114, 361, 371, 730, 734]",SAAB.tsv
+see,1,306,"[29, 149, 306, 420, 571, 668, 669]",SAAB.tsv
+it'll,1,59,"[32, 59, 63]",SAAB.tsv
+it so,2,501,"[43, 501, 755]",SAAB.tsv
+i be,2,193,"[47, 193, 222, 238, 246, 320, 324, 471, 473, 484, 626, 670, 672, 701]",SAAB.tsv
+maybe,1,220,"[47, 220, 249, 298, 330, 509, 571]",SAAB.tsv
+anyway,1,254,"[47, 254, 281, 293, 628, 649, 662]",SAAB.tsv
+it's a good,3,528,"[47, 528]",SAAB.tsv
+to choir,2,613,"[47, 613, 632]",SAAB.tsv
+a long time,3,74,"[49, 74]",SAAB.tsv
+it but,2,96,"[49, 96, 228, 265, 330, 449]",SAAB.tsv
+quite a,2,114,"[49, 114, 451, 455, 680, 731]",SAAB.tsv
+but not,2,126,"[49, 126, 555]",SAAB.tsv
+even,1,211,"[49, 211, 336, 446, 480, 632, 674, 680]",SAAB.tsv
+a long,2,267,"[49, 267]",SAAB.tsv
+minutes,1,167,"[51, 167, 507, 571]",SAAB.tsv
+do the same,3,324,"[51, 324]",SAAB.tsv
+be do the,3,540,"[51, 540]",SAAB.tsv
+i'll just,2,369,"[53, 369, 668]",SAAB.tsv
+i'll do,2,540,"[53, 540, 580]",SAAB.tsv
+in a school,3,56,"[55, 56]",SAAB.tsv
+school,1,413,"[55, 249, 413, 460, 462, 475, 480, 496]",SAAB.tsv
+sort,1,60,"[58, 60, 104, 140, 682, 703, 755]",SAAB.tsv
+of do,2,322,"[60, 322]",SAAB.tsv
+choir,1,613,"[66, 613, 632]",SAAB.tsv
+buy,1,68,"[28, 68]",SAAB.tsv
+any more,2,212,"[68, 212]",SAAB.tsv
+h two o,3,73,"[72, 73]",SAAB.tsv
+have some,2,490,"[73, 490]",SAAB.tsv
+but it's,2,433,"[75, 409, 433, 449]",SAAB.tsv
+isn't it,2,712,"[75, 119, 125, 132, 187, 233, 265, 282, 341, 384, 430, 506, 565, 573, 712]",SAAB.tsv
+so it's,2,175,"[77, 175, 393, 678, 680]",SAAB.tsv
+without the,2,84,"[83, 84]",SAAB.tsv
+a bite,2,164,"[83, 125, 139, 164, 179, 222, 296, 558, 565, 709]",SAAB.tsv
+that's a,2,103,"[91, 103, 709]",SAAB.tsv
+women,1,98,"[94, 97, 98]",SAAB.tsv
+other things,2,324,"[94, 324, 678]",SAAB.tsv
+things,1,324,"[94, 324, 432, 572, 678, 715]",SAAB.tsv
+really,1,226,"[97, 226, 311, 320, 326, 337, 419, 443, 444, 453, 455, 479, 488, 515, 530, 544, 552, 569, 571, 676, 680, 701]",SAAB.tsv
+no no,2,103,"[100, 103, 576, 615, 701, 703]",SAAB.tsv
+stick,1,102,"[48, 101, 102, 569]",SAAB.tsv
+stick your hand down the front of your trousers,9,102,"[101, 102]",SAAB.tsv
+do and,2,494,"[104, 494, 571]",SAAB.tsv
+discuss,1,114,"[111, 114, 206]",SAAB.tsv
+feel,1,115,"[44, 115, 155, 260, 317, 419, 447, 559]",SAAB.tsv
+kind of,2,115,"[48, 115, 119, 125, 160, 162, 187, 246, 301, 320, 409, 418, 506, 533, 691, 771, 773, 779]",SAAB.tsv
+men,1,115,"[96, 115, 132]",SAAB.tsv
+grandad,1,115,"[114, 115, 201]",SAAB.tsv
+they just,2,200,"[115, 200]",SAAB.tsv
+at all,2,701,"[117, 701]",SAAB.tsv
+of thing,2,119,"[63, 119]",SAAB.tsv
+it's kind of,3,160,"[119, 125, 160, 162, 187, 301]",SAAB.tsv
+it's kind of like,4,162,"[119, 162]",SAAB.tsv
+type,1,320,"[119, 221, 320, 403]",SAAB.tsv
+it's just,2,121,"[52, 121, 146, 341, 433, 449, 450, 453, 550]",SAAB.tsv
+point,1,324,"[123, 324]",SAAB.tsv
+dad bods,2,129,"[128, 129]",SAAB.tsv
+accept,1,501,"[129, 263, 501]",SAAB.tsv
+little,1,132,"[90, 132, 293, 496, 621, 672, 740]",SAAB.tsv
+it with,2,132,"[114, 132, 206]",SAAB.tsv
+it's the,2,725,"[132, 725]",SAAB.tsv
+he's a,2,267,"[139, 249, 267, 748]",SAAB.tsv
+too thin,2,142,"[141, 142]",SAAB.tsv
+ways,1,488,"[145, 488]",SAAB.tsv
+bite rigid,2,164,"[163, 164]",SAAB.tsv
+still,1,168,"[31, 168, 446, 501, 763]",SAAB.tsv
+university,1,175,"[168, 175, 298, 305, 312, 775]",SAAB.tsv
+be still,2,446,"[168, 446]",SAAB.tsv
+yeah so,2,510,"[184, 510, 592]",SAAB.tsv
+home,1,632,"[187, 221, 632]",SAAB.tsv
+grandma and grandad's,3,198,"[197, 198]",SAAB.tsv
+grandma and,2,608,"[197, 201, 608]",SAAB.tsv
+embarrass,1,209,"[191, 208, 209]",SAAB.tsv
+able to,2,221,"[59, 221]",SAAB.tsv
+decision,1,593,"[221, 593]",SAAB.tsv
+randomers,1,230,"[229, 230, 231]",SAAB.tsv
+young,1,710,"[231, 710]",SAAB.tsv
+no that's,2,233,"[50, 233, 311, 531, 535]",SAAB.tsv
+to just,2,507,"[233, 393, 507]",SAAB.tsv
+it you,2,520,"[233, 520, 562]",SAAB.tsv
+be wonder,2,260,"[238, 260]",SAAB.tsv
+she have,2,510,"[238, 510, 571]",SAAB.tsv
+teacher,1,437,"[240, 437]",SAAB.tsv
+a boyfriend,2,249,"[171, 175, 237, 249]",SAAB.tsv
+boyfriend,1,249,"[179, 196, 237, 246, 249, 260, 263]",SAAB.tsv
+well maybe,2,330,"[249, 330]",SAAB.tsv
+years,1,433,"[249, 268, 433, 496]",SAAB.tsv
+be with,2,617,"[249, 617]",SAAB.tsv
+too late,2,257,"[256, 257]",SAAB.tsv
+late,1,455,"[257, 409, 427, 455]",SAAB.tsv
+afterwards,1,259,"[258, 259]",SAAB.tsv
+of your,2,263,"[101, 263]",SAAB.tsv
+the boyfriend of,3,263,"[179, 263]",SAAB.tsv
+family,1,263,"[179, 263]",SAAB.tsv
+girlfriend,1,263,"[196, 263]",SAAB.tsv
+into the,2,263,"[228, 246, 263]",SAAB.tsv
+understand,1,570,"[263, 333, 570]",SAAB.tsv
+that's like,2,426,"[265, 426, 775]",SAAB.tsv
+that he's,2,268,"[267, 268]",SAAB.tsv
+a man,2,270,"[269, 270]",SAAB.tsv
+vocational,1,328,"[282, 296, 328, 332]",SAAB.tsv
+yeah well,2,419,"[282, 419]",SAAB.tsv
+love,1,526,"[286, 526]",SAAB.tsv
+like it,2,568,"[291, 568]",SAAB.tsv
+a little bite,3,293,"[90, 293]",SAAB.tsv
+grow,1,293,"[112, 293]",SAAB.tsv
+fashionable,1,293,"[126, 293]",SAAB.tsv
+subject,1,455,"[293, 455]",SAAB.tsv
+be on,2,703,"[293, 703]",SAAB.tsv
+nine,1,296,"[61, 296, 407, 444, 462, 470, 759, 765]",SAAB.tsv
+be a bite,3,296,"[179, 296]",SAAB.tsv
+you know to,3,296,"[228, 296]",SAAB.tsv
+but also,2,312,"[296, 312]",SAAB.tsv
+to pay,2,336,"[296, 336]",SAAB.tsv
+and the,2,437,"[296, 317, 387, 437, 605]",SAAB.tsv
+to be a,3,512,"[296, 512]",SAAB.tsv
+education,1,306,"[298, 305, 306]",SAAB.tsv
+it's not,2,303,"[74, 96, 146, 211, 252, 303, 308, 409, 502, 508, 509, 527, 567, 571]",SAAB.tsv
+but i,2,303,"[96, 216, 303, 324]",SAAB.tsv
+use to,2,303,"[114, 303, 470, 507]",SAAB.tsv
+i think that,3,303,"[179, 303, 544, 691, 693]",SAAB.tsv
+mind,1,302,"[188, 302, 303]",SAAB.tsv
+people think,2,303,"[212, 303]",SAAB.tsv
+like that,2,303,"[278, 303, 730]",SAAB.tsv
+but i think,3,369,"[303, 369]",SAAB.tsv
+just like you,3,447,"[303, 447]",SAAB.tsv
+they use to,3,508,"[303, 508]",SAAB.tsv
+use,1,558,"[303, 558, 755]",SAAB.tsv
+no i know,3,576,"[303, 576]",SAAB.tsv
+so it,2,305,"[79, 305, 317, 409, 466]",SAAB.tsv
+whereas now,2,309,"[308, 309]",SAAB.tsv
+degree,1,328,"[309, 328, 332]",SAAB.tsv
+you have a,3,480,"[309, 480]",SAAB.tsv
+well not,2,317,"[58, 317]",SAAB.tsv
+think about it,3,317,"[96, 212, 317]",SAAB.tsv
+find,1,317,"[202, 317, 678, 691]",SAAB.tsv
+but erm,2,317,"[222, 226, 317, 526, 701]",SAAB.tsv
+seriously,1,317,"[224, 317]",SAAB.tsv
+and it,2,317,"[306, 317, 425, 432, 455, 494]",SAAB.tsv
+you have,2,480,"[317, 418, 480, 491, 531]",SAAB.tsv
+it have,2,501,"[317, 501]",SAAB.tsv
+up with,2,507,"[317, 507]",SAAB.tsv
+do something,2,526,"[317, 526]",SAAB.tsv
+with a,2,555,"[317, 555]",SAAB.tsv
+of it,2,558,"[317, 479, 558, 773]",SAAB.tsv
+i don't think,3,329,"[212, 328, 329, 559]",SAAB.tsv
+parent,1,329,"[324, 329]",SAAB.tsv
+i don't think we could cope,6,329,"[328, 329]",SAAB.tsv
+yeah yeah,2,662,"[331, 662]",SAAB.tsv
+i i,2,333,"[28, 216, 232, 246, 333, 701]",SAAB.tsv
+i i do,3,333,"[304, 333]",SAAB.tsv
+at our expense,3,333,"[332, 333]",SAAB.tsv
+no well,2,703,"[335, 703]",SAAB.tsv
+well it's,2,341,"[74, 341, 419]",SAAB.tsv
+have to pay in scotty land,6,341,"[336, 341]",SAAB.tsv
+magnum,1,353,"[352, 353]",SAAB.tsv
+mini magnum,2,355,"[353, 355]",SAAB.tsv
+anything,1,356,"[198, 200, 356]",SAAB.tsv
+we be,2,356,"[260, 356, 495, 678, 751]",SAAB.tsv
+biscuits,1,356,"[348, 356]",SAAB.tsv
+biscuits and magnums,3,357,"[356, 357]",SAAB.tsv
+i agree,2,358,"[114, 358, 577]",SAAB.tsv
+wine,1,360,"[359, 360, 384]",SAAB.tsv
+almond,1,375,"[374, 375]",SAAB.tsv
+be all,2,384,"[208, 384, 494]",SAAB.tsv
+never,1,393,"[96, 196, 393, 471, 477, 691]",SAAB.tsv
+the way,2,393,"[246, 393, 460]",SAAB.tsv
+just have,2,501,"[393, 501]",SAAB.tsv
+one of,2,705,"[403, 691, 705, 775]",SAAB.tsv
+group,1,437,"[405, 407, 437]",SAAB.tsv
+erm the,2,407,"[58, 407, 437, 540, 596]",SAAB.tsv
+clock,1,407,"[160, 166, 407, 409]",SAAB.tsv
+up at,2,407,"[166, 407, 418]",SAAB.tsv
+know so,2,407,"[267, 407]",SAAB.tsv
+be naturally,2,440,"[407, 440]",SAAB.tsv
+nine be,2,444,"[407, 444]",SAAB.tsv
+after the,2,409,"[63, 409]",SAAB.tsv
+and it's,2,409,"[146, 409]",SAAB.tsv
+later,1,409,"[167, 409]",SAAB.tsv
+to a,2,409,"[306, 324, 409]",SAAB.tsv
+to say,2,409,"[340, 409, 508, 578, 579]",SAAB.tsv
+try to,2,449,"[409, 449, 558]",SAAB.tsv
+to say it's not,4,508,"[409, 508]",SAAB.tsv
+be like,2,518,"[409, 518]",SAAB.tsv
+try to say,3,578,"[409, 578]",SAAB.tsv
+eight,1,412,"[61, 412, 418, 442, 444, 462, 466, 472]",SAAB.tsv
+ten,1,412,"[63, 312, 412, 413, 418]",SAAB.tsv
+instead of,2,412,"[322, 412, 462]",SAAB.tsv
+but he,2,412,"[330, 412, 432, 507]",SAAB.tsv
+and you,2,418,"[90, 166, 326, 418, 420, 470, 480, 501, 632]",SAAB.tsv
+suppose to,2,418,"[112, 301, 418, 509]",SAAB.tsv
+be just,2,418,"[222, 418, 447, 680]",SAAB.tsv
+couple of,2,418,"[364, 371, 418, 520, 555]",SAAB.tsv
+dull,1,419,"[418, 419, 447]",SAAB.tsv
+eight and,2,466,"[418, 466]",SAAB.tsv
+mean i,2,420,"[222, 420, 571, 670]",SAAB.tsv
+also,1,420,"[312, 420, 569, 748]",SAAB.tsv
+but it be,3,486,"[420, 486]",SAAB.tsv
+have it,2,518,"[420, 518]",SAAB.tsv
+to my,2,423,"[160, 423]",SAAB.tsv
+soon,1,425,"[368, 425]",SAAB.tsv
+a a,2,598,"[425, 598]",SAAB.tsv
+and if,2,632,"[425, 562, 632]",SAAB.tsv
+yeah the,2,432,"[54, 432]",SAAB.tsv
+things and,2,432,"[324, 432]",SAAB.tsv
+easy,1,712,"[432, 712]",SAAB.tsv
+bed,1,441,"[200, 441]",SAAB.tsv
+they'd,1,441,"[320, 441, 488, 502]",SAAB.tsv
+be in,2,470,"[441, 470, 501, 507, 676, 751]",SAAB.tsv
+that's really early,3,444,"[443, 444]",SAAB.tsv
+hard,1,451,"[450, 451, 453, 455]",SAAB.tsv
+oh no,2,701,"[467, 531, 701]",SAAB.tsv
+registration,1,471,"[462, 466, 468, 470, 471, 480]",SAAB.tsv
+meet,1,475,"[252, 475, 540]",SAAB.tsv
+detention,1,480,"[477, 480, 491, 496, 501, 508, 509, 519]",SAAB.tsv
+us,1,617,"[477, 519, 617, 751, 755]",SAAB.tsv
+and we,2,719,"[477, 680, 719]",SAAB.tsv
+annoy,1,479,"[40, 479]",SAAB.tsv
+they be,2,479,"[126, 191, 440, 447, 470, 479, 505, 510]",SAAB.tsv
+be really,2,479,"[226, 320, 479]",SAAB.tsv
+it be really,3,479,"[455, 479]",SAAB.tsv
+clamp down,2,480,"[479, 480]",SAAB.tsv
+so we,2,501,"[479, 501]",SAAB.tsv
+then it,2,503,"[479, 503, 722]",SAAB.tsv
+serious,1,483,"[61, 483, 484, 511, 748]",SAAB.tsv
+pretty,1,485,"[482, 485, 567, 781]",SAAB.tsv
+labour intensive,2,486,"[485, 486, 488]",SAAB.tsv
+the only,2,488,"[487, 488]",SAAB.tsv
+if you be,3,491,"[59, 491]",SAAB.tsv
+so if,2,491,"[267, 491]",SAAB.tsv
+be late,2,491,"[455, 491, 533]",SAAB.tsv
+at lunch,2,491,"[480, 491]",SAAB.tsv
+lunch,1,491,"[480, 491, 492, 502]",SAAB.tsv
+the same day at lunch,5,492,"[491, 492]",SAAB.tsv
+have detention,2,501,"[491, 501]",SAAB.tsv
+well we,2,495,"[61, 480, 495, 517]",SAAB.tsv
+it cos,2,558,"[495, 558]",SAAB.tsv
+a one,2,497,"[369, 497]",SAAB.tsv
+she be a,3,526,"[497, 526, 530]",SAAB.tsv
+break,1,502,"[61, 63, 466, 468, 480, 502]",SAAB.tsv
+no it's,2,506,"[52, 301, 506, 725]",SAAB.tsv
+maybe that's,2,509,"[330, 509]",SAAB.tsv
+that's really,2,515,"[444, 515]",SAAB.tsv
+good job,2,529,"[326, 528, 529]",SAAB.tsv
+when you,2,531,"[112, 531]",SAAB.tsv
+there's no,2,531,"[324, 531]",SAAB.tsv
+what you,2,698,"[531, 698]",SAAB.tsv
+nice,1,544,"[59, 528, 544, 545, 551, 552, 680]",SAAB.tsv
+grey,1,544,"[144, 544, 546, 555]",SAAB.tsv
+but the,2,546,"[179, 546, 558, 629]",SAAB.tsv
+just like,2,550,"[447, 550, 595]",SAAB.tsv
+about it,2,552,"[96, 212, 552, 559]",SAAB.tsv
+whereas,1,552,"[308, 552]",SAAB.tsv
+the top,2,554,"[437, 554]",SAAB.tsv
+the top coat,3,554,"[543, 554]",SAAB.tsv
+miss,1,559,"[457, 470, 507, 559, 565]",SAAB.tsv
+ask,1,559,"[543, 559]",SAAB.tsv
+and do,2,562,"[58, 466, 510, 562]",SAAB.tsv
+back and,2,562,"[167, 562]",SAAB.tsv
+you can't,2,562,"[258, 532, 562]",SAAB.tsv
+can't you,2,562,"[258, 562, 657]",SAAB.tsv
+they don't,2,562,"[336, 562]",SAAB.tsv
+you know they,3,562,"[447, 562]",SAAB.tsv
+they you,2,562,"[480, 562]",SAAB.tsv
+then they,2,562,"[505, 562]",SAAB.tsv
+back and do,3,562,"[526, 562]",SAAB.tsv
+price,1,563,"[562, 563]",SAAB.tsv
+come back,2,572,"[562, 572, 579, 631, 632]",SAAB.tsv
+much,1,565,"[11, 555, 565, 709]",SAAB.tsv
+be a bite much,4,565,"[179, 565]",SAAB.tsv
+a bite much,3,565,"[222, 565, 709]",SAAB.tsv
+i think i,3,569,"[222, 569]",SAAB.tsv
+didn't want to be,4,569,"[438, 451, 569]",SAAB.tsv
+think i,2,569,"[543, 569]",SAAB.tsv
+three,1,571,"[63, 112, 237, 518, 571]",SAAB.tsv
+i'm not,2,571,"[96, 571, 578, 672]",SAAB.tsv
+the house,2,571,"[167, 571]",SAAB.tsv
+but she,2,571,"[175, 571, 572]",SAAB.tsv
+five,1,571,"[312, 571]",SAAB.tsv
+do you know,3,571,"[320, 571, 579, 759]",SAAB.tsv
+and she,2,571,"[328, 571]",SAAB.tsv
+what i,2,571,"[338, 340, 451, 571, 661]",SAAB.tsv
+i'm just go to,4,571,"[364, 571]",SAAB.tsv
+want to be,3,571,"[438, 451, 571]",SAAB.tsv
+be scrub,2,571,"[548, 571]",SAAB.tsv
+but she rush,3,571,"[570, 571]",SAAB.tsv
+say i'm,2,572,"[571, 572]",SAAB.tsv
+just say,2,578,"[571, 578]",SAAB.tsv
+just go,2,632,"[571, 632, 675]",SAAB.tsv
+yeah but,2,573,"[558, 572, 573, 661]",SAAB.tsv
+it yeah,2,727,"[573, 727]",SAAB.tsv
+say i think,3,579,"[160, 579]",SAAB.tsv
+say anything,2,579,"[198, 200, 579]",SAAB.tsv
+say i,2,579,"[328, 579]",SAAB.tsv
+i'm just say,3,579,"[578, 579]",SAAB.tsv
+and all,2,583,"[58, 505, 583, 755]",SAAB.tsv
+look at,2,592,"[520, 592, 668]",SAAB.tsv
+date,1,600,"[592, 600]",SAAB.tsv
+cheese,1,595,"[3, 348, 595]",SAAB.tsv
+removal people,2,598,"[597, 598]",SAAB.tsv
+today,1,602,"[600, 602]",SAAB.tsv
+he's leave,2,604,"[167, 604]",SAAB.tsv
+monday,1,604,"[383, 604]",SAAB.tsv
+grandma,1,607,"[198, 607, 608]",SAAB.tsv
+go to choir,3,613,"[612, 613, 632]",SAAB.tsv
+my little,2,621,"[496, 621]",SAAB.tsv
+in my,2,621,"[507, 621]",SAAB.tsv
+it be quite,3,624,"[173, 624, 680]",SAAB.tsv
+awake,1,626,"[449, 455, 626]",SAAB.tsv
+come back here,3,632,"[631, 632]",SAAB.tsv
+sixth,1,636,"[462, 636]",SAAB.tsv
+hop that,2,641,"[320, 641]",SAAB.tsv
+within a,2,641,"[520, 641]",SAAB.tsv
+within,1,643,"[520, 643]",SAAB.tsv
+know mm,2,643,"[568, 643]",SAAB.tsv
+van,1,657,"[650, 657, 661, 666]",SAAB.tsv
+see how,2,669,"[668, 669]",SAAB.tsv
+and erm,2,670,"[58, 670, 703, 730, 738]",SAAB.tsv
+erm i,2,670,"[507, 670, 701, 713, 730]",SAAB.tsv
+be 's,2,670,"[507, 670]",SAAB.tsv
+a little,2,672,"[90, 672]",SAAB.tsv
+think about,2,672,"[96, 212, 672]",SAAB.tsv
+so when,2,672,"[507, 672]",SAAB.tsv
+rush,1,672,"[570, 672]",SAAB.tsv
+for the,2,676,"[48, 496, 632, 676]",SAAB.tsv
+to be in,3,676,"[470, 676]",SAAB.tsv
+a huge,2,678,"[155, 678]",SAAB.tsv
+huge,1,678,"[155, 563, 678]",SAAB.tsv
+year,1,678,"[175, 299, 433, 455, 503, 505, 507, 678]",SAAB.tsv
+which be,2,678,"[226, 433, 460, 678]",SAAB.tsv
+erm he,2,678,"[324, 678, 736, 738, 751]",SAAB.tsv
+middle,1,678,"[437, 678]",SAAB.tsv
+so the,2,678,"[455, 678]",SAAB.tsv
+so and,2,678,"[510, 678]",SAAB.tsv
+be where,2,678,"[558, 678]",SAAB.tsv
+so that,2,678,"[558, 678, 680]",SAAB.tsv
+potentially,1,678,"[629, 678]",SAAB.tsv
+be erm,2,701,"[678, 701, 775]",SAAB.tsv
+separate,1,680,"[200, 680]",SAAB.tsv
+a nice,2,680,"[528, 680]",SAAB.tsv
+the even,2,680,"[632, 680]",SAAB.tsv
+can have,2,680,"[657, 680]",SAAB.tsv
+we can,2,719,"[680, 719, 734]",SAAB.tsv
+think it,2,685,"[173, 685]",SAAB.tsv
+by the,2,689,"[246, 689]",SAAB.tsv
+no but,2,722,"[689, 722]",SAAB.tsv
+be very,2,691,"[153, 691, 701]",SAAB.tsv
+think that be,3,691,"[179, 691]",SAAB.tsv
+that be,2,691,"[179, 480, 691, 779]",SAAB.tsv
+far,1,691,"[196, 322, 691, 722]",SAAB.tsv
+actually a,2,691,"[222, 691]",SAAB.tsv
+but you,2,691,"[228, 691]",SAAB.tsv
+so you,2,691,"[258, 691]",SAAB.tsv
+population,1,691,"[312, 691]",SAAB.tsv
+be cos,2,691,"[451, 691]",SAAB.tsv
+alright,1,697,"[262, 357, 697]",SAAB.tsv
+hungover,1,701,"[700, 701, 705]",SAAB.tsv
+it all,2,702,"[593, 702]",SAAB.tsv
+of get,2,711,"[160, 711]",SAAB.tsv
+days,1,711,"[364, 371, 711]",SAAB.tsv
+have our,2,711,"[540, 711]",SAAB.tsv
+we all,2,712,"[711, 712]",SAAB.tsv
+for me,2,713,"[359, 713]",SAAB.tsv
+i want to,3,715,"[340, 715]",SAAB.tsv
+it say,2,715,"[437, 715]",SAAB.tsv
+print,1,719,"[715, 719, 730]",SAAB.tsv
+next,1,724,"[237, 505, 724]",SAAB.tsv
+bring it,2,728,"[719, 728, 729]",SAAB.tsv
+fill,1,730,"[334, 730]",SAAB.tsv
+form,1,730,"[462, 730]",SAAB.tsv
+need to,2,730,"[644, 730]",SAAB.tsv
+friend,1,734,"[320, 734]",SAAB.tsv
+of like,2,740,"[162, 740]",SAAB.tsv
+level,1,740,"[558, 740]",SAAB.tsv
+and he's,2,748,"[31, 146, 748]",SAAB.tsv
+so he's,2,748,"[237, 748]",SAAB.tsv
+do some,2,755,"[61, 719, 755]",SAAB.tsv
+it can,2,755,"[79, 755]",SAAB.tsv
+to do it,3,755,"[114, 449, 755]",SAAB.tsv
+and he,2,755,"[167, 320, 755]",SAAB.tsv
+sort of stuff,3,755,"[505, 755]",SAAB.tsv
+then to,2,755,"[530, 755]",SAAB.tsv
+percent of,2,759,"[312, 759]",SAAB.tsv
+percent,1,759,"[312, 316, 759]",SAAB.tsv
+husband,1,775,"[179, 775]",SAAB.tsv
+decide,1,779,"[480, 779]",SAAB.tsv
+i'm go to,3,361,"[7, 12, 361, 572]",SAAB.tsv
+and go for a,4,369,"[7, 369]",SAAB.tsv
+go for,2,400,"[7, 400]",SAAB.tsv
+tomorrow,1,540,"[7, 540, 541, 580, 582]",SAAB.tsv
+i have a,3,371,"[12, 371]",SAAB.tsv
+before i,2,433,"[12, 433]",SAAB.tsv
+have to be do,4,540,"[16, 540]",SAAB.tsv
+put it,2,330,"[24, 330]",SAAB.tsv
+put,1,530,"[24, 530]",SAAB.tsv
+could go to the,4,26,"[22, 26]",SAAB.tsv
+to have a,3,364,"[71, 364]",SAAB.tsv
+you might,2,698,"[71, 698]",SAAB.tsv
+sunday time,2,112,"[93, 112]",SAAB.tsv
+long fingernails,2,96,"[95, 96]",SAAB.tsv
+he's always,2,153,"[135, 153, 160, 215]",SAAB.tsv
+completely,1,146,"[143, 146]",SAAB.tsv
+follow,1,705,"[143, 705]",SAAB.tsv
+very thin,2,153,"[147, 153]",SAAB.tsv
+doesn't have snack,3,151,"[150, 151]",SAAB.tsv
+he say,2,530,"[150, 530]",SAAB.tsv
+either,1,714,"[152, 658, 714]",SAAB.tsv
+well so,2,558,"[154, 558]",SAAB.tsv
+quite right,2,174,"[173, 174]",SAAB.tsv
+i didn't,2,178,"[173, 178, 708]",SAAB.tsv
+oh i,2,267,"[178, 267]",SAAB.tsv
+be go,2,488,"[183, 488, 505]",SAAB.tsv
+invite him to,3,186,"[177, 186]",SAAB.tsv
+well no,2,196,"[186, 196]",SAAB.tsv
+invite,1,246,"[186, 246, 248, 260]",SAAB.tsv
+the fact that,3,440,"[186, 440]",SAAB.tsv
+to come,2,572,"[186, 572, 661]",SAAB.tsv
+it's take for grant,4,214,"[213, 214]",SAAB.tsv
+take,1,505,"[213, 505, 705, 756]",SAAB.tsv
+he's always be,3,215,"[153, 215]",SAAB.tsv
+choose it,2,228,"[227, 228]",SAAB.tsv
+choose,1,324,"[227, 324]",SAAB.tsv
+say that,2,447,"[247, 447, 578]",SAAB.tsv
+student,1,516,"[266, 516]",SAAB.tsv
+i hear,2,526,"[266, 526]",SAAB.tsv
+think it be,3,273,"[173, 273]",SAAB.tsv
+i think it be,4,273,"[252, 273]",SAAB.tsv
+film and,2,277,"[274, 276, 277, 287]",SAAB.tsv
+and i think,3,451,"[287, 451]",SAAB.tsv
+help,1,466,"[287, 466]",SAAB.tsv
+class,1,505,"[287, 505]",SAAB.tsv
+it's a very,3,326,"[302, 326]",SAAB.tsv
+party,1,310,"[177, 310]",SAAB.tsv
+it be tiny,3,314,"[313, 314]",SAAB.tsv
+long term,2,373,"[175, 267, 373, 379]",SAAB.tsv
+please,1,378,"[112, 375, 378]",SAAB.tsv
+how long,2,380,"[175, 380, 382]",SAAB.tsv
+none in,2,380,"[379, 380]",SAAB.tsv
+midweek,1,380,"[379, 380]",SAAB.tsv
+the midweek,2,382,"[379, 382]",SAAB.tsv
+they have to,3,464,"[391, 464, 510, 518]",SAAB.tsv
+well you know,3,394,"[334, 394]",SAAB.tsv
+the first,2,399,"[58, 399, 457]",SAAB.tsv
+and go,2,402,"[369, 402]",SAAB.tsv
+every morning,2,435,"[402, 435]",SAAB.tsv
+disaster,1,461,"[437, 460, 461]",SAAB.tsv
+bite of,2,499,"[54, 499, 558]",SAAB.tsv
+do with,2,537,"[536, 537]",SAAB.tsv
+treasure,1,537,"[536, 537]",SAAB.tsv
+tomorrow morning,2,541,"[540, 541]",SAAB.tsv
+that's fine,2,560,"[46, 560]",SAAB.tsv
+that's not,2,574,"[232, 330, 574]",SAAB.tsv
+and get,2,582,"[505, 582]",SAAB.tsv
+fourth,1,603,"[433, 603]",SAAB.tsv
+drive,1,610,"[572, 610, 611, 650, 658]",SAAB.tsv
+drive to,2,611,"[610, 611]",SAAB.tsv
+might have,2,614,"[558, 614]",SAAB.tsv
+i might,2,630,"[543, 630]",SAAB.tsv
+whole,1,640,"[48, 228, 640, 731]",SAAB.tsv
+and then we,3,640,"[61, 63, 634, 640]",SAAB.tsv
+whatever,1,640,"[507, 640, 649]",SAAB.tsv
+we would,2,640,"[617, 619, 640]",SAAB.tsv
+and then we would,4,640,"[632, 640]",SAAB.tsv
+have the,2,657,"[640, 657]",SAAB.tsv
+doesn't have,2,652,"[151, 652]",SAAB.tsv
+that day,2,652,"[480, 652]",SAAB.tsv
+to be that,3,652,"[508, 652]",SAAB.tsv
+well it,2,652,"[593, 652, 653, 723]",SAAB.tsv
+to then,2,654,"[228, 654]",SAAB.tsv
+go back to,3,654,"[371, 654, 756]",SAAB.tsv
+but then,2,658,"[48, 196, 572, 658, 722]",SAAB.tsv
+on a,2,658,"[160, 658]",SAAB.tsv
+we'd,1,658,"[193, 196, 460, 632, 658, 660, 664, 665]",SAAB.tsv
+we do it,3,658,"[503, 658]",SAAB.tsv
+somebody,1,658,"[505, 658]",SAAB.tsv
+yes so,2,658,"[593, 658]",SAAB.tsv
+one way,2,658,"[657, 658]",SAAB.tsv
+we'd have,2,660,"[658, 660]",SAAB.tsv
+i'd,1,661,"[211, 526, 611, 661]",SAAB.tsv
+that's what i,3,661,"[338, 340, 661]",SAAB.tsv
+we'd work it out,4,665,"[664, 665]",SAAB.tsv
+there's not,2,684,"[11, 684]",SAAB.tsv
+be they,2,690,"[510, 690]",SAAB.tsv
+there be lot of,4,694,"[572, 694]",SAAB.tsv
+go on,2,706,"[455, 706, 725]",SAAB.tsv
+tutting,1,707,"[706, 707]",SAAB.tsv
+turn,1,721,"[470, 505, 721]",SAAB.tsv
+the extender,2,725,"[721, 725, 733]",SAAB.tsv
+if you want,3,729,"[632, 729]",SAAB.tsv
+we have a,3,731,"[61, 731]",SAAB.tsv
+oh yes,2,731,"[188, 731]",SAAB.tsv
+which i,2,733,"[175, 733]",SAAB.tsv
+erm and,2,733,"[177, 200, 733]",SAAB.tsv
+give it,2,733,"[324, 733]",SAAB.tsv
+it didn't,2,733,"[437, 733]",SAAB.tsv
+as the,2,733,"[455, 733]",SAAB.tsv
+the begin of,3,756,"[472, 756]",SAAB.tsv
+at the moment,3,762,"[239, 762]",SAAB.tsv
+do a,2,768,"[357, 558, 768]",SAAB.tsv

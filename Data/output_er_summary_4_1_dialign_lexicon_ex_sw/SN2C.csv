@@ -1,0 +1,206 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+dream,1,6,"[0, 6, 11, 13, 25, 41, 46, 55, 56, 57, 170, 188]",SN2C.tsv
+last night,2,14,"[13, 14, 46]",SN2C.tsv
+night,1,14,"[13, 14, 46]",SN2C.tsv
+a dream,2,25,"[13, 25, 46]",SN2C.tsv
+be this,2,37,"[13, 37, 49, 132]",SN2C.tsv
+that you,2,47,"[37, 47, 56, 81, 87]",SN2C.tsv
+to have,2,125,"[56, 125]",SN2C.tsv
+and then,2,64,"[3, 16, 39, 41, 49, 54, 64, 68, 75, 77, 80, 90, 106, 122, 128, 132, 152, 156, 167, 192]",SN2C.tsv
+dog,1,77,"[69, 77, 113, 119, 124, 134, 136, 139, 140, 143, 200]",SN2C.tsv
+labrador,1,73,"[70, 73, 75, 125]",SN2C.tsv
+love,1,81,"[21, 72, 81, 117, 125]",SN2C.tsv
+i would,2,121,"[91, 121, 149]",SN2C.tsv
+yeah,1,91,"[74, 91, 99, 118, 125, 138, 140, 143, 179, 204, 207, 208, 211, 220]",SN2C.tsv
+i be,2,95,"[16, 39, 48, 49, 51, 58, 95]",SN2C.tsv
+be just,2,95,"[19, 95]",SN2C.tsv
+i didn't,2,95,"[30, 43, 95, 167]",SN2C.tsv
+i be just,3,95,"[39, 95]",SN2C.tsv
+it i,2,95,"[43, 95]",SN2C.tsv
+in it,2,95,"[43, 95, 96]",SN2C.tsv
+i i,2,95,"[58, 95, 121]",SN2C.tsv
+be a,2,113,"[16, 25, 39, 75, 77, 113, 134, 190]",SN2C.tsv
+for dog,2,136,"[113, 134, 136, 139, 140, 143]",SN2C.tsv
+people,1,117,"[33, 117, 134, 192, 193, 197, 208]",SN2C.tsv
+you could,2,117,"[37, 78, 117]",SN2C.tsv
+would,1,121,"[91, 117, 121, 149, 178, 203, 210, 225]",SN2C.tsv
+have a,2,124,"[16, 26, 46, 49, 93, 124, 125]",SN2C.tsv
+to have a,3,125,"[124, 125]",SN2C.tsv
+yes,1,145,"[124, 145, 174]",SN2C.tsv
+like,1,135,"[16, 30, 37, 43, 80, 112, 119, 121, 135, 138, 156, 159, 162, 178, 190]",SN2C.tsv
+animals,1,140,"[115, 140]",SN2C.tsv
+it's for dog,3,143,"[140, 143]",SN2C.tsv
+i'm,1,142,"[5, 142, 166, 180, 218, 221, 223]",SN2C.tsv
+just try to,3,142,"[39, 142]",SN2C.tsv
+well,1,158,"[1, 4, 101, 134, 147, 158, 186, 210]",SN2C.tsv
+get,1,174,"[39, 75, 78, 80, 147, 156, 167, 172, 174, 187, 193, 216, 226]",SN2C.tsv
+dessert,1,174,"[172, 174]",SN2C.tsv
+i have,2,186,"[16, 26, 46, 49, 93, 111, 123, 173, 186, 197]",SN2C.tsv
+lot of,2,186,"[16, 26, 186]",SN2C.tsv
+money,1,188,"[16, 188, 192]",SN2C.tsv
+win,1,188,"[26, 188, 192, 193, 200, 203, 208]",SN2C.tsv
+in the,2,190,"[3, 6, 11, 49, 50, 190, 197]",SN2C.tsv
+there be a,3,190,"[16, 39, 77, 190]",SN2C.tsv
+there be,2,77,"[16, 37, 39, 49, 77, 132, 190, 193]",SN2C.tsv
+go,1,192,"[16, 37, 51, 58, 77, 78, 82, 90, 107, 123, 131, 167, 192, 193, 207, 210, 225]",SN2C.tsv
+it be,2,192,"[25, 33, 49, 60, 75, 80, 134, 169, 192, 203, 206, 208, 217, 219]",SN2C.tsv
+to go,2,192,"[37, 167, 192]",SN2C.tsv
+everything,1,193,"[6, 193]",SN2C.tsv
+pound,1,193,"[26, 118, 193]",SN2C.tsv
+take,1,193,"[30, 193]",SN2C.tsv
+come,1,193,"[39, 77, 119, 152, 193]",SN2C.tsv
+for the,2,193,"[143, 193]",SN2C.tsv
+it's just,2,193,"[143, 193, 195]",SN2C.tsv
+eventually,1,51,"[16, 51, 201]",SN2C.tsv
+in a,2,206,"[1, 206, 208]",SN2C.tsv
+be in,2,206,"[3, 4, 96, 206, 208, 217, 219]",SN2C.tsv
+find the,2,206,"[12, 206]",SN2C.tsv
+mean,1,206,"[12, 206, 208]",SN2C.tsv
+find,1,206,"[12, 16, 39, 83, 206, 210, 217]",SN2C.tsv
+be just a normal,4,206,"[19, 206]",SN2C.tsv
+and it,2,206,"[25, 49, 54, 75, 80, 206]",SN2C.tsv
+and er,2,206,"[26, 206]",SN2C.tsv
+see,1,210,"[6, 49, 210]",SN2C.tsv
+happen,1,210,"[6, 210]",SN2C.tsv
+i mean,2,210,"[12, 210]",SN2C.tsv
+go to,2,210,"[16, 58, 131, 167, 210]",SN2C.tsv
+to be,2,210,"[39, 54, 210]",SN2C.tsv
+can i,2,210,"[172, 173, 210]",SN2C.tsv
+i think,2,212,"[7, 11, 26, 78, 212, 214]",SN2C.tsv
+tell,1,207,"[0, 207]",SN2C.tsv
+another,1,75,"[13, 75]",SN2C.tsv
+'s,1,24,"[11, 24]",SN2C.tsv
+you be,2,85,"[47, 56, 85, 87, 90, 94, 96, 102, 188]",SN2C.tsv
+that you be,3,87,"[47, 56, 87]",SN2C.tsv
+shimmer,1,73,"[63, 66, 73]",SN2C.tsv
+white,1,76,"[75, 76]",SN2C.tsv
+to my surprise,3,81,"[77, 81]",SN2C.tsv
+and be,2,134,"[98, 134, 144]",SN2C.tsv
+that be,2,113,"[53, 113, 193, 206]",SN2C.tsv
+cafe,1,113,"[77, 113]",SN2C.tsv
+dog and,2,119,"[113, 119]",SN2C.tsv
+for dog and,3,134,"[113, 134]",SN2C.tsv
+a dog,2,124,"[77, 124]",SN2C.tsv
+want to,2,167,"[124, 167]",SN2C.tsv
+know,1,203,"[124, 126, 190, 193, 203, 206, 208, 215, 219]",SN2C.tsv
+one,1,135,"[122, 135, 138, 190, 193, 206]",SN2C.tsv
+puppies,1,158,"[80, 156, 158, 159, 167]",SN2C.tsv
+cute,1,163,"[60, 80, 163]",SN2C.tsv
+puppies be,2,163,"[80, 156, 159, 163, 167]",SN2C.tsv
+and they,2,193,"[75, 119, 122, 156, 193]",SN2C.tsv
+they go,2,193,"[123, 193]",SN2C.tsv
+the win ticket,3,203,"[193, 203]",SN2C.tsv
+ticket,1,203,"[193, 197, 199, 203, 206, 210, 215]",SN2C.tsv
+and the,2,195,"[49, 112, 119, 167, 195, 198, 199]",SN2C.tsv
+they be,2,197,"[75, 156, 197, 204, 208]",SN2C.tsv
+but i,2,197,"[123, 197]",SN2C.tsv
+fake,1,197,"[123, 197]",SN2C.tsv
+but the,2,204,"[123, 204]",SN2C.tsv
+thing,1,204,"[132, 204]",SN2C.tsv
+be and,2,206,"[75, 119, 206]",SN2C.tsv
+the person,2,206,"[90, 206]",SN2C.tsv
+be so,2,208,"[66, 208]",SN2C.tsv
+it just,2,208,"[123, 208]",SN2C.tsv
+they don't,2,208,"[207, 208]",SN2C.tsv
+it it,2,210,"[60, 210]",SN2C.tsv
+if they,2,210,"[123, 210]",SN2C.tsv
+just go,2,123,"[51, 123, 207, 210, 225]",SN2C.tsv
+they're,1,210,"[123, 210]",SN2C.tsv
+back,1,210,"[123, 210, 225]",SN2C.tsv
+know it be,3,219,"[203, 219]",SN2C.tsv
+get down,2,226,"[216, 226]",SN2C.tsv
+okay,1,20,"[0, 20, 98]",SN2C.tsv
+you have,2,183,"[13, 183]",SN2C.tsv
+good,1,228,"[44, 228]",SN2C.tsv
+snore,1,51,"[47, 51, 52]",SN2C.tsv
+i love,2,81,"[72, 81]",SN2C.tsv
+that's,1,228,"[91, 228]",SN2C.tsv
+a rich customer,3,108,"[100, 108]",SN2C.tsv
+right,1,105,"[22, 67, 105, 150, 188]",SN2C.tsv
+customer,1,110,"[108, 110]",SN2C.tsv
+a lovely,2,113,"[49, 113, 170]",SN2C.tsv
+lovely,1,113,"[49, 113, 170]",SN2C.tsv
+you do,2,116,"[51, 116, 124, 210]",SN2C.tsv
+could,1,49,"[37, 49, 78, 117]",SN2C.tsv
+charge,1,151,"[117, 151]",SN2C.tsv
+you want,2,175,"[124, 175, 179]",SN2C.tsv
+want,1,175,"[124, 167, 175, 179, 181]",SN2C.tsv
+sit,1,129,"[48, 129, 166]",SN2C.tsv
+me in,2,148,"[50, 148]",SN2C.tsv
+that's a,2,228,"[170, 228]",SN2C.tsv
+alright,1,187,"[180, 187, 226]",SN2C.tsv
+of the,2,184,"[49, 184]",SN2C.tsv
+why don't you have,4,184,"[183, 184]",SN2C.tsv
+number,1,200,"[192, 200]",SN2C.tsv
+the other,2,193,"[49, 193]",SN2C.tsv
+the win,2,200,"[193, 200, 203]",SN2C.tsv
+the ticket,2,215,"[197, 199, 215]",SN2C.tsv
+and the date's rub off,5,199,"[198, 199]",SN2C.tsv
+rub off,2,200,"[199, 200]",SN2C.tsv
+and eventually,2,201,"[51, 201]",SN2C.tsv
+do you,2,206,"[175, 179, 181, 206]",SN2C.tsv
+because they,2,215,"[206, 215]",SN2C.tsv
+keep,1,208,"[51, 208]",SN2C.tsv
+just go back,3,225,"[210, 225]",SN2C.tsv
+it be in,3,219,"[217, 219]",SN2C.tsv
+start,1,50,"[1, 16, 50, 123, 159, 167]",SN2C.tsv
+it start,2,167,"[1, 167]",SN2C.tsv
+in the dream,3,11,"[6, 11]",SN2C.tsv
+in my dream,3,55,"[6, 55, 57]",SN2C.tsv
+and i,2,49,"[6, 16, 26, 35, 39, 49, 51, 66, 111, 167]",SN2C.tsv
+face,1,119,"[6, 119]",SN2C.tsv
+friends,1,12,"[7, 11, 12, 16, 35]",SN2C.tsv
+i find,2,83,"[12, 16, 83]",SN2C.tsv
+and then i,3,54,"[16, 39, 41, 54, 75]",SN2C.tsv
+which be,2,75,"[16, 75]",SN2C.tsv
+so i,2,78,"[16, 39, 78]",SN2C.tsv
+be like,2,80,"[16, 80, 156, 159]",SN2C.tsv
+then i,2,82,"[16, 39, 41, 54, 82, 131]",SN2C.tsv
+and i have,3,49,"[16, 26, 49, 111]",SN2C.tsv
+and it be a,4,75,"[25, 75]",SN2C.tsv
+and it be,3,49,"[25, 49, 75, 80]",SN2C.tsv
+it be a,3,134,"[25, 134]",SN2C.tsv
+cos,1,66,"[26, 66, 104, 154]",SN2C.tsv
+i think i,3,78,"[26, 78]",SN2C.tsv
+erm and,2,167,"[26, 167]",SN2C.tsv
+of it,2,94,"[30, 94]",SN2C.tsv
+with me,2,154,"[30, 154]",SN2C.tsv
+also,1,78,"[35, 78]",SN2C.tsv
+go erm,2,77,"[37, 77]",SN2C.tsv
+there be this,3,49,"[37, 49, 132]",SN2C.tsv
+out there be a,4,77,"[39, 77]",SN2C.tsv
+i find out,3,83,"[39, 83]",SN2C.tsv
+stop,1,51,"[39, 51, 52, 123]",SN2C.tsv
+my dream,2,55,"[41, 55, 57]",SN2C.tsv
+and my,2,80,"[41, 80]",SN2C.tsv
+i wake up,3,167,"[41, 54, 167]",SN2C.tsv
+wake up,2,54,"[43, 54, 167]",SN2C.tsv
+a labrador,2,125,"[70, 125]",SN2C.tsv
+the dog,2,143,"[119, 143, 200]",SN2C.tsv
+i get,2,147,"[75, 147, 172, 216]",SN2C.tsv
+fly,1,49,"[1, 49]",SN2C.tsv
+girl,1,17,"[16, 17, 19, 31]",SN2C.tsv
+i have a,3,46,"[16, 26, 46, 49, 93]",SN2C.tsv
+and i have a,4,49,"[16, 26, 49]",SN2C.tsv
+and i be,3,49,"[16, 49, 51]",SN2C.tsv
+be very,2,49,"[26, 39, 49]",SN2C.tsv
+all of,2,187,"[30, 187]",SN2C.tsv
+and there be,3,49,"[37, 49]",SN2C.tsv
+place,1,217,"[37, 217]",SN2C.tsv
+because i,2,185,"[39, 185]",SN2C.tsv
+find out,2,217,"[39, 217]",SN2C.tsv
+and then i wake up and,6,54,"[41, 54]",SN2C.tsv
+i'd,1,151,"[125, 151]",SN2C.tsv
+i be go,3,58,"[51, 58]",SN2C.tsv
+little,1,159,"[58, 119, 159]",SN2C.tsv
+puppies be like,3,159,"[80, 159]",SN2C.tsv
+find out that,3,217,"[83, 217]",SN2C.tsv
+be the,2,94,"[49, 94]",SN2C.tsv
+far,1,123,"[49, 123]",SN2C.tsv
+and start,2,123,"[50, 123]",SN2C.tsv
+and then there be this,5,132,"[49, 132]",SN2C.tsv
+be like little kitten,4,159,"[156, 159]",SN2C.tsv
+be all,2,167,"[49, 167]",SN2C.tsv
+nice,1,169,"[31, 169]",SN2C.tsv
+it be the,3,203,"[49, 203]",SN2C.tsv
+they know,2,215,"[203, 215]",SN2C.tsv

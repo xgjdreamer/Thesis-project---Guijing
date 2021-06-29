@@ -1,0 +1,569 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+a level,2,1,"[0, 1]",SBCL.tsv
+oh right,2,9,"[0, 9, 484]",SBCL.tsv
+get a,2,16,"[0, 15, 16, 440]",SBCL.tsv
+right,1,16,"[0, 16, 163, 296, 297, 386, 447, 484, 522]",SBCL.tsv
+get,1,30,"[0, 15, 16, 30, 32, 66, 128, 183, 386, 440, 459, 460, 483, 504, 506, 508, 527]",SBCL.tsv
+you don't get,3,32,"[0, 32]",SBCL.tsv
+okay,1,62,"[0, 4, 10, 15, 62, 69, 117, 124, 159, 196, 281, 285, 321, 382, 385, 387, 412, 416, 501]",SBCL.tsv
+but then,2,71,"[0, 71, 186]",SBCL.tsv
+which be,2,77,"[0, 77, 139, 379, 483, 485, 492, 517, 529]",SBCL.tsv
+be the,2,184,"[0, 18, 100, 184, 443, 485, 522]",SBCL.tsv
+you don't,2,269,"[0, 70, 269]",SBCL.tsv
+then you,2,497,"[0, 497]",SBCL.tsv
+as in,2,2,"[1, 2]",SBCL.tsv
+well,1,2,"[1, 2, 3, 16, 18, 21, 30, 53, 75, 85, 143, 156, 309, 326, 344, 390, 412, 440, 464, 495, 517]",SBCL.tsv
+yeah,1,3,"[2, 3, 6, 8, 15, 16, 21, 22, 29, 30, 31, 35, 40, 43, 55, 64, 65, 69, 70, 72, 80, 96, 104, 108, 116, 119, 126, 139, 142, 144, 161, 175, 181, 197, 199, 201, 202, 214, 228, 246, 305, 311, 322, 324, 336, 355, 358, 369, 389, 396, 400, 424, 426, 428, 432, 438, 443, 448, 457, 460, 465, 482, 489, 490, 494, 496, 498, 500, 513, 515, 518, 520, 526, 530, 532]",SBCL.tsv
+in that,2,30,"[2, 30, 514]",SBCL.tsv
+nothing,1,279,"[12, 205, 279, 288, 412, 527]",SBCL.tsv
+be you,2,15,"[1, 11, 15, 182, 204, 268, 316]",SBCL.tsv
+kind of,2,15,"[1, 15, 30, 75, 176, 190, 206, 211, 242, 245, 272, 274, 324, 337, 340, 342, 348, 352, 382, 459, 485, 522]",SBCL.tsv
+level,1,15,"[1, 15]",SBCL.tsv
+yeah but,2,15,"[3, 15, 65, 69, 70, 197, 199, 305, 369, 426, 428, 438, 460]",SBCL.tsv
+people,1,15,"[3, 9, 15, 16, 18, 30, 50, 51, 60, 207, 270, 272, 274, 346, 459]",SBCL.tsv
+know,1,15,"[5, 15, 16, 28, 30, 34, 66, 77, 109, 116, 126, 140, 183, 207, 208, 210, 217, 222, 225, 230, 232, 248, 313, 390, 426, 428, 429, 430, 445, 449, 451, 452, 459, 472, 478, 495, 517, 525, 531]",SBCL.tsv
+that's,1,15,"[13, 15, 16, 18, 30, 40, 71, 77, 80, 99, 118, 119, 126, 161, 163, 166, 185, 192, 202, 214, 215, 216, 229, 269, 271, 290, 346, 352, 405, 457, 517, 525]",SBCL.tsv
+but you,2,30,"[15, 30, 65, 70, 113, 340, 428]",SBCL.tsv
+to get,2,30,"[15, 30]",SBCL.tsv
+yeah but you,3,65,"[15, 65, 70]",SBCL.tsv
+i don't,2,71,"[15, 71, 77, 126, 140, 206, 208, 210, 217, 222, 233, 239, 249, 250, 251, 272, 276, 286, 445, 449, 451, 452, 465]",SBCL.tsv
+a kind,2,77,"[15, 77]",SBCL.tsv
+ask,1,124,"[15, 113, 124, 138, 267, 269]",SBCL.tsv
+i don't know,3,126,"[15, 126, 140, 208, 210, 217, 222, 445, 449, 451, 452]",SBCL.tsv
+things,1,196,"[15, 196, 266, 270, 272, 274, 421, 451, 459, 474, 479, 522, 525]",SBCL.tsv
+you be,2,168,"[15, 168, 171, 215, 354, 394, 436]",SBCL.tsv
+kind,1,211,"[15, 75, 77, 211, 219, 242, 245, 272, 274, 382, 522]",SBCL.tsv
+never,1,263,"[15, 263, 270, 514]",SBCL.tsv
+never understand,2,451,"[15, 451]",SBCL.tsv
+understand,1,459,"[15, 459, 465]",SBCL.tsv
+one,1,18,"[1, 3, 18, 22, 26, 29, 30, 40, 51, 99, 114, 116, 154, 155, 156, 227, 327, 335, 382, 395, 396, 417, 474, 475]",SBCL.tsv
+it to,2,18,"[3, 18, 193, 517]",SBCL.tsv
+the survey,2,18,"[16, 18]",SBCL.tsv
+give,1,18,"[16, 18, 68, 84, 517]",SBCL.tsv
+ones,1,18,"[16, 18]",SBCL.tsv
+they're,1,18,"[16, 18, 23, 50, 230, 396, 527]",SBCL.tsv
+survey,1,18,"[16, 18]",SBCL.tsv
+one of,2,40,"[18, 40]",SBCL.tsv
+try to,2,132,"[18, 132, 207, 259]",SBCL.tsv
+try,1,132,"[18, 25, 131, 132, 207]",SBCL.tsv
+find,1,132,"[18, 132, 165, 283, 514]",SBCL.tsv
+of them,2,149,"[18, 149]",SBCL.tsv
+give you,2,517,"[18, 517]",SBCL.tsv
+that's why,2,525,"[18, 525]",SBCL.tsv
+because they're,2,527,"[18, 527]",SBCL.tsv
+be it,2,20,"[1, 7, 20, 21, 71, 113, 139, 184, 221, 250, 451, 452, 469]",SBCL.tsv
+esb,1,20,"[19, 20]",SBCL.tsv
+yeah so,2,43,"[22, 43, 126, 202, 396]",SBCL.tsv
+something,1,167,"[22, 167, 183, 185, 190, 202, 274, 290, 396, 452, 460, 527]",SBCL.tsv
+they do,2,461,"[22, 461, 519]",SBCL.tsv
+if you,2,25,"[3, 5, 25, 74, 188, 430, 472, 483]",SBCL.tsv
+say,1,30,"[25, 30, 56, 65, 75, 78, 79, 81, 110, 136, 142, 144, 146, 162, 182, 183, 185, 193, 200, 201, 202, 215, 219, 234, 236, 244, 259, 263, 266, 273, 296, 302, 303, 350, 354, 360, 395, 428, 430, 436, 450, 472, 475, 510]",SBCL.tsv
+look,1,74,"[25, 74, 124, 177, 234, 236, 239, 240, 241, 242, 251, 264, 274, 276, 375, 380, 392, 428, 429]",SBCL.tsv
+you can,2,189,"[25, 81, 158, 189, 193, 245, 298, 497, 527]",SBCL.tsv
+defeat,1,27,"[26, 27]",SBCL.tsv
+twenty one,2,30,"[29, 30]",SBCL.tsv
+twenty,1,30,"[29, 30, 32, 211, 212, 514, 527, 529]",SBCL.tsv
+five,1,32,"[29, 32, 497, 527]",SBCL.tsv
+yeah it's,2,358,"[29, 96, 358, 443, 490, 520]",SBCL.tsv
+think,1,77,"[41, 51, 68, 77, 83, 98, 127, 142, 144, 167, 175, 178, 207, 209, 215, 239, 269, 279, 307, 340, 341, 343, 352, 379, 452, 454, 463, 472, 517]",SBCL.tsv
+mad,1,379,"[41, 379, 459, 461, 517]",SBCL.tsv
+ten,1,517,"[41, 517]",SBCL.tsv
+years,1,332,"[41, 332, 527]",SBCL.tsv
+talk,1,46,"[45, 46, 51, 53, 59, 163, 177, 222, 333, 354]",SBCL.tsv
+go to,2,47,"[3, 47, 50, 142, 147, 215, 219, 296, 397, 436, 493, 495]",SBCL.tsv
+go,1,47,"[3, 17, 47, 50, 66, 142, 147, 215, 219, 237, 269, 275, 279, 282, 286, 296, 297, 314, 344, 352, 396, 397, 404, 409, 436, 493, 495, 497]",SBCL.tsv
+take,1,47,"[5, 47, 144, 146, 162, 522]",SBCL.tsv
+no no,2,114,"[47, 114, 155, 191, 510]",SBCL.tsv
+alright,1,167,"[47, 135, 167, 300]",SBCL.tsv
+you're not,2,207,"[47, 207, 408]",SBCL.tsv
+back,1,84,"[47, 84, 269]",SBCL.tsv
+people be,2,51,"[3, 51, 60]",SBCL.tsv
+be that,2,51,"[16, 51, 52, 163, 304, 324, 340, 343, 346, 352, 459]",SBCL.tsv
+rule,1,52,"[51, 52]",SBCL.tsv
+about it,2,71,"[51, 71, 225, 472]",SBCL.tsv
+the one,2,99,"[51, 99]",SBCL.tsv
+i think,2,167,"[51, 68, 83, 142, 167, 209, 215, 279, 340, 379, 452, 454, 463]",SBCL.tsv
+talk about,2,51,"[46, 51, 53, 222, 333, 354]",SBCL.tsv
+it in,2,514,"[51, 514]",SBCL.tsv
+want,1,53,"[34, 53, 60, 78, 120, 131, 183, 203, 206, 249, 251, 354, 472, 480, 517]",SBCL.tsv
+a natural conversation,3,53,"[48, 53, 54]",SBCL.tsv
+natural conversation,2,53,"[48, 52, 53, 54]",SBCL.tsv
+natural,1,53,"[48, 52, 53, 54]",SBCL.tsv
+it would be,3,61,"[21, 61, 183, 190, 192, 198, 340, 452]",SBCL.tsv
+fine,1,61,"[30, 59, 61, 77, 256, 258, 409]",SBCL.tsv
+be fine,2,61,"[59, 61, 77]",SBCL.tsv
+would,1,69,"[21, 61, 69, 79, 167, 183, 186, 189, 190, 192, 194, 198, 200, 274, 297, 302, 340, 422, 443, 452]",SBCL.tsv
+ignore,1,71,"[61, 71, 272, 274]",SBCL.tsv
+would be,2,58,"[21, 58, 61, 167, 183, 190, 192, 198, 302, 340, 422, 443, 452]",SBCL.tsv
+it would,2,194,"[61, 183, 194, 452]",SBCL.tsv
+it it,2,510,"[61, 510]",SBCL.tsv
+thank,1,64,"[17, 63, 64, 71, 79, 81, 91, 94, 204, 397]",SBCL.tsv
+earn the money,3,74,"[66, 74]",SBCL.tsv
+money,1,167,"[66, 167]",SBCL.tsv
+when you,2,219,"[66, 219, 240, 269, 508, 510]",SBCL.tsv
+go and,2,269,"[66, 269]",SBCL.tsv
+you go,2,344,"[66, 344, 396, 404]",SBCL.tsv
+know when,2,495,"[66, 495]",SBCL.tsv
+this meal,2,71,"[68, 71]",SBCL.tsv
+meal,1,94,"[68, 93, 94]",SBCL.tsv
+you have,2,124,"[68, 124, 328, 332]",SBCL.tsv
+i think you,3,209,"[68, 209, 215, 279]",SBCL.tsv
+to say,2,146,"[75, 78, 142, 144, 146, 162, 215, 259, 296, 436, 472]",SBCL.tsv
+do you,2,78,"[16, 28, 78, 125, 131, 178, 183, 203, 219, 248, 264, 328, 332, 354, 360, 422, 424, 426, 430, 462, 467, 475]",SBCL.tsv
+want to,2,78,"[34, 60, 78, 183, 206, 249, 251, 354, 472, 480, 517]",SBCL.tsv
+do you want to,4,183,"[78, 183, 354]",SBCL.tsv
+yeah that's,2,80,"[16, 40, 80, 119, 161, 214, 457]",SBCL.tsv
+fair enough,2,439,"[80, 439]",SBCL.tsv
+though,1,83,"[30, 77, 83, 254, 276, 301, 440]",SBCL.tsv
+sense,1,83,"[69, 77, 83, 167]",SBCL.tsv
+no i,2,114,"[83, 114, 249, 251, 308, 341, 452]",SBCL.tsv
+think you're,2,207,"[83, 207]",SBCL.tsv
+good,1,342,"[85, 174, 230, 342, 457, 519]",SBCL.tsv
+and the,2,483,"[87, 483]",SBCL.tsv
+sorry,1,90,"[88, 90, 160, 182, 214, 225, 258, 260, 269, 294, 333]",SBCL.tsv
+chicken,1,90,"[89, 90, 92, 96, 97, 98, 99, 124, 127, 128, 131, 137, 138]",SBCL.tsv
+a bite,2,94,"[89, 94, 131, 132, 133, 440]",SBCL.tsv
+bite,1,266,"[89, 131, 133, 266, 274, 440]",SBCL.tsv
+i'll,1,96,"[3, 17, 96, 431]",SBCL.tsv
+it be,2,96,"[21, 71, 94, 96, 135, 254, 263, 304, 352, 377, 395, 412, 451, 452, 456, 520, 527]",SBCL.tsv
+it's just,2,96,"[48, 52, 96, 127, 225, 405]",SBCL.tsv
+the chicken,2,96,"[90, 92, 96, 97, 99]",SBCL.tsv
+apart,1,147,"[96, 147]",SBCL.tsv
+you think,2,178,"[98, 178, 209, 269, 472]",SBCL.tsv
+this be,2,100,"[59, 69, 100, 173, 177, 264, 273, 419]",SBCL.tsv
+then the,2,101,"[100, 101]",SBCL.tsv
+next to,2,116,"[103, 116]",SBCL.tsv
+be in it,3,395,"[108, 395, 396, 397]",SBCL.tsv
+be in,2,387,"[108, 387, 395, 396, 397, 414]",SBCL.tsv
+to the,2,112,"[71, 112, 193]",SBCL.tsv
+what i mean,3,119,"[5, 119, 173, 248]",SBCL.tsv
+that's what,2,119,"[13, 119]",SBCL.tsv
+i mean,2,119,"[34, 114, 119, 173, 248, 272, 451, 457]",SBCL.tsv
+what i,2,119,"[71, 119, 173, 177, 208, 215]",SBCL.tsv
+mean,1,119,"[5, 34, 114, 118, 119, 141, 173, 184, 185, 193, 194, 207, 219, 248, 272, 300, 451, 457]",SBCL.tsv
+that's what i,3,215,"[119, 215]",SBCL.tsv
+like,1,127,"[3, 13, 30, 40, 46, 56, 65, 71, 77, 94, 102, 110, 111, 124, 127, 130, 135, 139, 175, 177, 183, 185, 190, 192, 193, 196, 199, 201, 207, 229, 237, 238, 242, 244, 245, 247, 264, 272, 274, 275, 276, 277, 289, 290, 297, 315, 332, 358, 382, 396, 414, 419, 422, 428, 429, 457, 459, 469, 470, 476, 477, 488, 497, 514, 516, 517, 522, 525, 527, 529, 531, 533]",SBCL.tsv
+of the,2,127,"[40, 114, 127, 176, 382, 527]",SBCL.tsv
+they just,2,247,"[127, 247, 461, 473]",SBCL.tsv
+my chicken,2,131,"[124, 131]",SBCL.tsv
+could,1,266,"[131, 266, 300, 343, 459, 517]",SBCL.tsv
+do you want,3,183,"[131, 183, 203, 354]",SBCL.tsv
+of my,2,492,"[131, 492]",SBCL.tsv
+different,1,133,"[16, 23, 124, 133, 135, 137, 472, 474]",SBCL.tsv
+feel,1,268,"[133, 267, 268, 269]",SBCL.tsv
+it's not,2,135,"[30, 40, 71, 77, 135, 137, 156, 226, 253, 255, 271, 382]",SBCL.tsv
+it's not like,3,135,"[40, 135]",SBCL.tsv
+breast,1,137,"[124, 128, 137]",SBCL.tsv
+chicken breast,2,138,"[137, 138]",SBCL.tsv
+but it's,2,226,"[137, 226, 253, 271, 365]",SBCL.tsv
+quid,1,153,"[139, 150, 152, 153, 155, 156, 157]",SBCL.tsv
+like a,2,242,"[139, 242, 264, 476, 477, 488]",SBCL.tsv
+add on,2,527,"[139, 527]",SBCL.tsv
+i'm,1,142,"[26, 30, 132, 136, 142, 144, 149, 162, 183, 201, 225, 266, 267, 274, 293, 301, 308, 315, 393, 403, 447, 478]",SBCL.tsv
+can't,1,142,"[30, 142, 208, 225, 302, 360, 377, 413, 531]",SBCL.tsv
+i'm just,2,142,"[132, 142, 266, 293, 403]",SBCL.tsv
+pound,1,143,"[142, 143, 148, 151, 169]",SBCL.tsv
+just go to,3,147,"[142, 147]",SBCL.tsv
+i can't,2,302,"[142, 208, 225, 302, 308, 360, 413]",SBCL.tsv
+keep,1,527,"[142, 476, 527]",SBCL.tsv
+really,1,144,"[5, 9, 144, 301, 382, 497, 509, 517, 524]",SBCL.tsv
+anyway,1,144,"[30, 36, 144, 267, 434, 519]",SBCL.tsv
+it doesn't,2,144,"[130, 144]",SBCL.tsv
+take too long to say,5,146,"[144, 146]",SBCL.tsv
+it take,2,162,"[144, 162]",SBCL.tsv
+euros,1,169,"[144, 169]",SBCL.tsv
+so it,2,202,"[144, 202]",SBCL.tsv
+english,1,309,"[144, 309, 321, 512]",SBCL.tsv
+one syllable quid,3,156,"[155, 156]",SBCL.tsv
+no it's,2,271,"[155, 271]",SBCL.tsv
+stop,1,431,"[158, 415, 431, 432, 491]",SBCL.tsv
+that's how,2,163,"[161, 163, 214, 216, 352]",SBCL.tsv
+specious,1,170,"[163, 165, 167, 170, 174]",SBCL.tsv
+two,1,172,"[9, 28, 128, 149, 153, 172, 200, 390, 417, 474, 485, 488, 512, 514, 527]",SBCL.tsv
+two thousand,2,417,"[172, 417, 512, 527]",SBCL.tsv
+my book,2,447,"[172, 447, 490]",SBCL.tsv
+of my book,3,492,"[172, 492]",SBCL.tsv
+book,1,519,"[172, 519]",SBCL.tsv
+thousand,1,521,"[172, 521]",SBCL.tsv
+word specious,2,174,"[163, 174]",SBCL.tsv
+word,1,177,"[163, 174, 177, 186, 188, 189, 193, 271, 302, 379, 443, 485, 488, 495, 506, 508, 510, 514]",SBCL.tsv
+you do,2,203,"[3, 203, 206, 226, 240, 275]",SBCL.tsv
+always,1,205,"[84, 183, 188, 205]",SBCL.tsv
+face,1,205,"[204, 205, 206, 208, 225, 226, 227, 229, 267, 274, 388]",SBCL.tsv
+i wish,2,517,"[205, 517]",SBCL.tsv
+know what i,3,208,"[5, 208, 248]",SBCL.tsv
+know what,2,183,"[5, 28, 183, 208, 217, 222, 248, 428]",SBCL.tsv
+do with,2,208,"[167, 208, 226]",SBCL.tsv
+do it,2,240,"[208, 240, 280, 307, 337, 461, 472]",SBCL.tsv
+i do,2,208,"[123, 208, 337]",SBCL.tsv
+it just,2,211,"[208, 211, 337]",SBCL.tsv
+just do,2,288,"[208, 280, 288, 344, 410, 461]",SBCL.tsv
+just do it,3,461,"[208, 280, 461]",SBCL.tsv
+eight,1,512,"[211, 212, 512, 521]",SBCL.tsv
+twenty eight,2,527,"[211, 212, 527]",SBCL.tsv
+to be,2,225,"[3, 30, 50, 60, 206, 225, 265, 397, 408, 437]",SBCL.tsv
+i know,2,225,"[77, 225, 230, 232, 313, 459, 478]",SBCL.tsv
+anything,1,273,"[225, 273, 274, 431]",SBCL.tsv
+i can't do,3,308,"[225, 308]",SBCL.tsv
+to be honest,3,437,"[225, 437]",SBCL.tsv
+very good,2,457,"[230, 457]",SBCL.tsv
+know i,2,232,"[34, 232, 430]",SBCL.tsv
+i i,2,232,"[79, 206, 232, 318, 323]",SBCL.tsv
+hate,1,233,"[232, 233, 235]",SBCL.tsv
+you say,2,234,"[65, 110, 182, 219, 234, 360, 430, 475]",SBCL.tsv
+go like,2,497,"[237, 497]",SBCL.tsv
+stupid,1,421,"[241, 421, 459]",SBCL.tsv
+i don't want to,4,249,"[206, 249, 251]",SBCL.tsv
+neck,1,251,"[245, 250, 251]",SBCL.tsv
+be what,2,259,"[46, 69, 177, 259]",SBCL.tsv
+windpipe,1,260,"[259, 260, 266]",SBCL.tsv
+have to,2,267,"[69, 124, 188, 267, 396]",SBCL.tsv
+have to ask,3,267,"[124, 267]",SBCL.tsv
+you just,2,267,"[240, 267, 288, 410, 476]",SBCL.tsv
+to people,2,270,"[50, 270]",SBCL.tsv
+no but,2,270,"[69, 113, 201, 227, 270, 277, 474]",SBCL.tsv
+but i,2,270,"[77, 270, 286, 395, 438, 449, 451, 452, 517]",SBCL.tsv
+things to,2,270,"[196, 270]",SBCL.tsv
+i never,2,270,"[263, 270]",SBCL.tsv
+cross,1,270,"[269, 270]",SBCL.tsv
+put,1,272,"[9, 57, 71, 120, 196, 206, 272, 473, 478]",SBCL.tsv
+make,1,272,"[30, 56, 79, 199, 272, 459, 480]",SBCL.tsv
+i don't like,3,272,"[71, 272]",SBCL.tsv
+that be,2,272,"[116, 154, 206, 242, 272, 350, 426, 463, 485, 488, 525]",SBCL.tsv
+things that,2,479,"[272, 479]",SBCL.tsv
+things that be,3,525,"[272, 525]",SBCL.tsv
+nice,1,274,"[7, 274]",SBCL.tsv
+it's kind of,3,274,"[30, 176, 274, 342]",SBCL.tsv
+that if,2,274,"[69, 274]",SBCL.tsv
+nice and,2,274,"[77, 274]",SBCL.tsv
+in my,2,274,"[167, 274]",SBCL.tsv
+and then,2,274,"[81, 211, 219, 247, 274, 300, 396, 459, 497, 519]",SBCL.tsv
+or anything,2,274,"[273, 274]",SBCL.tsv
+seem,1,335,"[274, 335, 337, 338]",SBCL.tsv
+so it's,2,395,"[274, 395]",SBCL.tsv
+have no,2,468,"[274, 468]",SBCL.tsv
+something like,2,274,"[183, 274, 290, 527]",SBCL.tsv
+little,1,527,"[274, 527]",SBCL.tsv
+look like,2,276,"[242, 276, 428, 429]",SBCL.tsv
+and not,2,381,"[280, 381]",SBCL.tsv
+but i don't,3,286,"[77, 286, 449]",SBCL.tsv
+don't go,2,286,"[269, 286]",SBCL.tsv
+normal,1,293,"[59, 128, 293]",SBCL.tsv
+i can,2,297,"[79, 159, 297, 309, 318, 320, 323, 451]",SBCL.tsv
+would you,2,297,"[186, 297]",SBCL.tsv
+accent,1,298,"[297, 298, 302, 308, 309]",SBCL.tsv
+do any,2,297,"[120, 297, 519]",SBCL.tsv
+not a,2,301,"[77, 301, 395]",SBCL.tsv
+i'm not,2,301,"[136, 266, 301, 393, 403]",SBCL.tsv
+to do,2,307,"[167, 307, 337]",SBCL.tsv
+whether,1,449,"[307, 449, 497, 517]",SBCL.tsv
+eat,1,315,"[50, 315, 446]",SBCL.tsv
+joke,1,334,"[329, 334, 340]",SBCL.tsv
+wait,1,336,"[69, 332, 336]",SBCL.tsv
+for that,2,336,"[94, 336]",SBCL.tsv
+long,1,189,"[144, 146, 189, 193, 332, 336]",SBCL.tsv
+on the,2,84,"[30, 52, 71, 84, 343, 345, 346]",SBCL.tsv
+on the internet,3,346,"[343, 345, 346]",SBCL.tsv
+life,1,527,"[343, 345, 527]",SBCL.tsv
+see,1,353,"[3, 30, 124, 159, 160, 169, 245, 266, 318, 320, 323, 335, 353, 411, 419, 447, 481, 497]",SBCL.tsv
+interpreter,1,366,"[357, 359, 362, 363, 364, 366, 367, 368, 370, 372, 373, 374]",SBCL.tsv
+interpret,1,376,"[365, 369, 371, 376]",SBCL.tsv
+no idea,2,468,"[383, 468]",SBCL.tsv
+you're just,2,436,"[77, 207, 436]",SBCL.tsv
+you be go to say,5,436,"[215, 436]",SBCL.tsv
+be go to,3,436,"[219, 397, 436]",SBCL.tsv
+be go to say,4,436,"[296, 436]",SBCL.tsv
+for it,2,442,"[436, 442, 443]",SBCL.tsv
+as well,2,440,"[16, 440, 495, 517]",SBCL.tsv
+sometimes,1,440,"[206, 440]",SBCL.tsv
+stick,1,442,"[440, 442, 443]",SBCL.tsv
+say it,2,450,"[202, 263, 360, 395, 450]",SBCL.tsv
+it be it would be,5,452,"[21, 452]",SBCL.tsv
+it be it,3,452,"[71, 452]",SBCL.tsv
+e,1,462,"[452, 462, 464, 467, 470, 472, 473, 474]",SBCL.tsv
+the m and the,4,483,"[452, 483]",SBCL.tsv
+be something,2,527,"[452, 527]",SBCL.tsv
+so i,2,454,"[126, 337, 454]",SBCL.tsv
+must be,2,454,"[130, 454]",SBCL.tsv
+think it,2,454,"[209, 352, 454]",SBCL.tsv
+antinomy,1,454,"[449, 454, 455, 456, 481, 483, 485]",SBCL.tsv
+to me,2,456,"[65, 456]",SBCL.tsv
+they've get,2,460,"[128, 460]",SBCL.tsv
+use,1,460,"[143, 162, 186, 188, 189, 193, 200, 460, 517, 527, 531]",SBCL.tsv
+phonetically,1,463,"[461, 463]",SBCL.tsv
+you know,2,472,"[5, 16, 28, 30, 34, 109, 207, 248, 426, 428, 430, 472, 495, 525, 531]",SBCL.tsv
+a different,2,472,"[23, 472]",SBCL.tsv
+way,1,472,"[59, 183, 199, 392, 472]",SBCL.tsv
+simplest,1,472,"[190, 193, 194, 472]",SBCL.tsv
+in a,2,472,"[207, 242, 396, 472]",SBCL.tsv
+you want to,3,472,"[183, 354, 472]",SBCL.tsv
+probably,1,472,"[395, 472]",SBCL.tsv
+but in,2,472,"[305, 472, 527]",SBCL.tsv
+there's,1,264,"[16, 28, 114, 167, 264, 266, 279, 324, 412, 459, 474, 529]",SBCL.tsv
+there's two,2,474,"[28, 474]",SBCL.tsv
+might be,2,474,"[32, 209, 474]",SBCL.tsv
+might,1,60,"[32, 60, 183, 209, 381, 428, 474]",SBCL.tsv
+be upside down,3,474,"[451, 474]",SBCL.tsv
+upside down,2,462,"[451, 457, 459, 462, 464, 467, 474]",SBCL.tsv
+can you,2,476,"[310, 411, 476, 486, 491]",SBCL.tsv
+paper,1,520,"[30, 520]",SBCL.tsv
+mention,1,520,"[495, 497, 520]",SBCL.tsv
+far,1,522,"[99, 522, 529]",SBCL.tsv
+the kind of,3,522,"[485, 522]",SBCL.tsv
+be scan,2,522,"[519, 522]",SBCL.tsv
+scan,1,522,"[519, 521, 522, 523, 525]",SBCL.tsv
+for example,2,525,"[522, 525]",SBCL.tsv
+you ask,2,113,"[15, 113]",SBCL.tsv
+i've,1,145,"[15, 108, 145, 172, 274, 383]",SBCL.tsv
+that i,2,283,"[18, 283, 286]",SBCL.tsv
+you the,2,357,"[18, 357]",SBCL.tsv
+so they,2,396,"[22, 396]",SBCL.tsv
+can say,2,79,"[25, 79, 81]",SBCL.tsv
+you can say,3,81,"[25, 81]",SBCL.tsv
+be erm,2,302,"[25, 302]",SBCL.tsv
+facebook didn't,2,41,"[37, 41]",SBCL.tsv
+if people be,3,60,"[51, 60]",SBCL.tsv
+be not,2,154,"[53, 154]",SBCL.tsv
+thank you,2,63,"[17, 63, 79, 81, 91, 204]",SBCL.tsv
+get it,2,183,"[66, 183, 386]",SBCL.tsv
+think you,2,239,"[68, 215, 239]",SBCL.tsv
+of you,2,120,"[75, 120]",SBCL.tsv
+kind of you,3,245,"[75, 245]",SBCL.tsv
+what do you,3,178,"[78, 178]",SBCL.tsv
+do that,2,123,"[87, 123, 286]",SBCL.tsv
+can do,2,309,"[87, 297, 309, 472]",SBCL.tsv
+like this,2,245,"[127, 245, 275]",SBCL.tsv
+it like,2,469,"[127, 469]",SBCL.tsv
+you could,2,300,"[131, 300]",SBCL.tsv
+euro,1,142,"[141, 142, 148, 157]",SBCL.tsv
+just think,2,341,"[144, 341]",SBCL.tsv
+clap,1,160,"[158, 160]",SBCL.tsv
+yeah that's how,3,214,"[161, 214]",SBCL.tsv
+tissue,1,256,"[203, 256]",SBCL.tsv
+pull,1,205,"[204, 205]",SBCL.tsv
+i didn't,2,236,"[205, 236, 283, 411]",SBCL.tsv
+with my,2,208,"[123, 208]",SBCL.tsv
+i don't know what,4,217,"[208, 217, 222]",SBCL.tsv
+twenty eight days,3,212,"[211, 212]",SBCL.tsv
+look terrible,2,236,"[234, 236]",SBCL.tsv
+like that,2,237,"[201, 237, 264, 274, 276]",SBCL.tsv
+look at,2,392,"[251, 392]",SBCL.tsv
+windpipe be,2,262,"[259, 262]",SBCL.tsv
+go shop,2,282,"[279, 282]",SBCL.tsv
+you like,2,297,"[275, 297]",SBCL.tsv
+brummie,1,300,"[297, 300]",SBCL.tsv
+i can do,3,309,"[297, 309]",SBCL.tsv
+you you,2,428,"[297, 428]",SBCL.tsv
+a brummie,2,301,"[300, 301]",SBCL.tsv
+what do,2,303,"[178, 303]",SBCL.tsv
+i say,2,428,"[303, 428]",SBCL.tsv
+like to,2,315,"[46, 315]",SBCL.tsv
+hi,1,315,"[275, 315]",SBCL.tsv
+near,1,319,"[113, 319]",SBCL.tsv
+how long,2,336,"[332, 336]",SBCL.tsv
+spend his life all on the internet,7,345,"[343, 345]",SBCL.tsv
+on your,2,391,"[220, 391]",SBCL.tsv
+fall for,2,438,"[436, 438]",SBCL.tsv
+oh yeah,2,448,"[400, 448, 513, 515]",SBCL.tsv
+think i,2,452,"[239, 452]",SBCL.tsv
+or something,2,452,"[396, 452]",SBCL.tsv
+know but,2,478,"[452, 478]",SBCL.tsv
+must,1,283,"[130, 283, 454]",SBCL.tsv
+if we,2,460,"[79, 460]",SBCL.tsv
+and if,2,460,"[113, 460]",SBCL.tsv
+learn,1,460,"[332, 460]",SBCL.tsv
+something and,2,460,"[396, 460]",SBCL.tsv
+the way,2,472,"[392, 472]",SBCL.tsv
+up like,2,476,"[247, 476]",SBCL.tsv
+leave the,2,505,"[499, 505, 507]",SBCL.tsv
+like the,2,522,"[382, 396, 522]",SBCL.tsv
+thing,1,46,"[1, 16, 30, 40, 44, 46, 52, 71, 77, 176, 227, 250, 337, 395, 510, 527]",SBCL.tsv
+see the,2,160,"[3, 30, 160]",SBCL.tsv
+show,1,245,"[3, 245, 258, 495, 510, 517]",SBCL.tsv
+or whatever,2,256,"[3, 256]",SBCL.tsv
+to you,2,275,"[3, 275]",SBCL.tsv
+it'll be,2,120,"[5, 59, 120]",SBCL.tsv
+everything,1,189,"[7, 189, 521, 523]",SBCL.tsv
+to put,2,120,"[9, 120]",SBCL.tsv
+or be,2,221,"[9, 221]",SBCL.tsv
+cos,1,243,"[9, 30, 32, 71, 99, 114, 206, 243, 264, 269, 298, 308, 324, 382, 419, 517, 527]",SBCL.tsv
+who be,2,387,"[9, 387]",SBCL.tsv
+what be,2,46,"[11, 46, 182, 268, 333]",SBCL.tsv
+what be you,3,268,"[11, 182, 268]",SBCL.tsv
+point,1,302,"[11, 30, 269, 302, 346, 350, 480]",SBCL.tsv
+but do,2,183,"[16, 183]",SBCL.tsv
+but do you,3,426,"[16, 426, 430]",SBCL.tsv
+call,1,357,"[23, 357, 447]",SBCL.tsv
+name,1,428,"[23, 390, 428]",SBCL.tsv
+do you know,3,426,"[28, 248, 426, 430]",SBCL.tsv
+like say,2,193,"[30, 193]",SBCL.tsv
+if a,2,275,"[30, 275]",SBCL.tsv
+who's,1,375,"[30, 71, 375, 378, 380, 387, 388]",SBCL.tsv
+kind of like,3,382,"[30, 382]",SBCL.tsv
+cos it's,2,382,"[30, 382]",SBCL.tsv
+he's,1,392,"[30, 352, 392]",SBCL.tsv
+work,1,160,"[32, 160, 396, 519]",SBCL.tsv
+you know i,3,430,"[34, 430]",SBCL.tsv
+in the,2,120,"[40, 69, 99, 120, 250, 279, 387, 388, 390, 412, 508, 510, 514, 523]",SBCL.tsv
+but yeah,2,197,"[40, 197, 490]",SBCL.tsv
+mm hm,2,67,"[42, 67]",SBCL.tsv
+hm,1,79,"[42, 79, 82, 86, 106, 180, 195]",SBCL.tsv
+be on,2,242,"[44, 242, 302]",SBCL.tsv
+listen to,2,58,"[50, 58]",SBCL.tsv
+god,1,134,"[50, 134, 328, 397, 418, 422, 502]",SBCL.tsv
+oh my god,3,418,"[50, 418, 422, 502]",SBCL.tsv
+we're,1,56,"[43, 56, 147, 169, 273]",SBCL.tsv
+like make up,3,199,"[56, 199]",SBCL.tsv
+way of,2,183,"[59, 183]",SBCL.tsv
+every,1,382,"[65, 382]",SBCL.tsv
+be a,2,71,"[58, 71, 94, 116, 193, 223, 262, 273, 278, 292, 300, 382, 390, 395, 438]",SBCL.tsv
+across,1,145,"[71, 145]",SBCL.tsv
+like it's not,3,382,"[71, 382]",SBCL.tsv
+just me,2,405,"[71, 405]",SBCL.tsv
+shouldn't be,2,438,"[71, 438]",SBCL.tsv
+the table,2,499,"[71, 499]",SBCL.tsv
+i couldn't,2,409,"[74, 409]",SBCL.tsv
+be like,2,183,"[77, 183, 190, 192, 196, 264, 277, 396, 422, 517]",SBCL.tsv
+just be,2,189,"[77, 189, 439]",SBCL.tsv
+i don't think,3,239,"[77, 239]",SBCL.tsv
+like that's,2,290,"[77, 229, 290]",SBCL.tsv
+think it's,2,341,"[77, 175, 340, 341]",SBCL.tsv
+for me,2,438,"[77, 438]",SBCL.tsv
+but it,2,245,"[94, 194, 206, 245, 369]",SBCL.tsv
+the other,2,199,"[99, 199, 475]",SBCL.tsv
+they have,2,396,"[99, 128, 396]",SBCL.tsv
+listen,1,110,"[58, 110]",SBCL.tsv
+have you ever be,4,110,"[105, 107, 110]",SBCL.tsv
+have you,2,168,"[110, 168, 171, 179, 295]",SBCL.tsv
+that like,2,193,"[110, 193, 207, 332]",SBCL.tsv
+it's like,2,382,"[111, 175, 358, 382, 396, 488, 497, 514, 516, 533]",SBCL.tsv
+the name,2,428,"[114, 428]",SBCL.tsv
+there be,2,288,"[116, 288, 346, 517, 525]",SBCL.tsv
+like you,2,428,"[124, 207, 428, 525, 531]",SBCL.tsv
+so like,2,199,"[130, 199, 527]",SBCL.tsv
+maybe,1,132,"[46, 132, 138, 156, 176, 470]",SBCL.tsv
+not one,2,156,"[154, 156]",SBCL.tsv
+can see,2,245,"[159, 245]",SBCL.tsv
+i can see,3,318,"[159, 318, 320, 323]",SBCL.tsv
+a very,2,163,"[58, 163, 443]",SBCL.tsv
+all the,2,396,"[163, 354, 396, 495, 517, 525]",SBCL.tsv
+which would,2,167,"[79, 167]",SBCL.tsv
+exactly,1,432,"[173, 192, 432, 485, 490, 492]",SBCL.tsv
+to it,2,175,"[58, 175]",SBCL.tsv
+like if,2,183,"[177, 183, 185]",SBCL.tsv
+like if i,3,428,"[177, 428]",SBCL.tsv
+i wasn't,2,493,"[177, 493]",SBCL.tsv
+you mean,2,184,"[141, 184, 194, 219]",SBCL.tsv
+if our language be,4,184,"[183, 184]",SBCL.tsv
+our language be,3,184,"[183, 184]",SBCL.tsv
+the most,2,185,"[184, 185, 187, 189, 527]",SBCL.tsv
+bravo,1,185,"[184, 185]",SBCL.tsv
+language,1,305,"[184, 305]",SBCL.tsv
+the word,2,302,"[186, 188, 302, 443, 485, 495, 506, 508, 510]",SBCL.tsv
+word that,2,189,"[188, 189, 193]",SBCL.tsv
+it would be like,4,190,"[183, 190]",SBCL.tsv
+to its,2,193,"[190, 193, 196, 202]",SBCL.tsv
+simplest form,2,193,"[190, 193, 194]",SBCL.tsv
+resolve,1,193,"[190, 193]",SBCL.tsv
+then like,2,396,"[190, 396]",SBCL.tsv
+like in,2,396,"[190, 396, 527]",SBCL.tsv
+would be like,3,422,"[190, 192, 422]",SBCL.tsv
+what it would be like,5,192,"[183, 192]",SBCL.tsv
+what you,2,226,"[194, 226, 288, 354]",SBCL.tsv
+whatever,1,256,"[200, 256, 257, 527]",SBCL.tsv
+just say,2,202,"[193, 202, 266, 430]",SBCL.tsv
+want to be,3,206,"[60, 206]",SBCL.tsv
+cos you,2,298,"[206, 298]",SBCL.tsv
+that's how you develop a,5,216,"[214, 216]",SBCL.tsv
+a halabot,2,217,"[216, 217]",SBCL.tsv
+how you,2,275,"[216, 275]",SBCL.tsv
+i be,2,219,"[79, 219, 244, 296, 380, 395, 480]",SBCL.tsv
+humorous,1,219,"[209, 219]",SBCL.tsv
+bone,1,224,"[223, 224, 245, 250, 252, 253, 264, 266]",SBCL.tsv
+humerus,1,224,"[223, 224]",SBCL.tsv
+be your,2,227,"[223, 227]",SBCL.tsv
+your face,2,227,"[226, 227, 388]",SBCL.tsv
+i be say,3,244,"[79, 244]",SBCL.tsv
+bone in,2,250,"[245, 250, 266]",SBCL.tsv
+but it's not,3,253,"[226, 253]",SBCL.tsv
+trachea,1,258,"[257, 258]",SBCL.tsv
+square,1,263,"[262, 263, 264]",SBCL.tsv
+say the,2,266,"[185, 266, 302, 475]",SBCL.tsv
+in your,2,266,"[220, 266, 388]",SBCL.tsv
+your windpipe,2,266,"[262, 266]",SBCL.tsv
+could be,2,300,"[266, 300]",SBCL.tsv
+you see,2,411,"[266, 411, 481]",SBCL.tsv
+what it,2,304,"[183, 304]",SBCL.tsv
+ever,1,308,"[105, 107, 308, 329]",SBCL.tsv
+come,1,317,"[145, 317, 348, 350, 527, 529]",SBCL.tsv
+start,1,317,"[209, 317, 395]",SBCL.tsv
+wales,1,320,"[317, 320, 323]",SBCL.tsv
+that cos,2,324,"[298, 324]",SBCL.tsv
+or what,2,428,"[324, 428]",SBCL.tsv
+seal that one,3,335,"[327, 335]",SBCL.tsv
+it just kind of,4,337,"[211, 337]",SBCL.tsv
+think of it,3,343,"[340, 343]",SBCL.tsv
+i just,2,344,"[341, 344, 430]",SBCL.tsv
+so there you go,4,396,"[344, 396]",SBCL.tsv
+there you go,3,396,"[344, 396, 404]",SBCL.tsv
+that's not,2,405,"[346, 405]",SBCL.tsv
+and they,2,396,"[348, 396]",SBCL.tsv
+say they,2,350,"[236, 350]",SBCL.tsv
+to talk about,3,354,"[46, 354]",SBCL.tsv
+be say,2,354,"[79, 354]",SBCL.tsv
+new,1,358,"[46, 60, 358, 529]",SBCL.tsv
+movie,1,382,"[358, 381, 382, 428, 429]",SBCL.tsv
+the interpreter,2,359,"[357, 359]",SBCL.tsv
+how do you,3,360,"[328, 360, 462, 467]",SBCL.tsv
+how do you say,4,475,"[360, 475]",SBCL.tsv
+yeah but the,3,369,"[199, 369]",SBCL.tsv
+think of,2,379,"[343, 379]",SBCL.tsv
+you might,2,381,"[183, 381, 428]",SBCL.tsv
+marvel,1,382,"[381, 382, 384]",SBCL.tsv
+explain,1,442,"[381, 442]",SBCL.tsv
+harley quinn,2,384,"[382, 384, 395, 396, 417]",SBCL.tsv
+harley quinn be,3,396,"[384, 396]",SBCL.tsv
+suicide squad,2,388,"[375, 380, 382, 387, 388, 414]",SBCL.tsv
+who's in the suicide squad,5,388,"[387, 388]",SBCL.tsv
+x,1,390,"[193, 390]",SBCL.tsv
+be a marvel,3,395,"[382, 395]",SBCL.tsv
+a marvel,2,395,"[382, 395]",SBCL.tsv
+deadshot,1,400,"[399, 400, 417]",SBCL.tsv
+actor,1,408,"[292, 294, 408]",SBCL.tsv
+play morgan freeman,3,408,"[405, 407, 408]",SBCL.tsv
+morgan freeman,2,408,"[405, 407, 408, 428, 429]",SBCL.tsv
+play,1,409,"[408, 409]",SBCL.tsv
+morgan,1,430,"[408, 429, 430]",SBCL.tsv
+you just do,3,410,"[288, 410]",SBCL.tsv
+there's nothing in the,4,412,"[279, 412]",SBCL.tsv
+but like,2,428,"[414, 428, 525]",SBCL.tsv
+but the,2,417,"[199, 417]",SBCL.tsv
+suicide,1,417,"[375, 380, 382, 387, 417]",SBCL.tsv
+joker's daughter,2,420,"[417, 420, 422]",SBCL.tsv
+tiny tina from borderlands,4,423,"[422, 423, 425, 427, 430, 431]",SBCL.tsv
+tiny tina,2,423,"[422, 423, 425, 427, 431]",SBCL.tsv
+i'd,1,429,"[46, 58, 185, 429]",SBCL.tsv
+what he look like or what he do,8,429,"[428, 429]",SBCL.tsv
+movie but,2,429,"[428, 429]",SBCL.tsv
+annoy,1,435,"[431, 435, 517]",SBCL.tsv
+stick for it,3,443,"[442, 443]",SBCL.tsv
+pronounce,1,462,"[449, 459, 462, 467, 470]",SBCL.tsv
+and all,2,451,"[396, 398, 451]",SBCL.tsv
+guy,1,459,"[120, 275, 279, 396, 459]",SBCL.tsv
+possibly,1,459,"[339, 459]",SBCL.tsv
+it and,2,459,"[396, 459]",SBCL.tsv
+an upside down e,4,464,"[462, 464, 467]",SBCL.tsv
+you can see,3,497,"[245, 497]",SBCL.tsv
+it and then,3,497,"[396, 497]",SBCL.tsv
+four,1,514,"[193, 264, 332, 514]",SBCL.tsv
+find it,2,514,"[283, 514]",SBCL.tsv
+want to know,3,517,"[183, 517]",SBCL.tsv
+then they,2,519,"[60, 519]",SBCL.tsv
+do any of,3,519,"[120, 519]",SBCL.tsv
+and then they,3,519,"[247, 519]",SBCL.tsv
+any of,2,519,"[382, 519, 531]",SBCL.tsv
+they they,2,525,"[243, 247, 525]",SBCL.tsv
+you can use,3,527,"[189, 527]",SBCL.tsv
+plus,1,527,"[193, 527]",SBCL.tsv
+like it's,2,527,"[382, 527, 529]",SBCL.tsv
+like or,2,529,"[428, 529]",SBCL.tsv

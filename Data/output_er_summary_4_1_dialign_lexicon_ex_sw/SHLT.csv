@@ -1,0 +1,467 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+though,1,74,"[0, 74, 216]",SHLT.tsv
+do you,2,164,"[0, 55, 143, 164, 291]",SHLT.tsv
+bite,1,153,"[0, 153, 171, 174, 300, 395]",SHLT.tsv
+sit,1,35,"[0, 35, 96, 175, 235, 311, 325]",SHLT.tsv
+good,1,24,"[13, 22, 24, 36, 58, 74, 213, 216]",SHLT.tsv
+really,1,108,"[13, 22, 108, 113, 114, 122, 189, 277, 300, 392]",SHLT.tsv
+look,1,13,"[3, 13, 22, 23, 44, 307]",SHLT.tsv
+have you,2,27,"[1, 27, 130, 139, 424]",SHLT.tsv
+they're,1,46,"[45, 46, 101, 103, 175, 186, 212, 279, 300, 325, 360, 403, 411]",SHLT.tsv
+like,1,47,"[40, 47, 77, 78, 97, 114, 145, 146, 150, 167, 201, 252, 259, 271, 291, 307, 315, 327, 328, 362, 366, 378, 413]",SHLT.tsv
+would,1,184,"[47, 148, 180, 184, 185, 271, 401]",SHLT.tsv
+one,1,47,"[14, 47, 70, 114, 132, 187, 207, 235, 249, 269, 298, 300]",SHLT.tsv
+thank you,2,54,"[14, 52, 54]",SHLT.tsv
+yeah,1,61,"[9, 14, 16, 18, 24, 26, 28, 30, 38, 42, 49, 61, 62, 68, 72, 74, 76, 78, 85, 87, 90, 92, 95, 96, 101, 102, 104, 106, 110, 111, 114, 117, 118, 123, 140, 145, 147, 151, 152, 158, 165, 170, 182, 184, 188, 197, 198, 203, 205, 208, 210, 219, 221, 230, 239, 240, 242, 244, 248, 254, 259, 260, 264, 275, 280, 282, 283, 285, 286, 288, 290, 292, 304, 305, 309, 312, 314, 316, 318, 320, 326, 328, 331, 333, 335, 343, 344, 349, 351, 376, 382, 389, 393, 402, 409, 416, 418, 426, 427, 430, 432, 434, 435, 450]",SHLT.tsv
+i've,1,61,"[7, 25, 58, 61, 83, 116, 121, 124, 126, 248, 267, 423, 437, 443]",SHLT.tsv
+that's,1,61,"[51, 60, 61, 70, 80, 89, 93, 114, 115, 122, 153, 158, 161, 197, 202, 218, 233, 269, 277, 282, 288, 321, 323, 332, 338, 436, 443, 448, 449]",SHLT.tsv
+remember,1,70,"[55, 70, 243, 265, 354]",SHLT.tsv
+that's the,2,70,"[51, 70, 233, 282, 323]",SHLT.tsv
+try,1,286,"[70, 286, 308, 311]",SHLT.tsv
+but he,2,75,"[74, 75, 90]",SHLT.tsv
+get,1,75,"[10, 14, 55, 58, 60, 73, 75, 77, 82, 83, 116, 121, 126, 131, 134, 165, 175, 177, 197, 199, 200, 201, 203, 212, 222, 289, 310, 312, 319, 338, 340, 342, 358, 362, 386, 403, 415, 427, 438, 443]",SHLT.tsv
+phone,1,126,"[75, 126, 131, 160, 325, 328]",SHLT.tsv
+go,1,75,"[18, 23, 31, 33, 58, 60, 69, 75, 86, 88, 131, 150, 194, 204, 235, 245, 252, 277, 281, 287, 293, 298, 300, 308, 323, 372, 393, 395]",SHLT.tsv
+on his,2,362,"[75, 362]",SHLT.tsv
+no but,2,373,"[75, 373]",SHLT.tsv
+don't know,2,77,"[34, 77, 100, 157, 300, 415]",SHLT.tsv
+i don't know,3,77,"[76, 77, 83, 100, 110, 157, 178, 300, 415]",SHLT.tsv
+i don't,2,78,"[76, 77, 78, 83, 97, 110, 111, 145, 157, 178, 249, 300, 357, 411, 415, 428]",SHLT.tsv
+take,1,77,"[58, 60, 77, 94, 134, 141, 143, 148, 156, 163, 174, 192, 262, 366, 378]",SHLT.tsv
+it it,2,209,"[77, 209, 216, 354, 395]",SHLT.tsv
+like a,2,307,"[77, 307, 413]",SHLT.tsv
+and it,2,300,"[77, 114, 300, 364, 366, 395]",SHLT.tsv
+and it it,3,395,"[77, 395]",SHLT.tsv
+use,1,79,"[74, 76, 79, 89, 90, 177, 241, 281, 292, 312, 334, 335]",SHLT.tsv
+i try,2,286,"[79, 286]",SHLT.tsv
+use it,2,89,"[74, 76, 89, 90]",SHLT.tsv
+well,1,89,"[3, 5, 58, 60, 83, 89, 96, 125, 146, 155, 186, 187, 190, 195, 213, 218, 225, 229, 261, 274, 284, 293, 298, 312, 332, 358, 372, 395, 399, 401, 402, 422, 426, 431, 448]",SHLT.tsv
+i think,2,94,"[16, 23, 60, 94, 110, 133, 155, 156, 161, 167, 233, 345, 411, 420]",SHLT.tsv
+quite,1,94,"[60, 94, 110, 284, 312, 349]",SHLT.tsv
+think,1,170,"[94, 110, 155, 161, 167, 170, 189, 212, 233, 287, 292, 300, 345, 411, 420, 428, 443]",SHLT.tsv
+two conversations,2,105,"[103, 105]",SHLT.tsv
+two,1,105,"[16, 60, 103, 105, 222, 233, 241]",SHLT.tsv
+in the,2,114,"[8, 114, 212, 252, 268, 271, 278, 300, 308, 310, 311, 358, 378, 386, 388, 402]",SHLT.tsv
+oh yeah,2,114,"[18, 72, 114, 118, 328]",SHLT.tsv
+yeah and,2,114,"[16, 78, 114, 210, 376, 393]",SHLT.tsv
+can't,1,114,"[19, 58, 78, 93, 114, 145, 181, 185, 188, 243, 297, 300]",SHLT.tsv
+and i,2,114,"[83, 88, 100, 114, 133, 174, 222, 235, 300]",SHLT.tsv
+do it,2,114,"[60, 83, 84, 110, 114, 141, 142, 151, 263, 403, 411]",SHLT.tsv
+send,1,114,"[99, 114, 116, 126, 130, 132]",SHLT.tsv
+a text,2,114,"[101, 114, 121, 126, 130]",SHLT.tsv
+keep,1,114,"[58, 114, 268]",SHLT.tsv
+it that's,2,218,"[114, 218, 282]",SHLT.tsv
+like oh,2,362,"[114, 362]",SHLT.tsv
+in the middle of,4,378,"[114, 378]",SHLT.tsv
+find,1,395,"[114, 395, 407]",SHLT.tsv
+say,1,116,"[58, 60, 62, 69, 113, 116, 131, 133, 150, 162, 166, 256, 277, 300, 303, 330]",SHLT.tsv
+just get,2,386,"[116, 386]",SHLT.tsv
+cos,1,119,"[58, 119, 122, 149, 150, 212, 256, 268, 277, 311, 405, 430, 448]",SHLT.tsv
+have to,2,124,"[119, 121, 124, 126, 128, 184, 212, 235, 300, 306, 334, 378]",SHLT.tsv
+you be,2,121,"[1, 18, 23, 121, 141]",SHLT.tsv
+that you,2,121,"[78, 121]",SHLT.tsv
+and you're,2,292,"[121, 292, 319]",SHLT.tsv
+just get a,3,386,"[121, 386]",SHLT.tsv
+never,1,130,"[74, 124, 126, 130, 189, 199, 200, 212, 372, 438]",SHLT.tsv
+must,1,132,"[66, 68, 103, 132, 205, 399, 425]",SHLT.tsv
+must have,2,399,"[132, 399, 400]",SHLT.tsv
+to be,2,213,"[134, 213, 335]",SHLT.tsv
+dad,1,144,"[62, 73, 144, 149]",SHLT.tsv
+don't like it,3,146,"[97, 146]",SHLT.tsv
+you don't,2,146,"[60, 146, 160]",SHLT.tsv
+be that,2,211,"[146, 211, 241, 386]",SHLT.tsv
+it it's,2,157,"[110, 157, 282]",SHLT.tsv
+it's just,2,160,"[157, 160, 295, 300]",SHLT.tsv
+it's easy,2,312,"[157, 312]",SHLT.tsv
+ear,1,165,"[163, 165, 166, 170, 174, 194]",SHLT.tsv
+stuff,1,169,"[71, 167, 169, 181, 207, 373]",SHLT.tsv
+would they,2,185,"[180, 185]",SHLT.tsv
+sterilise,1,185,"[177, 184, 185, 219]",SHLT.tsv
+yeah they,2,205,"[184, 205, 230, 328, 335]",SHLT.tsv
+well they,2,225,"[186, 225, 229, 395]",SHLT.tsv
+hot,1,191,"[190, 191, 192, 212, 235]",SHLT.tsv
+call,1,243,"[190, 243, 374]",SHLT.tsv
+when you,2,190,"[133, 150, 175, 190, 259, 287]",SHLT.tsv
+what's,1,190,"[58, 166, 190, 362]",SHLT.tsv
+you just,2,192,"[187, 192, 297]",SHLT.tsv
+in an office,3,195,"[192, 195, 197]",SHLT.tsv
+then you,2,192,"[60, 192, 311, 319]",SHLT.tsv
+people,1,212,"[101, 177, 212, 281, 300, 303, 319, 336]",SHLT.tsv
+never think,2,212,"[189, 212]",SHLT.tsv
+hot desk,2,212,"[191, 212]",SHLT.tsv
+actually,1,212,"[197, 212, 312, 403]",SHLT.tsv
+office,1,212,"[195, 197, 212]",SHLT.tsv
+different,1,212,"[133, 212, 222, 274, 348, 352]",SHLT.tsv
+get a,2,121,"[58, 121, 126, 131, 212, 386]",SHLT.tsv
+and i didn't,3,222,"[174, 222]",SHLT.tsv
+i mean,2,222,"[197, 222, 292, 348]",SHLT.tsv
+that be,2,236,"[80, 236, 237, 346, 370, 395, 402, 403, 432, 436]",SHLT.tsv
+yeah yeah,2,244,"[188, 208, 240, 244, 264, 331, 376, 402]",SHLT.tsv
+they do,2,249,"[83, 107, 110, 182, 207, 249, 328]",SHLT.tsv
+there's,1,249,"[195, 213, 249, 289, 306, 323, 403, 448, 449]",SHLT.tsv
+poo,1,255,"[249, 255, 362]",SHLT.tsv
+clean,1,253,"[197, 253, 279]",SHLT.tsv
+toothbrush,1,256,"[255, 256, 262, 268, 271, 274]",SHLT.tsv
+the bathroom and,3,262,"[252, 262]",SHLT.tsv
+the toothbrush,2,262,"[255, 262]",SHLT.tsv
+the bathroom,2,268,"[262, 268]",SHLT.tsv
+in a,2,262,"[133, 262, 354]",SHLT.tsv
+that have,2,376,"[262, 376]",SHLT.tsv
+of the,2,262,"[195, 262, 281, 289, 330, 338, 340, 378, 403]",SHLT.tsv
+the toilet,2,388,"[262, 271, 289, 388, 393]",SHLT.tsv
+have just,2,400,"[262, 400]",SHLT.tsv
+time,1,271,"[197, 233, 237, 271, 373, 405]",SHLT.tsv
+test,1,271,"[241, 271]",SHLT.tsv
+in the bathroom,3,271,"[252, 268, 271]",SHLT.tsv
+they test,2,271,"[252, 271]",SHLT.tsv
+your toothbrush,2,271,"[268, 271, 274]",SHLT.tsv
+be in,2,271,"[207, 271, 274, 279, 354, 370, 402]",SHLT.tsv
+be in the,3,402,"[271, 402]",SHLT.tsv
+know,1,77,"[5, 34, 58, 76, 77, 83, 88, 100, 110, 141, 152, 157, 175, 178, 210, 274, 296, 300, 411, 415]",SHLT.tsv
+well you,2,187,"[5, 187, 274]",SHLT.tsv
+on the,2,274,"[175, 207, 255, 274, 366, 386, 395, 403]",SHLT.tsv
+isn't it,2,278,"[216, 218, 240, 269, 278, 282, 292, 321, 431]",SHLT.tsv
+a lot,2,284,"[41, 284, 349]",SHLT.tsv
+but i,2,287,"[69, 76, 145, 287, 292]",SHLT.tsv
+and then,2,287,"[25, 58, 60, 78, 183, 287, 289, 291, 319, 322, 336, 338, 360, 362, 390, 395, 403, 436]",SHLT.tsv
+think it's,2,287,"[110, 155, 287, 345]",SHLT.tsv
+go in,2,287,"[252, 287, 298, 300, 308]",SHLT.tsv
+and then you,3,287,"[60, 287, 289, 319]",SHLT.tsv
+lock,1,388,"[287, 388]",SHLT.tsv
+you get,2,289,"[203, 289, 310, 312, 319, 338, 340]",SHLT.tsv
+there's no,2,289,"[213, 289, 448, 449]",SHLT.tsv
+and then you get,4,319,"[289, 319]",SHLT.tsv
+the toilet and,3,393,"[289, 393]",SHLT.tsv
+mm what,2,408,"[291, 408]",SHLT.tsv
+we've,1,293,"[14, 82, 279, 292, 293, 348, 349, 383, 427]",SHLT.tsv
+doors,1,301,"[282, 283, 301]",SHLT.tsv
+there be,2,301,"[292, 301, 376, 386]",SHLT.tsv
+to you,2,133,"[101, 133, 303]",SHLT.tsv
+hello,1,303,"[133, 150, 303, 319]",SHLT.tsv
+be it,2,306,"[64, 74, 209, 306, 354]",SHLT.tsv
+what be,2,306,"[44, 211, 241, 306]",SHLT.tsv
+try and,2,306,"[286, 306]",SHLT.tsv
+walk,1,319,"[306, 311, 319]",SHLT.tsv
+go in the,3,300,"[252, 300, 308]",SHLT.tsv
+down the,2,395,"[310, 395]",SHLT.tsv
+it be,2,313,"[36, 171, 207, 216, 243, 300, 313, 317, 354, 364, 366, 401, 407]",SHLT.tsv
+talk,1,328,"[15, 101, 328, 357]",SHLT.tsv
+on their mobile phone,4,328,"[325, 328]",SHLT.tsv
+they use to,3,335,"[241, 334, 335]",SHLT.tsv
+use to,2,334,"[241, 312, 334, 335]",SHLT.tsv
+urgh,1,339,"[208, 339, 359, 413]",SHLT.tsv
+toilets,1,342,"[197, 342, 348, 352]",SHLT.tsv
+subject,1,345,"[342, 345, 346, 415]",SHLT.tsv
+see,1,248,"[3, 88, 158, 164, 175, 248, 267, 348, 349]",SHLT.tsv
+we've see,2,349,"[348, 349]",SHLT.tsv
+different toilets,2,352,"[348, 352]",SHLT.tsv
+a book on,3,352,"[350, 351, 352]",SHLT.tsv
+outside,1,7,"[0, 7, 10, 23, 262, 274, 289, 422]",SHLT.tsv
+do you want to,4,55,"[0, 55, 143]",SHLT.tsv
+want to,2,113,"[0, 113, 133, 143, 357]",SHLT.tsv
+to sit,2,235,"[0, 235]",SHLT.tsv
+cold,1,235,"[0, 212, 235]",SHLT.tsv
+you can,2,385,"[0, 157, 323, 385, 438]",SHLT.tsv
+stone down,2,11,"[10, 11]",SHLT.tsv
+oh you,2,23,"[11, 23]",SHLT.tsv
+put,1,113,"[11, 113, 133, 150, 157, 262, 336, 361, 443]",SHLT.tsv
+you put,2,133,"[11, 133, 150]",SHLT.tsv
+put the,2,336,"[11, 336, 443]",SHLT.tsv
+biscuits,1,45,"[19, 45]",SHLT.tsv
+tom,1,163,"[47, 163, 222]",SHLT.tsv
+okay,1,430,"[57, 430, 444]",SHLT.tsv
+hear,1,61,"[55, 61, 330]",SHLT.tsv
+that's right,2,61,"[60, 61, 80, 202, 288]",SHLT.tsv
+right,1,443,"[61, 443]",SHLT.tsv
+i be,2,70,"[51, 70, 96, 235]",SHLT.tsv
+get it,2,75,"[73, 75]",SHLT.tsv
+he go,2,86,"[75, 86]",SHLT.tsv
+finger,1,145,"[77, 145]",SHLT.tsv
+long,1,230,"[77, 230]",SHLT.tsv
+always,1,267,"[77, 267, 283]",SHLT.tsv
+we and,2,292,"[77, 292]",SHLT.tsv
+he can use it,4,90,"[89, 90]",SHLT.tsv
+it then,2,443,"[89, 443]",SHLT.tsv
+i'm,1,114,"[14, 17, 114, 292, 293, 372, 430]",SHLT.tsv
+if i,2,114,"[55, 114, 116]",SHLT.tsv
+i need to,3,114,"[58, 114]",SHLT.tsv
+i can't,2,114,"[58, 93, 114, 145]",SHLT.tsv
+need to,2,114,"[58, 114]",SHLT.tsv
+to send a text,4,126,"[114, 126]",SHLT.tsv
+to send,2,126,"[114, 116, 126]",SHLT.tsv
+text,1,137,"[101, 114, 121, 130, 137, 145, 150]",SHLT.tsv
+sorry,1,116,"[46, 116, 121]",SHLT.tsv
+i say,2,133,"[116, 133, 150, 166]",SHLT.tsv
+get to,2,427,"[116, 427, 443]",SHLT.tsv
+something,1,121,"[69, 121, 133, 249, 289]",SHLT.tsv
+somewhere,1,436,"[121, 274, 436]",SHLT.tsv
+send a text,3,130,"[126, 130]",SHLT.tsv
+haven't get,2,134,"[126, 134]",SHLT.tsv
+predictive,1,137,"[134, 137, 145, 150]",SHLT.tsv
+i'll,1,142,"[16, 21, 142, 300, 429, 443]",SHLT.tsv
+you want,2,142,"[55, 142, 143]",SHLT.tsv
+for you,2,142,"[58, 142]",SHLT.tsv
+want,1,142,"[113, 133, 142, 143, 144, 149]",SHLT.tsv
+if you,2,142,"[3, 142, 190, 338]",SHLT.tsv
+don't like,2,97,"[40, 97, 145, 146]",SHLT.tsv
+in your ear,3,166,"[165, 166]",SHLT.tsv
+in your,2,183,"[165, 183, 192]",SHLT.tsv
+stick,1,183,"[165, 183, 330, 334, 336, 338, 340]",SHLT.tsv
+them with,2,188,"[169, 188]",SHLT.tsv
+have their own set,4,181,"[180, 181]",SHLT.tsv
+they have,2,207,"[180, 207]",SHLT.tsv
+sterilise them,2,184,"[177, 184]",SHLT.tsv
+would have,2,401,"[184, 401]",SHLT.tsv
+away,1,186,"[133, 186, 401, 443]",SHLT.tsv
+they just,2,207,"[186, 207]",SHLT.tsv
+work,1,190,"[7, 60, 190, 417, 431, 432, 436]",SHLT.tsv
+even,1,190,"[10, 190, 212, 293, 301, 329, 357]",SHLT.tsv
+just take,2,192,"[58, 192]",SHLT.tsv
+home,1,192,"[58, 192]",SHLT.tsv
+you go,2,194,"[23, 69, 88, 194, 277, 281, 287, 300]",SHLT.tsv
+and you,2,194,"[88, 194, 210, 281, 300, 306, 311]",SHLT.tsv
+ear plug,2,194,"[163, 194]",SHLT.tsv
+plug,1,194,"[163, 194]",SHLT.tsv
+your ear,2,194,"[166, 194]",SHLT.tsv
+wherever,1,194,"[183, 194]",SHLT.tsv
+have get,2,212,"[177, 212]",SHLT.tsv
+things,1,219,"[175, 177, 183, 207, 219]",SHLT.tsv
+i didn't,2,174,"[46, 69, 150, 174, 222]",SHLT.tsv
+mean,1,153,"[46, 153, 158, 197, 222, 292, 348]",SHLT.tsv
+colds over,2,225,"[222, 225]",SHLT.tsv
+winter,1,225,"[222, 225]",SHLT.tsv
+colds,1,227,"[222, 225, 227, 233]",SHLT.tsv
+over the,2,403,"[222, 403]",SHLT.tsv
+they be,2,226,"[209, 226, 227, 229, 230, 256]",SHLT.tsv
+they be long last,4,230,"[229, 230]",SHLT.tsv
+they be long,3,230,"[229, 230]",SHLT.tsv
+last,1,233,"[229, 233, 237]",SHLT.tsv
+that be flu,3,237,"[236, 237]",SHLT.tsv
+to the,2,262,"[58, 60, 204, 262, 271, 277, 281, 300, 311, 342, 401]",SHLT.tsv
+just as,2,403,"[262, 403]",SHLT.tsv
+no they,2,271,"[188, 271]",SHLT.tsv
+with your,2,285,"[271, 285]",SHLT.tsv
+all these,2,274,"[71, 88, 274]",SHLT.tsv
+you know,2,88,"[5, 88, 175, 210, 274, 300, 411]",SHLT.tsv
+be outside,2,422,"[274, 422]",SHLT.tsv
+do that,2,284,"[46, 107, 124, 284]",SHLT.tsv
+i do,2,284,"[58, 284]",SHLT.tsv
+as well,2,401,"[284, 401]",SHLT.tsv
+the door,2,287,"[7, 10, 281, 285, 287]",SHLT.tsv
+tissue,1,287,"[283, 285, 287]",SHLT.tsv
+you think,2,292,"[287, 292, 300]",SHLT.tsv
+go to,2,293,"[58, 131, 204, 235, 277, 281, 293, 300, 372]",SHLT.tsv
+tell you,2,293,"[209, 293]",SHLT.tsv
+we've be,2,293,"[279, 292, 293]",SHLT.tsv
+i'm not,2,293,"[292, 293, 430]",SHLT.tsv
+well i'm,2,372,"[293, 372]",SHLT.tsv
+about it,2,300,"[297, 300]",SHLT.tsv
+oh dear,2,347,"[299, 347, 381, 384, 409, 413]",SHLT.tsv
+dear,1,409,"[299, 347, 384, 409]",SHLT.tsv
+say hello to you,4,303,"[133, 303]",SHLT.tsv
+so you,2,308,"[18, 308, 311, 374]",SHLT.tsv
+to go in the,4,308,"[300, 308]",SHLT.tsv
+end,1,330,"[308, 311, 330, 338, 340]",SHLT.tsv
+past,1,311,"[88, 311]",SHLT.tsv
+cos it's,2,405,"[311, 405]",SHLT.tsv
+yes,1,313,"[159, 248, 260, 313]",SHLT.tsv
+don't they,2,328,"[71, 328]",SHLT.tsv
+we get,2,415,"[342, 415]",SHLT.tsv
+a book,2,374,"[352, 374]",SHLT.tsv
+the stone,2,438,"[11, 438]",SHLT.tsv
+would you,2,148,"[47, 148]",SHLT.tsv
+mm mm,2,273,"[63, 273]",SHLT.tsv
+to get,2,131,"[77, 131]",SHLT.tsv
+you have,2,119,"[3, 119, 121, 138, 194, 306]",SHLT.tsv
+cotton wool,2,169,"[167, 169]",SHLT.tsv
+why would,2,180,"[148, 180]",SHLT.tsv
+they be they be,4,229,"[227, 229]",SHLT.tsv
+myth,1,269,"[249, 269]",SHLT.tsv
+be say,2,256,"[131, 256]",SHLT.tsv
+well you know,3,274,"[5, 274]",SHLT.tsv
+yeah we've,2,427,"[349, 427]",SHLT.tsv
+oh i,2,357,"[158, 161, 357]",SHLT.tsv
+path,1,4,"[2, 3, 4, 12]",SHLT.tsv
+front,1,183,"[8, 183]",SHLT.tsv
+yeah it's,2,240,"[24, 240, 292]",SHLT.tsv
+make,1,36,"[26, 36]",SHLT.tsv
+a good,2,58,"[36, 58]",SHLT.tsv
+be a,2,346,"[36, 346, 362]",SHLT.tsv
+hobnob,1,48,"[20, 21, 48]",SHLT.tsv
+be do the,3,66,"[2, 66]",SHLT.tsv
+round,1,66,"[12, 66, 68]",SHLT.tsv
+do the,2,66,"[58, 66]",SHLT.tsv
+must be do the,4,68,"[66, 68]",SHLT.tsv
+do the round,3,71,"[66, 71]",SHLT.tsv
+yeah but,2,145,"[74, 76, 145, 151, 292]",SHLT.tsv
+use it yeah,3,90,"[76, 90]",SHLT.tsv
+yeah but i,3,145,"[76, 145]",SHLT.tsv
+it yeah but i,4,292,"[76, 292]",SHLT.tsv
+can't do,2,78,"[58, 78]",SHLT.tsv
+thing,1,113,"[78, 113, 207, 281]",SHLT.tsv
+thumb be,2,145,"[78, 145]",SHLT.tsv
+big,1,145,"[78, 145, 300, 362, 403]",SHLT.tsv
+anything,1,281,"[78, 281]",SHLT.tsv
+can't do anything,3,300,"[78, 300]",SHLT.tsv
+well i've get,3,83,"[58, 83]",SHLT.tsv
+and i don't know,4,100,"[83, 100]",SHLT.tsv
+know how,2,141,"[83, 110, 141]",SHLT.tsv
+hand,1,204,"[83, 203, 204, 281]",SHLT.tsv
+do it but,3,403,"[83, 403]",SHLT.tsv
+i don't know how,4,415,"[83, 110, 415]",SHLT.tsv
+i've get,2,443,"[83, 443]",SHLT.tsv
+i don't like,3,145,"[97, 145]",SHLT.tsv
+be read,2,100,"[99, 100]",SHLT.tsv
+write,1,102,"[101, 102, 350, 351]",SHLT.tsv
+write a,2,350,"[101, 350, 374]",SHLT.tsv
+must be,2,103,"[68, 103, 205, 425]",SHLT.tsv
+rude,1,115,"[110, 115]",SHLT.tsv
+yeah i,2,152,"[110, 152, 282, 314, 351]",SHLT.tsv
+from the,2,160,"[23, 160, 255]",SHLT.tsv
+you see,2,164,"[88, 164, 175, 267]",SHLT.tsv
+no it,2,171,"[154, 171, 399]",SHLT.tsv
+be the,2,209,"[171, 209, 233, 237]",SHLT.tsv
+but you,2,281,"[185, 281, 292]",SHLT.tsv
+one of,2,207,"[187, 207, 298, 300]",SHLT.tsv
+wipe,1,207,"[187, 207]",SHLT.tsv
+with a,2,285,"[187, 285, 334, 362]",SHLT.tsv
+that really,2,189,"[113, 189]",SHLT.tsv
+no i,2,445,"[189, 445]",SHLT.tsv
+probably,1,197,"[126, 197, 280, 351]",SHLT.tsv
+three,1,441,"[197, 441]",SHLT.tsv
+never get touch,3,200,"[199, 200]",SHLT.tsv
+bits,1,201,"[16, 201]",SHLT.tsv
+they've get,2,201,"[175, 201]",SHLT.tsv
+sneeze,1,203,"[202, 203]",SHLT.tsv
+programme,1,211,"[207, 211, 241]",SHLT.tsv
+it's the,2,238,"[181, 238, 282, 283]",SHLT.tsv
+the millennium,2,238,"[233, 235, 238, 240]",SHLT.tsv
+watch,1,241,"[84, 235, 241]",SHLT.tsv
+and they,2,241,"[102, 183, 202, 204, 207, 209, 241, 252]",SHLT.tsv
+theory,1,245,"[241, 245]",SHLT.tsv
+what it be,3,407,"[243, 407]",SHLT.tsv
+mythbusters,1,248,"[247, 248]",SHLT.tsv
+so they,2,252,"[19, 252]",SHLT.tsv
+they go,2,252,"[204, 252, 395]",SHLT.tsv
+they they,2,252,"[207, 252, 255, 407]",SHLT.tsv
+everything,1,300,"[252, 300]",SHLT.tsv
+all have,2,255,"[162, 181, 255]",SHLT.tsv
+on them,2,255,"[202, 255, 350, 351]",SHLT.tsv
+loo,1,259,"[195, 196, 259, 300]",SHLT.tsv
+the loo,2,259,"[204, 209, 259, 277, 281, 300]",SHLT.tsv
+it all,2,261,"[55, 261]",SHLT.tsv
+come,1,261,"[58, 183, 261, 281, 332, 338, 385, 401]",SHLT.tsv
+come up and,3,261,"[133, 261]",SHLT.tsv
+up and,2,261,"[235, 261, 366]",SHLT.tsv
+cos you,2,277,"[268, 277]",SHLT.tsv
+isn't it that's,3,282,"[218, 282]",SHLT.tsv
+it's the doors,3,283,"[282, 283]",SHLT.tsv
+and open,2,286,"[285, 286]",SHLT.tsv
+elbow,1,286,"[285, 286]",SHLT.tsv
+open,1,286,"[285, 286]",SHLT.tsv
+usually,1,403,"[286, 403]",SHLT.tsv
+awful,1,305,"[292, 305, 321]",SHLT.tsv
+yeah well,2,312,"[96, 312, 402]",SHLT.tsv
+in and,2,319,"[281, 319]",SHLT.tsv
+sit there,2,325,"[96, 175, 325]",SHLT.tsv
+a fascinate subject,3,346,"[345, 346]",SHLT.tsv
+could,1,350,"[69, 350, 351, 374]",SHLT.tsv
+could write a book,4,374,"[351, 374]",SHLT.tsv
+he be,2,354,"[100, 354, 360, 362]",SHLT.tsv
+be it it,3,354,"[209, 354]",SHLT.tsv
+night,1,356,"[58, 356, 358]",SHLT.tsv
+on a,2,356,"[195, 356, 376]",SHLT.tsv
+they've get these,3,358,"[175, 358]",SHLT.tsv
+get these,2,358,"[177, 358]",SHLT.tsv
+and then he,3,360,"[58, 360, 362]",SHLT.tsv
+then he,2,360,"[58, 360, 362]",SHLT.tsv
+and he,2,360,"[86, 360, 362]",SHLT.tsv
+get this,2,362,"[10, 362]",SHLT.tsv
+what's that,2,362,"[58, 166, 362]",SHLT.tsv
+around,1,362,"[58, 60, 362]",SHLT.tsv
+he get,2,362,"[73, 362]",SHLT.tsv
+god,1,362,"[113, 166, 362, 409]",SHLT.tsv
+a big,2,362,"[300, 362]",SHLT.tsv
+oh god,2,367,"[362, 367, 377]",SHLT.tsv
+and it be,3,364,"[300, 364, 366]",SHLT.tsv
+behind,1,366,"[25, 26, 366]",SHLT.tsv
+this woman,2,366,"[58, 366]",SHLT.tsv
+take a,2,366,"[58, 366]",SHLT.tsv
+be this,2,369,"[366, 369]",SHLT.tsv
+dump,1,436,"[366, 436]",SHLT.tsv
+but that,2,370,"[330, 370, 373, 441]",SHLT.tsv
+all the,2,373,"[12, 218, 373, 438]",SHLT.tsv
+the time,2,405,"[373, 405]",SHLT.tsv
+and the,2,376,"[20, 21, 58, 209, 376, 393]",SHLT.tsv
+stop,1,376,"[60, 88, 300, 376]",SHLT.tsv
+and there,2,376,"[88, 376]",SHLT.tsv
+another,1,376,"[235, 372, 376]",SHLT.tsv
+take his,2,378,"[163, 378]",SHLT.tsv
+just have,2,378,"[228, 378]",SHLT.tsv
+woman,1,386,"[58, 386]",SHLT.tsv
+they've,1,386,"[175, 386]",SHLT.tsv
+bad,1,388,"[118, 225, 388]",SHLT.tsv
+have a,2,388,"[3, 207, 228, 283, 388, 445]",SHLT.tsv
+she be,2,390,"[235, 390]",SHLT.tsv
+onto,1,415,"[393, 415]",SHLT.tsv
+it and,2,395,"[58, 167, 209, 395, 403]",SHLT.tsv
+go back,2,395,"[60, 395]",SHLT.tsv
+little,1,395,"[207, 395]",SHLT.tsv
+back,1,395,"[336, 385, 395]",SHLT.tsv
+that be on the,4,403,"[395, 403]",SHLT.tsv
+land,1,403,"[395, 403, 405, 411]",SHLT.tsv
+it must have,3,400,"[399, 400]",SHLT.tsv
+we be,2,402,"[233, 235, 402]",SHLT.tsv
+finish,1,420,"[12, 69, 383, 419, 420, 423, 425, 441]",SHLT.tsv
+i've only,2,437,"[423, 437]",SHLT.tsv
+so she,2,425,"[60, 425]",SHLT.tsv
+be finish,2,441,"[425, 441]",SHLT.tsv
+shingle,1,433,"[430, 433, 436]",SHLT.tsv
+haven't you,2,446,"[330, 446]",SHLT.tsv
+ones,1,448,"[51, 448]",SHLT.tsv
+well that's,2,448,"[60, 218, 332, 448]",SHLT.tsv
+there's no chocolate ones,4,449,"[448, 449]",SHLT.tsv
+be you,2,341,"[15, 341]",SHLT.tsv
+i think it's,3,155,"[110, 155, 345]",SHLT.tsv
+leave the,2,174,"[32, 174]",SHLT.tsv
+wont,1,187,"[128, 187]",SHLT.tsv
+never get,2,438,"[199, 200, 438]",SHLT.tsv
+could write a book on them,6,351,"[350, 351]",SHLT.tsv
+clear,1,362,"[25, 362]",SHLT.tsv
+horrible,1,362,"[227, 362]",SHLT.tsv
+the path,2,3,"[2, 3]",SHLT.tsv
+i've be,2,25,"[7, 25]",SHLT.tsv
+stone,1,438,"[10, 438]",SHLT.tsv
+we've get,2,427,"[14, 82, 427]",SHLT.tsv
+only me,2,151,"[16, 151]",SHLT.tsv
+hobnob and the ginger,4,21,"[20, 21]",SHLT.tsv
+why do,2,143,"[60, 143]",SHLT.tsv
+i think that's,3,161,"[60, 161]",SHLT.tsv
+it off,2,143,"[69, 143, 148, 419]",SHLT.tsv
+and stuff,2,167,"[71, 167]",SHLT.tsv
+still on,2,155,"[73, 155]",SHLT.tsv
+what you,2,158,"[88, 158, 161]",SHLT.tsv
+still,1,155,"[93, 155, 401]",SHLT.tsv
+get a phone,3,131,"[126, 131]",SHLT.tsv
+to take it off,4,143,"[141, 143]",SHLT.tsv
+take it off,3,148,"[141, 148]",SHLT.tsv
+suppose,1,182,"[141, 182, 403]",SHLT.tsv
+you take it off,4,156,"[148, 156]",SHLT.tsv
+hurt,1,170,"[167, 170]",SHLT.tsv
+disease on,2,329,"[195, 329]",SHLT.tsv
+special,1,207,"[53, 207]",SHLT.tsv
+on there,2,207,"[155, 207]",SHLT.tsv
+today,1,341,"[218, 341]",SHLT.tsv
+well i,2,298,"[155, 298, 426]",SHLT.tsv
+it's not,2,300,"[17, 300]",SHLT.tsv
+oh my,2,372,"[368, 372]",SHLT.tsv
+you could write a book,5,374,"[350, 374]",SHLT.tsv
+well no,2,431,"[399, 431]",SHLT.tsv
+attach to,2,401,"[397, 401]",SHLT.tsv
+oh my goodness,3,403,"[368, 403]",SHLT.tsv
+it that,2,405,"[269, 405]",SHLT.tsv
+i suppose,2,426,"[182, 426]",SHLT.tsv
+not do,2,430,"[341, 430]",SHLT.tsv
+hard work,2,432,"[431, 432, 436]",SHLT.tsv
+shovel up,2,436,"[435, 436]",SHLT.tsv
+shovel,1,438,"[436, 438]",SHLT.tsv

@@ -1,0 +1,219 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+come,1,71,"[0, 71, 275]",SWVQ.tsv
+need,1,76,"[5, 43, 76, 101, 159, 220]",SWVQ.tsv
+i need,2,101,"[5, 101]",SWVQ.tsv
+i'll,1,246,"[7, 246]",SWVQ.tsv
+do you want to,4,36,"[9, 36]",SWVQ.tsv
+do you,2,42,"[9, 30, 36, 42, 77, 90, 104, 106, 108, 126, 127, 173, 181, 220]",SWVQ.tsv
+take,1,56,"[9, 45, 56, 62, 88, 91, 264, 266, 285, 294]",SWVQ.tsv
+do you want,3,126,"[9, 104, 106, 126, 127]",SWVQ.tsv
+to take,2,266,"[9, 266]",SWVQ.tsv
+we're,1,52,"[10, 52, 56, 266]",SWVQ.tsv
+like,1,34,"[11, 29, 34, 43, 52, 61, 63, 65, 76, 82, 100, 101, 109, 161, 169, 176, 183, 185, 189, 193, 216, 239, 258, 259, 271, 281, 292]",SWVQ.tsv
+cover in,2,126,"[13, 124, 126]",SWVQ.tsv
+sauce,1,126,"[13, 126, 147]",SWVQ.tsv
+be there,2,76,"[19, 21, 23, 76, 82, 116]",SWVQ.tsv
+more than,2,54,"[23, 54]",SWVQ.tsv
+six,1,82,"[23, 82, 84]",SWVQ.tsv
+that's,1,25,"[6, 25, 27, 47, 75, 148, 162, 167, 267]",SWVQ.tsv
+okay,1,25,"[12, 17, 25, 64, 72, 92, 95, 156, 158]",SWVQ.tsv
+have one,2,25,"[24, 25]",SWVQ.tsv
+'s,1,40,"[25, 40, 67, 69, 79, 88, 91, 165]",SWVQ.tsv
+i'm,1,76,"[25, 73, 76, 78, 93, 94, 96, 99, 153, 219, 223, 241, 264, 295]",SWVQ.tsv
+yeah,1,57,"[25, 37, 39, 57, 73, 80, 103, 105, 148, 153, 161, 165, 170, 172, 188, 191, 194, 204, 214, 217, 226, 236, 238, 239, 245, 260]",SWVQ.tsv
+two,1,101,"[25, 67, 69, 101]",SWVQ.tsv
+i think,2,100,"[25, 100, 118, 127, 135, 216, 218, 266, 280]",SWVQ.tsv
+think,1,100,"[25, 35, 75, 100, 118, 166, 181, 182, 216, 218, 220, 266, 280]",SWVQ.tsv
+enough,1,248,"[25, 163, 248]",SWVQ.tsv
+one,1,269,"[25, 151, 269, 281]",SWVQ.tsv
+so i,2,277,"[25, 277]",SWVQ.tsv
+try to,2,278,"[25, 278, 280]",SWVQ.tsv
+he's,1,27,"[6, 24, 27, 118, 171, 250, 269]",SWVQ.tsv
+want,1,36,"[27, 36, 79, 126, 127, 154, 290]",SWVQ.tsv
+be just,2,196,"[27, 100, 196, 277]",SWVQ.tsv
+he like,2,216,"[29, 216]",SWVQ.tsv
+know,1,30,"[22, 30, 55, 59, 101, 152, 160, 192, 261, 284, 287]",SWVQ.tsv
+mean,1,76,"[30, 55, 59, 73, 76, 77, 79, 90, 100, 185]",SWVQ.tsv
+know what,2,287,"[30, 55, 59, 287]",SWVQ.tsv
+go,1,99,"[32, 43, 58, 73, 99, 101, 155, 185, 192, 200, 213, 263, 269, 287, 290, 296]",SWVQ.tsv
+a bite,2,120,"[32, 120, 187, 251, 269]",SWVQ.tsv
+i don't,2,35,"[22, 35, 101, 287, 290]",SWVQ.tsv
+but i,2,194,"[35, 73, 194, 247, 277]",SWVQ.tsv
+have you,2,37,"[15, 37]",SWVQ.tsv
+make,1,109,"[37, 109, 150]",SWVQ.tsv
+sure,1,264,"[37, 264]",SWVQ.tsv
+god,1,269,"[37, 269]",SWVQ.tsv
+actually,1,52,"[39, 52, 164, 170, 211, 277]",SWVQ.tsv
+well,1,127,"[39, 65, 127, 152, 159, 239, 247, 264, 280, 292, 295]",SWVQ.tsv
+paste,1,42,"[41, 42, 47]",SWVQ.tsv
+no i,2,71,"[41, 71]",SWVQ.tsv
+have to,2,71,"[41, 58, 71, 82, 223, 254, 266, 268, 281]",SWVQ.tsv
+late,1,76,"[41, 76]",SWVQ.tsv
+cos i have to,4,82,"[41, 82]",SWVQ.tsv
+in the,2,94,"[41, 94, 266, 276, 277]",SWVQ.tsv
+cos i,2,101,"[41, 101, 222, 290]",SWVQ.tsv
+week or,2,101,"[41, 101]",SWVQ.tsv
+week,1,101,"[41, 101]",SWVQ.tsv
+can't,1,133,"[41, 133]",SWVQ.tsv
+cos,1,181,"[41, 98, 164, 167, 181, 185, 213, 222, 266, 289, 290]",SWVQ.tsv
+do that,2,238,"[41, 238]",SWVQ.tsv
+of the,2,43,"[1, 43, 109, 118]",SWVQ.tsv
+hot,1,43,"[6, 43]",SWVQ.tsv
+i've,1,43,"[24, 43, 74, 124, 239]",SWVQ.tsv
+thermal paste,2,43,"[42, 43]",SWVQ.tsv
+thermal,1,43,"[42, 43]",SWVQ.tsv
+it's like,2,52,"[43, 52, 189]",SWVQ.tsv
+see,1,64,"[43, 64, 126, 194, 216, 289]",SWVQ.tsv
+get,1,74,"[43, 74, 85, 87, 90, 99, 100, 144, 168, 181, 215, 219, 239, 254, 259, 266]",SWVQ.tsv
+and the,2,147,"[43, 147, 191, 263]",SWVQ.tsv
+it's a,2,266,"[45, 47, 266]",SWVQ.tsv
+kind of,2,47,"[34, 47, 60, 61, 63, 159, 176, 289]",SWVQ.tsv
+walk,1,51,"[48, 51, 52, 59]",SWVQ.tsv
+rugby,1,51,"[14, 50, 51, 84]",SWVQ.tsv
+time,1,76,"[58, 76, 78, 101, 127, 156, 204, 248, 275]",SWVQ.tsv
+be you,2,73,"[8, 73, 131, 205, 206, 219]",SWVQ.tsv
+say,1,73,"[48, 62, 63, 71, 73, 78, 90, 144, 169, 170, 178, 183, 185, 200, 220, 243, 289]",SWVQ.tsv
+could,1,84,"[73, 84, 90, 194, 200, 222, 238]",SWVQ.tsv
+you could,2,238,"[73, 238]",SWVQ.tsv
+want to,2,79,"[36, 79, 290]",SWVQ.tsv
+if she's,2,79,"[76, 79]",SWVQ.tsv
+late or,2,79,"[76, 79]",SWVQ.tsv
+'s mum,2,88,"[79, 88]",SWVQ.tsv
+home,1,88,"[85, 87, 88, 90, 91, 93, 96, 98, 99]",SWVQ.tsv
+get home,2,99,"[85, 87, 90, 99]",SWVQ.tsv
+gonna,1,94,"[91, 93, 94, 96, 99, 100, 250, 269, 295]",SWVQ.tsv
+tell,1,277,"[91, 277]",SWVQ.tsv
+mum,1,79,"[44, 79, 88, 93, 96, 100]",SWVQ.tsv
+i'm gonna,2,94,"[93, 94, 295]",SWVQ.tsv
+and i'm gonna,3,96,"[94, 96]",SWVQ.tsv
+and i'm,2,96,"[94, 96, 241]",SWVQ.tsv
+already,1,98,"[6, 98]",SWVQ.tsv
+no cos,2,289,"[98, 289]",SWVQ.tsv
+things,1,220,"[106, 220, 223, 243, 258, 285]",SWVQ.tsv
+do you want some,4,126,"[108, 126, 127]",SWVQ.tsv
+though,1,124,"[55, 124, 133, 194, 199]",SWVQ.tsv
+doritos,1,138,"[135, 136, 138, 145, 148]",SWVQ.tsv
+what you're say,3,220,"[144, 220]",SWVQ.tsv
+be it,2,146,"[42, 135, 146, 156]",SWVQ.tsv
+ones,1,149,"[135, 149, 274]",SWVQ.tsv
+what be,2,151,"[42, 151]",SWVQ.tsv
+be that,2,151,"[150, 151, 193, 220]",SWVQ.tsv
+want some,2,154,"[126, 127, 154]",SWVQ.tsv
+eight o'clock,2,250,"[157, 250]",SWVQ.tsv
+room,1,164,"[159, 164, 165]",SWVQ.tsv
+he be,2,167,"[166, 167, 196]",SWVQ.tsv
+cos he,2,181,"[167, 181]",SWVQ.tsv
+she omit to say,4,170,"[169, 170]",SWVQ.tsv
+on her,2,171,"[76, 171]",SWVQ.tsv
+very handsome,2,171,"[166, 171]",SWVQ.tsv
+turn,1,212,"[176, 178, 212, 213, 285]",SWVQ.tsv
+i say,2,178,"[63, 71, 178, 183]",SWVQ.tsv
+great,1,254,"[178, 254]",SWVQ.tsv
+that the,2,182,"[150, 182]",SWVQ.tsv
+thing,1,183,"[1, 40, 66, 71, 183, 229, 230, 232, 233, 234, 254]",SWVQ.tsv
+or something,2,183,"[76, 183, 266]",SWVQ.tsv
+go to,2,192,"[185, 192]",SWVQ.tsv
+it be,2,192,"[185, 187, 192, 277, 287]",SWVQ.tsv
+website,1,222,"[185, 222]",SWVQ.tsv
+pay,1,266,"[187, 265, 266]",SWVQ.tsv
+the doctor,2,192,"[191, 192]",SWVQ.tsv
+anyway,1,197,"[71, 197, 289]",SWVQ.tsv
+i'd,1,200,"[71, 101, 200]",SWVQ.tsv
+really,1,200,"[181, 200, 201, 203]",SWVQ.tsv
+curly,1,200,"[199, 200, 201, 202]",SWVQ.tsv
+curly hair,2,202,"[199, 202]",SWVQ.tsv
+have the,2,210,"[202, 210]",SWVQ.tsv
+ten,1,204,"[76, 204]",SWVQ.tsv
+finish,1,206,"[155, 206, 208, 210, 222, 269, 272]",SWVQ.tsv
+you can,2,211,"[40, 155, 211, 266, 269, 289]",SWVQ.tsv
+turn it off,3,213,"[212, 213]",SWVQ.tsv
+get it,2,266,"[215, 266]",SWVQ.tsv
+think he,2,218,"[166, 218]",SWVQ.tsv
+i think he,3,218,"[216, 218]",SWVQ.tsv
+i have to,3,223,"[82, 223]",SWVQ.tsv
+i do,2,223,"[101, 223, 247]",SWVQ.tsv
+to do,2,223,"[101, 220, 223, 237, 239, 285]",SWVQ.tsv
+but i'm,2,264,"[223, 264]",SWVQ.tsv
+maybe,1,225,"[84, 101, 225]",SWVQ.tsv
+thing and i,3,229,"[71, 229]",SWVQ.tsv
+and i,2,100,"[71, 100, 101, 229]",SWVQ.tsv
+last,1,229,"[101, 229]",SWVQ.tsv
+still,1,229,"[196, 229, 261]",SWVQ.tsv
+suppose,1,229,"[196, 228, 229, 277]",SWVQ.tsv
+assessment thing,2,234,"[233, 234]",SWVQ.tsv
+on the,2,235,"[71, 235]",SWVQ.tsv
+to do it,3,237,"[101, 237]",SWVQ.tsv
+do it,2,237,"[101, 237, 244]",SWVQ.tsv
+i've get,2,239,"[74, 239]",SWVQ.tsv
+as well,2,239,"[127, 159, 239, 247, 280, 292, 295]",SWVQ.tsv
+a few,2,239,"[220, 239]",SWVQ.tsv
+another,1,269,"[239, 269]",SWVQ.tsv
+i'm just,2,241,"[78, 241]",SWVQ.tsv
+do the,2,243,"[222, 243]",SWVQ.tsv
+watch,1,247,"[36, 247]",SWVQ.tsv
+it's eight o'clock now,4,250,"[249, 250]",SWVQ.tsv
+of tidy,2,251,"[159, 251]",SWVQ.tsv
+do a,2,251,"[220, 251]",SWVQ.tsv
+three,1,259,"[101, 259, 266]",SWVQ.tsv
+page,1,259,"[222, 259]",SWVQ.tsv
+i know,2,261,"[160, 192, 261]",SWVQ.tsv
+back,1,263,"[216, 254, 263, 266]",SWVQ.tsv
+the post,2,266,"[265, 266]",SWVQ.tsv
+men in the jacuzzi,4,277,"[276, 277]",SWVQ.tsv
+fat,1,277,"[276, 277]",SWVQ.tsv
+swim,1,281,"[101, 281]",SWVQ.tsv
+teach each other,3,281,"[278, 280, 281, 284]",SWVQ.tsv
+to swim,2,281,"[278, 280, 281]",SWVQ.tsv
+i just have,3,290,"[76, 290]",SWVQ.tsv
+i just,2,290,"[76, 290]",SWVQ.tsv
+go off,2,290,"[155, 290]",SWVQ.tsv
+load,1,290,"[277, 287, 290]",SWVQ.tsv
+start,1,295,"[269, 295]",SWVQ.tsv
+oh i,2,100,"[5, 75, 100]",SWVQ.tsv
+vegetables,1,34,"[11, 34]",SWVQ.tsv
+i be just,3,100,"[27, 100]",SWVQ.tsv
+you know what i mean,5,55,"[30, 55, 59]",SWVQ.tsv
+what i,2,61,"[30, 61]",SWVQ.tsv
+the vegetables,2,34,"[32, 34, 118]",SWVQ.tsv
+bite,1,123,"[32, 123, 187, 251, 269]",SWVQ.tsv
+yes,1,136,"[39, 75, 132, 136]",SWVQ.tsv
+laptop,1,63,"[43, 63]",SWVQ.tsv
+fan,1,153,"[43, 153]",SWVQ.tsv
+bring,1,100,"[67, 69, 91, 93, 96, 98, 100]",SWVQ.tsv
+i mean,2,73,"[55, 59, 73]",SWVQ.tsv
+how's he get home,4,90,"[85, 87, 90]",SWVQ.tsv
+i be,2,128,"[100, 128, 130, 176, 182, 229]",SWVQ.tsv
+wrap,1,146,"[123, 146, 153]",SWVQ.tsv
+how do you,3,173,"[77, 173]",SWVQ.tsv
+the other,2,182,"[72, 182]",SWVQ.tsv
+when you,2,187,"[63, 187]",SWVQ.tsv
+like the,2,189,"[34, 189]",SWVQ.tsv
+there and,2,211,"[100, 211]",SWVQ.tsv
+else,1,219,"[121, 219]",SWVQ.tsv
+a tiny,2,223,"[123, 223]",SWVQ.tsv
+all of,2,263,"[44, 263]",SWVQ.tsv
+you know,2,284,"[55, 59, 284]",SWVQ.tsv
+yeah yeah,2,103,"[37, 103]",SWVQ.tsv
+thank,1,14,"[3, 14]",SWVQ.tsv
+mind,1,174,"[18, 174]",SWVQ.tsv
+what do you,3,90,"[42, 90, 220]",SWVQ.tsv
+the bus,2,100,"[56, 62, 94, 100]",SWVQ.tsv
+tomorrow,1,71,"[14, 71, 101]",SWVQ.tsv
+er i,2,90,"[76, 90]",SWVQ.tsv
+just say,2,90,"[78, 90]",SWVQ.tsv
+the rugby,2,84,"[50, 84]",SWVQ.tsv
+could you pick,3,90,"[84, 90]",SWVQ.tsv
+some more,2,126,"[109, 126, 127]",SWVQ.tsv
+it's the,2,127,"[66, 127]",SWVQ.tsv
+fajita kit,2,145,"[140, 145]",SWVQ.tsv
+say that,2,170,"[48, 170]",SWVQ.tsv
+to the,2,192,"[50, 192, 266]",SWVQ.tsv
+when i,2,192,"[63, 192]",SWVQ.tsv
+just do,2,244,"[90, 244]",SWVQ.tsv
+and then,2,246,"[90, 246]",SWVQ.tsv
+big,1,254,"[153, 254]",SWVQ.tsv
+you just,2,258,"[90, 258]",SWVQ.tsv
+i'm not,2,264,"[153, 264]",SWVQ.tsv
+pick,1,266,"[90, 266]",SWVQ.tsv
+just gonna,2,269,"[100, 269]",SWVQ.tsv
+it's kind of,3,289,"[63, 289]",SWVQ.tsv

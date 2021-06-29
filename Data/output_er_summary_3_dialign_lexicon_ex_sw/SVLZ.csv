@@ -1,0 +1,761 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+fund,1,94,"[0, 94, 170, 392]",SVLZ.tsv
+be this,2,251,"[0, 150, 251]",SVLZ.tsv
+gonna,1,79,"[2, 79, 211, 322, 411, 545]",SVLZ.tsv
+place,1,13,"[3, 13, 107, 540]",SVLZ.tsv
+stay,1,13,"[5, 13, 14, 181, 191]",SVLZ.tsv
+respect,1,13,"[8, 9, 13, 360, 361, 366, 374]",SVLZ.tsv
+go,1,13,"[6, 13, 14, 15, 16, 38, 39, 66, 75, 76, 120, 135, 168, 172, 180, 196, 225, 231, 236, 244, 329, 363, 374, 378, 385, 387, 390, 418, 436, 510, 511, 513, 547]",SVLZ.tsv
+i mean,2,14,"[13, 14, 46, 53, 176, 192, 194, 225, 248, 254, 372, 376, 390, 415, 418, 453, 476]",SVLZ.tsv
+make,1,62,"[8, 13, 62, 69, 244, 317, 319, 418, 478, 509, 527]",SVLZ.tsv
+something,1,62,"[8, 13, 62, 149, 316, 350, 418, 438, 518]",SVLZ.tsv
+with all,2,92,"[13, 92]",SVLZ.tsv
+if you,2,363,"[13, 363, 418, 457, 478, 513]",SVLZ.tsv
+life,1,14,"[8, 13, 14, 487, 514, 518]",SVLZ.tsv
+and make,2,509,"[13, 509]",SVLZ.tsv
+do i,2,143,"[23, 38, 143, 177]",SVLZ.tsv
+be it,2,29,"[27, 29, 49, 95, 315, 316, 393, 416, 559, 561]",SVLZ.tsv
+get,1,31,"[8, 31, 37, 43, 48, 53, 56, 75, 176, 211, 214, 302, 303, 311, 333, 341, 374, 390, 416, 418, 469, 492, 547]",SVLZ.tsv
+i've,1,31,"[14, 31, 190, 191, 498]",SVLZ.tsv
+do you,2,35,"[33, 35, 48, 290, 412, 440, 458, 460, 469]",SVLZ.tsv
+think,1,35,"[8, 14, 16, 33, 35, 51, 56, 62, 66, 73, 92, 106, 109, 111, 115, 121, 125, 131, 143, 149, 151, 154, 158, 163, 167, 173, 175, 177, 183, 187, 190, 196, 259, 266, 268, 271, 273, 279, 292, 298, 301, 302, 306, 309, 316, 320, 335, 359, 362, 363, 367, 368, 369, 408, 440, 441, 443, 444, 464, 469, 487, 489, 491, 493, 509, 512, 514, 518, 519, 524, 544, 545, 547, 555]",SVLZ.tsv
+think so,2,149,"[35, 149, 298, 301, 320, 555]",SVLZ.tsv
+way,1,41,"[38, 41, 62, 150, 152, 154, 458]",SVLZ.tsv
+see,1,62,"[42, 62, 89, 92, 94, 117, 152, 163, 178, 207, 239, 254, 524]",SVLZ.tsv
+i can't,2,209,"[42, 209, 335, 363, 531, 540, 560]",SVLZ.tsv
+can't,1,254,"[42, 254, 335, 363, 476, 487, 531, 540, 560, 562]",SVLZ.tsv
+well,1,52,"[4, 5, 16, 45, 52, 54, 62, 66, 72, 76, 87, 89, 102, 103, 107, 108, 109, 115, 121, 124, 149, 163, 168, 171, 173, 193, 211, 232, 236, 245, 259, 266, 274, 287, 302, 328, 344, 368, 377, 402, 416, 425, 457, 458, 471, 485, 498, 511, 536, 542, 543]",SVLZ.tsv
+vote,1,76,"[52, 76, 82, 154, 247, 267, 268, 290, 464]",SVLZ.tsv
+they vote,2,82,"[52, 82]",SVLZ.tsv
+be they,2,211,"[52, 103, 211, 274, 366, 382, 458, 546]",SVLZ.tsv
+cos,1,58,"[36, 45, 58, 125, 196, 205, 215, 250, 288, 374, 390, 418, 536]",SVLZ.tsv
+there be no job,4,62,"[58, 62]",SVLZ.tsv
+there be,2,62,"[58, 62, 76, 196, 203, 418, 443, 455, 509, 518]",SVLZ.tsv
+job,1,66,"[58, 62, 66, 323, 420]",SVLZ.tsv
+be no,2,467,"[58, 467]",SVLZ.tsv
+want,1,61,"[26, 61, 76, 79, 212, 325, 326, 361, 363, 396, 447, 469, 518, 544, 547]",SVLZ.tsv
+want to,2,76,"[61, 76, 79, 325, 326, 361, 518, 547]",SVLZ.tsv
+would,1,127,"[61, 127, 162, 229, 231, 232, 235, 250, 254, 278, 292, 322, 396, 418, 484]",SVLZ.tsv
+move,1,61,"[53, 61, 133]",SVLZ.tsv
+anyone,1,259,"[61, 259]",SVLZ.tsv
+this be,2,154,"[63, 67, 71, 154, 168, 216, 249, 251]",SVLZ.tsv
+be not,2,194,"[63, 69, 194, 218, 265, 390, 447, 489]",SVLZ.tsv
+yeah,1,65,"[6, 7, 19, 20, 22, 26, 30, 34, 50, 54, 56, 65, 70, 73, 74, 76, 84, 90, 96, 98, 106, 111, 123, 124, 129, 138, 139, 160, 163, 190, 195, 200, 203, 204, 206, 215, 217, 221, 225, 230, 241, 248, 251, 252, 262, 264, 279, 280, 281, 283, 289, 301, 309, 322, 328, 335, 340, 360, 371, 376, 378, 381, 404, 406, 408, 410, 412, 413, 416, 418, 419, 429, 444, 445, 446, 448, 450, 453, 454, 471, 479, 483, 485, 486, 489, 491, 494, 495, 500, 503, 507, 514, 515, 517, 522, 526, 527, 532, 533, 538, 540, 543, 550, 555, 556]",SVLZ.tsv
+be how,2,154,"[67, 71, 154]",SVLZ.tsv
+people,1,69,"[5, 9, 21, 53, 54, 62, 69, 73, 74, 76, 79, 107, 120, 125, 149, 154, 163, 168, 173, 175, 239, 247, 316, 361, 363, 369, 374, 377, 378, 396, 414, 417, 418, 438, 444, 447, 468, 502, 509, 511, 524, 527]",SVLZ.tsv
+things,1,69,"[54, 69, 115, 149, 154, 196, 236, 254, 361, 363, 364, 377, 414, 436, 470, 484, 518, 540]",SVLZ.tsv
+be make,2,69,"[62, 69, 527]",SVLZ.tsv
+isn't it,2,74,"[69, 71, 74, 120, 151, 256, 370, 534, 543]",SVLZ.tsv
+that be,2,69,"[8, 69, 76, 143, 163, 247, 248, 316, 374, 408, 412, 457, 506]",SVLZ.tsv
+believe,1,119,"[69, 119, 163, 167, 177, 520]",SVLZ.tsv
+things that,2,518,"[69, 518]",SVLZ.tsv
+rise,1,72,"[71, 72]",SVLZ.tsv
+maybe,1,73,"[66, 73, 126, 134, 149, 311, 369]",SVLZ.tsv
+yeah and,2,74,"[73, 74, 335]",SVLZ.tsv
+and people,2,74,"[73, 74, 369, 374]",SVLZ.tsv
+the the,2,74,"[73, 74, 196, 211, 447, 509]",SVLZ.tsv
+think that,2,73,"[8, 73, 143, 316, 441]",SVLZ.tsv
+have the,2,178,"[73, 178, 390, 457]",SVLZ.tsv
+answer,1,316,"[73, 316]",SVLZ.tsv
+back,1,75,"[1, 6, 75, 92, 180, 236, 244, 329, 346, 396, 424, 436, 545, 546]",SVLZ.tsv
+to be,2,75,"[3, 75, 76, 161, 225, 322, 390, 414, 545, 557]",SVLZ.tsv
+the eu,2,75,"[62, 75, 76, 89]",SVLZ.tsv
+go to be,3,76,"[75, 76, 390]",SVLZ.tsv
+be there,2,76,"[75, 76, 377, 443, 509]",SVLZ.tsv
+eu,1,92,"[75, 89, 92, 94]",SVLZ.tsv
+be a,2,75,"[45, 75, 105, 125, 126, 131, 154, 196, 374, 390, 412, 420, 429, 435, 498, 525, 531]",SVLZ.tsv
+go to,2,363,"[75, 76, 120, 168, 172, 363, 378, 385, 387, 390]",SVLZ.tsv
+into the,2,545,"[75, 545]",SVLZ.tsv
+die,1,77,"[76, 77, 415]",SVLZ.tsv
+seem,1,86,"[81, 86, 116, 117, 218, 225]",SVLZ.tsv
+selfish,1,86,"[81, 86]",SVLZ.tsv
+much,1,89,"[5, 82, 89, 103, 111, 194, 414, 509, 540]",SVLZ.tsv
+well they,2,121,"[89, 121]",SVLZ.tsv
+put,1,123,"[89, 122, 123, 137, 209, 213, 542]",SVLZ.tsv
+they can,2,236,"[89, 236]",SVLZ.tsv
+all the,2,93,"[5, 93, 161, 298, 369]",SVLZ.tsv
+it be,2,93,"[16, 18, 30, 45, 49, 82, 93, 94, 131, 137, 149, 197, 199, 201, 215, 268, 316, 335, 355, 356, 357, 363, 366, 382, 392, 418, 420, 447, 455, 464, 467, 473, 507, 509]",SVLZ.tsv
+because it,2,127,"[93, 127, 205]",SVLZ.tsv
+be all,2,274,"[93, 274, 298]",SVLZ.tsv
+it the,2,95,"[74, 95, 315]",SVLZ.tsv
+you know,2,97,"[5, 8, 14, 16, 36, 49, 54, 62, 66, 79, 94, 97, 105, 117, 149, 165, 167, 178, 207, 211, 225, 245, 260, 268, 274, 290, 298, 316, 333, 341, 360, 361, 363, 364, 370, 374, 377, 384, 394, 399, 408, 412, 416, 418, 447, 458, 464, 469, 478, 487, 489, 498, 509, 514, 518, 529, 531, 534, 540, 542, 557]",SVLZ.tsv
+like,1,97,"[14, 16, 17, 51, 54, 76, 82, 94, 97, 117, 127, 136, 149, 154, 161, 168, 173, 177, 179, 196, 223, 268, 272, 298, 316, 360, 363, 364, 369, 377, 380, 416, 436, 464, 469, 472, 478, 496, 513, 514, 518]",SVLZ.tsv
+know,1,37,"[5, 36, 37, 49, 53, 54, 62, 66, 74, 79, 94, 97, 99, 105, 115, 117, 149, 165, 167, 178, 207, 211, 225, 236, 245, 259, 260, 268, 274, 290, 298, 306, 309, 315, 316, 333, 341, 360, 361, 363, 364, 370, 374, 377, 384, 394, 399, 408, 412, 416, 418, 447, 458, 464, 469, 478, 487, 489, 498, 509, 514, 518, 529, 531, 534, 540, 542, 557]",SVLZ.tsv
+you know like,3,97,"[54, 97, 469]",SVLZ.tsv
+the daily mail,3,167,"[97, 167]",SVLZ.tsv
+like the,2,97,"[51, 97, 196, 363, 364, 369, 380]",SVLZ.tsv
+and the,2,99,"[5, 51, 76, 99, 120, 170, 178, 258, 268, 390]",SVLZ.tsv
+you don't,2,99,"[43, 48, 53, 99, 415]",SVLZ.tsv
+don't know,2,99,"[53, 74, 99, 306, 309, 518]",SVLZ.tsv
+the sun be,3,100,"[99, 100]",SVLZ.tsv
+the sun,2,100,"[99, 100]",SVLZ.tsv
+be do,2,143,"[99, 143, 154]",SVLZ.tsv
+know what,2,178,"[99, 178, 315, 363]",SVLZ.tsv
+the mirror,2,102,"[101, 102]",SVLZ.tsv
+there you,2,103,"[5, 103, 124]",SVLZ.tsv
+well there,2,103,"[76, 103, 124]",SVLZ.tsv
+you be,2,154,"[103, 124, 154, 344, 418, 436]",SVLZ.tsv
+so much,2,509,"[103, 509]",SVLZ.tsv
+david cameron be,3,117,"[105, 117]",SVLZ.tsv
+david cameron,2,218,"[105, 176, 218]",SVLZ.tsv
+david,1,320,"[105, 176, 320]",SVLZ.tsv
+say,1,107,"[8, 54, 76, 82, 107, 154, 165, 167, 168, 178, 201, 236, 278, 322, 327, 328, 363, 396, 407, 418, 436, 447, 458, 469]",SVLZ.tsv
+and they,2,107,"[62, 76, 107, 201, 236, 382, 415, 435]",SVLZ.tsv
+could,1,62,"[14, 62, 107, 117, 162, 389, 418, 485]",SVLZ.tsv
+europe,1,107,"[66, 107, 120, 130, 168, 261, 264, 266, 359]",SVLZ.tsv
+anything,1,107,"[82, 107, 209, 341]",SVLZ.tsv
+you you,2,107,"[22, 104, 107, 363, 412, 469]",SVLZ.tsv
+he be,2,107,"[106, 107, 110, 117, 306, 308, 309, 316, 322]",SVLZ.tsv
+you could,2,117,"[107, 117]",SVLZ.tsv
+actually,1,107,"[12, 107, 268, 292, 316, 363, 531]",SVLZ.tsv
+europe but,2,359,"[107, 130, 359]",SVLZ.tsv
+but people,2,444,"[107, 168, 239, 444]",SVLZ.tsv
+best,1,514,"[107, 514]",SVLZ.tsv
+a different,2,114,"[17, 114, 248]",SVLZ.tsv
+be in,2,114,"[6, 20, 76, 114, 215, 237, 272]",SVLZ.tsv
+speak out,2,114,"[104, 114]",SVLZ.tsv
+he have,2,129,"[114, 129, 178]",SVLZ.tsv
+might,1,180,"[114, 180, 325, 326]",SVLZ.tsv
+he didn't seem,3,117,"[116, 117]",SVLZ.tsv
+he didn't,2,117,"[116, 117]",SVLZ.tsv
+the referendum,2,154,"[116, 154]",SVLZ.tsv
+result,1,236,"[116, 168, 236, 363, 464]",SVLZ.tsv
+they're,1,120,"[5, 37, 120, 172, 207, 211, 215, 240, 263, 272, 363, 364, 369, 407, 415, 531, 536]",SVLZ.tsv
+the people,2,120,"[21, 120, 175]",SVLZ.tsv
+and the people,3,120,"[76, 120]",SVLZ.tsv
+leader,1,120,"[115, 120, 121, 127, 322, 337]",SVLZ.tsv
+choose the next leader,4,121,"[120, 121]",SVLZ.tsv
+be go,2,135,"[120, 135, 168]",SVLZ.tsv
+which be,2,120,"[32, 120, 145, 265, 363, 418]",SVLZ.tsv
+it and,2,509,"[120, 509]",SVLZ.tsv
+they put forward,3,123,"[122, 123]",SVLZ.tsv
+candidates,1,123,"[122, 123, 377]",SVLZ.tsv
+put forward,2,137,"[122, 137]",SVLZ.tsv
+but they,2,213,"[122, 213, 237, 238, 244, 246, 487, 540]",SVLZ.tsv
+the candidates,2,363,"[122, 363]",SVLZ.tsv
+yeah well,2,471,"[124, 471, 485]",SVLZ.tsv
+may,1,126,"[115, 126, 130]",SVLZ.tsv
+good,1,175,"[126, 175, 224, 316, 317, 319, 363, 494]",SVLZ.tsv
+will be,2,220,"[126, 219, 220, 222, 223]",SVLZ.tsv
+a good,2,316,"[126, 316, 317, 319, 363]",SVLZ.tsv
+but he's,2,128,"[117, 128, 335]",SVLZ.tsv
+integrity,1,178,"[128, 176, 178]",SVLZ.tsv
+a bite,2,128,"[6, 128, 191]",SVLZ.tsv
+he's,1,279,"[128, 176, 279, 288, 298, 299, 302, 304, 313, 316, 335]",SVLZ.tsv
+with a,2,531,"[128, 531, 540]",SVLZ.tsv
+in the,2,130,"[6, 54, 56, 70, 76, 127, 130, 167, 209, 268, 270, 272, 290, 298, 307, 346, 374, 425, 428, 447, 478]",SVLZ.tsv
+take,1,130,"[79, 86, 130, 268, 440, 444]",SVLZ.tsv
+pro,1,130,"[102, 130, 261]",SVLZ.tsv
+part,1,130,"[109, 130, 154]",SVLZ.tsv
+be be,2,163,"[130, 150, 163, 256]",SVLZ.tsv
+be pro europe,3,264,"[130, 264]",SVLZ.tsv
+pro europe,2,266,"[130, 261, 266]",SVLZ.tsv
+campaign,1,322,"[132, 315, 322, 341]",SVLZ.tsv
+right,1,141,"[138, 140, 141, 153, 188, 310, 332, 379, 463, 464]",SVLZ.tsv
+oh right,2,188,"[138, 188, 379]",SVLZ.tsv
+one,1,140,"[6, 26, 140, 154, 167, 186, 236, 243, 247, 316, 335, 394, 412, 416, 417, 455, 464, 551, 557]",SVLZ.tsv
+sorry,1,144,"[15, 144, 234, 318]",SVLZ.tsv
+well the,2,168,"[5, 72, 168]",SVLZ.tsv
+for their,2,168,"[68, 82, 168]",SVLZ.tsv
+and it,2,168,"[74, 86, 168]",SVLZ.tsv
+it isn't,2,168,"[74, 168, 543]",SVLZ.tsv
+people be,2,168,"[79, 125, 168, 363, 447]",SVLZ.tsv
+against the,2,168,"[104, 168]",SVLZ.tsv
+boris,1,168,"[125, 168]",SVLZ.tsv
+referendum,1,168,"[154, 168]",SVLZ.tsv
+and to,2,168,"[158, 168]",SVLZ.tsv
+end,1,168,"[70, 163, 168, 509]",SVLZ.tsv
+people like boris johnson,4,173,"[168, 173]",SVLZ.tsv
+boris johnson be,3,175,"[168, 175]",SVLZ.tsv
+be about,2,175,"[168, 175]",SVLZ.tsv
+johnson,1,339,"[168, 339]",SVLZ.tsv
+their own,2,363,"[168, 363]",SVLZ.tsv
+for their own,3,509,"[168, 509]",SVLZ.tsv
+the lack of,3,170,"[74, 170]",SVLZ.tsv
+and and,2,170,"[82, 170]",SVLZ.tsv
+lack of,2,359,"[170, 359]",SVLZ.tsv
+he's get,2,302,"[176, 302]",SVLZ.tsv
+i dunno,2,469,"[176, 335, 469, 534, 557]",SVLZ.tsv
+travelodge,1,191,"[179, 191]",SVLZ.tsv
+what's the,2,197,"[179, 197, 259]",SVLZ.tsv
+what's,1,363,"[179, 363, 498]",SVLZ.tsv
+wetherspoon's,1,183,"[181, 183]",SVLZ.tsv
+they do,2,238,"[184, 187, 237, 238, 244, 491, 542]",SVLZ.tsv
+i think,2,187,"[8, 16, 56, 62, 106, 109, 111, 115, 125, 131, 143, 149, 151, 154, 158, 163, 167, 173, 177, 187, 190, 196, 259, 266, 268, 279, 292, 298, 301, 302, 306, 309, 316, 320, 335, 359, 362, 363, 369, 408, 441, 443, 444, 464, 487, 491, 493, 509, 512, 514, 518, 519, 524, 547, 555]",SVLZ.tsv
+think in,2,187,"[92, 187]",SVLZ.tsv
+sure,1,189,"[127, 189, 458, 475]",SVLZ.tsv
+they say,2,201,"[165, 201]",SVLZ.tsv
+be we,2,548,"[201, 216, 548]",SVLZ.tsv
+if it,2,268,"[210, 268]",SVLZ.tsv
+a lot of,3,212,"[1, 125, 212, 224, 511, 524]",SVLZ.tsv
+lot of,2,212,"[62, 212, 224]",SVLZ.tsv
+a lot,2,212,"[147, 212, 224, 237, 294, 511, 524]",SVLZ.tsv
+want a,2,469,"[212, 469]",SVLZ.tsv
+where be,2,312,"[216, 312, 546]",SVLZ.tsv
+he will be,3,220,"[219, 220, 222]",SVLZ.tsv
+before that,2,224,"[125, 224]",SVLZ.tsv
+he do,2,224,"[177, 224]",SVLZ.tsv
+but he,2,298,"[224, 298, 356, 363]",SVLZ.tsv
+have be,2,229,"[14, 62, 162, 229, 250, 254, 261, 278, 390]",SVLZ.tsv
+it would,2,229,"[127, 229, 232, 235, 250, 254]",SVLZ.tsv
+would have,2,231,"[162, 229, 231, 235, 250, 254, 278, 292]",SVLZ.tsv
+better,1,294,"[229, 294]",SVLZ.tsv
+have go,2,231,"[15, 196, 231]",SVLZ.tsv
+have to,2,231,"[62, 79, 161, 231, 277, 361, 438, 509]",SVLZ.tsv
+and he,2,231,"[117, 119, 231, 322, 327, 328]",SVLZ.tsv
+have have,2,231,"[117, 231, 390]",SVLZ.tsv
+knock,1,231,"[125, 231]",SVLZ.tsv
+them and,2,247,"[231, 247]",SVLZ.tsv
+they be,2,237,"[14, 54, 236, 237, 264, 274, 298, 366, 382, 418, 435, 447, 455, 458, 535, 545]",SVLZ.tsv
+lot,1,237,"[62, 237]",SVLZ.tsv
+see it,2,239,"[94, 239]",SVLZ.tsv
+yeah it's,2,30,"[6, 30, 70, 241, 533]",SVLZ.tsv
+it's just,2,214,"[70, 214, 241, 534]",SVLZ.tsv
+it's a,2,243,"[1, 6, 193, 243, 487, 504]",SVLZ.tsv
+that they,2,243,"[66, 79, 163, 236, 243, 244, 264, 394, 438]",SVLZ.tsv
+the conservatives,2,248,"[243, 248, 266]",SVLZ.tsv
+you know in,3,245,"[14, 79, 245, 384]",SVLZ.tsv
+well you know,3,245,"[16, 211, 245, 377, 458]",SVLZ.tsv
+though,1,249,"[17, 159, 192, 249, 374, 436, 514]",SVLZ.tsv
+worse,1,251,"[249, 251]",SVLZ.tsv
+two,1,256,"[123, 256, 259, 551, 561]",SVLZ.tsv
+labour,1,259,"[256, 259, 260, 266, 320]",SVLZ.tsv
+party,1,256,"[233, 235, 256, 259, 264, 308, 322, 464]",SVLZ.tsv
+labour party,2,264,"[256, 264]",SVLZ.tsv
+the labour,2,288,"[256, 288]",SVLZ.tsv
+the labour party,3,308,"[256, 308, 322]",SVLZ.tsv
+work,1,258,"[143, 207, 209, 213, 215, 258, 292, 394, 407, 416, 418, 425, 428, 438, 490]",SVLZ.tsv
+liberal,1,258,"[233, 235, 236, 258, 259, 260]",SVLZ.tsv
+work class,2,292,"[258, 292, 394]",SVLZ.tsv
+class,1,292,"[258, 292, 298, 394, 407]",SVLZ.tsv
+middle class,2,298,"[258, 298]",SVLZ.tsv
+always,1,191,"[51, 191, 261, 416, 498]",SVLZ.tsv
+and they're,2,263,"[5, 263]",SVLZ.tsv
+particularly,1,263,"[117, 263]",SVLZ.tsv
+vote for,2,267,"[82, 247, 267, 268, 290, 464]",SVLZ.tsv
+brexit,1,267,"[102, 236, 267]",SVLZ.tsv
+majority,1,267,"[226, 267]",SVLZ.tsv
+mps,1,267,"[266, 267, 268]",SVLZ.tsv
+vote for brexit,3,268,"[267, 268]",SVLZ.tsv
+almost,1,275,"[228, 247, 268, 275]",SVLZ.tsv
+he would,2,322,"[278, 322]",SVLZ.tsv
+i'd,1,278,"[196, 278, 518]",SVLZ.tsv
+corbyn,1,285,"[111, 282, 285, 287, 294, 299, 300, 302]",SVLZ.tsv
+andy burnham,2,292,"[291, 292, 312]",SVLZ.tsv
+come,1,297,"[152, 154, 156, 297, 298, 456, 469]",SVLZ.tsv
+he come from,3,298,"[297, 298]",SVLZ.tsv
+of the,2,299,"[49, 74, 154, 167, 175, 244, 266, 288, 299, 308, 322, 394, 418, 455, 509, 547]",SVLZ.tsv
+jeremy corbyn,2,299,"[111, 299, 302]",SVLZ.tsv
+isn't he,2,299,"[288, 299]",SVLZ.tsv
+from the,2,299,"[14, 299, 300, 335, 447, 469]",SVLZ.tsv
+yeah i think,3,190,"[111, 190, 279, 301, 555]",SVLZ.tsv
+i think so,3,301,"[149, 301, 320]",SVLZ.tsv
+be he,2,312,"[301, 312, 314, 321, 335, 544]",SVLZ.tsv
+yeah i think so,4,555,"[301, 555]",SVLZ.tsv
+i don't,2,53,"[14, 46, 53, 108, 117, 121, 127, 154, 161, 175, 177, 183, 259, 298, 306, 309, 345, 348, 489, 545]",SVLZ.tsv
+i think he,3,306,"[177, 306, 309, 316, 547]",SVLZ.tsv
+up i,2,369,"[306, 369]",SVLZ.tsv
+look,1,369,"[306, 309, 369, 415]",SVLZ.tsv
+i don't know,3,306,"[53, 306, 309, 518]",SVLZ.tsv
+i i,2,309,"[92, 161, 177, 309, 320, 562]",SVLZ.tsv
+yeah i,2,301,"[22, 34, 111, 190, 279, 301, 309, 376, 453, 555]",SVLZ.tsv
+have a,2,309,"[111, 277, 309, 460]",SVLZ.tsv
+near,1,309,"[117, 309]",SVLZ.tsv
+i i think he,4,316,"[309, 316]",SVLZ.tsv
+i'm,1,311,"[20, 127, 207, 311, 341, 458, 475]",SVLZ.tsv
+up with,2,311,"[163, 311, 469]",SVLZ.tsv
+andy,1,311,"[292, 311, 312]",SVLZ.tsv
+wrong,1,311,"[196, 311, 540]",SVLZ.tsv
+he's a,2,313,"[288, 313, 316]",SVLZ.tsv
+scouser,1,314,"[313, 314]",SVLZ.tsv
+also,1,315,"[70, 74, 154, 232, 315, 368, 369]",SVLZ.tsv
+quite,1,315,"[139, 260, 272, 315]",SVLZ.tsv
+what he,2,315,"[177, 315]",SVLZ.tsv
+during the leadership,3,316,"[315, 316]",SVLZ.tsv
+stand,1,322,"[315, 321, 322, 337, 363, 458, 464]",SVLZ.tsv
+leadership,1,341,"[315, 341]",SVLZ.tsv
+stand for,2,363,"[315, 337, 363]",SVLZ.tsv
+make a,2,317,"[62, 317, 319, 478]",SVLZ.tsv
+mayor,1,322,"[317, 319, 322]",SVLZ.tsv
+feel,1,323,"[14, 17, 323, 363, 518]",SVLZ.tsv
+do they,2,323,"[185, 323]",SVLZ.tsv
+everyone,1,509,"[323, 509]",SVLZ.tsv
+they might not want to,5,326,"[325, 326]",SVLZ.tsv
+johnson be,2,327,"[175, 327]",SVLZ.tsv
+didn't he,2,327,"[226, 327, 343]",SVLZ.tsv
+ask,1,327,"[316, 322, 327, 401]",SVLZ.tsv
+and he say,3,327,"[322, 327]",SVLZ.tsv
+he say,2,322,"[8, 322, 327, 328, 363]",SVLZ.tsv
+and he say no,4,328,"[327, 328]",SVLZ.tsv
+be ask,2,328,"[327, 328]",SVLZ.tsv
+alan johnson,2,339,"[327, 339]",SVLZ.tsv
+go back,2,236,"[6, 180, 236, 244, 329, 436]",SVLZ.tsv
+alan,1,339,"[329, 339]",SVLZ.tsv
+go back to,3,436,"[329, 436]",SVLZ.tsv
+it's not,2,331,"[16, 173, 331, 359, 451, 498, 518]",SVLZ.tsv
+any more,2,331,"[259, 331]",SVLZ.tsv
+a politician,2,333,"[117, 333]",SVLZ.tsv
+you know he,3,333,"[298, 333]",SVLZ.tsv
+because he,2,333,"[110, 308, 333]",SVLZ.tsv
+politician,1,333,"[316, 333]",SVLZ.tsv
+become a,2,333,"[4, 333, 489]",SVLZ.tsv
+a very,2,335,"[3, 335, 374]",SVLZ.tsv
+another,1,335,"[19, 215, 248, 335, 412, 416, 417]",SVLZ.tsv
+remember,1,335,"[74, 152, 154, 204, 218, 223, 335, 341, 345, 348, 363, 374, 412, 458, 460, 531, 560, 562]",SVLZ.tsv
+live,1,79,"[16, 79, 308, 335, 516, 524]",SVLZ.tsv
+next,1,335,"[121, 335]",SVLZ.tsv
+i think it be,4,335,"[16, 131, 149, 335]",SVLZ.tsv
+think it,2,175,"[16, 175, 335, 464]",SVLZ.tsv
+room,1,335,"[183, 335]",SVLZ.tsv
+somebody,1,335,"[214, 322, 335]",SVLZ.tsv
+no i,2,335,"[268, 335, 359, 514, 532]",SVLZ.tsv
+background,1,335,"[296, 335, 455, 478, 484]",SVLZ.tsv
+the north,2,335,"[298, 335]",SVLZ.tsv
+from the north,3,335,"[300, 335]",SVLZ.tsv
+live in,2,335,"[16, 308, 335]",SVLZ.tsv
+i can't remember,3,363,"[335, 363, 531, 560]",SVLZ.tsv
+talk,1,335,"[277, 335, 363, 412, 553, 554, 557]",SVLZ.tsv
+it be but,3,473,"[335, 356, 473, 509]",SVLZ.tsv
+nothing,1,540,"[335, 540]",SVLZ.tsv
+can't remember,2,562,"[335, 562]",SVLZ.tsv
+ever,1,337,"[175, 337, 374]",SVLZ.tsv
+still,1,344,"[316, 344, 418, 489]",SVLZ.tsv
+well you,2,377,"[245, 344, 377, 458, 511]",SVLZ.tsv
+about it,2,469,"[344, 469, 542]",SVLZ.tsv
+tony blair,2,347,"[343, 345, 347]",SVLZ.tsv
+his er,2,349,"[322, 349]",SVLZ.tsv
+everything,1,351,"[66, 94, 161, 163, 351]",SVLZ.tsv
+be the,2,351,"[51, 154, 167, 203, 259, 316, 351, 542]",SVLZ.tsv
+education,1,351,"[70, 350, 351, 359, 374, 390, 438, 443, 447, 449, 451, 493, 494]",SVLZ.tsv
+education be,2,359,"[351, 359, 447, 494]",SVLZ.tsv
+it do,2,358,"[17, 86, 358, 495]",SVLZ.tsv
+world,1,362,"[17, 19, 362, 414]",SVLZ.tsv
+that's,1,362,"[54, 60, 74, 139, 158, 197, 215, 247, 268, 316, 362, 363, 394, 404, 405, 407, 417, 442, 464, 465, 468, 487, 520, 524, 543]",SVLZ.tsv
+find,1,362,"[154, 361, 362, 363, 399]",SVLZ.tsv
+i think you'll find,4,363,"[362, 363]",SVLZ.tsv
+understand,1,472,"[372, 373, 472, 540]",SVLZ.tsv
+school,1,380,"[375, 378, 380, 382, 384, 390, 499]",SVLZ.tsv
+centre,1,385,"[260, 385, 387]",SVLZ.tsv
+and er,2,400,"[72, 215, 400]",SVLZ.tsv
+that's what,2,405,"[54, 405, 407]",SVLZ.tsv
+be say,2,407,"[54, 154, 236, 407, 418, 436]",SVLZ.tsv
+that that,2,407,"[12, 66, 407, 408, 457, 509]",SVLZ.tsv
+the work,2,394,"[143, 394, 407]",SVLZ.tsv
+about the,2,407,"[154, 175, 363, 407, 540]",SVLZ.tsv
+the work class,3,407,"[292, 394, 407]",SVLZ.tsv
+many,1,409,"[14, 43, 48, 53, 205, 409, 470, 492]",SVLZ.tsv
+children,1,409,"[82, 409]",SVLZ.tsv
+you have,2,409,"[161, 390, 409, 457]",SVLZ.tsv
+provide,1,411,"[154, 411]",SVLZ.tsv
+for them,2,411,"[247, 411, 489]",SVLZ.tsv
+they they,2,415,"[5, 363, 366, 415, 418, 504, 542]",SVLZ.tsv
+mean i,2,415,"[14, 46, 194, 390, 415]",SVLZ.tsv
+mean,1,415,"[14, 46, 53, 192, 194, 225, 248, 254, 372, 376, 390, 415, 418, 453]",SVLZ.tsv
+and you,2,415,"[62, 79, 260, 363, 415, 469, 478, 531, 557]",SVLZ.tsv
+hear,1,415,"[76, 415]",SVLZ.tsv
+and i,2,415,"[8, 154, 161, 163, 177, 345, 374, 415]",SVLZ.tsv
+felt,1,417,"[117, 316, 417]",SVLZ.tsv
+how people,2,417,"[154, 417, 468]",SVLZ.tsv
+people felt,2,417,"[247, 417]",SVLZ.tsv
+towards,1,417,"[359, 417]",SVLZ.tsv
+the mine,2,430,"[418, 428, 430, 431]",SVLZ.tsv
+mine,1,430,"[196, 418, 425, 428, 430, 431, 433, 434, 435]",SVLZ.tsv
+problem,1,442,"[163, 215, 442]",SVLZ.tsv
+the way,2,458,"[62, 154, 458]",SVLZ.tsv
+conservative,1,458,"[226, 458, 464]",SVLZ.tsv
+be they be,3,458,"[274, 366, 382, 458]",SVLZ.tsv
+use,1,493,"[458, 462, 464, 493, 557]",SVLZ.tsv
+of a,2,464,"[5, 149, 248, 316, 408, 455, 464]",SVLZ.tsv
+that you know,3,464,"[62, 66, 464]",SVLZ.tsv
+erm i,2,464,"[127, 316, 363, 464]",SVLZ.tsv
+think it be,3,464,"[16, 131, 149, 464]",SVLZ.tsv
+so you know,3,464,"[149, 464, 469, 518]",SVLZ.tsv
+like that,2,464,"[149, 363, 377, 416, 464, 513]",SVLZ.tsv
+for a,2,464,"[149, 464]",SVLZ.tsv
+that you,2,62,"[14, 32, 62, 66, 161, 163, 374, 390, 418, 464, 487]",SVLZ.tsv
+unfair,1,464,"[218, 316, 464]",SVLZ.tsv
+and that's why,3,464,"[247, 464]",SVLZ.tsv
+and that's,2,464,"[363, 464]",SVLZ.tsv
+become,1,333,"[205, 333, 464, 489]",SVLZ.tsv
+information,1,474,"[154, 161, 369, 370, 474, 475, 480, 484]",SVLZ.tsv
+access to information,3,475,"[474, 475]",SVLZ.tsv
+everybody,1,476,"[8, 412, 469, 476]",SVLZ.tsv
+in the valleys,3,478,"[54, 478]",SVLZ.tsv
+you know you,3,478,"[8, 117, 363, 478, 540, 542]",SVLZ.tsv
+difference,1,478,"[259, 370, 478, 524]",SVLZ.tsv
+grow up in the,4,478,"[298, 478]",SVLZ.tsv
+family,1,374,"[298, 374, 416, 421, 478, 484, 485]",SVLZ.tsv
+grow up,2,478,"[298, 478, 485, 489]",SVLZ.tsv
+attitude,1,478,"[359, 478]",SVLZ.tsv
+your family,2,478,"[416, 478, 484, 485]",SVLZ.tsv
+know you,2,117,"[37, 117, 363, 478, 540, 542]",SVLZ.tsv
+access,1,474,"[213, 474, 475, 480]",SVLZ.tsv
+on the,2,482,"[76, 94, 236, 363, 482, 484]",SVLZ.tsv
+and things,2,484,"[149, 196, 363, 377, 484]",SVLZ.tsv
+read,1,484,"[22, 162, 163, 363, 484, 532]",SVLZ.tsv
+if your family,3,485,"[484, 485]",SVLZ.tsv
+apparently,1,488,"[322, 488]",SVLZ.tsv
+it's harder,2,489,"[488, 489]",SVLZ.tsv
+harder,1,509,"[488, 509]",SVLZ.tsv
+different,1,114,"[14, 17, 18, 114, 205, 248, 490]",SVLZ.tsv
+factor,1,490,"[364, 490, 509]",SVLZ.tsv
+yeah it,2,494,"[163, 494]",SVLZ.tsv
+people in,2,502,"[54, 502]",SVLZ.tsv
+for example,2,502,"[489, 502]",SVLZ.tsv
+crime,1,506,"[489, 506]",SVLZ.tsv
+country,1,76,"[16, 76, 359, 363, 403, 455, 477, 508]",SVLZ.tsv
+in this country,3,508,"[455, 477, 508]",SVLZ.tsv
+you go,2,374,"[363, 374, 510, 513]",SVLZ.tsv
+politics,1,510,"[499, 510, 511, 520, 523]",SVLZ.tsv
+if you go,3,513,"[363, 513]",SVLZ.tsv
+you can,2,521,"[14, 22, 25, 32, 149, 178, 254, 418, 511, 521, 522]",SVLZ.tsv
+mum,1,562,"[525, 562]",SVLZ.tsv
+i read,2,532,"[363, 532]",SVLZ.tsv
+yeah no,2,445,"[406, 445, 514, 532]",SVLZ.tsv
+yeah no i,3,532,"[514, 532]",SVLZ.tsv
+what they be,3,535,"[54, 535]",SVLZ.tsv
+choose,1,535,"[121, 535]",SVLZ.tsv
+what they,2,535,"[363, 535]",SVLZ.tsv
+for that,2,537,"[10, 11, 12, 537, 539]",SVLZ.tsv
+don't they,2,541,"[74, 167, 440, 541]",SVLZ.tsv
+you want,2,544,"[26, 396, 544]",SVLZ.tsv
+play,1,544,"[111, 544]",SVLZ.tsv
+with him,2,544,"[117, 544]",SVLZ.tsv
+what be,2,544,"[135, 259, 544, 559]",SVLZ.tsv
+but you,2,546,"[14, 254, 509, 518, 546]",SVLZ.tsv
+far,1,549,"[14, 15, 251, 266, 268, 424, 548, 549, 553]",SVLZ.tsv
+how far,2,549,"[424, 549]",SVLZ.tsv
+how far out,3,549,"[548, 549]",SVLZ.tsv
+twenty,1,551,"[76, 79, 228, 551]",SVLZ.tsv
+keep talk,2,554,"[553, 554]",SVLZ.tsv
+and you know,3,557,"[62, 79, 260, 363, 531, 557]",SVLZ.tsv
+know i,2,115,"[53, 115, 117, 557]",SVLZ.tsv
+you know i,3,557,"[16, 117, 557]",SVLZ.tsv
+often,1,557,"[512, 514, 557]",SVLZ.tsv
+buy,1,559,"[158, 197, 390, 559]",SVLZ.tsv
+what what,2,559,"[197, 559]",SVLZ.tsv
+figure,1,559,"[268, 559]",SVLZ.tsv
+when i,2,559,"[374, 469, 559]",SVLZ.tsv
+five,1,561,"[137, 561]",SVLZ.tsv
+not gonna,2,211,"[2, 211]",SVLZ.tsv
+make something of your life,5,13,"[8, 13]",SVLZ.tsv
+away,1,13,"[8, 13, 14]",SVLZ.tsv
+it's the,2,151,"[13, 151, 351, 508]",SVLZ.tsv
+er do,2,412,"[23, 412]",SVLZ.tsv
+the car,2,31,"[6, 31]",SVLZ.tsv
+get to,2,37,"[31, 37]",SVLZ.tsv
+you not,2,390,"[35, 390]",SVLZ.tsv
+i go,2,390,"[38, 390]",SVLZ.tsv
+true,1,408,"[69, 362, 408]",SVLZ.tsv
+they the,2,209,"[73, 209]",SVLZ.tsv
+to get,2,390,"[75, 390, 547]",SVLZ.tsv
+money,1,399,"[89, 212, 399]",SVLZ.tsv
+so the,2,213,"[95, 213]",SVLZ.tsv
+the media,2,366,"[95, 366, 367]",SVLZ.tsv
+they wouldn't,2,250,"[107, 250]",SVLZ.tsv
+well he,2,287,"[107, 287]",SVLZ.tsv
+in a,2,114,"[14, 16, 57, 114, 181]",SVLZ.tsv
+by the,2,225,"[116, 225, 364, 366, 390, 392]",SVLZ.tsv
+but it's,2,120,"[57, 120, 451]",SVLZ.tsv
+no they,2,213,"[122, 213]",SVLZ.tsv
+they but,2,382,"[122, 382]",SVLZ.tsv
+measure,1,408,"[168, 408]",SVLZ.tsv
+they're not,2,207,"[172, 207, 211]",SVLZ.tsv
+pay,1,447,"[172, 447, 451]",SVLZ.tsv
+a hotel,2,189,"[186, 189]",SVLZ.tsv
+it's er,2,370,"[189, 370]",SVLZ.tsv
+not a,2,374,"[189, 335, 374, 451]",SVLZ.tsv
+it doesn't,2,210,"[55, 210]",SVLZ.tsv
+clear,1,210,"[209, 210, 211]",SVLZ.tsv
+would have be,3,229,"[162, 229, 250, 254, 278]",SVLZ.tsv
+it would have,3,235,"[229, 235]",SVLZ.tsv
+it would have be,4,250,"[229, 250, 254]",SVLZ.tsv
+if the,2,231,"[211, 231, 248]",SVLZ.tsv
+wouldn't have,2,250,"[231, 250]",SVLZ.tsv
+they would,2,418,"[231, 418, 484]",SVLZ.tsv
+yeah it's just,3,241,"[70, 241]",SVLZ.tsv
+be very,2,261,"[32, 194, 261, 464, 506]",SVLZ.tsv
+always have,2,261,"[51, 261]",SVLZ.tsv
+even,1,283,"[209, 283, 415, 502]",SVLZ.tsv
+incense by,2,283,"[282, 283]",SVLZ.tsv
+be from,2,447,"[309, 447]",SVLZ.tsv
+to the,2,323,"[209, 213, 323, 385, 387, 394]",SVLZ.tsv
+expect,1,394,"[331, 394, 418]",SVLZ.tsv
+be but,2,335,"[110, 335, 356, 418, 473, 509]",SVLZ.tsv
+so but,2,335,"[196, 335]",SVLZ.tsv
+bad,1,335,"[225, 335]",SVLZ.tsv
+talk about,2,412,"[335, 412]",SVLZ.tsv
+have he,2,337,"[330, 337]",SVLZ.tsv
+be still,2,418,"[344, 418]",SVLZ.tsv
+blair,1,343,"[223, 343, 345, 347]",SVLZ.tsv
+that it's,2,351,"[14, 351]",SVLZ.tsv
+reason,1,351,"[211, 351, 539]",SVLZ.tsv
+to think,2,368,"[367, 368]",SVLZ.tsv
+and understand,2,373,"[372, 373]",SVLZ.tsv
+town,1,385,"[14, 49, 385, 387]",SVLZ.tsv
+the town,2,385,"[182, 385, 387]",SVLZ.tsv
+state,1,407,"[368, 392, 407]",SVLZ.tsv
+help,1,412,"[411, 412]",SVLZ.tsv
+mean when,2,415,"[225, 415]",SVLZ.tsv
+blood,1,415,"[412, 415]",SVLZ.tsv
+but even,2,417,"[209, 417]",SVLZ.tsv
+one another,2,417,"[412, 416, 417]",SVLZ.tsv
+mine owners,2,435,"[434, 435]",SVLZ.tsv
+do you remember,3,458,"[412, 458, 460]",SVLZ.tsv
+she be,2,458,"[435, 458]",SVLZ.tsv
+one night,2,464,"[6, 464]",SVLZ.tsv
+so you,2,412,"[149, 412, 464, 469, 518]",SVLZ.tsv
+no but,2,466,"[49, 441, 445, 466, 546]",SVLZ.tsv
+so many,2,470,"[205, 470, 492]",SVLZ.tsv
+access to,2,474,"[209, 474, 475]",SVLZ.tsv
+the valleys,2,54,"[14, 54, 478]",SVLZ.tsv
+the internet,2,482,"[159, 482]",SVLZ.tsv
+background and,2,484,"[455, 484]",SVLZ.tsv
+you've get,2,492,"[8, 211, 416, 492]",SVLZ.tsv
+depend,1,494,"[196, 494]",SVLZ.tsv
+it depend,2,494,"[425, 494]",SVLZ.tsv
+hard,1,506,"[416, 506]",SVLZ.tsv
+free,1,506,"[449, 451, 455, 506]",SVLZ.tsv
+go into,2,510,"[196, 374, 510, 511, 513]",SVLZ.tsv
+you go into,3,510,"[374, 510, 513]",SVLZ.tsv
+go into politics,3,511,"[510, 511]",SVLZ.tsv
+onto,1,513,"[211, 513]",SVLZ.tsv
+start,1,513,"[511, 513, 546, 547]",SVLZ.tsv
+she be a,3,525,"[435, 525]",SVLZ.tsv
+where you,2,544,"[14, 544]",SVLZ.tsv
+no but you,3,546,"[49, 546]",SVLZ.tsv
+no it's,2,370,"[1, 28, 370]",SVLZ.tsv
+at the,2,182,"[3, 182, 196, 205, 207, 509]",SVLZ.tsv
+at the moment,3,205,"[3, 205, 207]",SVLZ.tsv
+moment,1,374,"[3, 374]",SVLZ.tsv
+leave,1,12,"[5, 12, 66, 76, 215, 260, 359]",SVLZ.tsv
+you know they,3,14,"[5, 14, 62, 361, 363]",SVLZ.tsv
+there's,1,14,"[5, 14, 32, 159, 211, 408, 416, 441, 444, 511, 540]",SVLZ.tsv
+there's no,2,211,"[5, 211]",SVLZ.tsv
+young,1,374,"[5, 247, 341, 374]",SVLZ.tsv
+respect you,2,9,"[8, 9]",SVLZ.tsv
+go that far from,4,15,"[14, 15]",SVLZ.tsv
+feel like,2,17,"[14, 17]",SVLZ.tsv
+with the,2,159,"[21, 79, 159, 215, 292, 509]",SVLZ.tsv
+that one,2,186,"[26, 186]",SVLZ.tsv
+you want that,3,396,"[26, 396]",SVLZ.tsv
+think it's,2,151,"[33, 66, 151, 487]",SVLZ.tsv
+to know,2,37,"[36, 37]",SVLZ.tsv
+cos it,2,45,"[36, 45]",SVLZ.tsv
+you know the,3,370,"[36, 62, 363, 370, 374, 509]",SVLZ.tsv
+go down,2,418,"[39, 418]",SVLZ.tsv
+outsiders,1,43,"[37, 43, 45]",SVLZ.tsv
+you don't get,3,53,"[43, 48, 53]",SVLZ.tsv
+that many,2,53,"[43, 53]",SVLZ.tsv
+i mean i don't,4,46,"[14, 46]",SVLZ.tsv
+i mean i,3,194,"[46, 194, 390]",SVLZ.tsv
+now i,2,209,"[46, 209]",SVLZ.tsv
+yeah yeah,2,215,"[50, 98, 215, 322, 412]",SVLZ.tsv
+say you know,3,54,"[8, 54, 165, 167, 418]",SVLZ.tsv
+immigration,1,54,"[49, 54]",SVLZ.tsv
+say you,2,396,"[54, 165, 167, 396]",SVLZ.tsv
+yeah that's,2,404,"[54, 139, 404]",SVLZ.tsv
+be say you know,4,418,"[54, 418]",SVLZ.tsv
+get the,2,56,"[53, 56]",SVLZ.tsv
+around,1,196,"[56, 196, 298, 489]",SVLZ.tsv
+yeah the,2,215,"[56, 215]",SVLZ.tsv
+i think of,3,408,"[56, 408]",SVLZ.tsv
+well i think,3,109,"[62, 109, 149, 173]",SVLZ.tsv
+you know a,3,207,"[62, 117, 207, 363, 408, 416]",SVLZ.tsv
+be you know,3,374,"[62, 260, 268, 374]",SVLZ.tsv
+be that,2,394,"[62, 163, 264, 363, 394, 418]",SVLZ.tsv
+there there,2,412,"[62, 412]",SVLZ.tsv
+you know there,3,418,"[62, 418]",SVLZ.tsv
+lot of people who,4,511,"[62, 511]",SVLZ.tsv
+er you know,3,207,"[66, 207, 370]",SVLZ.tsv
+it's that,2,364,"[66, 364]",SVLZ.tsv
+time,1,196,"[72, 76, 79, 196, 320, 322, 369]",SVLZ.tsv
+yes,1,422,"[72, 102, 422]",SVLZ.tsv
+know they,2,74,"[14, 74]",SVLZ.tsv
+the the the,3,196,"[74, 196, 447]",SVLZ.tsv
+be in the,3,76,"[6, 76, 272]",SVLZ.tsv
+it's go,2,76,"[16, 76]",SVLZ.tsv
+because of,2,76,"[49, 76, 296]",SVLZ.tsv
+yeah but that,3,225,"[76, 225]",SVLZ.tsv
+day,1,396,"[76, 396, 509, 524]",SVLZ.tsv
+there be there be,4,443,"[76, 443, 509]",SVLZ.tsv
+who want,2,447,"[76, 363, 447]",SVLZ.tsv
+of people who,3,511,"[76, 511]",SVLZ.tsv
+people who,2,511,"[76, 163, 377, 511]",SVLZ.tsv
+they didn't,2,246,"[79, 246]",SVLZ.tsv
+of that,2,408,"[79, 163, 408, 412]",SVLZ.tsv
+didn't they,2,246,"[82, 246]",SVLZ.tsv
+oh yeah,2,526,"[90, 262, 526]",SVLZ.tsv
+project,1,196,"[92, 196, 207]",SVLZ.tsv
+be able to,3,250,"[92, 250]",SVLZ.tsv
+see that,2,254,"[92, 178, 254]",SVLZ.tsv
+be you,2,374,"[94, 117, 374, 552]",SVLZ.tsv
+the sign,2,455,"[94, 455]",SVLZ.tsv
+probably,1,389,"[96, 279, 389, 485]",SVLZ.tsv
+the government,2,390,"[104, 390, 394]",SVLZ.tsv
+but i,2,196,"[106, 125, 196, 326, 359, 363, 441, 489, 491, 493, 509, 518, 540]",SVLZ.tsv
+yeah but,2,225,"[106, 225, 264, 489, 491, 495, 507, 540]",SVLZ.tsv
+but i think,3,441,"[106, 125, 359, 363, 441, 491, 493, 509, 518]",SVLZ.tsv
+well i,2,109,"[108, 109, 259, 542]",SVLZ.tsv
+think i,2,111,"[14, 111, 509, 518]",SVLZ.tsv
+know i think,3,115,"[16, 115]",SVLZ.tsv
+significantly,1,115,"[18, 115]",SVLZ.tsv
+i you know,3,117,"[14, 117]",SVLZ.tsv
+know i don't,3,117,"[53, 117]",SVLZ.tsv
+okay,1,192,"[117, 192, 432, 446, 469, 552]",SVLZ.tsv
+i don't think,3,121,"[14, 121, 175, 183, 298, 489, 545]",SVLZ.tsv
+otherwise,1,254,"[125, 254]",SVLZ.tsv
+a lot of people,4,511,"[125, 511, 524]",SVLZ.tsv
+give,1,207,"[127, 207, 209, 213, 390]",SVLZ.tsv
+whether,1,455,"[127, 322, 455, 531]",SVLZ.tsv
+it be a,3,131,"[45, 131, 420]",SVLZ.tsv
+erm it,2,137,"[51, 137, 268]",SVLZ.tsv
+for the,2,207,"[137, 207, 223, 416, 431, 433]",SVLZ.tsv
+that's that's,2,394,"[139, 394]",SVLZ.tsv
+i think that be,4,143,"[8, 143, 316]",SVLZ.tsv
+to do,2,250,"[143, 149, 250, 394, 518]",SVLZ.tsv
+erm the,2,390,"[143, 322, 390]",SVLZ.tsv
+i think that,3,441,"[143, 316, 441]",SVLZ.tsv
+home,1,145,"[14, 145]",SVLZ.tsv
+and things like,3,196,"[149, 196, 363, 377]",SVLZ.tsv
+charge,1,215,"[149, 215]",SVLZ.tsv
+things like,2,364,"[149, 363, 364, 377, 436]",SVLZ.tsv
+i remember,2,374,"[152, 154, 204, 374]",SVLZ.tsv
+and i think,3,154,"[8, 154, 163, 177]",SVLZ.tsv
+your own,2,154,"[14, 154]",SVLZ.tsv
+i think part of,4,154,"[109, 154]",SVLZ.tsv
+enough,1,162,"[154, 162]",SVLZ.tsv
+one of the,3,394,"[154, 394, 455]",SVLZ.tsv
+the miners,2,433,"[154, 433]",SVLZ.tsv
+miners,1,435,"[154, 421, 435]",SVLZ.tsv
+library,1,196,"[158, 196, 213]",SVLZ.tsv
+really,1,161,"[16, 159, 161, 173, 185, 259, 287, 334, 420, 518]",SVLZ.tsv
+excuse,1,161,"[159, 161, 489]",SVLZ.tsv
+that you have,3,390,"[161, 390]",SVLZ.tsv
+it wasn't,2,163,"[49, 51, 163, 416]",SVLZ.tsv
+and so,2,254,"[163, 254, 447]",SVLZ.tsv
+fact,1,374,"[163, 374, 394, 487]",SVLZ.tsv
+well yeah,2,416,"[163, 416]",SVLZ.tsv
+page,1,167,"[162, 167]",SVLZ.tsv
+number,1,196,"[167, 196]",SVLZ.tsv
+public,1,209,"[167, 209, 213]",SVLZ.tsv
+because they,2,368,"[167, 236, 368]",SVLZ.tsv
+it's about,2,173,"[70, 173]",SVLZ.tsv
+at least,2,180,"[178, 180]",SVLZ.tsv
+what you,2,390,"[178, 390, 436]",SVLZ.tsv
+to follow,2,418,"[178, 418]",SVLZ.tsv
+have the conviction,3,457,"[178, 457]",SVLZ.tsv
+never,1,418,"[183, 236, 369, 418]",SVLZ.tsv
+well it's,2,193,"[4, 45, 193, 457]",SVLZ.tsv
+it's it's,2,193,"[16, 57, 193, 359, 498, 534]",SVLZ.tsv
+and it's,2,368,"[193, 368]",SVLZ.tsv
+clean,1,433,"[193, 433]",SVLZ.tsv
+be buy,2,390,"[197, 390]",SVLZ.tsv
+sign,1,455,"[214, 455]",SVLZ.tsv
+remember for,2,223,"[218, 223]",SVLZ.tsv
+that seem,2,225,"[218, 225]",SVLZ.tsv
+for this,2,447,"[218, 447]",SVLZ.tsv
+can do be,3,236,"[209, 236]",SVLZ.tsv
+can do,2,236,"[209, 236, 403]",SVLZ.tsv
+they won't,2,236,"[213, 236]",SVLZ.tsv
+the liberal,2,236,"[235, 236, 259]",SVLZ.tsv
+one of,2,394,"[236, 394, 455]",SVLZ.tsv
+but that,2,247,"[225, 247]",SVLZ.tsv
+be why,2,418,"[247, 359, 418]",SVLZ.tsv
+know the difference between,4,370,"[259, 370]",SVLZ.tsv
+the difference,2,370,"[259, 370]",SVLZ.tsv
+difference between,2,370,"[259, 370]",SVLZ.tsv
+know the,2,374,"[259, 374]",SVLZ.tsv
+be what,2,457,"[259, 457]",SVLZ.tsv
+be that they,3,394,"[264, 394]",SVLZ.tsv
+but the,2,418,"[264, 341, 418]",SVLZ.tsv
+hundred,1,268,"[14, 268]",SVLZ.tsv
+number of,2,268,"[196, 268]",SVLZ.tsv
+you know if,3,268,"[211, 268]",SVLZ.tsv
+every,1,378,"[268, 378]",SVLZ.tsv
+or a,2,418,"[268, 418, 531]",SVLZ.tsv
+i be,2,274,"[6, 20, 194, 196, 274, 374]",SVLZ.tsv
+you know they be,4,274,"[14, 274, 298]",SVLZ.tsv
+as i,2,274,"[248, 274]",SVLZ.tsv
+of family,2,374,"[298, 374]",SVLZ.tsv
+problems,1,418,"[298, 418]",SVLZ.tsv
+get a,2,302,"[211, 302, 303, 416, 547]",SVLZ.tsv
+you know it be it,5,316,"[49, 316]",SVLZ.tsv
+all that,2,316,"[53, 316]",SVLZ.tsv
+person,1,374,"[316, 374, 435, 447, 543]",SVLZ.tsv
+that be an,3,412,"[316, 412]",SVLZ.tsv
+you know and,3,412,"[316, 412]",SVLZ.tsv
+person who,2,435,"[316, 435]",SVLZ.tsv
+be an,2,443,"[316, 443]",SVLZ.tsv
+the person who,3,447,"[316, 447]",SVLZ.tsv
+i do,2,320,"[34, 320, 518]",SVLZ.tsv
+last time,2,320,"[196, 320, 322]",SVLZ.tsv
+run,1,418,"[320, 418]",SVLZ.tsv
+well and,2,368,"[328, 368]",SVLZ.tsv
+erm i'm,2,341,"[20, 341]",SVLZ.tsv
+last,1,341,"[196, 341]",SVLZ.tsv
+to you,2,390,"[341, 390]",SVLZ.tsv
+back in,2,396,"[346, 396]",SVLZ.tsv
+i think it's,3,359,"[151, 359, 518]",SVLZ.tsv
+not just,2,359,"[205, 359, 516]",SVLZ.tsv
+we have,2,378,"[359, 378, 447, 451]",SVLZ.tsv
+the education,2,390,"[359, 390]",SVLZ.tsv
+to pass,2,361,"[254, 361]",SVLZ.tsv
+on erm,2,363,"[32, 363]",SVLZ.tsv
+completely,1,363,"[70, 363]",SVLZ.tsv
+the bbc,2,363,"[162, 363]",SVLZ.tsv
+things like the,3,363,"[196, 363, 364]",SVLZ.tsv
+the high,2,363,"[209, 363]",SVLZ.tsv
+high,1,363,"[209, 363]",SVLZ.tsv
+from our,2,378,"[363, 378]",SVLZ.tsv
+government,1,390,"[363, 390, 394]",SVLZ.tsv
+the you know,3,394,"[363, 394, 416]",SVLZ.tsv
+you you know,3,412,"[363, 412, 469]",SVLZ.tsv
+that like,2,416,"[363, 416]",SVLZ.tsv
+when the,2,418,"[363, 418]",SVLZ.tsv
+anybody,1,455,"[363, 455]",SVLZ.tsv
+up and,2,369,"[12, 369]",SVLZ.tsv
+it's you,2,369,"[16, 369]",SVLZ.tsv
+i can,2,369,"[22, 209, 369]",SVLZ.tsv
+available,1,455,"[369, 455]",SVLZ.tsv
+who be,2,377,"[215, 377]",SVLZ.tsv
+for you,2,403,"[390, 403]",SVLZ.tsv
+in our,2,421,"[384, 421]",SVLZ.tsv
+mother work in,3,428,"[425, 428]",SVLZ.tsv
+mother,1,428,"[427, 428, 429, 433]",SVLZ.tsv
+sense,1,436,"[14, 374, 418, 436]",SVLZ.tsv
+sense of,2,436,"[390, 412, 418, 436]",SVLZ.tsv
+entitlement to,2,443,"[436, 443]",SVLZ.tsv
+entitlement,1,447,"[436, 444, 447]",SVLZ.tsv
+to work,2,438,"[213, 438]",SVLZ.tsv
+of it,2,440,"[109, 215, 440, 489]",SVLZ.tsv
+yeah there's,2,444,"[408, 416, 444]",SVLZ.tsv
+an entitlement,2,444,"[443, 444]",SVLZ.tsv
+should be,2,465,"[457, 465, 493, 499, 542]",SVLZ.tsv
+but it be,3,467,"[382, 467]",SVLZ.tsv
+but it,2,467,"[416, 467]",SVLZ.tsv
+likely,1,485,"[374, 485]",SVLZ.tsv
+you know it's,3,487,"[16, 364, 487, 498, 518]",SVLZ.tsv
+any excuse,2,487,"[159, 487]",SVLZ.tsv
+on you know,3,487,"[207, 487]",SVLZ.tsv
+develop,1,487,"[455, 487]",SVLZ.tsv
+don't think,2,489,"[14, 489]",SVLZ.tsv
+you know it,3,489,"[49, 489, 509]",SVLZ.tsv
+think of,2,489,"[408, 489]",SVLZ.tsv
+do it,2,495,"[12, 394, 397, 495]",SVLZ.tsv
+you know it's it's,4,498,"[16, 498]",SVLZ.tsv
+but you know,3,509,"[14, 49, 509, 518]",SVLZ.tsv
+the end,2,509,"[70, 509]",SVLZ.tsv
+you know there be,4,509,"[418, 509]",SVLZ.tsv
+it have,2,509,"[418, 509]",SVLZ.tsv
+the individual,2,509,"[418, 509]",SVLZ.tsv
+that i'd,2,518,"[196, 518]",SVLZ.tsv
+something else,2,518,"[418, 518]",SVLZ.tsv
+cabinet,1,527,"[307, 527]",SVLZ.tsv
+business,1,531,"[4, 531]",SVLZ.tsv
+they're a,2,531,"[37, 531]",SVLZ.tsv
+woman,1,531,"[215, 531]",SVLZ.tsv
+cos they're,2,536,"[215, 536]",SVLZ.tsv
+know you know,3,540,"[8, 540]",SVLZ.tsv
+very much,2,540,"[194, 540]",SVLZ.tsv
+but what,2,542,"[390, 542]",SVLZ.tsv

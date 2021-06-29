@@ -1,0 +1,658 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+milk,1,13,"[0, 13, 223, 228]",SHBJ.tsv
+the thing,2,15,"[0, 15, 37, 383, 385, 422]",SHBJ.tsv
+see,1,21,"[0, 21, 61, 114, 124, 180, 200, 240, 252, 269, 324, 342, 365, 401, 481, 525, 529]",SHBJ.tsv
+do you,2,39,"[0, 30, 32, 39, 78, 86, 231, 232, 255, 289, 308, 317, 401, 421, 508]",SHBJ.tsv
+on the,2,174,"[0, 174, 175, 204]",SHBJ.tsv
+street,1,174,"[0, 174, 175, 228]",SHBJ.tsv
+time,1,180,"[0, 24, 180, 188, 269]",SHBJ.tsv
+you see,2,240,"[0, 240, 342, 401]",SHBJ.tsv
+about the,2,244,"[0, 244]",SHBJ.tsv
+next,1,363,"[0, 24, 228, 363]",SHBJ.tsv
+do you see,3,401,"[0, 401]",SHBJ.tsv
+hmm,1,29,"[2, 26, 29, 124, 126, 157, 158, 159, 161, 163, 187, 253, 272, 276, 443, 491]",SHBJ.tsv
+yeah,1,4,"[1, 4, 6, 13, 14, 16, 17, 20, 21, 28, 37, 42, 47, 56, 68, 78, 81, 83, 86, 87, 95, 100, 104, 112, 115, 117, 119, 121, 122, 125, 135, 139, 140, 143, 145, 146, 153, 155, 173, 175, 179, 184, 186, 189, 190, 191, 195, 196, 199, 206, 218, 220, 224, 226, 228, 233, 235, 237, 238, 245, 251, 252, 259, 266, 268, 270, 279, 282, 289, 291, 293, 295, 297, 311, 313, 319, 336, 337, 343, 344, 347, 348, 349, 356, 362, 364, 366, 368, 372, 374, 379, 386, 391, 393, 395, 398, 401, 402, 406, 408, 415, 417, 420, 421, 425, 428, 430, 431, 435, 439, 441, 458, 459, 462, 464, 465, 467, 484, 486, 500, 501, 504, 512]",SHBJ.tsv
+illegal,1,4,"[3, 4]",SHBJ.tsv
+you know,2,17,"[4, 17, 20, 42, 57, 70, 84, 102, 123, 128, 139, 147, 153, 158, 164, 176, 178, 183, 188, 195, 197, 198, 199, 211, 223, 231, 253, 255, 267, 287, 289, 317, 332, 340, 344, 365, 367, 373, 380, 382, 421, 423, 430, 505]",SHBJ.tsv
+apparently,1,31,"[4, 28, 31, 66, 70, 78, 93, 222, 237]",SHBJ.tsv
+it be,2,33,"[4, 33, 133, 139, 181, 200, 245, 247, 249, 281, 291, 332, 334, 374, 494]",SHBJ.tsv
+know that,2,122,"[4, 22, 122, 253, 255]",SHBJ.tsv
+think,1,122,"[4, 24, 36, 51, 70, 76, 78, 84, 96, 122, 124, 128, 135, 158, 183, 273, 277, 297, 308, 309, 310, 317, 332, 342, 380, 382, 427, 525]",SHBJ.tsv
+know,1,122,"[4, 20, 22, 28, 42, 49, 70, 84, 102, 122, 123, 128, 139, 147, 153, 158, 164, 176, 177, 178, 183, 188, 195, 197, 198, 199, 211, 223, 231, 253, 254, 255, 267, 281, 287, 289, 310, 315, 317, 332, 340, 344, 350, 361, 365, 367, 369, 371, 373, 380, 382, 421, 423, 430, 505]",SHBJ.tsv
+be not,2,128,"[4, 128, 354, 434]",SHBJ.tsv
+they be,2,176,"[4, 20, 102, 176, 259, 308, 365, 456, 511]",SHBJ.tsv
+that be,2,244,"[4, 183, 235, 244, 270, 376]",SHBJ.tsv
+yeah they,2,282,"[4, 6, 282]",SHBJ.tsv
+think it,2,308,"[4, 277, 308, 309, 310]",SHBJ.tsv
+bottle,1,6,"[5, 6, 8, 24, 195]",SHBJ.tsv
+go,1,73,"[6, 68, 73, 75, 84, 90, 98, 114, 131, 137, 139, 145, 147, 153, 154, 156, 158, 175, 183, 188, 211, 213, 225, 255, 271, 293, 298, 318, 338, 340, 355, 396, 407, 449, 457, 469, 484, 490, 502, 514, 515, 526]",SHBJ.tsv
+go in,2,75,"[6, 75, 84, 139, 188]",SHBJ.tsv
+people,1,122,"[6, 122, 124, 175, 176, 180, 192, 194, 232, 281, 306, 327, 332, 426, 434, 436, 438]",SHBJ.tsv
+show,1,198,"[6, 198]",SHBJ.tsv
+fill,1,363,"[6, 8, 330, 363, 380, 423]",SHBJ.tsv
+buy,1,29,"[8, 29, 73, 188, 192, 193, 414]",SHBJ.tsv
+you can,2,73,"[8, 73, 103, 111, 113, 118, 153, 200, 201, 228, 257, 259, 264, 267, 460, 529]",SHBJ.tsv
+and then you,3,164,"[8, 164, 191]",SHBJ.tsv
+and then,2,298,"[8, 10, 84, 94, 102, 131, 191, 199, 298, 391, 456]",SHBJ.tsv
+already,1,407,"[8, 215, 407, 504]",SHBJ.tsv
+sell,1,10,"[3, 10, 27, 182, 297]",SHBJ.tsv
+sell it,2,27,"[10, 27]",SHBJ.tsv
+they sell,2,182,"[10, 182]",SHBJ.tsv
+it to,2,312,"[10, 257, 312, 426]",SHBJ.tsv
+it on,2,367,"[10, 367]",SHBJ.tsv
+get,1,57,"[12, 24, 42, 45, 53, 57, 61, 65, 66, 68, 70, 72, 78, 85, 86, 87, 91, 102, 111, 124, 128, 130, 150, 151, 153, 162, 167, 176, 189, 191, 195, 215, 225, 228, 253, 255, 259, 261, 263, 265, 267, 270, 273, 327, 348, 377, 387, 395, 407, 434, 460, 478, 492, 500, 506, 517, 520, 521]",SHBJ.tsv
+get it,2,91,"[12, 91]",SHBJ.tsv
+use,1,99,"[12, 99, 215, 262, 363]",SHBJ.tsv
+cos,1,170,"[12, 68, 70, 84, 102, 135, 139, 145, 153, 170, 193, 210, 215, 236, 255, 293, 318, 335, 344, 346, 349, 352, 367, 377, 391, 396, 405, 416, 423, 424, 427, 430, 458, 461, 465, 490, 500, 505, 508, 511, 521, 523]",SHBJ.tsv
+weird,1,200,"[12, 199, 200, 225, 332, 335]",SHBJ.tsv
+but it's,2,225,"[12, 86, 153, 205, 225, 335, 350, 373]",SHBJ.tsv
+we be,2,240,"[12, 240, 271, 363]",SHBJ.tsv
+to get,2,270,"[12, 153, 255, 270]",SHBJ.tsv
+use to,2,215,"[12, 215, 292]",SHBJ.tsv
+but it's weird,3,335,"[12, 335]",SHBJ.tsv
+when we be,3,363,"[12, 363]",SHBJ.tsv
+cos we,2,458,"[12, 427, 458, 461, 465, 508]",SHBJ.tsv
+and it's,2,180,"[14, 180, 245, 255, 326, 337, 408, 492]",SHBJ.tsv
+yeah and,2,190,"[14, 145, 190, 195, 235, 237, 245, 293, 337, 391, 408, 430]",SHBJ.tsv
+yeah and it's,3,245,"[14, 245, 337, 408]",SHBJ.tsv
+well,1,18,"[17, 18, 20, 28, 37, 66, 70, 74, 78, 84, 93, 94, 98, 131, 153, 172, 175, 176, 186, 212, 215, 222, 225, 234, 254, 257, 266, 267, 279, 327, 328, 329, 342, 355, 357, 360, 382, 391, 392, 405, 420, 421, 422, 452, 461, 467, 475, 505, 517, 520]",SHBJ.tsv
+well i,2,266,"[18, 20, 78, 98, 266, 327, 391, 392]",SHBJ.tsv
+mean,1,310,"[18, 133, 135, 281, 289, 301, 309, 310, 332, 339, 340, 349, 367, 378, 424, 426, 430, 438]",SHBJ.tsv
+i mean,2,367,"[18, 133, 135, 281, 289, 301, 332, 340, 349, 367, 378]",SHBJ.tsv
+in the,2,20,"[5, 20, 39, 118, 130, 137, 139, 154, 180, 215, 292, 306, 335, 342, 384, 411, 413, 457, 483, 527]",SHBJ.tsv
+say,1,20,"[5, 9, 20, 68, 72, 76, 78, 86, 94, 102, 116, 139, 145, 158, 170, 175, 204, 211, 255, 292, 297, 332, 359, 395, 396, 423, 430, 529]",SHBJ.tsv
+there's,1,114,"[20, 76, 114, 124, 128, 176, 178, 188, 235, 237, 289]",SHBJ.tsv
+i be,2,158,"[20, 51, 102, 158, 211, 231, 255, 292, 330, 332, 334, 342, 427]",SHBJ.tsv
+be say,2,158,"[20, 139, 158]",SHBJ.tsv
+tell,1,176,"[20, 176, 371, 373]",SHBJ.tsv
+always,1,190,"[20, 190, 341, 349, 500]",SHBJ.tsv
+actually,1,245,"[20, 245, 255, 268, 293, 342, 360, 382, 451]",SHBJ.tsv
+be that,2,258,"[20, 125, 258, 332, 363, 375, 391]",SHBJ.tsv
+yeah that,2,268,"[20, 268]",SHBJ.tsv
+that you,2,363,"[20, 84, 183, 195, 363, 423]",SHBJ.tsv
+you know it's,3,373,"[20, 199, 373, 382]",SHBJ.tsv
+about it,2,22,"[21, 22, 427]",SHBJ.tsv
+i don't,2,122,"[22, 28, 78, 122, 266, 281, 310, 315, 340, 350, 371, 429, 505]",SHBJ.tsv
+much,1,180,"[22, 180, 225, 407]",SHBJ.tsv
+amaze,1,210,"[22, 210]",SHBJ.tsv
+i don't know,3,310,"[22, 28, 281, 310, 315, 350, 371]",SHBJ.tsv
+it i,2,401,"[22, 401]",SHBJ.tsv
+i think,2,124,"[24, 36, 51, 76, 78, 84, 96, 124, 128, 277, 297, 308, 309, 310, 332]",SHBJ.tsv
+i'll,1,176,"[24, 176, 460, 481, 496]",SHBJ.tsv
+i'm,1,231,"[24, 42, 231, 263, 332, 352, 384, 396, 451, 468, 475, 479, 496, 505, 509, 525]",SHBJ.tsv
+out there,2,458,"[24, 458, 466]",SHBJ.tsv
+yeah i,2,28,"[21, 28, 81, 135, 175, 349]",SHBJ.tsv
+and it,2,170,"[28, 170, 255, 330, 332, 423]",SHBJ.tsv
+i suppose,2,345,"[28, 135, 139, 147, 171, 205, 293, 301, 327, 332, 345, 391, 392]",SHBJ.tsv
+bath,1,32,"[29, 32, 42, 495]",SHBJ.tsv
+do you have a,4,39,"[32, 39]",SHBJ.tsv
+you have,2,75,"[32, 75, 78, 164, 421, 430]",SHBJ.tsv
+have a,2,164,"[32, 98, 131, 164, 210, 260, 292, 300, 302, 363, 452, 510]",SHBJ.tsv
+be he,2,37,"[34, 37, 168, 207, 242, 284, 285, 286]",SHBJ.tsv
+he be,2,37,"[36, 37, 137, 139, 147, 242, 273, 275, 403, 405]",SHBJ.tsv
+german,1,37,"[36, 37]",SHBJ.tsv
+uh,1,38,"[37, 38, 163, 484]",SHBJ.tsv
+shower,1,40,"[39, 40, 41]",SHBJ.tsv
+man,1,42,"[33, 35, 42]",SHBJ.tsv
+like,1,43,"[42, 43, 46, 96, 103, 114, 128, 139, 144, 150, 156, 164, 172, 183, 191, 193, 195, 199, 219, 223, 265, 267, 268, 316, 327, 332, 335, 344, 427, 429, 431, 481, 487, 489, 490, 503, 510]",SHBJ.tsv
+bite,1,59,"[42, 45, 55, 59, 60, 70, 105, 147, 153, 347, 407, 422, 427, 451, 459, 487, 489, 505, 509, 524]",SHBJ.tsv
+really,1,42,"[7, 42, 55, 67, 89, 92, 132, 158, 244, 249, 251, 284, 292, 296, 322, 331, 362, 363, 373, 374, 378, 427, 445, 508]",SHBJ.tsv
+get a,2,85,"[42, 45, 70, 85, 87, 111, 150, 225, 253, 255, 261, 395, 478, 521]",SHBJ.tsv
+a bite,2,105,"[42, 45, 55, 60, 70, 105, 147, 422, 427, 451, 487, 489, 505, 509, 524]",SHBJ.tsv
+but i,2,266,"[42, 90, 266, 332]",SHBJ.tsv
+like to,2,268,"[42, 268, 481, 503]",SHBJ.tsv
+i'm not,2,352,"[42, 352, 384, 475]",SHBJ.tsv
+okay,1,304,"[44, 64, 96, 102, 139, 246, 304, 340, 361, 369, 451, 461, 491, 509, 516]",SHBJ.tsv
+the radio,2,45,"[43, 45, 210]",SHBJ.tsv
+radio,1,45,"[43, 45, 210]",SHBJ.tsv
+need,1,114,"[45, 68, 70, 114, 158, 214, 477, 484, 495]",SHBJ.tsv
+with the,2,190,"[45, 139, 190, 223, 308, 312, 317, 518]",SHBJ.tsv
+to be,2,225,"[45, 225, 236, 292, 327, 380, 490]",SHBJ.tsv
+need a,2,484,"[45, 484]",SHBJ.tsv
+attention deficit,2,50,"[47, 50]",SHBJ.tsv
+though,1,51,"[19, 51, 107, 122, 170, 219, 453, 454]",SHBJ.tsv
+i've get,2,61,"[53, 61, 66, 68, 72, 253, 255, 261, 263, 520]",SHBJ.tsv
+glass,1,65,"[53, 65, 68, 75, 86, 191]",SHBJ.tsv
+get to,2,377,"[53, 151, 327, 377]",SHBJ.tsv
+wear,1,504,"[53, 504]",SHBJ.tsv
+you a,2,481,"[55, 481]",SHBJ.tsv
+i've,1,61,"[60, 61, 70, 98, 183, 252, 325, 520]",SHBJ.tsv
+read,1,61,"[60, 61, 63, 69, 75, 78, 99]",SHBJ.tsv
+it's a,2,91,"[60, 91, 225, 249, 255, 308, 310, 373, 377, 401, 407, 409, 419, 434, 524]",SHBJ.tsv
+just be,2,128,"[60, 128]",SHBJ.tsv
+when i,2,231,"[60, 231, 474, 511]",SHBJ.tsv
+couple of,2,292,"[60, 292]",SHBJ.tsv
+a couple of,3,298,"[60, 298]",SHBJ.tsv
+that when,2,363,"[60, 363]",SHBJ.tsv
+can you,2,165,"[62, 78, 165, 394, 455, 500]",SHBJ.tsv
+well apparently,2,93,"[66, 93, 222]",SHBJ.tsv
+so you,2,68,"[17, 68, 139, 145, 257, 264, 267, 394, 460, 529]",SHBJ.tsv
+you get,2,68,"[57, 68, 85, 86, 87, 111, 150, 151, 189, 191, 195, 259, 265, 267, 327, 348, 500, 521]",SHBJ.tsv
+eye,1,68,"[57, 68, 76]",SHBJ.tsv
+with them,2,68,"[61, 68]",SHBJ.tsv
+test,1,87,"[68, 84, 87]",SHBJ.tsv
+i go,2,188,"[68, 90, 131, 188]",SHBJ.tsv
+so i,2,167,"[68, 78, 96, 167, 255, 367]",SHBJ.tsv
+close,1,389,"[68, 389]",SHBJ.tsv
+be a,2,70,"[33, 35, 37, 70, 105, 133, 137, 139, 200, 247, 273, 283, 292, 332, 363, 376, 505, 520, 521, 529]",SHBJ.tsv
+maybe,1,70,"[37, 70]",SHBJ.tsv
+little,1,70,"[46, 70, 147, 153, 170, 195, 478]",SHBJ.tsv
+you know when,3,70,"[57, 70, 139]",SHBJ.tsv
+or you,2,75,"[70, 75]",SHBJ.tsv
+be a bite,3,105,"[70, 105, 505]",SHBJ.tsv
+and i,2,158,"[70, 78, 84, 94, 96, 102, 139, 147, 158, 174, 277, 292, 332, 380, 427, 496]",SHBJ.tsv
+right,1,296,"[76, 96, 129, 143, 243, 296, 353, 370, 431, 437]",SHBJ.tsv
+can't,1,78,"[33, 61, 78, 113, 124, 175, 334]",SHBJ.tsv
+do you have,3,78,"[39, 78, 421]",SHBJ.tsv
+put,1,78,"[43, 78, 176, 201, 206, 304, 306, 341, 349, 367, 392, 448, 496]",SHBJ.tsv
+you can't,2,78,"[61, 78]",SHBJ.tsv
+them off,2,78,"[61, 78]",SHBJ.tsv
+read it,2,78,"[63, 78]",SHBJ.tsv
+off the,2,78,"[73, 78]",SHBJ.tsv
+there be,2,103,"[78, 103, 139, 236, 237, 332, 363]",SHBJ.tsv
+i don't think,3,122,"[78, 122]",SHBJ.tsv
+quite,1,128,"[78, 128, 139, 158, 247, 259, 357, 388, 421]",SHBJ.tsv
+yeah you,2,140,"[78, 140, 153, 189, 199, 259]",SHBJ.tsv
+get them,2,162,"[78, 162]",SHBJ.tsv
+problems,1,176,"[78, 176, 237]",SHBJ.tsv
+road,1,186,"[78, 186, 513]",SHBJ.tsv
+up there,2,200,"[78, 200]",SHBJ.tsv
+nothing,1,217,"[78, 217, 332]",SHBJ.tsv
+sign,1,256,"[78, 255, 256, 365]",SHBJ.tsv
+i have,2,292,"[78, 82, 98, 292, 335]",SHBJ.tsv
+anyway,1,339,"[78, 199, 222, 339]",SHBJ.tsv
+with that,2,367,"[78, 367, 391]",SHBJ.tsv
+um,1,80,"[37, 80, 160, 180, 259, 308, 373, 500]",SHBJ.tsv
+two hundred and sixty,4,81,"[80, 81, 96, 99]",SHBJ.tsv
+pound,1,111,"[80, 84, 94, 96, 102, 111, 182, 189]",SHBJ.tsv
+and um,2,180,"[80, 180]",SHBJ.tsv
+two,1,254,"[80, 96, 254, 265, 363, 492, 506, 508]",SHBJ.tsv
+a student,2,85,"[84, 85]",SHBJ.tsv
+free,1,91,"[84, 91, 176, 255, 257, 265, 363]",SHBJ.tsv
+i go in there,4,188,"[84, 188]",SHBJ.tsv
+in there,2,188,"[84, 188, 448]",SHBJ.tsv
+cos i,2,210,"[84, 135, 139, 210, 255]",SHBJ.tsv
+it's not,2,280,"[84, 86, 96, 199, 280, 337, 338, 350, 392, 417, 490]",SHBJ.tsv
+no it's,2,377,"[84, 338, 377]",SHBJ.tsv
+yeah but,2,86,"[17, 86, 395, 484]",SHBJ.tsv
+discount,1,87,"[86, 87]",SHBJ.tsv
+old,1,176,"[86, 176]",SHBJ.tsv
+an old,2,188,"[86, 188]",SHBJ.tsv
+you don't,2,324,"[86, 324, 422, 423]",SHBJ.tsv
+but it's not,3,350,"[86, 350]",SHBJ.tsv
+if you're,2,363,"[86, 340, 362, 363, 378, 380, 430]",SHBJ.tsv
+no no,2,124,"[90, 124, 270, 508]",SHBJ.tsv
+go to,2,154,"[90, 131, 137, 139, 145, 153, 154, 156, 211, 225, 255, 271, 318, 338, 396, 490, 502, 515]",SHBJ.tsv
+oh really,2,296,"[92, 296]",SHBJ.tsv
+they say,2,94,"[9, 94, 395, 396]",SHBJ.tsv
+lenses,1,99,"[94, 99]",SHBJ.tsv
+eighty pound,2,111,"[94, 96, 102, 111]",SHBJ.tsv
+start,1,397,"[94, 102, 327, 360, 396, 397, 423, 430, 474, 484]",SHBJ.tsv
+isn't it,2,96,"[15, 96, 153, 173, 180, 181, 200, 235, 290, 310, 326, 373, 380, 383, 385, 392, 401, 407, 418, 434, 442, 453]",SHBJ.tsv
+like a,2,96,"[46, 96, 164, 191, 265]",SHBJ.tsv
+for the,2,96,"[69, 87, 91, 96, 106, 194, 513]",SHBJ.tsv
+two hundred,2,96,"[81, 96, 99]",SHBJ.tsv
+hundred,1,96,"[81, 96, 99]",SHBJ.tsv
+frame,1,97,"[96, 97]",SHBJ.tsv
+pair of frame,3,99,"[96, 99]",SHBJ.tsv
+the lenses,2,99,"[96, 99]",SHBJ.tsv
+be like,2,103,"[96, 103, 164, 219]",SHBJ.tsv
+something,1,118,"[96, 118, 147, 223, 308, 411, 471]",SHBJ.tsv
+it would,2,122,"[96, 110, 122, 127, 128, 393]",SHBJ.tsv
+would,1,122,"[96, 110, 122, 123, 124, 127, 128, 135, 170, 175, 266, 268, 301, 330, 332, 346, 349, 388, 391, 393, 395, 396, 421, 423, 529]",SHBJ.tsv
+just for,2,198,"[96, 198]",SHBJ.tsv
+or something,2,223,"[96, 223, 411]",SHBJ.tsv
+gonna,1,363,"[96, 363, 365, 516]",SHBJ.tsv
+probably,1,494,"[96, 257, 494]",SHBJ.tsv
+gonna be,2,516,"[96, 516]",SHBJ.tsv
+have to,2,98,"[27, 75, 98, 413, 421]",SHBJ.tsv
+pair,1,99,"[98, 99]",SHBJ.tsv
+and have,2,156,"[98, 156]",SHBJ.tsv
+look,1,229,"[98, 229, 363, 480, 498]",SHBJ.tsv
+have a look,3,260,"[98, 260]",SHBJ.tsv
+go back,2,298,"[98, 298]",SHBJ.tsv
+back,1,448,"[98, 139, 259, 448, 511]",SHBJ.tsv
+another,1,458,"[98, 458]",SHBJ.tsv
+they're,1,102,"[5, 31, 37, 102, 153, 215, 295, 299, 335, 351, 357, 363]",SHBJ.tsv
+i can't,2,102,"[33, 102, 124, 175, 334]",SHBJ.tsv
+ones,1,102,"[73, 102, 267]",SHBJ.tsv
+hundred and sixty,3,102,"[81, 99, 102]",SHBJ.tsv
+the first,2,102,"[91, 102, 105, 456]",SHBJ.tsv
+varifocal,1,102,"[101, 102]",SHBJ.tsv
+four,1,103,"[102, 103, 188, 210]",SHBJ.tsv
+still,1,128,"[102, 128, 130, 181, 202, 210, 465, 505]",SHBJ.tsv
+which be,2,164,"[102, 164, 363]",SHBJ.tsv
+know i,2,310,"[102, 139, 310, 505]",SHBJ.tsv
+cos he,2,405,"[102, 405]",SHBJ.tsv
+say you know,3,430,"[102, 430]",SHBJ.tsv
+he start,2,474,"[102, 474, 484]",SHBJ.tsv
+say i,2,529,"[102, 332, 529]",SHBJ.tsv
+one,1,178,"[108, 178, 180, 197, 210, 271, 304, 335, 363, 458, 504]",SHBJ.tsv
+that's,1,110,"[15, 37, 110, 114, 116, 124, 139, 180, 215, 225, 297, 378, 383, 385, 422, 434, 442, 447, 452, 481, 529]",SHBJ.tsv
+what it,2,110,"[103, 110]",SHBJ.tsv
+that's what,2,114,"[110, 114]",SHBJ.tsv
+it would be,3,122,"[110, 122, 127, 128]",SHBJ.tsv
+would be,2,124,"[110, 124, 127, 128, 135, 266, 268, 301]",SHBJ.tsv
+what it would be,4,128,"[110, 128]",SHBJ.tsv
+no but,2,225,"[110, 225]",SHBJ.tsv
+but that's,2,434,"[110, 434, 442]",SHBJ.tsv
+you can imagine,3,113,"[103, 113]",SHBJ.tsv
+yeah yeah,2,282,"[115, 135, 145, 153, 195, 233, 235, 252, 279, 282, 311, 319, 349, 362, 366, 368, 398, 435]",SHBJ.tsv
+privatise,1,117,"[103, 117, 124]",SHBJ.tsv
+from privatise it,3,117,"[116, 117]",SHBJ.tsv
+privatise it,2,118,"[117, 118, 124]",SHBJ.tsv
+it yeah,2,393,"[117, 393]",SHBJ.tsv
+accept,1,123,"[122, 123]",SHBJ.tsv
+then you,2,164,"[123, 164, 257]",SHBJ.tsv
+how would,2,346,"[123, 346, 421]",SHBJ.tsv
+but then,2,371,"[123, 371]",SHBJ.tsv
+hope,1,127,"[124, 127]",SHBJ.tsv
+wouldn't it,2,128,"[127, 128]",SHBJ.tsv
+be shock,2,158,"[127, 158, 183]",SHBJ.tsv
+no it,2,525,"[127, 525]",SHBJ.tsv
+well the,2,131,"[37, 131]",SHBJ.tsv
+the school,2,131,"[128, 131, 158]",SHBJ.tsv
+school,1,131,"[128, 131, 133, 135, 137, 139, 145, 154, 158, 162, 164, 298]",SHBJ.tsv
+it be a,3,133,"[33, 133, 200, 247]",SHBJ.tsv
+pay for,2,134,"[133, 134, 139, 140, 141, 151]",SHBJ.tsv
+school that,2,158,"[133, 135, 158]",SHBJ.tsv
+that my,2,158,"[133, 158]",SHBJ.tsv
+church,1,178,"[133, 178]",SHBJ.tsv
+be it,2,278,"[133, 139, 248, 278, 312, 316, 332, 389, 392, 407, 410, 416]",SHBJ.tsv
+anything,1,339,"[133, 139, 153, 339, 340, 371, 417]",SHBJ.tsv
+parent,1,363,"[133, 135, 139, 363]",SHBJ.tsv
+pay,1,407,"[133, 139, 141, 147, 151, 153, 407]",SHBJ.tsv
+good for,2,135,"[31, 135, 170]",SHBJ.tsv
+private school,2,135,"[128, 135]",SHBJ.tsv
+be good,2,135,"[128, 135]",SHBJ.tsv
+sort of,2,170,"[135, 139, 170, 190, 225, 231, 237, 287, 327, 338, 349, 427]",SHBJ.tsv
+good,1,244,"[135, 244, 268, 363, 419, 452, 453]",SHBJ.tsv
+that would be good,4,268,"[135, 268]",SHBJ.tsv
+send,1,270,"[135, 139, 259, 270, 363, 414, 520]",SHBJ.tsv
+we'll send,2,363,"[135, 363]",SHBJ.tsv
+oh we'll,2,407,"[135, 407]",SHBJ.tsv
+we'll,1,496,"[135, 496, 500, 502, 510, 514]",SHBJ.tsv
+he be a,3,137,"[37, 137, 273]",SHBJ.tsv
+want,1,137,"[118, 137, 139, 180, 332, 367, 369, 380, 395, 499, 505, 508]",SHBJ.tsv
+so they,2,156,"[137, 139, 156, 180, 215, 236, 257]",SHBJ.tsv
+and a,2,206,"[137, 206, 210]",SHBJ.tsv
+to the,2,256,"[137, 255, 256, 273, 281, 320]",SHBJ.tsv
+thing,1,139,"[15, 37, 139, 255, 332, 338, 376, 383, 385, 388, 422]",SHBJ.tsv
+so you know,3,139,"[17, 139]",SHBJ.tsv
+you know the,3,139,"[17, 139, 176, 178, 199, 367]",SHBJ.tsv
+but it,2,139,"[17, 139, 193, 223, 247]",SHBJ.tsv
+there but,2,139,"[37, 139]",SHBJ.tsv
+like it,2,139,"[43, 139, 199]",SHBJ.tsv
+to go,2,139,"[75, 139, 147, 158]",SHBJ.tsv
+want to,2,139,"[118, 139, 180, 332, 369, 380, 395, 499, 505]",SHBJ.tsv
+be the,2,139,"[128, 139, 304, 322]",SHBJ.tsv
+and you,2,139,"[130, 139, 197, 228, 265, 380]",SHBJ.tsv
+you pay for,3,140,"[139, 140, 151]",SHBJ.tsv
+you pay,2,140,"[139, 140, 153]",SHBJ.tsv
+a school,2,154,"[139, 154]",SHBJ.tsv
+come,1,156,"[139, 153, 156, 255, 298, 330, 511]",SHBJ.tsv
+funny,1,176,"[139, 176, 219, 288, 290]",SHBJ.tsv
+i want to,3,180,"[139, 180, 380]",SHBJ.tsv
+hang,1,180,"[139, 180, 382]",SHBJ.tsv
+around,1,180,"[139, 180, 492]",SHBJ.tsv
+have some,2,190,"[139, 175, 190, 449, 450]",SHBJ.tsv
+and you know,3,197,"[139, 197]",SHBJ.tsv
+out and,2,214,"[139, 214]",SHBJ.tsv
+he do,2,223,"[139, 223, 484]",SHBJ.tsv
+be there,2,231,"[139, 231]",SHBJ.tsv
+class,1,236,"[139, 145, 147, 236]",SHBJ.tsv
+but it be,3,247,"[139, 247]",SHBJ.tsv
+school in,2,298,"[139, 298]",SHBJ.tsv
+they come,2,298,"[139, 298]",SHBJ.tsv
+because it's,2,308,"[139, 308]",SHBJ.tsv
+there be a,3,363,"[139, 332, 363]",SHBJ.tsv
+in and,2,363,"[139, 363]",SHBJ.tsv
+who be,2,363,"[139, 273, 363]",SHBJ.tsv
+certain,1,369,"[139, 332, 369]",SHBJ.tsv
+didn't we,2,389,"[139, 389]",SHBJ.tsv
+where be,2,389,"[139, 389]",SHBJ.tsv
+the same,2,430,"[139, 430]",SHBJ.tsv
+a few,2,452,"[139, 452]",SHBJ.tsv
+send me,2,520,"[139, 520]",SHBJ.tsv
+be my,2,525,"[139, 525]",SHBJ.tsv
+you pay for everything,4,141,"[140, 141]",SHBJ.tsv
+and the,2,145,"[97, 145, 180, 273, 290, 407]",SHBJ.tsv
+of the,2,145,"[114, 145, 154, 180, 199, 281, 304, 312, 363, 373, 399, 400, 407, 420]",SHBJ.tsv
+at the,2,145,"[144, 145, 304, 363]",SHBJ.tsv
+go to a school,4,154,"[145, 154]",SHBJ.tsv
+teacher,1,292,"[145, 292]",SHBJ.tsv
+say she,2,359,"[145, 359]",SHBJ.tsv
+a little,2,147,"[46, 147, 153, 478]",SHBJ.tsv
+might,1,147,"[101, 118, 147, 210, 256, 260, 278, 279, 505, 511]",SHBJ.tsv
+if they,2,147,"[103, 128, 144, 147, 214, 361, 395, 456]",SHBJ.tsv
+a bite more,3,147,"[105, 147]",SHBJ.tsv
+they pay,2,147,"[134, 147, 407]",SHBJ.tsv
+kid,1,154,"[147, 154, 158, 160]",SHBJ.tsv
+sit,1,174,"[147, 153, 174, 180, 199, 228, 273, 460, 502, 508, 514]",SHBJ.tsv
+might have,2,256,"[147, 256, 260]",SHBJ.tsv
+they'd,1,292,"[147, 292]",SHBJ.tsv
+teach,1,292,"[147, 153, 292]",SHBJ.tsv
+these be,2,322,"[147, 322]",SHBJ.tsv
+and he be,3,403,"[147, 403]",SHBJ.tsv
+and he,2,413,"[147, 413, 414, 484, 495]",SHBJ.tsv
+they've,1,151,"[128, 151, 363, 430]",SHBJ.tsv
+paper,1,152,"[151, 152, 188]",SHBJ.tsv
+they don't,2,294,"[151, 294]",SHBJ.tsv
+can come and,3,156,"[153, 156]",SHBJ.tsv
+sit on,2,174,"[153, 174]",SHBJ.tsv
+well you,2,176,"[153, 176, 342]",SHBJ.tsv
+isn't it you,3,200,"[153, 200]",SHBJ.tsv
+know but it's,3,350,"[153, 350]",SHBJ.tsv
+open,1,389,"[153, 389, 390]",SHBJ.tsv
+not go to,3,490,"[153, 490]",SHBJ.tsv
+yes,1,166,"[114, 166, 330, 381, 404, 405, 446, 520]",SHBJ.tsv
+it's nice,2,225,"[173, 225]",SHBJ.tsv
+yeah it's,2,251,"[173, 191, 251, 417]",SHBJ.tsv
+it's nice isn't it,4,326,"[173, 326]",SHBJ.tsv
+nice,1,363,"[173, 363, 447]",SHBJ.tsv
+people would,2,175,"[122, 124, 175]",SHBJ.tsv
+give,1,175,"[128, 175, 180, 229, 257, 261, 332, 481, 496]",SHBJ.tsv
+baby,1,363,"[175, 201, 363, 479, 496, 500]",SHBJ.tsv
+down on,2,460,"[175, 460]",SHBJ.tsv
+give you,2,481,"[175, 481]",SHBJ.tsv
+stop,1,181,"[27, 181, 463]",SHBJ.tsv
+long,1,181,"[65, 181, 207]",SHBJ.tsv
+but the,2,181,"[99, 181]",SHBJ.tsv
+work,1,181,"[114, 156, 158, 180, 181, 236, 405]",SHBJ.tsv
+it the,2,181,"[124, 181, 316]",SHBJ.tsv
+fountains,1,181,"[176, 180, 181]",SHBJ.tsv
+the fountains,2,181,"[180, 181]",SHBJ.tsv
+the drunks,2,181,"[180, 181]",SHBJ.tsv
+ago,1,208,"[181, 207, 208, 210]",SHBJ.tsv
+isn't it the,3,310,"[181, 310]",SHBJ.tsv
+shock,1,183,"[158, 183, 478]",SHBJ.tsv
+often,1,266,"[183, 266]",SHBJ.tsv
+past,1,373,"[183, 373]",SHBJ.tsv
+things,1,214,"[185, 214, 267, 299, 322, 327]",SHBJ.tsv
+aren't they,2,322,"[185, 299, 322, 335]",SHBJ.tsv
+be only,2,365,"[185, 365]",SHBJ.tsv
+design,1,387,"[185, 387]",SHBJ.tsv
+for a,2,189,"[75, 182, 189, 253, 298]",SHBJ.tsv
+drink,1,189,"[180, 188, 189, 447]",SHBJ.tsv
+for a pound,3,189,"[182, 189]",SHBJ.tsv
+i like,2,191,"[43, 191]",SHBJ.tsv
+it's just,2,217,"[191, 217, 225]",SHBJ.tsv
+and white,2,339,"[191, 339]",SHBJ.tsv
+white,1,339,"[191, 199, 338, 339, 340, 380]",SHBJ.tsv
+that and,2,193,"[158, 193, 251, 255]",SHBJ.tsv
+buy that,2,193,"[192, 193, 414]",SHBJ.tsv
+it doesn't,2,371,"[193, 371, 373]",SHBJ.tsv
+get you,2,195,"[65, 195, 387]",SHBJ.tsv
+home,1,199,"[37, 199, 228]",SHBJ.tsv
+cheap,1,199,"[107, 199]",SHBJ.tsv
+teachers,1,292,"[199, 292, 298]",SHBJ.tsv
+end of the,3,304,"[199, 304]",SHBJ.tsv
+end,1,413,"[199, 413]",SHBJ.tsv
+it out,2,201,"[5, 201]",SHBJ.tsv
+bogey,1,201,"[200, 201]",SHBJ.tsv
+mouth,1,225,"[201, 225]",SHBJ.tsv
+it and,2,413,"[201, 380, 413]",SHBJ.tsv
+half,1,203,"[63, 203, 206, 210]",SHBJ.tsv
+half an hour,3,203,"[202, 203]",SHBJ.tsv
+it's an,2,205,"[164, 205]",SHBJ.tsv
+conversation,1,205,"[190, 205]",SHBJ.tsv
+i suppose not,3,391,"[205, 391]",SHBJ.tsv
+bear,1,207,"[206, 207]",SHBJ.tsv
+month,1,210,"[207, 210, 265]",SHBJ.tsv
+five weeks,2,209,"[208, 209, 210]",SHBJ.tsv
+weeks,1,210,"[209, 210]",SHBJ.tsv
+they have,2,211,"[27, 164, 176, 210, 211, 363]",SHBJ.tsv
+have what,2,211,"[128, 211]",SHBJ.tsv
+be go,2,211,"[158, 211]",SHBJ.tsv
+go on,2,213,"[114, 213, 449, 526]",SHBJ.tsv
+they do,2,220,"[114, 220, 282, 367]",SHBJ.tsv
+smell,1,221,"[220, 221, 222, 223, 225]",SHBJ.tsv
+smell buttery,2,222,"[221, 222]",SHBJ.tsv
+buttery,1,225,"[222, 225]",SHBJ.tsv
+unpasteurised milk,2,228,"[13, 228]",SHBJ.tsv
+some of,2,228,"[154, 228]",SHBJ.tsv
+you can sit,3,460,"[228, 460]",SHBJ.tsv
+let's,1,498,"[228, 498]",SHBJ.tsv
+sweet,1,270,"[230, 270]",SHBJ.tsv
+maori,1,232,"[229, 232, 242, 244, 273, 481]",SHBJ.tsv
+interest,1,235,"[25, 235, 247, 266, 281, 310, 322, 362, 363, 365]",SHBJ.tsv
+there's a lot of,4,235,"[114, 235]",SHBJ.tsv
+a lot of,3,235,"[128, 234, 235, 300, 302, 318, 395]",SHBJ.tsv
+there's a,2,235,"[176, 188, 235, 289]",SHBJ.tsv
+once we be warriors,4,250,"[240, 250]",SHBJ.tsv
+whale rider,2,252,"[251, 252]",SHBJ.tsv
+make,1,253,"[128, 170, 194, 202, 253, 411, 413, 526]",SHBJ.tsv
+a you know,3,253,"[188, 253]",SHBJ.tsv
+of them,2,255,"[234, 255, 300]",SHBJ.tsv
+film,1,255,"[240, 247, 254, 255, 261, 266, 401, 405, 407, 419]",SHBJ.tsv
+someone,1,264,"[255, 257, 264]",SHBJ.tsv
+a free,2,363,"[255, 257, 363]",SHBJ.tsv
+love,1,401,"[255, 261, 401, 407]",SHBJ.tsv
+i can,2,257,"[61, 63, 167, 210, 257, 261, 265, 335, 454, 518]",SHBJ.tsv
+card,1,257,"[85, 257, 261, 423]",SHBJ.tsv
+as well,2,257,"[93, 234, 257, 461, 517, 520]",SHBJ.tsv
+can have,2,257,"[210, 257]",SHBJ.tsv
+i give,2,257,"[229, 257]",SHBJ.tsv
+you if,2,387,"[257, 387]",SHBJ.tsv
+that i,2,401,"[257, 281, 401]",SHBJ.tsv
+give me,2,496,"[257, 496]",SHBJ.tsv
+be quite,2,259,"[128, 259]",SHBJ.tsv
+you order online,3,259,"[258, 259]",SHBJ.tsv
+online,1,259,"[258, 259]",SHBJ.tsv
+watch,1,266,"[259, 266]",SHBJ.tsv
+um you,2,373,"[259, 373]",SHBJ.tsv
+film but,2,261,"[247, 261, 266]",SHBJ.tsv
+can recommend someone,3,265,"[264, 265]",SHBJ.tsv
+get the,2,267,"[61, 267, 460, 500]",SHBJ.tsv
+you can get,3,267,"[111, 267]",SHBJ.tsv
+like you know,3,267,"[164, 267]",SHBJ.tsv
+like this,2,490,"[267, 490]",SHBJ.tsv
+every,1,269,"[170, 269]",SHBJ.tsv
+every time i,3,269,"[188, 269]",SHBJ.tsv
+you to,2,496,"[269, 496]",SHBJ.tsv
+go to a,3,271,"[154, 271]",SHBJ.tsv
+guy,1,271,"[188, 271, 273, 304]",SHBJ.tsv
+be we,2,271,"[202, 271, 457]",SHBJ.tsv
+particular,1,369,"[271, 369]",SHBJ.tsv
+in a,2,273,"[37, 273, 330, 369, 423]",SHBJ.tsv
+be do,2,273,"[69, 273]",SHBJ.tsv
+let,1,273,"[128, 273]",SHBJ.tsv
+she be,2,273,"[158, 273, 355, 359]",SHBJ.tsv
+stuff,1,273,"[167, 180, 273]",SHBJ.tsv
+a maori,2,273,"[229, 242, 273, 481]",SHBJ.tsv
+do a,2,292,"[273, 292]",SHBJ.tsv
+but he,2,275,"[210, 275]",SHBJ.tsv
+i think it,3,310,"[277, 310]",SHBJ.tsv
+well it,2,279,"[17, 279]",SHBJ.tsv
+it might,2,279,"[278, 279, 505]",SHBJ.tsv
+world,1,281,"[148, 281]",SHBJ.tsv
+camp,1,286,"[281, 286, 287]",SHBJ.tsv
+sound,1,320,"[281, 320, 485]",SHBJ.tsv
+interest be,2,363,"[281, 363]",SHBJ.tsv
+find,1,407,"[281, 407]",SHBJ.tsv
+i find,2,527,"[281, 527]",SHBJ.tsv
+camp be he,3,286,"[285, 286]",SHBJ.tsv
+but you,2,287,"[103, 287]",SHBJ.tsv
+way,1,287,"[105, 210, 287]",SHBJ.tsv
+the way,2,287,"[118, 287]",SHBJ.tsv
+but you know,3,287,"[128, 287]",SHBJ.tsv
+of you,2,510,"[287, 510]",SHBJ.tsv
+what i,2,289,"[114, 289, 340, 349]",SHBJ.tsv
+do you know,3,289,"[231, 289]",SHBJ.tsv
+yeah do,2,289,"[266, 289]",SHBJ.tsv
+voice,1,314,"[289, 314]",SHBJ.tsv
+yeah do you,3,401,"[289, 401]",SHBJ.tsv
+sometimes,1,422,"[289, 422]",SHBJ.tsv
+it now,2,293,"[27, 293, 463]",SHBJ.tsv
+and they,2,293,"[134, 293, 357]",SHBJ.tsv
+go and,2,293,"[158, 293]",SHBJ.tsv
+cos they,2,367,"[293, 367, 511]",SHBJ.tsv
+they go,2,407,"[293, 407]",SHBJ.tsv
+say we,2,297,"[158, 297]",SHBJ.tsv
+i think they,3,308,"[297, 308]",SHBJ.tsv
+outside,1,492,"[299, 492, 494, 502, 514]",SHBJ.tsv
+be i,2,335,"[301, 335]",SHBJ.tsv
+be they,2,307,"[9, 307, 365, 407]",SHBJ.tsv
+antipodeans,1,307,"[304, 307]",SHBJ.tsv
+south,1,316,"[307, 316]",SHBJ.tsv
+i think it mean,4,310,"[309, 310]",SHBJ.tsv
+to do,2,317,"[156, 268, 292, 308, 312, 317, 378]",SHBJ.tsv
+em,1,317,"[206, 249, 317, 363, 416]",SHBJ.tsv
+to do with the,4,317,"[308, 312, 317]",SHBJ.tsv
+do you think,3,317,"[308, 317]",SHBJ.tsv
+do with,2,367,"[317, 367, 391]",SHBJ.tsv
+like that,2,327,"[128, 150, 172, 316, 327]",SHBJ.tsv
+where you,2,327,"[258, 327]",SHBJ.tsv
+well i suppose,3,391,"[327, 391, 392]",SHBJ.tsv
+be in,2,330,"[37, 242, 330, 363, 494]",SHBJ.tsv
+across,1,330,"[148, 330]",SHBJ.tsv
+and be,2,330,"[158, 330]",SHBJ.tsv
+i would,2,330,"[170, 266, 330, 332, 529]",SHBJ.tsv
+day,1,330,"[170, 180, 330, 427]",SHBJ.tsv
+in london,2,330,"[298, 330]",SHBJ.tsv
+london,1,330,"[298, 330]",SHBJ.tsv
+be damn,2,330,"[329, 330]",SHBJ.tsv
+form,1,333,"[330, 333, 367]",SHBJ.tsv
+ethnicity,1,363,"[330, 340, 363, 365, 424, 430, 432, 434, 438]",SHBJ.tsv
+in it be,3,332,"[33, 332]",SHBJ.tsv
+in it,2,332,"[33, 332]",SHBJ.tsv
+people who,2,332,"[192, 332]",SHBJ.tsv
+never,1,332,"[262, 332]",SHBJ.tsv
+how would you describe,4,346,"[332, 346]",SHBJ.tsv
+box,1,350,"[332, 340, 342, 350, 376, 392, 394]",SHBJ.tsv
+ethnically,1,357,"[332, 357]",SHBJ.tsv
+would you,2,391,"[332, 349, 391, 423]",SHBJ.tsv
+tick,1,397,"[332, 340, 376, 396, 397]",SHBJ.tsv
+such a,2,405,"[332, 388, 405]",SHBJ.tsv
+thing you,2,422,"[332, 422]",SHBJ.tsv
+i would never,3,529,"[332, 529]",SHBJ.tsv
+remember,1,334,"[21, 334]",SHBJ.tsv
+irish,1,338,"[318, 320, 338, 347, 348]",SHBJ.tsv
+british,1,350,"[338, 340, 349, 350, 380]",SHBJ.tsv
+to bloody,2,377,"[338, 377]",SHBJ.tsv
+but if,2,340,"[99, 340, 395]",SHBJ.tsv
+what's,1,340,"[197, 219, 260, 340, 363, 365, 398, 526]",SHBJ.tsv
+white doesn't mean anything,4,340,"[339, 340]",SHBJ.tsv
+so what,2,363,"[340, 363]",SHBJ.tsv
+bloody,1,377,"[340, 377]",SHBJ.tsv
+doesn't mean,2,424,"[340, 424]",SHBJ.tsv
+ask,1,436,"[340, 436]",SHBJ.tsv
+be actually,2,342,"[245, 342]",SHBJ.tsv
+the box,2,394,"[342, 394]",SHBJ.tsv
+oh yeah,2,344,"[186, 344, 401, 417]",SHBJ.tsv
+of irish,2,347,"[318, 347]",SHBJ.tsv
+it's true,2,349,"[225, 349]",SHBJ.tsv
+mix,1,349,"[234, 349, 357]",SHBJ.tsv
+true,1,349,"[278, 349]",SHBJ.tsv
+i always,2,349,"[341, 349]",SHBJ.tsv
+put mix,2,349,"[341, 349]",SHBJ.tsv
+how would you,3,349,"[346, 349]",SHBJ.tsv
+describe,1,349,"[346, 349]",SHBJ.tsv
+i mean what,3,367,"[349, 367]",SHBJ.tsv
+cos it's,2,416,"[349, 416, 490, 500]",SHBJ.tsv
+be bear,2,355,"[206, 355]",SHBJ.tsv
+yeah it,2,374,"[122, 374, 393]",SHBJ.tsv
+be really,2,374,"[158, 374]",SHBJ.tsv
+or or,2,376,"[369, 376]",SHBJ.tsv
+a space leave,3,377,"[376, 377]",SHBJ.tsv
+so that,2,422,"[376, 422, 423]",SHBJ.tsv
+leave,1,510,"[376, 510]",SHBJ.tsv
+that's what i,3,378,"[114, 378]",SHBJ.tsv
+impossible,1,378,"[128, 378]",SHBJ.tsv
+live,1,378,"[369, 378]",SHBJ.tsv
+you think,2,380,"[308, 380]",SHBJ.tsv
+but if you,3,382,"[99, 382]",SHBJ.tsv
+if you,2,382,"[371, 382, 387, 396, 421, 436, 448]",SHBJ.tsv
+you do,2,388,"[114, 388, 391, 396]",SHBJ.tsv
+would you do,3,391,"[388, 391]",SHBJ.tsv
+this be,2,392,"[9, 392, 525]",SHBJ.tsv
+isn't it it's,3,392,"[15, 392]",SHBJ.tsv
+it it's,2,392,"[15, 392]",SHBJ.tsv
+in in,2,392,"[292, 392]",SHBJ.tsv
+what would,2,395,"[128, 391, 395, 396]",SHBJ.tsv
+they want,2,395,"[367, 395]",SHBJ.tsv
+they want to,3,395,"[369, 395]",SHBJ.tsv
+ooh,1,396,"[52, 136, 365, 396, 447, 448]",SHBJ.tsv
+tick other,2,397,"[396, 397, 421]",SHBJ.tsv
+what's that,2,398,"[197, 398]",SHBJ.tsv
+none of the,3,400,"[180, 400]",SHBJ.tsv
+none of the above,4,400,"[399, 400, 420]",SHBJ.tsv
+oh be,2,410,"[258, 410]",SHBJ.tsv
+no it's a,3,419,"[377, 419]",SHBJ.tsv
+fit,1,421,"[33, 421]",SHBJ.tsv
+you have to,3,421,"[75, 421]",SHBJ.tsv
+you know when you,4,423,"[57, 423]",SHBJ.tsv
+when you,2,423,"[57, 219, 423]",SHBJ.tsv
+nationality,1,424,"[423, 424, 426]",SHBJ.tsv
+start say you know,4,430,"[423, 430]",SHBJ.tsv
+no exactly,2,425,"[109, 425]",SHBJ.tsv
+call,1,427,"[114, 260, 427]",SHBJ.tsv
+and i be,3,427,"[158, 427]",SHBJ.tsv
+talk about,2,427,"[176, 427]",SHBJ.tsv
+of an,2,427,"[409, 427]",SHBJ.tsv
+ethnic group,2,430,"[429, 430]",SHBJ.tsv
+indian,1,431,"[352, 354, 359, 431]",SHBJ.tsv
+muslim,1,433,"[432, 433, 434]",SHBJ.tsv
+some more,2,449,"[363, 449]",SHBJ.tsv
+have some more,3,450,"[449, 450]",SHBJ.tsv
+for now,2,510,"[451, 510]",SHBJ.tsv
+minutes,1,456,"[202, 456]",SHBJ.tsv
+few minutes,2,456,"[452, 456]",SHBJ.tsv
+out in the,3,457,"[5, 457]",SHBJ.tsv
+in the garden,3,527,"[457, 527]",SHBJ.tsv
+we can,2,465,"[458, 465]",SHBJ.tsv
+cos we can,3,508,"[465, 508]",SHBJ.tsv
+don't cry,2,473,"[472, 473]",SHBJ.tsv
+cry,1,474,"[473, 474, 484]",SHBJ.tsv
+surprise,1,475,"[436, 475]",SHBJ.tsv
+he just,2,478,"[413, 477, 478]",SHBJ.tsv
+just get,2,478,"[215, 460, 478]",SHBJ.tsv
+look at,2,480,"[260, 480]",SHBJ.tsv
+he's,1,485,"[37, 170, 172, 190, 206, 210, 219, 223, 225, 242, 244, 484, 485, 489, 492, 516]",SHBJ.tsv
+oh no,2,485,"[71, 256, 485]",SHBJ.tsv
+he's hungry,2,485,"[484, 485, 489]",SHBJ.tsv
+like you,2,487,"[164, 487]",SHBJ.tsv
+hungry,1,487,"[484, 487]",SHBJ.tsv
+like when,2,489,"[219, 489]",SHBJ.tsv
+nineteen,1,493,"[492, 493]",SHBJ.tsv
+he doesn't,2,495,"[225, 495]",SHBJ.tsv
+suit,1,496,"[495, 496, 499, 500]",SHBJ.tsv
+mat,1,497,"[460, 496, 497, 500]",SHBJ.tsv
+seat mat,2,497,"[496, 497]",SHBJ.tsv
+take,1,499,"[170, 407, 426, 438, 466, 468, 490, 496, 499, 500]",SHBJ.tsv
+take a,2,500,"[180, 499, 500]",SHBJ.tsv
+to take,2,500,"[180, 496, 499, 500]",SHBJ.tsv
+for to,2,500,"[270, 500]",SHBJ.tsv
+baby suit,2,500,"[496, 500]",SHBJ.tsv
+i'd like to,3,503,"[268, 503]",SHBJ.tsv
+still be,2,505,"[210, 505]",SHBJ.tsv
+cos it,2,521,"[505, 521]",SHBJ.tsv
+be very,2,511,"[122, 225, 270, 363, 511]",SHBJ.tsv
+i might,2,511,"[260, 511]",SHBJ.tsv
+up for,2,513,"[365, 513]",SHBJ.tsv
+dog,1,526,"[46, 526]",SHBJ.tsv
+have you,2,526,"[54, 240, 521, 526]",SHBJ.tsv
+it already,2,215,"[8, 215]",SHBJ.tsv
+it's a bite,3,524,"[60, 524]",SHBJ.tsv
+you go,2,515,"[175, 355, 515]",SHBJ.tsv
+apart from,2,524,"[191, 524]",SHBJ.tsv
+they hear,2,215,"[211, 215]",SHBJ.tsv
+you go to,3,515,"[255, 515]",SHBJ.tsv
+i'm a,2,509,"[263, 509]",SHBJ.tsv
+hold,1,267,"[165, 267]",SHBJ.tsv
+can get,2,167,"[111, 167, 267]",SHBJ.tsv
+when they're,2,295,"[215, 295]",SHBJ.tsv
+hear,1,325,"[215, 325]",SHBJ.tsv
+i'm a bite full,4,509,"[451, 509]",SHBJ.tsv
+i'm okay,2,509,"[451, 509]",SHBJ.tsv
+i'm a bite,3,509,"[505, 509]",SHBJ.tsv
+smaller,1,524,"[37, 524]",SHBJ.tsv
+enough,1,507,"[154, 507, 508]",SHBJ.tsv
+want to take a,4,499,"[180, 499]",SHBJ.tsv
+to use,2,363,"[215, 363]",SHBJ.tsv
+well that's,2,422,"[215, 422, 452]",SHBJ.tsv
+you want,2,508,"[499, 508]",SHBJ.tsv
+one's,1,508,"[507, 508]",SHBJ.tsv
+cover him,2,516,"[515, 516]",SHBJ.tsv
+alright,1,525,"[477, 525]",SHBJ.tsv
+i do,2,529,"[524, 529]",SHBJ.tsv

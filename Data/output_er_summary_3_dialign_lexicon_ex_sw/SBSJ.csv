@@ -1,0 +1,761 @@
+Expression,Expression_length,Expression_established_position,Expression_uttered_position_speaker,file
+tell,1,1,"[0, 1, 31, 44, 128, 162, 175, 178, 294, 385, 388, 424, 430, 432]",SBSJ.tsv
+penis,1,1,"[0, 1, 2]",SBSJ.tsv
+go,1,11,"[0, 2, 6, 11, 19, 35, 44, 46, 51, 66, 71, 72, 84, 87, 91, 93, 94, 98, 100, 106, 111, 118, 122, 128, 154, 162, 172, 173, 190, 191, 203, 207, 213, 228, 233, 234, 242, 252, 254, 257, 263, 284, 292, 294, 299, 312, 313, 348, 357, 379, 390, 396, 398, 399, 409, 412, 413, 416, 418, 432]",SBSJ.tsv
+go to,2,46,"[0, 6, 44, 46, 51, 71, 84, 87, 91, 93, 98, 100, 111, 118, 122, 128, 154, 172, 190, 191, 203, 207, 213, 242, 252, 254, 257, 263, 292, 294, 299, 396, 413, 416, 418, 432]",SBSJ.tsv
+to the,2,168,"[0, 44, 168, 172, 188, 201, 208, 294, 299, 320, 399]",SBSJ.tsv
+i go,2,379,"[0, 44, 233, 379]",SBSJ.tsv
+say,1,3,"[2, 3, 6, 19, 32, 46, 128, 168, 172, 174, 177, 191, 192, 203, 206, 238, 273, 285, 310, 375, 379, 381, 388, 394, 396, 425, 430, 432]",SBSJ.tsv
+actually,1,64,"[2, 61, 64, 159, 161, 162]",SBSJ.tsv
+little,1,70,"[2, 29, 70, 284, 405, 428, 429]",SBSJ.tsv
+i've get,2,83,"[2, 83, 135, 139, 141, 166, 167, 240, 399]",SBSJ.tsv
+get,1,73,"[2, 19, 42, 44, 47, 65, 73, 83, 91, 100, 104, 128, 135, 139, 141, 149, 151, 154, 156, 162, 163, 166, 167, 168, 171, 174, 177, 202, 203, 206, 207, 212, 213, 217, 228, 233, 234, 240, 246, 254, 285, 289, 290, 291, 294, 298, 305, 312, 352, 378, 379, 387, 389, 390, 393, 394, 396, 399, 416, 421, 426, 428, 430]",SBSJ.tsv
+i've,1,71,"[2, 31, 71, 83, 135, 139, 141, 166, 167, 240, 248, 285, 399, 416]",SBSJ.tsv
+go on,2,379,"[2, 379]",SBSJ.tsv
+your penis,2,4,"[1, 4]",SBSJ.tsv
+come,1,11,"[4, 11, 15, 48, 50, 51, 72, 81, 83, 98, 99, 100, 103, 128, 172, 174, 203, 257, 282, 311, 313, 412]",SBSJ.tsv
+i be like,3,46,"[4, 46, 428]",SBSJ.tsv
+he be like,3,46,"[4, 6, 46, 426]",SBSJ.tsv
+he be,2,46,"[4, 46, 100, 128, 197, 199]",SBSJ.tsv
+i'm,1,46,"[4, 19, 46, 51, 57, 71, 73, 83, 87, 91, 94, 98, 154, 166, 169, 172, 173, 191, 192, 207, 213, 222, 252, 254, 257, 258, 340, 341, 399, 432]",SBSJ.tsv
+like,1,117,"[4, 6, 33, 40, 44, 46, 54, 100, 102, 117, 122, 128, 155, 170, 191, 252, 262, 310, 379, 385, 394, 396, 397, 398, 399, 414, 416, 426, 428]",SBSJ.tsv
+let's,1,163,"[4, 163, 284, 320, 321]",SBSJ.tsv
+laugh,1,219,"[4, 219, 261, 282, 399]",SBSJ.tsv
+i be,2,263,"[4, 44, 100, 102, 128, 201, 203, 263, 282, 304, 388, 394, 399, 428, 430]",SBSJ.tsv
+be laugh,2,399,"[4, 399]",SBSJ.tsv
+be like,2,399,"[4, 6, 100, 102, 394, 399, 428]",SBSJ.tsv
+he say,2,6,"[3, 6, 46, 425]",SBSJ.tsv
+if it doesn't go down,5,11,"[6, 11]",SBSJ.tsv
+go down,2,11,"[6, 11, 348, 399]",SBSJ.tsv
+keep,1,36,"[6, 8, 36, 128, 204, 206, 207, 404, 413, 416, 434]",SBSJ.tsv
+okay,1,39,"[6, 37, 39, 40, 46, 203, 213, 284, 320, 323, 347, 433]",SBSJ.tsv
+be like okay,3,46,"[6, 46]",SBSJ.tsv
+in a,2,46,"[6, 46, 78, 172, 208]",SBSJ.tsv
+i don't,2,57,"[6, 57, 69, 83, 115, 128, 144, 155, 177, 191, 203, 215, 252, 286, 289, 299, 305, 319, 339, 385, 399, 414, 416]",SBSJ.tsv
+a bite,2,101,"[6, 44, 101, 122, 154, 258, 373, 374, 426, 430]",SBSJ.tsv
+week,1,167,"[6, 167, 387, 389, 399]",SBSJ.tsv
+mean,1,179,"[6, 144, 179, 199, 203, 207, 211, 218, 252, 285, 294, 304, 330, 382, 394, 398, 399, 426, 430]",SBSJ.tsv
+and he,2,194,"[6, 100, 128, 194, 203, 426]",SBSJ.tsv
+to worry,2,208,"[6, 208]",SBSJ.tsv
+have to,2,85,"[6, 19, 85, 100, 104, 144, 147, 154, 207, 208, 254, 385, 399, 413, 417, 419]",SBSJ.tsv
+we have,2,228,"[6, 228, 263, 399]",SBSJ.tsv
+to go,2,228,"[6, 35, 44, 228, 242, 254, 294, 409, 413]",SBSJ.tsv
+to go to,3,242,"[6, 44, 242, 294]",SBSJ.tsv
+hospital and have,3,242,"[6, 242]",SBSJ.tsv
+it should have,3,252,"[6, 252]",SBSJ.tsv
+it and,2,252,"[6, 252, 432]",SBSJ.tsv
+have to go,3,254,"[6, 254, 413]",SBSJ.tsv
+eye,1,258,"[6, 258]",SBSJ.tsv
+have a,2,265,"[6, 68, 257, 265, 366, 375, 417]",SBSJ.tsv
+up and,2,299,"[6, 203, 299]",SBSJ.tsv
+bite of,2,327,"[6, 327]",SBSJ.tsv
+if it,2,339,"[6, 339]",SBSJ.tsv
+so we,2,156,"[6, 156, 351, 396]",SBSJ.tsv
+it should,2,367,"[6, 367]",SBSJ.tsv
+it doesn't,2,379,"[6, 379]",SBSJ.tsv
+on it,2,383,"[6, 282, 383]",SBSJ.tsv
+drain,1,409,"[6, 409]",SBSJ.tsv
+worry,1,431,"[6, 431, 432]",SBSJ.tsv
+might,1,46,"[8, 46, 47, 86, 133, 147, 164, 176, 269, 350, 399, 409, 432]",SBSJ.tsv
+take,1,46,"[8, 44, 46, 164, 180, 191, 194, 197, 214, 216, 218, 238, 240, 246, 385]",SBSJ.tsv
+know,1,57,"[8, 57, 128, 144, 146, 162, 166, 173, 186, 191, 199, 203, 206, 218, 222, 246, 254, 256, 286, 289, 299, 305, 319, 339, 344, 379, 381, 385, 398, 399, 414, 416, 426, 428]",SBSJ.tsv
+quite,1,69,"[8, 69, 78, 83, 115, 124, 199, 227, 228, 252, 399, 427]",SBSJ.tsv
+might just,2,176,"[8, 176]",SBSJ.tsv
+you know,2,186,"[8, 128, 186, 191, 203, 206, 246, 379, 385, 398, 399, 416, 426, 428]",SBSJ.tsv
+take an,2,246,"[8, 246]",SBSJ.tsv
+ice,1,252,"[8, 252]",SBSJ.tsv
+you do,2,351,"[8, 351, 363, 416]",SBSJ.tsv
+few days,2,389,"[8, 389]",SBSJ.tsv
+it might,2,409,"[8, 409]",SBSJ.tsv
+work,1,60,"[10, 44, 60, 100, 111, 203, 252, 263, 311, 312, 398, 399, 426]",SBSJ.tsv
+blood,1,14,"[13, 14]",SBSJ.tsv
+it's a,2,379,"[13, 379, 399]",SBSJ.tsv
+'s,1,72,"[15, 72, 128, 151, 334, 339, 340, 418]",SBSJ.tsv
+pus and blood,3,17,"[14, 17]",SBSJ.tsv
+that's,1,17,"[14, 17, 42, 51, 76, 100, 101, 107, 112, 133, 156, 165, 191, 199, 202, 207, 209, 218, 237, 244, 246, 252, 263, 283, 284, 285, 299, 310, 318, 340, 341, 342, 373, 381, 383, 416, 417, 423]",SBSJ.tsv
+drop off,2,18,"[17, 18]",SBSJ.tsv
+box,1,18,"[17, 18, 48, 153, 171, 188, 190, 191, 312, 430]",SBSJ.tsv
+drop,1,20,"[17, 18, 19, 20, 48, 175]",SBSJ.tsv
+to drop,2,22,"[17, 19, 22, 48]",SBSJ.tsv
+that's it,2,202,"[17, 202, 207]",SBSJ.tsv
+he's,1,19,"[18, 19, 21, 51, 98, 100, 104, 106, 126, 128, 147, 177, 188, 191, 196, 197, 203, 206, 207, 209, 214, 216, 257, 312, 313, 426]",SBSJ.tsv
+no you,2,32,"[19, 32]",SBSJ.tsv
+well,1,71,"[19, 61, 71, 76, 77, 78, 91, 100, 129, 134, 148, 154, 156, 168, 211, 241, 287, 289, 341, 360, 361, 381, 383, 399, 417]",SBSJ.tsv
+would,1,115,"[19, 115, 165, 341, 379, 384, 385, 412, 417]",SBSJ.tsv
+you don't,2,179,"[19, 179, 180, 208, 416]",SBSJ.tsv
+you don't have,3,208,"[19, 208]",SBSJ.tsv
+yes,1,263,"[19, 263, 296, 298, 343]",SBSJ.tsv
+but i,2,305,"[19, 44, 111, 177, 203, 305, 385, 388, 416]",SBSJ.tsv
+don't have,2,305,"[19, 305]",SBSJ.tsv
+i would,2,385,"[19, 385]",SBSJ.tsv
+drop and roll,3,21,"[20, 21, 22]",SBSJ.tsv
+right,1,46,"[21, 46, 55, 199, 200, 203, 212, 235, 241, 248, 255, 260, 263, 284, 299, 344, 345, 346, 347, 385]",SBSJ.tsv
+he can,2,57,"[21, 57, 100, 103, 118, 188, 191]",SBSJ.tsv
+one,1,146,"[21, 35, 100, 126, 128, 146, 192, 200, 203, 208, 216, 217, 218, 230, 238, 285, 321, 339, 342, 344, 345, 370, 385, 391, 392, 398, 409, 410, 417, 426, 428, 430]",SBSJ.tsv
+yeah,1,23,"[7, 9, 23, 35, 42, 55, 61, 65, 75, 81, 95, 106, 108, 111, 115, 122, 126, 131, 147, 152, 156, 157, 163, 167, 171, 181, 182, 185, 187, 188, 189, 192, 198, 200, 203, 210, 220, 227, 246, 253, 258, 269, 272, 284, 285, 287, 289, 299, 300, 301, 305, 308, 314, 315, 316, 331, 336, 341, 346, 351, 352, 355, 357, 377, 379, 380, 381, 383, 386, 388, 389, 391, 408, 414, 416, 419, 427, 430, 432]",SBSJ.tsv
+look,1,32,"[29, 32, 117, 169, 192, 208, 252, 260, 286, 288, 375, 396]",SBSJ.tsv
+open it now,3,32,"[31, 32]",SBSJ.tsv
+open it,2,32,"[31, 32, 385]",SBSJ.tsv
+i'll,1,154,"[31, 65, 88, 114, 128, 154, 156, 168, 181, 214, 233, 234, 270, 322, 406, 418, 432]",SBSJ.tsv
+do he,2,33,"[3, 33, 425]",SBSJ.tsv
+a month,2,33,"[28, 33, 398]",SBSJ.tsv
+in advance,2,33,"[28, 33]",SBSJ.tsv
+think,1,46,"[33, 42, 46, 60, 61, 64, 67, 115, 126, 128, 158, 159, 165, 177, 191, 201, 252, 284, 336, 350, 351, 356, 373, 374, 385, 389, 399, 409, 430, 431, 432]",SBSJ.tsv
+live,1,105,"[33, 105, 126, 417]",SBSJ.tsv
+way,1,118,"[33, 118, 128, 156, 191, 203, 315, 322]",SBSJ.tsv
+it's like,2,155,"[33, 155, 310, 385, 394, 416]",SBSJ.tsv
+like a,2,117,"[33, 54, 117, 252, 379, 398]",SBSJ.tsv
+and a half,3,399,"[33, 399]",SBSJ.tsv
+think i,2,399,"[33, 128, 399]",SBSJ.tsv
+need,1,35,"[22, 35, 62, 64, 87, 96, 133, 146, 153, 154, 156, 168, 179, 203, 222, 242, 252, 284, 350, 351, 376, 396, 413]",SBSJ.tsv
+down south,2,35,"[34, 35]",SBSJ.tsv
+put it,2,46,"[35, 46, 47, 165, 196, 322]",SBSJ.tsv
+put,1,133,"[35, 47, 133, 153, 165, 171, 196, 252, 261, 321, 322, 352, 370, 406]",SBSJ.tsv
+you need,2,222,"[35, 222, 413]",SBSJ.tsv
+feel,1,258,"[40, 258, 427]",SBSJ.tsv
+totally,1,399,"[40, 399]",SBSJ.tsv
+bed death,2,42,"[41, 42]",SBSJ.tsv
+i think,2,46,"[42, 46, 60, 61, 64, 67, 126, 158, 159, 165, 284, 336, 356, 373, 374, 385, 389, 399, 409, 432]",SBSJ.tsv
+bed,1,78,"[41, 42, 78, 93, 213]",SBSJ.tsv
+time,1,112,"[42, 90, 112, 122, 128, 202, 212, 238, 332, 351, 387, 389, 396, 412]",SBSJ.tsv
+move,1,127,"[42, 126, 127, 128, 188]",SBSJ.tsv
+i think it's,3,158,"[42, 158, 159, 385]",SBSJ.tsv
+what i,2,252,"[42, 201, 218, 252, 398, 411, 417, 426]",SBSJ.tsv
+i have,2,168,"[42, 100, 168, 254, 263, 265, 341, 375, 379, 422]",SBSJ.tsv
+every,1,258,"[42, 258, 398]",SBSJ.tsv
+get a,2,289,"[42, 44, 289]",SBSJ.tsv
+yeah i,2,115,"[42, 115, 227, 284, 300, 341, 388]",SBSJ.tsv
+i get,2,387,"[42, 387, 389, 430]",SBSJ.tsv
+take all the drug,4,46,"[44, 46]",SBSJ.tsv
+and i be,3,46,"[44, 46, 100, 102, 394, 399]",SBSJ.tsv
+warn,1,48,"[44, 48]",SBSJ.tsv
+today,1,57,"[44, 57, 203, 294, 333]",SBSJ.tsv
+all the,2,60,"[44, 45, 60, 61, 231, 249, 263, 267, 268, 364, 396, 416]",SBSJ.tsv
+drive,1,110,"[44, 110, 396]",SBSJ.tsv
+be a,2,118,"[44, 118, 122, 148, 191, 399, 409, 426, 432]",SBSJ.tsv
+the cupboard,2,162,"[44, 149, 162, 164, 165, 168]",SBSJ.tsv
+into the,2,188,"[44, 188, 373]",SBSJ.tsv
+and get,2,154,"[44, 154, 234, 254, 390]",SBSJ.tsv
+go and,2,154,"[44, 154, 162, 233, 234, 254]",SBSJ.tsv
+the drug,2,246,"[44, 45, 246, 249]",SBSJ.tsv
+obviously,1,246,"[44, 246, 263, 329, 385]",SBSJ.tsv
+it be,2,252,"[44, 191, 201, 252, 269, 302, 339, 389, 399, 432]",SBSJ.tsv
+to go and,3,254,"[44, 254]",SBSJ.tsv
+so i,2,77,"[44, 77, 199, 254, 336, 379, 389, 417, 428, 430]",SBSJ.tsv
+out i,2,256,"[44, 256]",SBSJ.tsv
+to work,2,263,"[44, 100, 263]",SBSJ.tsv
+also,1,265,"[44, 265]",SBSJ.tsv
+eat,1,269,"[44, 255, 269]",SBSJ.tsv
+that be,2,285,"[44, 285, 332]",SBSJ.tsv
+from work,2,311,"[44, 311, 312]",SBSJ.tsv
+bite,1,154,"[6, 44, 101, 122, 154, 258, 284, 327, 373, 374, 426, 430]",SBSJ.tsv
+want to,2,69,"[44, 69, 91, 102, 177, 191, 197, 215, 331, 379, 385, 388, 399, 409, 424]",SBSJ.tsv
+so that,2,369,"[44, 369]",SBSJ.tsv
+slowly,1,373,"[44, 373]",SBSJ.tsv
+and i,2,162,"[44, 46, 100, 102, 126, 162, 191, 294, 332, 375, 379, 394, 399, 430]",SBSJ.tsv
+and my,2,379,"[44, 379]",SBSJ.tsv
+obviously i,2,385,"[44, 385]",SBSJ.tsv
+want,1,129,"[44, 102, 129, 177, 180, 191, 197, 215, 331, 379, 385, 388, 399, 409, 410, 424]",SBSJ.tsv
+want to go,3,409,"[44, 409]",SBSJ.tsv
+try to,2,417,"[44, 417]",SBSJ.tsv
+try,1,417,"[44, 203, 396, 417]",SBSJ.tsv
+all the drug,3,46,"[45, 46, 249]",SBSJ.tsv
+put it in,3,47,"[46, 47, 165, 322]",SBSJ.tsv
+the kettle,2,47,"[46, 47]",SBSJ.tsv
+in the,2,103,"[47, 51, 103, 128, 133, 158, 162, 165, 170, 174, 180, 184, 186, 203, 228, 275, 280, 321, 333, 360, 361, 399, 430]",SBSJ.tsv
+it in,2,118,"[47, 118, 165, 322, 354, 396]",SBSJ.tsv
+put it in the,4,165,"[47, 165]",SBSJ.tsv
+he might not,3,176,"[47, 176]",SBSJ.tsv
+he might,2,176,"[47, 176, 432]",SBSJ.tsv
+come in,2,51,"[50, 51, 174]",SBSJ.tsv
+in my,2,96,"[51, 96]",SBSJ.tsv
+can come,2,103,"[51, 103]",SBSJ.tsv
+if he,2,118,"[51, 118, 432]",SBSJ.tsv
+stand,1,170,"[51, 170, 174, 184, 185, 206, 259]",SBSJ.tsv
+go in,2,228,"[51, 228, 357, 379]",SBSJ.tsv
+around,1,246,"[51, 54, 191, 246, 417]",SBSJ.tsv
+not go,2,263,"[51, 173, 263]",SBSJ.tsv
+he's go,2,313,"[51, 100, 106, 128, 257, 312, 313]",SBSJ.tsv
+in then,2,357,"[51, 357]",SBSJ.tsv
+sit in the,3,399,"[51, 399]",SBSJ.tsv
+sit,1,399,"[51, 257, 259, 362, 399]",SBSJ.tsv
+room,1,154,"[51, 65, 154, 159, 160, 417, 422]",SBSJ.tsv
+smell,1,60,"[54, 60]",SBSJ.tsv
+bad,1,112,"[54, 112, 124, 258]",SBSJ.tsv
+hang,1,339,"[54, 339]",SBSJ.tsv
+can we,2,133,"[58, 133]",SBSJ.tsv
+roast chicken with all the trimmings,6,61,"[60, 61]",SBSJ.tsv
+think of,2,61,"[60, 61]",SBSJ.tsv
+all of those,3,62,"[61, 62]",SBSJ.tsv
+start,1,208,"[61, 191, 208, 219, 406]",SBSJ.tsv
+sauce,1,281,"[61, 281, 282, 341]",SBSJ.tsv
+all of,2,283,"[61, 63, 283]",SBSJ.tsv
+yeah well,2,287,"[61, 287, 289, 381, 383]",SBSJ.tsv
+together,1,371,"[61, 126, 128, 191, 354, 371, 373, 379]",SBSJ.tsv
+oh yeah,2,167,"[65, 95, 167]",SBSJ.tsv
+get the,2,154,"[65, 149, 154, 174, 254, 312, 379]",SBSJ.tsv
+juice,1,250,"[65, 250]",SBSJ.tsv
+no oh,2,367,"[65, 367]",SBSJ.tsv
+night,1,73,"[68, 73, 77, 78, 80, 113, 176, 177, 282, 399]",SBSJ.tsv
+sunday,1,92,"[83, 92, 94, 100, 104, 110, 111]",SBSJ.tsv
+ten,1,111,"[91, 92, 111, 118, 387, 412]",SBSJ.tsv
+on a,2,407,"[92, 406, 407]",SBSJ.tsv
+people,1,224,"[95, 224, 285, 299, 333]",SBSJ.tsv
+normal,1,315,"[95, 315, 379]",SBSJ.tsv
+back,1,98,"[11, 98, 118, 154, 199, 203, 313, 344, 399]",SBSJ.tsv
+see,1,98,"[24, 66, 69, 71, 86, 98, 100, 102, 103, 104, 118, 156, 174, 224, 241, 284, 299, 401]",SBSJ.tsv
+read,1,98,"[32, 98, 106, 128]",SBSJ.tsv
+out for,2,98,"[72, 94, 98]",SBSJ.tsv
+and i'm,2,252,"[98, 252, 258]",SBSJ.tsv
+he's come,2,313,"[98, 313]",SBSJ.tsv
+sort,1,383,"[98, 383]",SBSJ.tsv
+and i be like,4,100,"[46, 100, 102, 394]",SBSJ.tsv
+fuck,1,100,"[55, 57, 100, 128, 147, 161, 172, 432]",SBSJ.tsv
+on saturday,2,100,"[80, 100, 254]",SBSJ.tsv
+saturday,1,100,"[73, 80, 100, 113, 254]",SBSJ.tsv
+his mum,2,105,"[100, 104, 105]",SBSJ.tsv
+see his mum,3,118,"[100, 104, 118]",SBSJ.tsv
+to see,2,100,"[69, 100, 102, 104, 174, 401]",SBSJ.tsv
+the one,2,192,"[100, 126, 128, 192, 230, 342]",SBSJ.tsv
+be the,2,162,"[100, 126, 128, 162, 192, 200, 285, 381]",SBSJ.tsv
+i have to,3,254,"[100, 254]",SBSJ.tsv
+what be,2,285,"[100, 285, 365, 391, 396, 399]",SBSJ.tsv
+come here,2,313,"[100, 313]",SBSJ.tsv
+mum,1,375,"[100, 104, 375]",SBSJ.tsv
+see you,2,102,"[86, 102, 224]",SBSJ.tsv
+really,1,128,"[69, 102, 128, 169, 191, 199, 202, 207, 252, 289, 304, 310, 315, 389, 398, 399, 409, 410, 416, 417, 424, 431]",SBSJ.tsv
+really want,2,409,"[102, 409]",SBSJ.tsv
+i really,2,102,"[69, 102, 304, 410, 417]",SBSJ.tsv
+cos,1,104,"[46, 73, 83, 94, 104, 144, 154, 156, 162, 168, 176, 188, 197, 207, 322, 352, 379, 385, 396, 398, 399, 426, 430]",SBSJ.tsv
+in kent,2,105,"[104, 105]",SBSJ.tsv
+kent,1,110,"[104, 106, 110]",SBSJ.tsv
+to be,2,104,"[69, 71, 73, 83, 85, 104, 111, 115, 118, 126, 147, 179, 191, 203, 207, 252, 299, 348, 399, 418, 424]",SBSJ.tsv
+get to,2,163,"[73, 104, 163, 167, 174, 177, 203, 206, 399]",SBSJ.tsv
+he's get to,3,206,"[104, 177, 206]",SBSJ.tsv
+be in,2,208,"[104, 208, 274]",SBSJ.tsv
+yeah so,2,351,"[106, 351]",SBSJ.tsv
+it's not,2,111,"[60, 111, 128, 351, 383, 398]",SBSJ.tsv
+sunday morning,2,111,"[83, 110, 111]",SBSJ.tsv
+ten hour shift,3,118,"[111, 118]",SBSJ.tsv
+go to be,3,111,"[71, 111, 118, 207, 252, 299]",SBSJ.tsv
+probably,1,111,"[81, 83, 111, 114, 128, 133, 147, 219, 284, 285, 374, 418]",SBSJ.tsv
+morning,1,254,"[83, 111, 254, 399]",SBSJ.tsv
+not go to,3,263,"[111, 263]",SBSJ.tsv
+do the,2,111,"[83, 111, 357, 363]",SBSJ.tsv
+half,1,83,"[33, 83, 111, 284, 399]",SBSJ.tsv
+hour,1,399,"[111, 399]",SBSJ.tsv
+dead,1,114,"[41, 84, 114]",SBSJ.tsv
+no no,2,122,"[39, 122]",SBSJ.tsv
+live in,2,122,"[105, 122, 417]",SBSJ.tsv
+with him,2,170,"[122, 128, 170]",SBSJ.tsv
+much,1,299,"[122, 299, 310, 318, 351, 397]",SBSJ.tsv
+boy,1,317,"[122, 317]",SBSJ.tsv
+yeah it's,2,351,"[122, 351, 414, 416]",SBSJ.tsv
+it's just,2,351,"[122, 191, 351, 417]",SBSJ.tsv
+long,1,383,"[122, 383]",SBSJ.tsv
+which be,2,389,"[122, 274, 389, 398, 399]",SBSJ.tsv
+can't,1,126,"[32, 126, 204, 205, 206, 207, 256, 285, 385, 399, 426]",SBSJ.tsv
+but he,2,126,"[103, 126]",SBSJ.tsv
+move out,2,127,"[126, 127]",SBSJ.tsv
+the one that,3,230,"[126, 230]",SBSJ.tsv
+i can't,2,256,"[126, 256, 385]",SBSJ.tsv
+yeah but,2,305,"[126, 305, 336]",SBSJ.tsv
+they're,1,385,"[126, 128, 382, 385]",SBSJ.tsv
+i think i,3,399,"[126, 399]",SBSJ.tsv
+never,1,128,"[46, 128, 207, 208, 367, 416]",SBSJ.tsv
+i don't know,3,128,"[57, 128, 144, 286, 289, 299, 305, 319, 339, 414]",SBSJ.tsv
+don't know,2,128,"[57, 128, 289, 299, 305, 319, 339, 416]",SBSJ.tsv
+fuck off,2,128,"[57, 128, 147]",SBSJ.tsv
+good,1,128,"[76, 83, 128, 191, 202, 255, 283, 289, 329, 341, 365, 386, 389, 396]",SBSJ.tsv
+enough,1,128,"[82, 128]",SBSJ.tsv
+already,1,128,"[84, 128]",SBSJ.tsv
+even,1,128,"[103, 128, 201, 218]",SBSJ.tsv
+so he,2,128,"[118, 128]",SBSJ.tsv
+two,1,128,"[123, 128, 206, 239, 284, 285, 376, 381, 389, 390, 428]",SBSJ.tsv
+let,1,128,"[125, 128, 166, 170, 174, 179, 180]",SBSJ.tsv
+to move out,3,128,"[127, 128]",SBSJ.tsv
+to move,2,128,"[127, 128]",SBSJ.tsv
+refuse,1,128,"[127, 128]",SBSJ.tsv
+be honest,2,163,"[128, 163, 191]",SBSJ.tsv
+at all,2,196,"[128, 169, 196, 400]",SBSJ.tsv
+say he's,2,206,"[128, 206]",SBSJ.tsv
+one to,2,208,"[128, 208]",SBSJ.tsv
+em,1,128,"[71, 128, 156, 227, 241, 242, 246, 310, 316, 318, 343, 349, 396, 406, 416, 424]",SBSJ.tsv
+they have,2,246,"[128, 246, 387]",SBSJ.tsv
+they've,1,246,"[128, 246, 289, 416]",SBSJ.tsv
+so it,2,252,"[128, 252, 379, 389]",SBSJ.tsv
+and it,2,252,"[128, 252, 375, 379, 385]",SBSJ.tsv
+should have,2,252,"[128, 252]",SBSJ.tsv
+i know,2,162,"[128, 162, 191, 218, 222, 254, 256, 344, 379, 381]",SBSJ.tsv
+else,1,273,"[128, 203, 273]",SBSJ.tsv
+know if,2,166,"[128, 166, 299, 339]",SBSJ.tsv
+so be,2,311,"[128, 311]",SBSJ.tsv
+job,1,365,"[128, 365]",SBSJ.tsv
+like they're,2,385,"[128, 385]",SBSJ.tsv
+for a,2,154,"[128, 154, 389, 399, 409]",SBSJ.tsv
+a few,2,389,"[128, 389]",SBSJ.tsv
+know and,2,399,"[128, 191, 399]",SBSJ.tsv
+make pancakes,2,133,"[130, 132, 133]",SBSJ.tsv
+make,1,133,"[130, 132, 133, 144, 158, 168, 172, 174, 180, 191, 199, 204, 233, 244, 246, 252, 282, 285, 299, 320, 321, 351, 359, 360, 361, 399, 406]",SBSJ.tsv
+pancakes,1,133,"[130, 132, 133, 227, 228, 260, 280, 285, 287]",SBSJ.tsv
+could,1,143,"[130, 143, 219, 255, 375, 381, 396]",SBSJ.tsv
+we could,2,219,"[130, 219]",SBSJ.tsv
+shall we,2,299,"[132, 299]",SBSJ.tsv
+cheese,1,136,"[135, 136, 137, 138, 252]",SBSJ.tsv
+sugar,1,137,"[136, 137, 270]",SBSJ.tsv
+not cheese and sugar,4,138,"[137, 138]",SBSJ.tsv
+cheese and,2,252,"[138, 252]",SBSJ.tsv
+do this,2,285,"[142, 203, 285, 428]",SBSJ.tsv
+cos i,2,144,"[46, 144, 162, 168, 322, 398, 399, 430]",SBSJ.tsv
+to do,2,144,"[57, 83, 144, 203, 331]",SBSJ.tsv
+to make,2,144,"[133, 144, 174, 191, 244, 252, 351]",SBSJ.tsv
+i mean,2,252,"[144, 199, 203, 207, 211, 218, 252, 285, 294, 304, 330, 394, 398, 399, 426, 430]",SBSJ.tsv
+i don't know how,4,289,"[144, 289, 305]",SBSJ.tsv
+do that,2,303,"[144, 264, 303, 371, 372]",SBSJ.tsv
+though,1,147,"[86, 87, 110, 147, 201, 215, 387]",SBSJ.tsv
+might have,2,269,"[147, 164, 269, 409]",SBSJ.tsv
+then he's,2,313,"[147, 313]",SBSJ.tsv
+have you,2,149,"[24, 149, 359, 394, 423]",SBSJ.tsv
+for the,2,149,"[99, 149, 176, 177, 362, 398]",SBSJ.tsv
+you get,2,202,"[149, 202, 212, 213, 305, 394, 399, 428]",SBSJ.tsv
+get it,2,162,"[151, 162, 234, 378, 387, 389, 390, 393, 396]",SBSJ.tsv
+to put,2,153,"[46, 153]",SBSJ.tsv
+i need,2,153,"[62, 96, 153, 168, 242, 252, 284]",SBSJ.tsv
+somewhere,1,285,"[153, 285]",SBSJ.tsv
+it i,2,385,"[153, 385, 387, 396]",SBSJ.tsv
+i think it's appal that she,6,159,"[158, 159]",SBSJ.tsv
+with her,2,164,"[80, 164]",SBSJ.tsv
+lock,1,164,"[158, 164]",SBSJ.tsv
+take the,2,180,"[164, 180, 385]",SBSJ.tsv
+the box,2,188,"[171, 188, 312, 430]",SBSJ.tsv
+at the,2,171,"[91, 171, 212, 387]",SBSJ.tsv
+of the,2,283,"[171, 283, 428]",SBSJ.tsv
+just put,2,321,"[171, 321, 352]",SBSJ.tsv
+shit,1,173,"[7, 34, 101, 173, 207, 341, 426]",SBSJ.tsv
+know i'm,2,254,"[173, 191, 254]",SBSJ.tsv
+i'm not,2,399,"[173, 399]",SBSJ.tsv
+stay,1,177,"[103, 177]",SBSJ.tsv
+stay for the night,4,177,"[176, 177]",SBSJ.tsv
+i don't think,3,252,"[177, 252]",SBSJ.tsv
+but i don't,3,305,"[177, 305]",SBSJ.tsv
+i don't want to,4,177,"[69, 177, 215, 385, 399]",SBSJ.tsv
+mm i,2,399,"[177, 399]",SBSJ.tsv
+hear what,2,399,"[177, 399]",SBSJ.tsv
+think he will,3,431,"[177, 431]",SBSJ.tsv
+door,1,181,"[172, 181, 183, 188, 258, 432]",SBSJ.tsv
+the door,2,185,"[172, 185, 188, 258]",SBSJ.tsv
+by the,2,185,"[156, 185, 375]",SBSJ.tsv
+to be a,3,191,"[118, 191]",SBSJ.tsv
+the way,2,191,"[118, 156, 191, 203]",SBSJ.tsv
+there's,1,191,"[123, 129, 162, 191, 250, 258, 333, 376, 432]",SBSJ.tsv
+to know,2,191,"[146, 191, 199]",SBSJ.tsv
+three,1,191,"[129, 155, 191, 285]",SBSJ.tsv
+four,1,191,"[155, 191, 238, 240]",SBSJ.tsv
+maybe,1,191,"[170, 191, 319, 352]",SBSJ.tsv
+person,1,192,"[191, 192, 207]",SBSJ.tsv
+a good,2,191,"[83, 191, 202]",SBSJ.tsv
+go to make,3,252,"[191, 252]",SBSJ.tsv
+things,1,263,"[191, 263]",SBSJ.tsv
+that's go to,3,299,"[191, 299]",SBSJ.tsv
+hang on i,3,339,"[191, 339]",SBSJ.tsv
+use,1,343,"[191, 332, 343, 351, 385, 398, 416, 426]",SBSJ.tsv
+no it's,2,377,"[191, 377]",SBSJ.tsv
+i want to,3,379,"[191, 379]",SBSJ.tsv
+i want,2,385,"[191, 385]",SBSJ.tsv
+want to be,3,399,"[191, 399, 424]",SBSJ.tsv
+make me,2,399,"[191, 282, 399]",SBSJ.tsv
+know it,2,399,"[191, 399]",SBSJ.tsv
+stuff,1,399,"[191, 399, 413, 414, 416, 421]",SBSJ.tsv
+nothing,1,399,"[191, 399, 400, 401, 432]",SBSJ.tsv
+talk,1,399,"[191, 399]",SBSJ.tsv
+and he hasn't,3,194,"[193, 194]",SBSJ.tsv
+he hasn't,2,194,"[193, 194, 196]",SBSJ.tsv
+that on board,3,197,"[194, 197]",SBSJ.tsv
+immature,1,206,"[197, 199, 206]",SBSJ.tsv
+that just,2,399,"[197, 399]",SBSJ.tsv
+board,1,409,"[197, 409]",SBSJ.tsv
+break up,2,199,"[192, 199]",SBSJ.tsv
+that's why,2,246,"[199, 246, 283]",SBSJ.tsv
+be it,2,201,"[14, 133, 145, 201, 251, 318, 351, 379, 391, 396, 397, 413]",SBSJ.tsv
+come back,2,203,"[11, 203]",SBSJ.tsv
+need to,2,203,"[22, 133, 146, 154, 168, 179, 203, 242, 252, 350, 351, 413]",SBSJ.tsv
+do it,2,203,"[38, 163, 203, 207, 273, 300, 302, 310, 374]",SBSJ.tsv
+just need,2,203,"[64, 203]",SBSJ.tsv
+to have,2,203,"[163, 203, 257, 399]",SBSJ.tsv
+he's get,2,206,"[203, 206, 426]",SBSJ.tsv
+grow,1,208,"[203, 207, 208]",SBSJ.tsv
+i mean i don't,4,252,"[203, 252]",SBSJ.tsv
+at work,2,252,"[203, 252, 399]",SBSJ.tsv
+for one,2,285,"[203, 285]",SBSJ.tsv
+always,1,299,"[203, 299, 321, 404]",SBSJ.tsv
+order,1,379,"[203, 379]",SBSJ.tsv
+it for,2,393,"[203, 393]",SBSJ.tsv
+better,1,399,"[203, 399]",SBSJ.tsv
+go to have,3,413,"[203, 257, 413]",SBSJ.tsv
+no you can't,3,205,"[32, 205]",SBSJ.tsv
+you can't,2,205,"[204, 205]",SBSJ.tsv
+i'm go to,3,207,"[46, 71, 87, 91, 154, 172, 207, 213, 252, 254, 432]",SBSJ.tsv
+can't keep,2,207,"[204, 206, 207]",SBSJ.tsv
+the next,2,208,"[207, 208]",SBSJ.tsv
+that have,2,230,"[207, 230]",SBSJ.tsv
+it it's,2,379,"[207, 379, 417]",SBSJ.tsv
+to get,2,207,"[91, 154, 168, 207, 294, 312, 379, 387]",SBSJ.tsv
+longer,1,379,"[207, 379]",SBSJ.tsv
+that's what,2,244,"[209, 218, 244, 252, 417]",SBSJ.tsv
+isn't it,2,211,"[145, 146, 211, 244]",SBSJ.tsv
+and this,2,389,"[211, 389]",SBSJ.tsv
+that's what i,3,252,"[218, 252, 417]",SBSJ.tsv
+yeah probs,2,357,"[220, 357]",SBSJ.tsv
+big,1,223,"[190, 223, 252]",SBSJ.tsv
+bye bye,2,226,"[225, 226]",SBSJ.tsv
+duck,1,229,"[228, 229, 231]",SBSJ.tsv
+the duck,2,230,"[229, 230, 231]",SBSJ.tsv
+with all the,3,231,"[60, 231]",SBSJ.tsv
+man,1,231,"[230, 231, 236]",SBSJ.tsv
+find,1,233,"[46, 233, 287, 379, 404, 417, 430]",SBSJ.tsv
+make them,2,233,"[133, 233, 406]",SBSJ.tsv
+go and get,3,233,"[154, 233, 234, 254]",SBSJ.tsv
+shall,1,299,"[233, 299]",SBSJ.tsv
+sound,1,235,"[78, 235, 255, 262, 386, 399]",SBSJ.tsv
+sorry for,2,235,"[192, 235]",SBSJ.tsv
+that's a,2,237,"[101, 237]",SBSJ.tsv
+can you,2,241,"[32, 241]",SBSJ.tsv
+on the,2,241,"[46, 118, 125, 241, 252, 257, 276, 284, 379, 409]",SBSJ.tsv
+soon,1,241,"[154, 208, 241, 257]",SBSJ.tsv
+the sudafed,2,241,"[238, 241]",SBSJ.tsv
+sudafed,1,241,"[238, 241]",SBSJ.tsv
+charcoal,1,243,"[242, 243, 246]",SBSJ.tsv
+drug,1,247,"[46, 246, 247]",SBSJ.tsv
+ooh,1,253,"[112, 236, 238, 253, 334, 396, 399]",SBSJ.tsv
+that sound,2,255,"[78, 255]",SBSJ.tsv
+cake,1,255,"[252, 255]",SBSJ.tsv
+isn't he,2,257,"[30, 257]",SBSJ.tsv
+just go to,3,257,"[118, 257]",SBSJ.tsv
+leave,1,176,"[154, 176, 213, 259, 351, 404, 427]",SBSJ.tsv
+moo,1,263,"[262, 263]",SBSJ.tsv
+milk,1,264,"[145, 146, 260, 263, 264, 274, 284, 285, 352, 371]",SBSJ.tsv
+we can,2,299,"[264, 284, 299, 321, 332]",SBSJ.tsv
+all the healthy dinners,4,268,"[267, 268]",SBSJ.tsv
+definitely,1,339,"[270, 306, 339]",SBSJ.tsv
+nutella,1,272,"[141, 265, 269, 272]",SBSJ.tsv
+egg and milk,3,274,"[146, 274, 371]",SBSJ.tsv
+egg,1,146,"[129, 146, 260, 263, 274, 357, 371]",SBSJ.tsv
+the fridge,2,276,"[275, 276]",SBSJ.tsv
+thyme,1,277,"[276, 277, 278]",SBSJ.tsv
+in the pancakes,3,280,"[133, 228, 280]",SBSJ.tsv
+coriander,1,280,"[279, 280, 281]",SBSJ.tsv
+it make,2,282,"[246, 282, 299]",SBSJ.tsv
+watch,1,282,"[246, 252, 282]",SBSJ.tsv
+contraband,1,283,"[282, 283, 332, 341]",SBSJ.tsv
+last,1,351,"[282, 332, 351, 379, 387, 389, 399]",SBSJ.tsv
+make me laugh,3,399,"[282, 399]",SBSJ.tsv
+last night,2,399,"[282, 399]",SBSJ.tsv
+you can,2,284,"[93, 103, 188, 284]",SBSJ.tsv
+there be,2,284,"[148, 284, 409]",SBSJ.tsv
+i think that's,3,284,"[165, 284, 373]",SBSJ.tsv
+we're,1,284,"[221, 284]",SBSJ.tsv
+all of the,3,284,"[283, 284]",SBSJ.tsv
+five,1,285,"[284, 285, 310, 379, 389, 397, 398]",SBSJ.tsv
+you're a,2,339,"[284, 339]",SBSJ.tsv
+front,1,347,"[284, 347]",SBSJ.tsv
+hundred,1,379,"[284, 379, 428]",SBSJ.tsv
+mill,1,379,"[284, 379]",SBSJ.tsv
+i figure,2,411,"[284, 402, 411]",SBSJ.tsv
+awesome,1,399,"[286, 399]",SBSJ.tsv
+look at,2,288,"[208, 260, 288]",SBSJ.tsv
+we've get,2,290,"[289, 290, 291, 352]",SBSJ.tsv
+fry pan,2,290,"[289, 290, 291, 294, 331]",SBSJ.tsv
+we've get no fry pan,5,291,"[290, 291]",SBSJ.tsv
+pan,1,291,"[290, 291, 294]",SBSJ.tsv
+we've,1,383,"[290, 352, 383]",SBSJ.tsv
+ryman's,1,295,"[292, 295, 297]",SBSJ.tsv
+you a,2,294,"[24, 26, 294, 399]",SBSJ.tsv
+place,1,294,"[46, 158, 294, 298, 404]",SBSJ.tsv
+next to the,3,294,"[208, 294]",SBSJ.tsv
+next,1,294,"[208, 294, 432]",SBSJ.tsv
+the fry pan,3,331,"[294, 331]",SBSJ.tsv
+and she,2,294,"[81, 160, 294, 375]",SBSJ.tsv
+me that,2,381,"[294, 381]",SBSJ.tsv
+her to,2,385,"[294, 385]",SBSJ.tsv
+card,1,298,"[24, 26, 298]",SBSJ.tsv
+from there,2,298,"[174, 298]",SBSJ.tsv
+we get,2,298,"[228, 298]",SBSJ.tsv
+we just,2,300,"[299, 300]",SBSJ.tsv
+alright,1,302,"[46, 224, 302, 324, 430, 432]",SBSJ.tsv
+i mean i,3,304,"[252, 304, 430]",SBSJ.tsv
+it say,2,310,"[32, 285, 310, 375, 379]",SBSJ.tsv
+flour,1,310,"[145, 146, 260, 263, 310, 318, 358, 360, 361, 367, 369]",SBSJ.tsv
+hard,1,310,"[221, 310]",SBSJ.tsv
+in this,2,310,"[250, 310, 370]",SBSJ.tsv
+plain flour,2,310,"[260, 263, 310]",SBSJ.tsv
+do it say,3,310,"[273, 310]",SBSJ.tsv
+fifty five,2,310,"[285, 310]",SBSJ.tsv
+how much,2,310,"[299, 310, 351, 397]",SBSJ.tsv
+spoon,1,363,"[310, 363]",SBSJ.tsv
+fifty,1,379,"[310, 379]",SBSJ.tsv
+house,1,312,"[81, 180, 312, 333, 396, 417]",SBSJ.tsv
+not very,2,318,"[190, 318]",SBSJ.tsv
+that's not,2,318,"[263, 318, 373, 416]",SBSJ.tsv
+not very much,3,351,"[318, 351]",SBSJ.tsv
+make it,2,320,"[252, 320]",SBSJ.tsv
+just make,2,320,"[299, 320, 359]",SBSJ.tsv
+let's just,2,321,"[320, 321]",SBSJ.tsv
+whisk,1,363,"[322, 324, 363, 364, 371, 373]",SBSJ.tsv
+can fit,2,324,"[118, 324]",SBSJ.tsv
+fit,1,324,"[190, 234, 324]",SBSJ.tsv
+ding,1,326,"[325, 326]",SBSJ.tsv
+growth,1,328,"[327, 328]",SBSJ.tsv
+growths,1,330,"[329, 330]",SBSJ.tsv
+oil,1,332,"[331, 332, 340, 341]",SBSJ.tsv
+last time,2,351,"[332, 351]",SBSJ.tsv
+ooh it's,2,399,"[334, 399]",SBSJ.tsv
+but it,2,336,"[252, 336, 381, 399]",SBSJ.tsv
+safe,1,338,"[36, 338]",SBSJ.tsv
+olive oil,2,341,"[340, 341]",SBSJ.tsv
+right one,2,344,"[200, 344, 385]",SBSJ.tsv
+top,1,344,"[252, 344]",SBSJ.tsv
+top right,2,345,"[344, 345]",SBSJ.tsv
+front right,2,347,"[346, 347]",SBSJ.tsv
+doritos,1,348,"[265, 348]",SBSJ.tsv
+cool,1,349,"[348, 349]",SBSJ.tsv
+you think,2,350,"[60, 350]",SBSJ.tsv
+do you,2,350,"[89, 331, 343, 350, 351, 398, 423, 426, 431]",SBSJ.tsv
+do you think,3,351,"[350, 351, 431]",SBSJ.tsv
+cos otherwise,2,352,"[176, 352]",SBSJ.tsv
+recipe,1,352,"[256, 352]",SBSJ.tsv
+we've get no,3,352,"[291, 352]",SBSJ.tsv
+milk in,2,371,"[352, 371]",SBSJ.tsv
+and then,2,354,"[80, 103, 188, 252, 299, 321, 354, 363, 396]",SBSJ.tsv
+pour,1,354,"[309, 354, 373]",SBSJ.tsv
+fine,1,356,"[335, 356, 379, 383]",SBSJ.tsv
+the flour,2,361,"[358, 360, 361, 369]",SBSJ.tsv
+make a well in the flour,6,361,"[360, 361]",SBSJ.tsv
+sit in,2,399,"[362, 399]",SBSJ.tsv
+the whisk,2,364,"[363, 364]",SBSJ.tsv
+your computer,2,366,"[365, 366]",SBSJ.tsv
+oh no,2,368,"[127, 269, 341, 353, 368]",SBSJ.tsv
+salt,1,370,"[260, 263, 369, 370]",SBSJ.tsv
+this one,2,370,"[339, 345, 370]",SBSJ.tsv
+didn't do that,3,372,"[371, 372]",SBSJ.tsv
+a bite anal,3,374,"[373, 374]",SBSJ.tsv
+there's two,2,376,"[123, 376]",SBSJ.tsv
+coco,1,376,"[375, 376, 377, 379]",SBSJ.tsv
+chanel,1,376,"[375, 376]",SBSJ.tsv
+different,1,376,"[375, 376, 379, 398, 416]",SBSJ.tsv
+perfume,1,380,"[375, 379, 380]",SBSJ.tsv
+eau de toilette,3,380,"[379, 380, 381, 382]",SBSJ.tsv
+eau de perfume,3,380,"[379, 380]",SBSJ.tsv
+eau,1,380,"[379, 380, 381, 382]",SBSJ.tsv
+toilette,1,380,"[379, 380, 382]",SBSJ.tsv
+eau de,2,381,"[380, 381]",SBSJ.tsv
+just be,2,382,"[285, 381, 382]",SBSJ.tsv
+would be,2,384,"[115, 384, 385, 412]",SBSJ.tsv
+be just,2,388,"[71, 99, 118, 388]",SBSJ.tsv
+go out,2,390,"[72, 94, 172, 390]",SBSJ.tsv
+weekend,1,390,"[71, 74, 156, 390]",SBSJ.tsv
+and get it,3,390,"[234, 390]",SBSJ.tsv
+get it for,3,393,"[390, 393]",SBSJ.tsv
+thirty,1,397,"[390, 397]",SBSJ.tsv
+be she,2,394,"[72, 394]",SBSJ.tsv
+this be,2,394,"[307, 339, 394]",SBSJ.tsv
+she wear,2,394,"[375, 394]",SBSJ.tsv
+for herself,2,394,"[393, 394]",SBSJ.tsv
+wear,1,399,"[394, 396, 399]",SBSJ.tsv
+foundation,1,399,"[394, 396, 399]",SBSJ.tsv
+it on,2,396,"[46, 254, 385, 396]",SBSJ.tsv
+have the,2,396,"[66, 230, 396]",SBSJ.tsv
+that she,2,396,"[158, 396]",SBSJ.tsv
+thing,1,396,"[83, 115, 252, 396]",SBSJ.tsv
+good all,2,396,"[283, 396]",SBSJ.tsv
+say it's,2,396,"[381, 396]",SBSJ.tsv
+it's the,2,396,"[385, 396]",SBSJ.tsv
+what be it,3,396,"[391, 396]",SBSJ.tsv
+that we,2,399,"[396, 399]",SBSJ.tsv
+know what,2,398,"[57, 398, 426]",SBSJ.tsv
+day,1,398,"[71, 72, 99, 103, 240, 252, 398]",SBSJ.tsv
+pay,1,398,"[167, 398, 399]",SBSJ.tsv
+lot,1,398,"[250, 398]",SBSJ.tsv
+when you're,2,398,"[261, 398, 417]",SBSJ.tsv
+seem,1,398,"[357, 387, 398, 430]",SBSJ.tsv
+buy,1,398,"[375, 379, 398]",SBSJ.tsv
+different to,2,398,"[379, 398]",SBSJ.tsv
+to buy,2,398,"[379, 398]",SBSJ.tsv
+thirty five,2,398,"[397, 398]",SBSJ.tsv
+you pay,2,399,"[398, 399]",SBSJ.tsv
+cheap,1,399,"[398, 399]",SBSJ.tsv
+in one,2,417,"[398, 417]",SBSJ.tsv
+face,1,404,"[113, 219, 404]",SBSJ.tsv
+plate,1,408,"[407, 408, 409]",SBSJ.tsv
+a plate,2,409,"[408, 409]",SBSJ.tsv
+really want that one,4,410,"[409, 410]",SBSJ.tsv
+please,1,412,"[11, 168, 215, 412]",SBSJ.tsv
+just come,2,412,"[99, 412]",SBSJ.tsv
+it's all,2,414,"[12, 414]",SBSJ.tsv
+able,1,416,"[174, 416]",SBSJ.tsv
+they've get,2,416,"[246, 289, 416]",SBSJ.tsv
+throw,1,416,"[246, 416]",SBSJ.tsv
+to use,2,416,"[385, 416]",SBSJ.tsv
+play,1,416,"[399, 416]",SBSJ.tsv
+away,1,416,"[175, 399, 416, 426]",SBSJ.tsv
+to keep,2,416,"[413, 416]",SBSJ.tsv
+fair,1,418,"[82, 418]",SBSJ.tsv
+tell them about,3,424,"[1, 424]",SBSJ.tsv
+not not,2,424,"[137, 424]",SBSJ.tsv
+be my,2,424,"[265, 307, 424]",SBSJ.tsv
+speak to,2,424,"[423, 424]",SBSJ.tsv
+outside,1,426,"[148, 426, 430]",SBSJ.tsv
+that because,2,426,"[305, 426]",SBSJ.tsv
+one and,2,426,"[321, 426, 430]",SBSJ.tsv
+and it's,2,426,"[379, 399, 426]",SBSJ.tsv
+piss,1,426,"[385, 426]",SBSJ.tsv
+be like what,3,426,"[399, 426]",SBSJ.tsv
+ah i,2,428,"[86, 428]",SBSJ.tsv
+for like,2,428,"[379, 428]",SBSJ.tsv
+quid,1,428,"[379, 428]",SBSJ.tsv
+don't you,2,428,"[399, 428]",SBSJ.tsv
+if i,2,430,"[86, 168, 430]",SBSJ.tsv
+yeah cos,2,430,"[188, 379, 430]",SBSJ.tsv
+cos i be,3,430,"[399, 430]",SBSJ.tsv
+just to,2,430,"[399, 430]",SBSJ.tsv
+call,1,432,"[46, 118, 432]",SBSJ.tsv
+won't be,2,432,"[174, 432]",SBSJ.tsv
+he might just,3,432,"[176, 432]",SBSJ.tsv
+didn't you,2,432,"[351, 432]",SBSJ.tsv
+think he,2,432,"[431, 432]",SBSJ.tsv
+cross,1,434,"[170, 434]",SBSJ.tsv
+go to the,3,172,"[0, 44, 172, 294]",SBSJ.tsv
+tell him,2,175,"[0, 31, 44, 175, 178, 430]",SBSJ.tsv
+allow,1,81,"[4, 81]",SBSJ.tsv
+you'll have to,3,154,"[6, 154]",SBSJ.tsv
+have it,2,156,"[6, 156]",SBSJ.tsv
+know you,2,222,"[8, 222]",SBSJ.tsv
+about it,2,67,"[10, 67, 432]",SBSJ.tsv
+anyway,1,73,"[19, 73, 77, 128, 334, 394, 420]",SBSJ.tsv
+drop and,2,175,"[20, 21, 22, 175]",SBSJ.tsv
+need a,2,87,"[35, 87]",SBSJ.tsv
+will be,2,77,"[44, 77]",SBSJ.tsv
+home,1,81,"[44, 81, 100]",SBSJ.tsv
+i didn't,2,115,"[44, 115, 370, 388]",SBSJ.tsv
+be go,2,162,"[44, 98, 100, 162, 191, 203]",SBSJ.tsv
+him that,2,178,"[44, 178]",SBSJ.tsv
+my room,2,160,"[51, 65, 159, 160]",SBSJ.tsv
+think about,2,67,"[61, 67, 430]",SBSJ.tsv
+cameraman,1,88,"[87, 88]",SBSJ.tsv
+ten o'clock,2,92,"[91, 92]",SBSJ.tsv
+mother,1,95,"[94, 95]",SBSJ.tsv
+friend,1,121,"[98, 120, 121]",SBSJ.tsv
+for mother sunday,3,100,"[94, 100]",SBSJ.tsv
+that's the,2,156,"[100, 156, 342]",SBSJ.tsv
+no i,2,102,"[67, 102, 424]",SBSJ.tsv
+want to see,3,102,"[69, 102]",SBSJ.tsv
+get to be,3,104,"[73, 104, 203]",SBSJ.tsv
+have to be,3,104,"[85, 104]",SBSJ.tsv
+still,1,156,"[126, 128, 156, 162, 218]",SBSJ.tsv
+honest,1,128,"[69, 83, 115, 128, 163, 191]",SBSJ.tsv
+be with,2,128,"[73, 128]",SBSJ.tsv
+it just,2,145,"[128, 145, 398]",SBSJ.tsv
+way i,2,156,"[128, 156]",SBSJ.tsv
+come to,2,172,"[128, 172]",SBSJ.tsv
+lemon and treacle,3,140,"[139, 140]",SBSJ.tsv
+get the key,3,154,"[149, 154]",SBSJ.tsv
+the key,2,160,"[149, 160, 162, 168]",SBSJ.tsv
+steal,1,160,"[159, 160, 161]",SBSJ.tsv
+heater,1,164,"[156, 164]",SBSJ.tsv
+don't want,2,180,"[177, 180, 385, 399]",SBSJ.tsv
+when we,2,191,"[81, 191, 390]",SBSJ.tsv
+honest it's,2,191,"[83, 191]",SBSJ.tsv
+care,1,191,"[83, 191]",SBSJ.tsv
+anymore,1,191,"[156, 191]",SBSJ.tsv
+to him,2,191,"[172, 178, 191, 424]",SBSJ.tsv
+show,1,197,"[113, 197]",SBSJ.tsv
+someone,1,203,"[129, 203]",SBSJ.tsv
+have get,2,203,"[162, 203]",SBSJ.tsv
+sure,1,203,"[168, 203, 340]",SBSJ.tsv
+say to,2,203,"[172, 203]",SBSJ.tsv
+minute,1,203,"[172, 203]",SBSJ.tsv
+cos i'm go,3,207,"[94, 207]",SBSJ.tsv
+cos i'm go to,4,207,"[154, 207]",SBSJ.tsv
+i'm go,2,94,"[46, 94, 172, 207, 252, 254, 432]",SBSJ.tsv
+problem,1,213,"[211, 213]",SBSJ.tsv
+with the,2,231,"[73, 231]",SBSJ.tsv
+just leave,2,259,"[154, 259]",SBSJ.tsv
+lemon,1,270,"[139, 270]",SBSJ.tsv
+be yeah i,3,284,"[115, 284]",SBSJ.tsv
+flour be it,3,318,"[145, 318]",SBSJ.tsv
+in there,2,322,"[129, 139, 154, 168, 322, 354, 408]",SBSJ.tsv
+love,1,328,"[213, 328]",SBSJ.tsv
+probably a,2,374,"[83, 374]",SBSJ.tsv
+over the,2,396,"[71, 396, 404]",SBSJ.tsv
+a lot,2,398,"[71, 398]",SBSJ.tsv
+out in,2,398,"[172, 398]",SBSJ.tsv
+get in,2,430,"[154, 168, 430]",SBSJ.tsv
+i haven't,2,430,"[162, 430]",SBSJ.tsv
+or not,2,430,"[166, 430]",SBSJ.tsv
+get one,2,430,"[217, 430]",SBSJ.tsv
+no i think,3,432,"[67, 432]",SBSJ.tsv
+when he,2,432,"[172, 432]",SBSJ.tsv
+you not,2,113,"[32, 113]",SBSJ.tsv
+be you,2,113,"[46, 60, 66, 72, 113, 273, 399]",SBSJ.tsv
+think you,2,115,"[46, 115, 409]",SBSJ.tsv
+you later,2,224,"[46, 224]",SBSJ.tsv
+round,1,73,"[48, 73]",SBSJ.tsv
+come round,2,83,"[48, 83]",SBSJ.tsv
+he come,2,172,"[50, 172, 311]",SBSJ.tsv
+chip,1,60,"[59, 60, 309]",SBSJ.tsv
+tonight,1,69,"[66, 69, 215]",SBSJ.tsv
+go out for,3,94,"[72, 94]",SBSJ.tsv
+first official night,3,78,"[77, 78]",SBSJ.tsv
+first,1,78,"[77, 78, 158]",SBSJ.tsv
+saturday night,2,113,"[80, 113]",SBSJ.tsv
+her on,2,166,"[80, 166]",SBSJ.tsv
+i see,2,156,"[86, 156]",SBSJ.tsv
+afterwards,1,93,"[91, 93]",SBSJ.tsv
+go to bed,3,213,"[93, 213]",SBSJ.tsv
+him in the,3,180,"[103, 180]",SBSJ.tsv
+on sunday,2,110,"[83, 110]",SBSJ.tsv
+drag king,2,118,"[117, 118]",SBSJ.tsv
+drag,1,118,"[117, 118]",SBSJ.tsv
+you to,2,133,"[115, 133, 244]",SBSJ.tsv
+be do,2,143,"[85, 143]",SBSJ.tsv
+them in,2,158,"[154, 158, 172]",SBSJ.tsv
+she's get to,3,163,"[73, 163]",SBSJ.tsv
+that's where,2,165,"[156, 165]",SBSJ.tsv
+in the cupboard,3,165,"[162, 165]",SBSJ.tsv
+no just say,3,174,"[172, 174]",SBSJ.tsv
+just say,2,174,"[172, 174]",SBSJ.tsv
+no just,2,180,"[174, 180]",SBSJ.tsv
+don't need,2,179,"[156, 179]",SBSJ.tsv
+him in,2,180,"[179, 180]",SBSJ.tsv
+bring the,2,188,"[168, 188]",SBSJ.tsv
+to the door,3,188,"[172, 188]",SBSJ.tsv
+bring,1,188,"[172, 188]",SBSJ.tsv
+yeah and,2,192,"[81, 192]",SBSJ.tsv
+change,1,208,"[129, 208, 389]",SBSJ.tsv
+be quite,2,228,"[69, 83, 115, 228, 399]",SBSJ.tsv
+i'll go and get,4,234,"[154, 234]",SBSJ.tsv
+i need to,3,242,"[168, 242, 252]",SBSJ.tsv
+yeah that's,2,246,"[156, 246]",SBSJ.tsv
+you and,2,246,"[213, 246]",SBSJ.tsv
+lot of,2,250,"[71, 250]",SBSJ.tsv
+to be quite,3,252,"[69, 83, 115, 252]",SBSJ.tsv
+i'm go to be,4,252,"[71, 252]",SBSJ.tsv
+banana,1,252,"[83, 85, 252]",SBSJ.tsv
+so the,2,252,"[85, 252]",SBSJ.tsv
+look like a,3,252,"[117, 252]",SBSJ.tsv
+the gym,2,252,"[172, 252]",SBSJ.tsv
+go and get the,4,254,"[154, 254]",SBSJ.tsv
+get some,2,285,"[166, 285]",SBSJ.tsv
+well if,2,287,"[129, 287, 417]",SBSJ.tsv
+we don't,2,305,"[156, 305]",SBSJ.tsv
+in the house,3,333,"[180, 333]",SBSJ.tsv
+if it's,2,339,"[162, 339]",SBSJ.tsv
+mind,1,367,"[89, 367]",SBSJ.tsv
+for her,2,375,"[166, 375]",SBSJ.tsv
+want to get,3,379,"[91, 379]",SBSJ.tsv
+and i know,3,379,"[162, 379]",SBSJ.tsv
+body,1,383,"[71, 383]",SBSJ.tsv
+spend,1,383,"[77, 383]",SBSJ.tsv
+it cos,2,385,"[156, 385]",SBSJ.tsv
+as well,2,399,"[71, 168, 399]",SBSJ.tsv
+listen to,2,399,"[178, 399]",SBSJ.tsv
+if you,2,417,"[222, 417]",SBSJ.tsv
