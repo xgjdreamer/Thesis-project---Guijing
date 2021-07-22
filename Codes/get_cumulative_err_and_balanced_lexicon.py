@@ -423,14 +423,16 @@ for f in files:
 for i in range(0,len(dl_err_global)):
     if dl_err_global[i]!=[]:
         dl_err_sum_pd = pd.DataFrame(dl_err_global[i])
-        dl_err_sum_pd.to_csv(os.path.join(output_path + "/group_size_" + str(i+2),'summary_err_global_' + str(i+2)+ '_speakers.csv'), index = False)
-        i = i+1
+        dl_err_sum_pd.to_csv(os.path.join(output_path,'global_err_summary' + str(i+2)+ '_speakers.csv'), index = False)
+        # dl_err_sum_pd.to_csv(os.path.join(output_path + "/group_size_" + str(i+2),'summary_err_global_' + str(i+2)+ '_speakers.csv'), index = False)
+
 
 for j in range(0,len(dl_lexicon_sum)):
     if dl_lexicon_sum[j]!=[]:
         dl_lexicon_sum_pd = pd.DataFrame(dl_lexicon_sum[j])
-        dl_lexicon_sum_pd.to_csv(os.path.join(output_path + "/group_size_" + str(j+2),'summary_els_' + str(j+2)+ '_speakers.csv'), index = False)
-        j = j+1
+        dl_lexicon_sum_pd.to_csv(os.path.join(output_path,'balanced_els_summary' + str(j+2)+ '_speakers.csv'), index = False)
+        # dl_lexicon_sum_pd.to_csv(os.path.join(output_path + "/group_size_" + str(j+2),'summary_els_' + str(j+2)+ '_speakers.csv'), index = False)
+        #
 
 
 
