@@ -261,39 +261,54 @@ def get_er_ratio_in_time_n(speaker, speaker_dic, ex_group, u_low, u_high):
     else:
         av_er_ratio = 0
 
-    if n==2:
-        result_dic = {'speaker1': speaker[0], 'speaker1_token_number': sum_token[0], 'speaker1_expression_token_number':sum_er_token[0],
-                      'speaker1_expression_number':sum_er[0],'speaker1_er_ratio':er_ratio[0],
-                      'speaker2': speaker[1], 'speaker2_token_number': sum_token[1], 'speaker2_expression_token_number':sum_er_token[1],
-                      'speaker2_expression_number':sum_er[1],'speaker2_er_ratio':er_ratio[1],
-                      # 'speaker3': speaker[2], 'speaker3_token_number': sum_token[2], 'speaker3_expression_token_number':sum_er_token[2],
-                      # 'speaker3_expression_number':sum_er[2],'speaker3_er_ratio':er_ratio[2],
-                      'total_token_number': total_token_number, 'total_er_token_number' : total_er_token_number, 'av_er_ratio':av_er_ratio,
-                      'total_er_number': total_er_number}
+    result_dic = {}
+    for s in range(0, len(speaker)):
+        result_dic['speaker' + str(s+1)]  = speaker[s]
+        result_dic['speaker' + str(s+1) + '_token_number']  = sum_token[s]
+        result_dic['speaker' + str(s+1) + '_expression_token_number']  = sum_er_token[s]
+        result_dic['speaker' + str(s+1) + '_expression_number']  = sum_er[s]
+        result_dic['speaker' + str(s+1) + '_er_ratio'] = er_ratio[s]
 
-    if n==3:
-        result_dic = {'speaker1': speaker[0], 'speaker1_token_number': sum_token[0], 'speaker1_expression_token_number':sum_er_token[0],
-                      'speaker1_expression_number':sum_er[0],'speaker1_er_ratio':er_ratio[0],
-                      'speaker2': speaker[1], 'speaker2_token_number': sum_token[1], 'speaker2_expression_token_number':sum_er_token[1],
-                      'speaker2_expression_number':sum_er[1],'speaker2_er_ratio':er_ratio[1],
-                      'speaker3': speaker[2], 'speaker3_token_number': sum_token[2], 'speaker3_expression_token_number':sum_er_token[2],
-                      'speaker3_expression_number':sum_er[2],'speaker3_er_ratio':er_ratio[2],
-                      'total_token_number': total_token_number, 'total_er_token_number' : total_er_token_number, 'av_er_ratio':av_er_ratio,
-                      'total_er_number': total_er_number}
-    if n==4:
-        result_dic = {'speaker1': speaker[0], 'speaker1_token_number': sum_token[0], 'speaker1_expression_token_number':sum_er_token[0],
-                      'speaker1_expression_number':sum_er[0],'speaker1_er_ratio':er_ratio[0],
-                      'speaker2': speaker[1], 'speaker2_token_number': sum_token[1], 'speaker2_expression_token_number':sum_er_token[1],
-                      'speaker2_expression_number':sum_er[1],'speaker2_er_ratio':er_ratio[1],
-                      'speaker3': speaker[2], 'speaker3_token_number': sum_token[2], 'speaker3_expression_token_number':sum_er_token[2],
-                      'speaker3_expression_number':sum_er[2],'speaker3_er_ratio':er_ratio[2],
-                      'speaker4': speaker[3], 'speaker4_token_number': sum_token[3], 'speaker4_expression_token_number':sum_er_token[3],
-                      'speaker4_expression_number':sum_er[3],'speaker4_er_ratio':er_ratio[3],
-                      'total_token_number': total_token_number, 'total_er_token_number' : total_er_token_number, 'av_er_ratio':av_er_ratio,
-                      'total_er_number': total_er_number}
-
+    result_dic['total_token_number'] = total_token_number
+    result_dic['total_er_token_number'] = total_er_token_number
+    result_dic['total_er_number'] = total_er_number
+    result_dic['av_er_ratio'] = av_er_ratio
 
     return result_dic
+
+    # if n==2:
+    #     result_dic = {'speaker1': speaker[0], 'speaker1_token_number': sum_token[0], 'speaker1_expression_token_number':sum_er_token[0],
+    #                   'speaker1_expression_number':sum_er[0],'speaker1_er_ratio':er_ratio[0],
+    #                   'speaker2': speaker[1], 'speaker2_token_number': sum_token[1], 'speaker2_expression_token_number':sum_er_token[1],
+    #                   'speaker2_expression_number':sum_er[1],'speaker2_er_ratio':er_ratio[1],
+    #                   # 'speaker3': speaker[2], 'speaker3_token_number': sum_token[2], 'speaker3_expression_token_number':sum_er_token[2],
+    #                   # 'speaker3_expression_number':sum_er[2],'speaker3_er_ratio':er_ratio[2],
+    #                   'total_token_number': total_token_number, 'total_er_token_number' : total_er_token_number, 'av_er_ratio':av_er_ratio,
+    #                   'total_er_number': total_er_number}
+    #
+    # if n==3:
+    #     result_dic = {'speaker1': speaker[0], 'speaker1_token_number': sum_token[0], 'speaker1_expression_token_number':sum_er_token[0],
+    #                   'speaker1_expression_number':sum_er[0],'speaker1_er_ratio':er_ratio[0],
+    #                   'speaker2': speaker[1], 'speaker2_token_number': sum_token[1], 'speaker2_expression_token_number':sum_er_token[1],
+    #                   'speaker2_expression_number':sum_er[1],'speaker2_er_ratio':er_ratio[1],
+    #                   'speaker3': speaker[2], 'speaker3_token_number': sum_token[2], 'speaker3_expression_token_number':sum_er_token[2],
+    #                   'speaker3_expression_number':sum_er[2],'speaker3_er_ratio':er_ratio[2],
+    #                   'total_token_number': total_token_number, 'total_er_token_number' : total_er_token_number, 'av_er_ratio':av_er_ratio,
+    #                   'total_er_number': total_er_number}
+    # if n==4:
+    #     result_dic = {'speaker1': speaker[0], 'speaker1_token_number': sum_token[0], 'speaker1_expression_token_number':sum_er_token[0],
+    #                   'speaker1_expression_number':sum_er[0],'speaker1_er_ratio':er_ratio[0],
+    #                   'speaker2': speaker[1], 'speaker2_token_number': sum_token[1], 'speaker2_expression_token_number':sum_er_token[1],
+    #                   'speaker2_expression_number':sum_er[1],'speaker2_er_ratio':er_ratio[1],
+    #                   'speaker3': speaker[2], 'speaker3_token_number': sum_token[2], 'speaker3_expression_token_number':sum_er_token[2],
+    #                   'speaker3_expression_number':sum_er[2],'speaker3_er_ratio':er_ratio[2],
+    #                   'speaker4': speaker[3], 'speaker4_token_number': sum_token[3], 'speaker4_expression_token_number':sum_er_token[3],
+    #                   'speaker4_expression_number':sum_er[3],'speaker4_er_ratio':er_ratio[3],
+    #                   'total_token_number': total_token_number, 'total_er_token_number' : total_er_token_number, 'av_er_ratio':av_er_ratio,
+    #                   'total_er_number': total_er_number}
+
+
+
 
 
 def number_of_slot_n(speaker_dic,length_u):
@@ -334,21 +349,21 @@ import os
 
 def mkdir(path):
     folder = os.path.exists(path)
-    if not folder:                   #判断是否存在文件夹如果不存在则创建为文件夹
-        os.makedirs(path)            #makedirs 创建文件时如果路径不存在会创建这个路径
+    if not folder:
+        os.makedirs(path)            #makedirs
 
 
 
 
 input_path = input('Enter Input Folder Path:')
 output_path = input('Enter Desired Output Folder Path:')
-
+window_length = input('Enter Desired Window Length:')
 
 files = glob.glob(os.path.join(input_path,'S***.tsv'))
-dl_err_global = [[]for i in range(0,3)]
-dl_lexicon_sum = [[]for j in range(0,3)]
+dl_err_global = [[]for i in range(0,12)]
+dl_lexicon_sum = [[]for j in range(0,12)]
 
-path_sum = [output_path + "/group_size_2", output_path + "/group_size_3", output_path + "/group_size_4"]
+# path_sum = [output_path + "/group_size_2", output_path + "/group_size_3", output_path + "/group_size_4"]
 # for p in path_sum:
 #     mkdir(p)
 
@@ -357,10 +372,11 @@ for f in files:
     df = pd.read_csv(f, sep=r'\t', header=None)
     speakers = extract_speakers_n(df)
 
-    for sp_num in range(2,5):
+    for sp_num in range(2,12):
 
         if len(speakers) == sp_num:
-            mkdir(path_sum[sp_num-2])
+            path2 = output_path + "/group_size_" + str(sp_num)
+            mkdir(path2)
             dialogues_dic = extract_dialogues_dic_n(df,speakers)
             er_dic  = get_er_dic_group(speakers,dialogues_dic)
             utt_number = number_of_total_u(dialogues_dic)
@@ -374,28 +390,29 @@ for f in files:
             err_global = get_er_ratio_in_time_n(speakers,dialogues_dic,er_dic,0,utt_number)
             err_global['file'] = f
             dl_err_global[sp_num-2].append(err_global)
-            err_temporal = get_er_ratio_temporal_n(speakers,dialogues_dic,er_dic,50)
+            err_temporal = get_er_ratio_temporal_n(speakers,dialogues_dic,er_dic,int(window_length))
 
             for fx in err_temporal:
                 fx['file'] = f
 
             dl_s = pd.DataFrame(err_temporal)
-            dl_s.to_csv(os.path.join(path_sum[sp_num-2],f[len(f)-8:len(f)-4] + '_cumulative_err.csv'), index = False)
+            dl_s.to_csv(os.path.join(path2,f[len(f)-8:len(f)-4] + '_cumulative_err.csv'), index = False)
 
             dl_ex_for_each_file = pd.DataFrame(ex_for_each_file)
-            dl_ex_for_each_file.to_csv(os.path.join(path_sum[sp_num-2],f[len(f)-8:len(f)-4] + '_lexicon.csv'), index = False)
+            dl_ex_for_each_file.to_csv(os.path.join(path2,f[len(f)-8:len(f)-4] + '_lexicon.csv'), index = False)
 
-i = 0
-for dl_err_sum in dl_err_global:
-    dl_err_sum_pd = pd.DataFrame(dl_err_sum)
-    dl_err_sum_pd.to_csv(os.path.join(path_sum[i],'err_global_' + str(i+2)+ '_speakers.csv'), index = False)
-    i = i+1
 
-j = 0
-for dl_lexicon in dl_lexicon_sum:
-    dl_lexicon_sum_pd = pd.DataFrame(dl_lexicon)
-    dl_lexicon_sum_pd.to_csv(os.path.join(path_sum[j],'els_' + str(j+2)+ '_speakers.csv'), index = False)
-    j = j+1
+for i in range(0,len(dl_err_global)):
+    if dl_err_global[i]!=[]:
+        dl_err_sum_pd = pd.DataFrame(dl_err_global[i])
+        dl_err_sum_pd.to_csv(os.path.join(output_path + "/group_size_" + str(i+2),'summary_err_global_' + str(i+2)+ '_speakers.csv'), index = False)
+        i = i+1
+
+for j in range(0,len(dl_lexicon_sum)):
+    if dl_lexicon_sum[j]!=[]:
+        dl_lexicon_sum_pd = pd.DataFrame(dl_lexicon_sum[j])
+        dl_lexicon_sum_pd.to_csv(os.path.join(output_path + "/group_size_" + str(j+2),'summary_els_' + str(j+2)+ '_speakers.csv'), index = False)
+        j = j+1
 
 
 
