@@ -338,15 +338,19 @@ def mkdir(path):
         os.makedirs(path)            #makedirs 创建文件时如果路径不存在会创建这个路径
 
 
-path_sum = ["output_files/group_size_2","output_files/group_size_3","output_files/group_size_4"]
-for p in path_sum:
-    mkdir(p)
+
 
 input_path = input('Enter Input Folder Path:')
+output_path = input('Enter Desired Output Folder Path:')
+
 
 files = glob.glob(os.path.join(input_path,'S***.tsv'))
 dl_err_global = [[]for i in range(0,3)]
 dl_lexicon_sum = [[]for j in range(0,3)]
+
+path_sum = [output_path + "/group_size_2", output_path + "/group_size_3", output_path + "/group_size_4"]
+# for p in path_sum:
+#     mkdir(p)
 
 for f in files:
 
@@ -356,6 +360,7 @@ for f in files:
     for sp_num in range(2,5):
 
         if len(speakers) == sp_num:
+            mkdir(path_sum[sp_num-2])
             dialogues_dic = extract_dialogues_dic_n(df,speakers)
             er_dic  = get_er_dic_group(speakers,dialogues_dic)
             utt_number = number_of_total_u(dialogues_dic)
