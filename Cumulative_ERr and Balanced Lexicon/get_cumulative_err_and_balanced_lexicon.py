@@ -3,6 +3,17 @@
 # from get_er_balanced import get_er_dic_group
 # from get_temporal_err import get_er_ratio_in_time_n, get_er_ratio_temporal_n
 # from utt_count import number_of_total_u
+
+from nltk.corpus import stopwords
+stops = set(stopwords.words('english'))
+# print(len(stops))
+filled_p = ['ah','oh','eh','er','erm','mm','mhm','huh','uhu']
+for p in filled_p:
+    stops.add(p)
+# print(stops)
+# print(len(stops))
+
+
 def extract_speakers_n(df1):
     dataC = df1
     speaker = [dataC[0][0]]
@@ -120,12 +131,12 @@ def get_er_one_with_u(x,y, exclude_stops):
 
     return expression_list_1
 
-def get_er_dic(speaker1_dialogue, speaker2_dialogue):
+def get_er_dic(speaker1_dialogue, speaker2_dialogue, exclude_stops):
     expressions = {}
 
     for x,value_x in speaker1_dialogue.items():
         for y,value_y in speaker2_dialogue.items():
-            string = get_er_one_with_u(value_x,value_y, False)
+            string = get_er_one_with_u(value_x,value_y, exclude_stops)
 
             for s in string:
 
@@ -146,7 +157,7 @@ def get_er_dic(speaker1_dialogue, speaker2_dialogue):
     return expressions
 
 
-def get_er_dic_group(speaker, speaker_dic):
+def get_er_dic_group(speaker, speaker_dic,exclude_stops):
     n = len(speaker)
     expression_n = []
     fit_ex_in_dic = [[]*n]
@@ -154,7 +165,7 @@ def get_er_dic_group(speaker, speaker_dic):
 
     for i in range(0,n-1):
         for j in range(i+1, n):
-            ex = get_er_dic(speaker_dic[i],speaker_dic[j])
+            ex = get_er_dic(speaker_dic[i],speaker_dic[j],exclude_stops)
             expression_n.append(ex)
 
     for split_dic in expression_n:
@@ -358,6 +369,13 @@ def mkdir(path):
 input_path = input('Enter Input Folder Path:')
 output_path = input('Enter Desired Output Folder Path:')
 window_length = input('Enter Desired Window Length:')
+input_exclude_stops = input('Whether or not to exclude stopwords (y/n):')
+
+if input_exclude_stops == 'y':
+    para_exclude_stops = True
+else:
+    para_exclude_stops = False
+
 
 files = glob.glob(os.path.join(input_path,'S***.tsv'))
 dl_err_global = [[]for i in range(0,12)]
@@ -378,7 +396,7 @@ for f in files:
             path2 = output_path + "/group_size_" + str(sp_num)
             mkdir(path2)
             dialogues_dic = extract_dialogues_dic_n(df,speakers)
-            er_dic  = get_er_dic_group(speakers,dialogues_dic)
+            er_dic = get_er_dic_group(speakers,dialogues_dic, para_exclude_stops)
             utt_number = number_of_total_u(dialogues_dic)
             ex_for_each_file = []
 
